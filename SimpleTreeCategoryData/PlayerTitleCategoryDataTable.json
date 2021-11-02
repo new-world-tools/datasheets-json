@@ -1,0 +1,308 @@
+[
+    {
+        "MetaAchievementCategoryId": "Special_Achievements",
+        "Parent Category": "",
+        "Index": 1,
+        "Title": "@ui_player_titles_section_label_special"
+    },
+    {
+        "MetaAchievementCategoryId": "Enemies_By_Type",
+        "Parent Category": "",
+        "Index": 2,
+        "Title": "@ui_meta_achievements_enemies_by_type"
+    },
+    {
+        "MetaAchievementCategoryId": "Enemies_By_Name",
+        "Parent Category": "",
+        "Index": 3,
+        "Title": "@ui_meta_achievements_enemies_by_name"
+    },
+    {
+        "MetaAchievementCategoryId": "Invasions_And_Breaches",
+        "Parent Category": "",
+        "Index": 4,
+        "Title": "@ui_meta_achievements_invasions_and_breaches"
+    },
+    {
+        "MetaAchievementCategoryId": "PvE_Kill_Counts",
+        "Parent Category": "",
+        "Index": 5,
+        "Title": "@ui_meta_achievements_kill_counts"
+    },
+    {
+        "MetaAchievementCategoryId": "Gathering",
+        "Parent Category": "",
+        "Index": 6,
+        "Title": "@ui_meta_achievements_gathering"
+    },
+    {
+        "MetaAchievementCategoryId": "Dungeon_Bosses",
+        "Parent Category": "",
+        "Index": 7,
+        "Title": "@ui_meta_achievements_dungeon_bosses"
+    },
+    {
+        "MetaAchievementCategoryId": "Arenas",
+        "Parent Category": "",
+        "Index": 8,
+        "Title": "@ui_meta_achievements_arenas"
+    },
+    {
+        "MetaAchievementCategoryId": "Dungeon_Runs",
+        "Parent Category": "",
+        "Index": 9,
+        "Title": "@ui_meta_achievements_dungeon_runs"
+    },
+    {
+        "MetaAchievementCategoryId": "Factions",
+        "Parent Category": "",
+        "Index": 10,
+        "Title": "@ui_meta_achievements_factions"
+    },
+    {
+        "MetaAchievementCategoryId": "Duels",
+        "Parent Category": "",
+        "Index": 11,
+        "Title": "@ui_meta_achievements_duels"
+    },
+    {
+        "MetaAchievementCategoryId": "Control_Points",
+        "Parent Category": "",
+        "Index": 12,
+        "Title": "@ui_meta_achievements_control_points"
+    },
+    {
+        "MetaAchievementCategoryId": "Wars",
+        "Parent Category": "",
+        "Index": 13,
+        "Title": "@ui_meta_achievements_wars"
+    },
+    {
+        "MetaAchievementCategoryId": "Outpost_Rush",
+        "Parent Category": "",
+        "Index": 14,
+        "Title": "@ui_meta_achievements_outpost_rush"
+    },
+    {
+        "MetaAchievementCategoryId": "PvP_Kill_Counts",
+        "Parent Category": "",
+        "Index": 15,
+        "Title": "@ui_meta_achievements_kill_counts"
+    },
+    {
+        "MetaAchievementCategoryId": "PVP_Territory_Ownership",
+        "Parent Category": "",
+        "Index": 16,
+        "Title": "@ui_player_titles_territory_ownership_label"
+    },
+    {
+        "MetaAchievementCategoryId": "Territory_Stories",
+        "Parent Category": "",
+        "Index": 17,
+        "Title": "@ui_meta_achievements_territory_stories"
+    },
+    {
+        "MetaAchievementCategoryId": "Total_Completed",
+        "Parent Category": "",
+        "Index": 18,
+        "Title": "@ui_meta_achievements_total_completed"
+    },
+    {
+        "MetaAchievementCategoryId": "PvE_Skill_Based",
+        "Parent Category": "",
+        "Index": 19,
+        "Title": "@ui_meta_achievements_pve_skill_based"
+    },
+    {
+        "MetaAchievementCategoryId": "PvE_Support",
+        "Parent Category": "",
+        "Index": 20,
+        "Title": "@ui_meta_achievements_pve_support"
+    },
+    {
+        "MetaAchievementCategoryId": "PvE_By_Territory",
+        "Parent Category": "",
+        "Index": 21,
+        "Title": "@ui_meta_achievements_pve_by_territory"
+    },
+    {
+        "MetaAchievementCategoryId": "PvP_Stir_The_Pot",
+        "Parent Category": "",
+        "Index": 22,
+        "Title": "@ui_meta_achievements_pvp_stir_the_pot"
+    },
+    {
+        "MetaAchievementCategoryId": "PvP_By_Territory",
+        "Parent Category": "",
+        "Index": 23,
+        "Title": "@ui_meta_achievements_pvp_by_territory"
+    },
+    {
+        "MetaAchievementCategoryId": "Missions",
+        "Parent Category": "",
+        "Index": 24,
+        "Title": "@ui_meta_achievements_missions"
+    },
+    {
+        "MetaAchievementCategoryId": "Missions_Total",
+        "Parent Category": "",
+        "Index": 25,
+        "Title": "@ui_meta_achievements_mission_total_count"
+    },
+    {
+        "MetaAchievementCategoryId": "Overall",
+        "Parent Category": "",
+        "Index": 26,
+        "Title": "@ui_meta_achievements_overall"
+    },
+    {
+        "MetaAchievementCategoryId": "Skill_Levels",
+        "Parent Category": "",
+        "Index": 27,
+        "Title": "@ui_meta_achievements_skill_levels"
+    },
+    {
+        "MetaAchievementCategoryId": "Gear_Bonuses",
+        "Parent Category": "",
+        "Index": 28,
+        "Title": "@ui_meta_achievements_gear_bonuses"
+    },
+    {
+        "MetaAchievementCategoryId": "Housing",
+        "Parent Category": "",
+        "Index": 29,
+        "Title": "@ui_meta_achievements_housing"
+    },
+    {
+        "MetaAchievementCategoryId": "Territory_Standing",
+        "Parent Category": "",
+        "Index": 30,
+        "Title": "@ui_meta_achievements_territory_standing"
+    },
+    {
+        "MetaAchievementCategoryId": "Faction_Ranking",
+        "Parent Category": "",
+        "Index": 31,
+        "Title": "@ui_meta_achievements_faction_ranking"
+    },
+    {
+        "MetaAchievementCategoryId": "Weapon_Mastery",
+        "Parent Category": "",
+        "Index": 32,
+        "Title": "@ui_meta_achievements_weapon_mastery"
+    },
+    {
+        "MetaAchievementCategoryId": "Crafting_Count",
+        "Parent Category": "",
+        "Index": 33,
+        "Title": "@ui_meta_achievements_crafting_count"
+    },
+    {
+        "MetaAchievementCategoryId": "Refining_Count",
+        "Parent Category": "",
+        "Index": 34,
+        "Title": "@ui_meta_achievements_refining_count"
+    },
+    {
+        "MetaAchievementCategoryId": "Gather_Count",
+        "Parent Category": "",
+        "Index": 35,
+        "Title": "@ui_meta_achievements_gather_count"
+    },
+    {
+        "MetaAchievementCategoryId": "Named_Item_Crafting",
+        "Parent Category": "",
+        "Index": 36,
+        "Title": "@ui_meta_achievements_named_item_crafting"
+    },
+    {
+        "MetaAchievementCategoryId": "Repairs",
+        "Parent Category": "",
+        "Index": 37,
+        "Title": "@ui_meta_achievements_repairs"
+    },
+    {
+        "MetaAchievementCategoryId": "Instanced_Teamplay",
+        "Parent Category": "",
+        "Index": 38,
+        "Title": "@ui_meta_achievements_instanced_teamplay"
+    },
+    {
+        "MetaAchievementCategoryId": "Lore_Pages",
+        "Parent Category": "",
+        "Index": 39,
+        "Title": "@ui_meta_achievements_lore_pages"
+    },
+    {
+        "MetaAchievementCategoryId": "TotalKills",
+        "Parent Category": "",
+        "Index": 40,
+        "Title": "@ui_player_titles_section_label_totalkills"
+    },
+    {
+        "MetaAchievementCategoryId": "Player_Actions",
+        "Parent Category": "",
+        "Index": 41,
+        "Title": "@ui_meta_achievements_player_actions"
+    },
+    {
+        "MetaAchievementCategoryId": "Camping",
+        "Parent Category": "",
+        "Index": 42,
+        "Title": "@ui_meta_achievements_camping"
+    },
+    {
+        "MetaAchievementCategoryId": "Fishing",
+        "Parent Category": "",
+        "Index": 43,
+        "Title": "@ui_meta_achievements_fishing"
+    },
+    {
+        "MetaAchievementCategoryId": "Looting",
+        "Parent Category": "",
+        "Index": 44,
+        "Title": "@ui_meta_achievements_looting"
+    },
+    {
+        "MetaAchievementCategoryId": "Achievements",
+        "Parent Category": "",
+        "Index": 45,
+        "Title": "@ui_meta_achievements_achievements"
+    },
+    {
+        "MetaAchievementCategoryId": "Titles",
+        "Parent Category": "",
+        "Index": 46,
+        "Title": "@ui_meta_achievements_titles"
+    },
+    {
+        "MetaAchievementCategoryId": "Places_Discovered",
+        "Parent Category": "",
+        "Index": 47,
+        "Title": "@ui_meta_achievements_places_discovered"
+    },
+    {
+        "MetaAchievementCategoryId": "Specific_Named_Places",
+        "Parent Category": "",
+        "Index": 48,
+        "Title": "@ui_meta_achievements_specific_named_places"
+    },
+    {
+        "MetaAchievementCategoryId": "Per_Territory",
+        "Parent Category": "",
+        "Index": 49,
+        "Title": "@ui_meta_achievements_per_territory"
+    },
+    {
+        "MetaAchievementCategoryId": "Hamlets",
+        "Parent Category": "",
+        "Index": 50,
+        "Title": "@ui_meta_achievements_hamlets"
+    },
+    {
+        "MetaAchievementCategoryId": "Test_Titles_Only",
+        "Parent Category": "",
+        "Index": 51,
+        "Title": "@ui_player_titles_section_label_test_only"
+    }
+]

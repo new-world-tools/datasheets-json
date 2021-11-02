@@ -1,0 +1,32 @@
+[
+    {
+        "ActivityCrc": "Duel",
+        "ActivityType": 1,
+        "DurationSec": 10,
+        "Teams": 2,
+        "MinLevel": 10,
+        "MaxLevel": "",
+        "FactionType": "",
+        "MinDistance": "",
+        "MaxDistance": 10,
+        "InSanctuary": false,
+        "InGameMode": false,
+        "InWar": false,
+        "InArena": false
+    },
+    {
+        "ActivityCrc": "Trade",
+        "ActivityType": 2,
+        "DurationSec": 10,
+        "Teams": null,
+        "MinLevel": null,
+        "MaxLevel": "",
+        "FactionType": "",
+        "MinDistance": "",
+        "MaxDistance": 10,
+        "InSanctuary": true,
+        "InGameMode": false,
+        "InWar": false,
+        "InArena": false
+    }
+]

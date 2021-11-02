@@ -1,0 +1,40 @@
+[
+    {
+        "EventID": "7504_0101_devworldbluekillwolfquest_success",
+        "GameEventType": "",
+        "Level": 1,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 75,
+        "CurrencyReward": 1517,
+        "ItemReward": "QuestRewardArmorT2",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 175,
+        "FactionReputation": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "7505_0101_devworldbluegetcavelootquest_success",
+        "GameEventType": "",
+        "Level": 1,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 75,
+        "CurrencyReward": 1517,
+        "ItemReward": "2hWarhammerDropT2",
+        "GearScoreRange": 100,
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 175,
+        "FactionReputation": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 1
+    }
+]

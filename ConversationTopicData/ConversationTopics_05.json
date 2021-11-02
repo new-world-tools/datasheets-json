@@ -1,0 +1,38 @@
+[
+    {
+        "ConversationTopicId": "0401_Watcher_Death",
+        "PlayerPrompt": "@0401_Watcher_Death_Prompt",
+        "NPCResponse": "@0401_Watcher_Death_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0401_Watcher_Corruption",
+        "PlayerPrompt": "@0401_Watcher_Corruption_Prompt",
+        "NPCResponse": "@0401_Watcher_Corruption_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Reekwater_Dungeon_Scylla_Offering",
+        "PlayerPrompt": "@Reekwater_Dungeon_Scylla_01_Prompt",
+        "NPCResponse": "@Reekwater_Dungeon_Scylla_01_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Reekwater_Dungeon_Scylla_Worthy",
+        "PlayerPrompt": "@Reekwater_Dungeon_Scylla_02_Prompt",
+        "NPCResponse": "@Reekwater_Dungeon_Scylla_02_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

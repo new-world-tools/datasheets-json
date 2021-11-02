@@ -1,0 +1,4898 @@
+[
+    {
+        "CategoryID": "WeaponsAmmo",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_weaponsAndArmors",
+        "DisplayText": "@CategoryData_WeaponsAmmo",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Apparel",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_apparel",
+        "DisplayText": "@CategoryData_Apparel",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Utilities",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_utilities",
+        "DisplayText": "@CategoryData_Utilities",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Resources",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_resources",
+        "DisplayText": "@CategoryData_Resources",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Furnishings",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_furnishings",
+        "DisplayText": "@CategoryData_Furnishings",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MeleeWeapons",
+        "ImagePath": "Icons/Items/Drawing/placeholder",
+        "DisplayText": "@CategoryData_MeleeWeapons",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RangedWeapons",
+        "ImagePath": "Icons/Items/Drawing/placeholder",
+        "DisplayText": "@CategoryData_RangedWeapons",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Ingredient",
+        "ImagePath": "Icons/Items/Drawing/placeholder",
+        "DisplayText": "@CategoryData_Ingredient",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set1",
+        "ImagePath": "Icons/items/Drawing/Set1",
+        "DisplayText": "@CategoryData_Set1",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set2",
+        "ImagePath": "Icons/items/Drawing/Set2",
+        "DisplayText": "@CategoryData_Set2",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set3",
+        "ImagePath": "Icons/items/Drawing/Set3",
+        "DisplayText": "@CategoryData_Set3",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set4",
+        "ImagePath": "Icons/items/Drawing/Set4",
+        "DisplayText": "@CategoryData_Set4",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set5",
+        "ImagePath": "Icons/items/Drawing/Set5",
+        "DisplayText": "@CategoryData_Set5",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set6",
+        "ImagePath": "Icons/items/Drawing/Set6",
+        "DisplayText": "@CategoryData_Set6",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set7",
+        "ImagePath": "Icons/items/Drawing/Set7",
+        "DisplayText": "@CategoryData_Set7",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set8",
+        "ImagePath": "Icons/items/Drawing/Set8",
+        "DisplayText": "@CategoryData_Set8",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set9",
+        "ImagePath": "Icons/items/Drawing/Set9",
+        "DisplayText": "@CategoryData_Set9",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set10",
+        "ImagePath": "Icons/items/Drawing/Set10",
+        "DisplayText": "@CategoryData_Set10",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set11",
+        "ImagePath": "Icons/items/Drawing/Set11",
+        "DisplayText": "@CategoryData_Set11",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set12",
+        "ImagePath": "Icons/items/Drawing/Set12",
+        "DisplayText": "@CategoryData_Set12",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Set1Head",
+        "ImagePath": "Icons/items/Drawing/HeavyHeadA",
+        "DisplayText": "@Set1Head_GroupName",
+        "Description": "@Set1Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set1Chest",
+        "ImagePath": "Icons/items/Drawing/HeavyChestA",
+        "DisplayText": "@Set1Chest_GroupName",
+        "Description": "@Set1Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set1Hands",
+        "ImagePath": "Icons/items/Drawing/HeavyHandsA",
+        "DisplayText": "@Set1Hands_GroupName",
+        "Description": "@Set1Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set1Legs",
+        "ImagePath": "Icons/items/Drawing/HeavyLegsA",
+        "DisplayText": "@Set1Legs_GroupName",
+        "Description": "@Set1Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set1Feet",
+        "ImagePath": "Icons/items/Drawing/HeavyFeetA",
+        "DisplayText": "@Set1Feet_GroupName",
+        "Description": "@Set1Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set2Head",
+        "ImagePath": "Icons/items/Drawing/HeavyHeadB",
+        "DisplayText": "@Set2Head_GroupName",
+        "Description": "@Set2Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set2Chest",
+        "ImagePath": "Icons/items/Drawing/HeavyChestB",
+        "DisplayText": "@Set2Chest_GroupName",
+        "Description": "@Set2Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set2Hands",
+        "ImagePath": "Icons/items/Drawing/HeavyHandsB",
+        "DisplayText": "@Set2Hands_GroupName",
+        "Description": "@Set2Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set2Legs",
+        "ImagePath": "Icons/items/Drawing/HeavyLegsB",
+        "DisplayText": "@Set2Legs_GroupName",
+        "Description": "@Set2Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set2Feet",
+        "ImagePath": "Icons/items/Drawing/HeavyFeetB",
+        "DisplayText": "@Set2Feet_GroupName",
+        "Description": "@Set2Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set3Head",
+        "ImagePath": "Icons/items/Drawing/HeavyHeadC",
+        "DisplayText": "@Set3Head_GroupName",
+        "Description": "@Set3Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set3Chest",
+        "ImagePath": "Icons/items/Drawing/HeavyChestC",
+        "DisplayText": "@Set3Chest_GroupName",
+        "Description": "@Set3Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set3Hands",
+        "ImagePath": "Icons/items/Drawing/HeavyHandsC",
+        "DisplayText": "@Set3Hands_GroupName",
+        "Description": "@Set3Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set3Legs",
+        "ImagePath": "Icons/items/Drawing/HeavyLegsC",
+        "DisplayText": "@Set3Legs_GroupName",
+        "Description": "@Set3Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set3Feet",
+        "ImagePath": "Icons/items/Drawing/HeavyFeetC",
+        "DisplayText": "@Set3Feet_GroupName",
+        "Description": "@Set3Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set4Head",
+        "ImagePath": "Icons/items/Drawing/HeavyHeadD",
+        "DisplayText": "@Set4Head_GroupName",
+        "Description": "@Set4Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set4Chest",
+        "ImagePath": "Icons/items/Drawing/HeavyChestD",
+        "DisplayText": "@Set4Chest_GroupName",
+        "Description": "@Set4Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set4Hands",
+        "ImagePath": "Icons/items/Drawing/HeavyHandsD",
+        "DisplayText": "@Set4Hands_GroupName",
+        "Description": "@Set4Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set4Legs",
+        "ImagePath": "Icons/items/Drawing/HeavyLegsD",
+        "DisplayText": "@Set4Legs_GroupName",
+        "Description": "@Set4Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set4Feet",
+        "ImagePath": "Icons/items/Drawing/HeavyFeetD",
+        "DisplayText": "@Set4Feet_GroupName",
+        "Description": "@Set4Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set5Head",
+        "ImagePath": "Icons/items/Drawing/MediumHeadA",
+        "DisplayText": "@Set5Head_GroupName",
+        "Description": "@Set5Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set5Chest",
+        "ImagePath": "Icons/items/Drawing/MediumChestA",
+        "DisplayText": "@Set5Chest_GroupName",
+        "Description": "@Set5Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set5Hands",
+        "ImagePath": "Icons/items/Drawing/MediumHandsA",
+        "DisplayText": "@Set5Hands_GroupName",
+        "Description": "@Set5Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set5Legs",
+        "ImagePath": "Icons/items/Drawing/MediumLegsA",
+        "DisplayText": "@Set5Legs_GroupName",
+        "Description": "@Set5Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set5Feet",
+        "ImagePath": "Icons/items/Drawing/MediumFeetA",
+        "DisplayText": "@Set5Feet_GroupName",
+        "Description": "@Set5Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set6Head",
+        "ImagePath": "Icons/items/Drawing/MediumHeadB",
+        "DisplayText": "@Set6Head_GroupName",
+        "Description": "@Set6Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set6Chest",
+        "ImagePath": "Icons/items/Drawing/MediumChestB",
+        "DisplayText": "@Set6Chest_GroupName",
+        "Description": "@Set6Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set6Hands",
+        "ImagePath": "Icons/items/Drawing/MediumHandsB",
+        "DisplayText": "@Set6Hands_GroupName",
+        "Description": "@Set6Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set6Legs",
+        "ImagePath": "Icons/items/Drawing/MediumLegsB",
+        "DisplayText": "@Set6Legs_GroupName",
+        "Description": "@Set6Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set6Feet",
+        "ImagePath": "Icons/items/Drawing/MediumFeetB",
+        "DisplayText": "@Set6Feet_GroupName",
+        "Description": "@Set6Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set7Head",
+        "ImagePath": "Icons/items/Drawing/MediumHeadC",
+        "DisplayText": "@Set7Head_GroupName",
+        "Description": "@Set7Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set7Chest",
+        "ImagePath": "Icons/items/Drawing/MediumChestC",
+        "DisplayText": "@Set7Chest_GroupName",
+        "Description": "@Set7Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set7Hands",
+        "ImagePath": "Icons/items/Drawing/MediumHandsC",
+        "DisplayText": "@Set7Hands_GroupName",
+        "Description": "@Set7Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set7Legs",
+        "ImagePath": "Icons/items/Drawing/MediumLegsC",
+        "DisplayText": "@Set7Legs_GroupName",
+        "Description": "@Set7Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set7Feet",
+        "ImagePath": "Icons/items/Drawing/MediumFeetC",
+        "DisplayText": "@Set7Feet_GroupName",
+        "Description": "@Set7Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set8Head",
+        "ImagePath": "Icons/items/Drawing/MediumHeadD",
+        "DisplayText": "@Set8Head_GroupName",
+        "Description": "@Set8Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set8Chest",
+        "ImagePath": "Icons/items/Drawing/MediumChestD",
+        "DisplayText": "@Set8Chest_GroupName",
+        "Description": "@Set8Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set8Hands",
+        "ImagePath": "Icons/items/Drawing/MediumHandsD",
+        "DisplayText": "@Set8Hands_GroupName",
+        "Description": "@Set8Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set8Legs",
+        "ImagePath": "Icons/items/Drawing/MediumLegsD",
+        "DisplayText": "@Set8Legs_GroupName",
+        "Description": "@Set8Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set8Feet",
+        "ImagePath": "Icons/items/Drawing/MediumFeetD",
+        "DisplayText": "@Set8Feet_GroupName",
+        "Description": "@Set8Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set9Head",
+        "ImagePath": "Icons/items/Drawing/LightHeadA",
+        "DisplayText": "@Set9Head_GroupName",
+        "Description": "@Set9Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set9Chest",
+        "ImagePath": "Icons/items/Drawing/LightChestA",
+        "DisplayText": "@Set9Chest_GroupName",
+        "Description": "@Set9Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set9Hands",
+        "ImagePath": "Icons/items/Drawing/LightHandsA",
+        "DisplayText": "@Set9Hands_GroupName",
+        "Description": "@Set9Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set9Legs",
+        "ImagePath": "Icons/items/Drawing/LightLegsA",
+        "DisplayText": "@Set9Legs_GroupName",
+        "Description": "@Set9Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set9Feet",
+        "ImagePath": "Icons/items/Drawing/LightFeetA",
+        "DisplayText": "@Set9Feet_GroupName",
+        "Description": "@Set9Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set10Head",
+        "ImagePath": "Icons/items/Drawing/LightHeadB",
+        "DisplayText": "@Set10Head_GroupName",
+        "Description": "@Set10Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set10Chest",
+        "ImagePath": "Icons/items/Drawing/LightChestB",
+        "DisplayText": "@Set10Chest_GroupName",
+        "Description": "@Set10Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set10Hands",
+        "ImagePath": "Icons/items/Drawing/LightHandsB",
+        "DisplayText": "@Set10Hands_GroupName",
+        "Description": "@Set10Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set10Legs",
+        "ImagePath": "Icons/items/Drawing/LightLegsB",
+        "DisplayText": "@Set10Legs_GroupName",
+        "Description": "@Set10Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set10Feet",
+        "ImagePath": "Icons/items/Drawing/LightFeetB",
+        "DisplayText": "@Set10Feet_GroupName",
+        "Description": "@Set10Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set11Head",
+        "ImagePath": "Icons/items/Drawing/LightHeadC",
+        "DisplayText": "@Set11Head_GroupName",
+        "Description": "@Set11Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set11Chest",
+        "ImagePath": "Icons/items/Drawing/LightChestC",
+        "DisplayText": "@Set11Chest_GroupName",
+        "Description": "@Set11Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set11Hands",
+        "ImagePath": "Icons/items/Drawing/LightHandsC",
+        "DisplayText": "@Set11Hands_GroupName",
+        "Description": "@Set11Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set11Legs",
+        "ImagePath": "Icons/items/Drawing/LightLegsC",
+        "DisplayText": "@Set11Legs_GroupName",
+        "Description": "@Set11Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set11Feet",
+        "ImagePath": "Icons/items/Drawing/LightFeetC",
+        "DisplayText": "@Set11Feet_GroupName",
+        "Description": "@Set11Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "Set12Head",
+        "ImagePath": "Icons/items/Drawing/LightHeadD",
+        "DisplayText": "@Set12Head_GroupName",
+        "Description": "@Set12Head_GroupDesc"
+    },
+    {
+        "CategoryID": "Set12Chest",
+        "ImagePath": "Icons/items/Drawing/LightChestD",
+        "DisplayText": "@Set12Chest_GroupName",
+        "Description": "@Set12Chest_GroupDesc"
+    },
+    {
+        "CategoryID": "Set12Hands",
+        "ImagePath": "Icons/items/Drawing/LightHandsD",
+        "DisplayText": "@Set12Hands_GroupName",
+        "Description": "@Set12Hands_GroupDesc"
+    },
+    {
+        "CategoryID": "Set12Legs",
+        "ImagePath": "Icons/items/Drawing/LightLegsD",
+        "DisplayText": "@Set12Legs_GroupName",
+        "Description": "@Set12Legs_GroupDesc"
+    },
+    {
+        "CategoryID": "Set12Feet",
+        "ImagePath": "Icons/items/Drawing/LightFeetD",
+        "DisplayText": "@Set12Feet_GroupName",
+        "Description": "@Set12Feet_GroupDesc"
+    },
+    {
+        "CategoryID": "TrinketA",
+        "ImagePath": "Icons/items/Drawing/trinketA",
+        "DisplayText": "@TrinketA_GroupName",
+        "Description": "@TrinketAT2_Description"
+    },
+    {
+        "CategoryID": "TrinketB",
+        "ImagePath": "Icons/items/Drawing/trinketB",
+        "DisplayText": "@TrinketB_GroupName",
+        "Description": "@TrinketBT2_Description"
+    },
+    {
+        "CategoryID": "TrinketC",
+        "ImagePath": "Icons/items/Drawing/trinketC",
+        "DisplayText": "@TrinketC_GroupName",
+        "Description": "@TrinketCT2_Description"
+    },
+    {
+        "CategoryID": "TrinketD",
+        "ImagePath": "Icons/items/Drawing/trinketD",
+        "DisplayText": "@TrinketD_GroupName",
+        "Description": "@TrinketDT2_Description"
+    },
+    {
+        "CategoryID": "TrinketE",
+        "ImagePath": "Icons/items/Drawing/trinketE",
+        "DisplayText": "@TrinketE_GroupName",
+        "Description": "@TrinketET2_Description"
+    },
+    {
+        "CategoryID": "TrinketF",
+        "ImagePath": "Icons/items/Drawing/trinketF",
+        "DisplayText": "@TrinketF_GroupName",
+        "Description": "@TrinketFT2_Description"
+    },
+    {
+        "CategoryID": "TrinketG",
+        "ImagePath": "Icons/items/Drawing/trinketG",
+        "DisplayText": "@TrinketG_GroupName",
+        "Description": "@TrinketGT2_Description"
+    },
+    {
+        "CategoryID": "TrinketH",
+        "ImagePath": "Icons/items/Drawing/trinketH",
+        "DisplayText": "@TrinketH_GroupName",
+        "Description": "@TrinketHT2_Description"
+    },
+    {
+        "CategoryID": "TrinketI",
+        "ImagePath": "Icons/items/Drawing/trinketI",
+        "DisplayText": "@TrinketI_GroupName",
+        "Description": "@TrinketIT2_Description"
+    },
+    {
+        "CategoryID": "TrinketJ",
+        "ImagePath": "Icons/items/Drawing/trinketJ",
+        "DisplayText": "@TrinketJ_GroupName",
+        "Description": "@TrinketJT2_Description"
+    },
+    {
+        "CategoryID": "TrinketK",
+        "ImagePath": "Icons/items/Drawing/trinketK",
+        "DisplayText": "@TrinketK_GroupName",
+        "Description": "@TrinketKT2_Description"
+    },
+    {
+        "CategoryID": "TrinketL",
+        "ImagePath": "Icons/items/Drawing/trinketL",
+        "DisplayText": "@TrinketL_GroupName",
+        "Description": "@TrinketLT2_Description"
+    },
+    {
+        "CategoryID": "TrinketM",
+        "ImagePath": "Icons/items/Drawing/trinketM",
+        "DisplayText": "@TrinketM_GroupName",
+        "Description": "@TrinketMT2_Description"
+    },
+    {
+        "CategoryID": "TrinketN",
+        "ImagePath": "Icons/items/Drawing/trinketN",
+        "DisplayText": "@TrinketN_GroupName",
+        "Description": "@TrinketNT2_Description"
+    },
+    {
+        "CategoryID": "TrinketO",
+        "ImagePath": "Icons/items/Drawing/trinketO",
+        "DisplayText": "@TrinketO_GroupName",
+        "Description": "@TrinketOT2_Description"
+    },
+    {
+        "CategoryID": "TrinketP",
+        "ImagePath": "Icons/items/Drawing/trinketP",
+        "DisplayText": "@TrinketP_GroupName",
+        "Description": "@TrinketPT2_Description"
+    },
+    {
+        "CategoryID": "TrinketQ",
+        "ImagePath": "Icons/items/Drawing/trinketQ",
+        "DisplayText": "@TrinketQ_GroupName",
+        "Description": "@TrinketQT2_Description"
+    },
+    {
+        "CategoryID": "TrinketR",
+        "ImagePath": "Icons/items/Drawing/trinketL",
+        "DisplayText": "@TrinketR_GroupName",
+        "Description": "@TrinketRT2_Description"
+    },
+    {
+        "CategoryID": "BagA",
+        "ImagePath": "Icons/Items/Drawing/bagA",
+        "DisplayText": "@BagA_GroupName",
+        "Description": "@BagA_GroupDesc"
+    },
+    {
+        "CategoryID": "BagB",
+        "ImagePath": "Icons/Items/Drawing/bagB",
+        "DisplayText": "@BagB_GroupName",
+        "Description": "@BagB_GroupDesc"
+    },
+    {
+        "CategoryID": "ToolHatchet",
+        "ImagePath": "Icons/Items/Drawing/ToolHatchet",
+        "DisplayText": "@ToolHatchet_GroupName",
+        "Description": "@ToolHatchet_GroupDesc"
+    },
+    {
+        "CategoryID": "HatchetA",
+        "ImagePath": "Icons/Items/Drawing/1hHatchet",
+        "DisplayText": "@HatchetA_GroupName",
+        "Description": "@1hHatchet_GroupDesc"
+    },
+    {
+        "CategoryID": "Knife",
+        "ImagePath": "Icons/Items/Drawing/1hSkinningKnife",
+        "DisplayText": "@Knife_GroupName",
+        "Description": "@1hSkinningKnife_GroupDesc"
+    },
+    {
+        "CategoryID": "Sickle",
+        "ImagePath": "Icons/Items/Drawing/1hSickle",
+        "DisplayText": "@Sickle_GroupName",
+        "Description": "@1hSickle_GroupDesc"
+    },
+    {
+        "CategoryID": "2hAxe",
+        "ImagePath": "Icons/Items/Drawing/2hAxe",
+        "DisplayText": "@2hAxe_GroupName",
+        "Description": "@2hAxe_GroupDesc"
+    },
+    {
+        "CategoryID": "1hPick",
+        "ImagePath": "Icons/Items/Drawing/1hPick",
+        "DisplayText": "@1hPick_GroupName",
+        "Description": "@1hPick_GroupDesc"
+    },
+    {
+        "CategoryID": "2hPick",
+        "ImagePath": "Icons/Items/Drawing/2hPick",
+        "DisplayText": "@2hPick_GroupName",
+        "Description": "@2hPick_GroupDesc"
+    },
+    {
+        "CategoryID": "SwordA",
+        "ImagePath": "Icons/Items/Drawing/1hSword",
+        "DisplayText": "@SwordA_GroupName",
+        "Description": "@SwordA_GroupDesc"
+    },
+    {
+        "CategoryID": "SwordB",
+        "ImagePath": "Icons/Items/Drawing/1hRapier",
+        "DisplayText": "@SwordB_GroupName",
+        "Description": "@SwordB_GroupDesc"
+    },
+    {
+        "CategoryID": "SwordC",
+        "ImagePath": "Icons/Items/Drawing/1hSwordC",
+        "DisplayText": "@SwordC_GroupName",
+        "Description": "@SwordC_GroupDesc"
+    },
+    {
+        "CategoryID": "SwordD",
+        "ImagePath": "Icons/Items/Drawing/1hSwordD",
+        "DisplayText": "@SwordD_GroupName",
+        "Description": "@SwordD_GroupDesc"
+    },
+    {
+        "CategoryID": "GreatAxe",
+        "ImagePath": "Icons/Items/Drawing/2hGreatAxe",
+        "DisplayText": "@GreatAxe_GroupName",
+        "Description": "@Greataxe_GroupDesc"
+    },
+    {
+        "CategoryID": "1hClub",
+        "ImagePath": "Icons/Items/Drawing/1hClub",
+        "DisplayText": "@1hClub_GroupName",
+        "Description": "@1hClub_GroupDesc"
+    },
+    {
+        "CategoryID": "2hClub",
+        "ImagePath": "Icons/Items/Drawing/2hClub",
+        "DisplayText": "@2hClub_GroupName",
+        "Description": "@2hClub_GroupDesc"
+    },
+    {
+        "CategoryID": "SpearA",
+        "ImagePath": "Icons/Items/Drawing/bowA",
+        "DisplayText": "@SpearA_GroupName",
+        "Description": "@SpearA_GroupDesc"
+    },
+    {
+        "CategoryID": "SpearB",
+        "ImagePath": "Icons/Items/Drawing/spearB",
+        "DisplayText": "@SpearB_GroupName",
+        "Description": "@SpearB_GroupDesc"
+    },
+    {
+        "CategoryID": "BowA",
+        "ImagePath": "Icons/Items/Drawing/bowA",
+        "DisplayText": "@BowA_GroupName",
+        "Description": "@BowA_GroupDesc"
+    },
+    {
+        "CategoryID": "BowB",
+        "ImagePath": "Icons/Items/Drawing/bowB",
+        "DisplayText": "@BowB_GroupName",
+        "Description": "@BowB_GroupDesc"
+    },
+    {
+        "CategoryID": "MusketA",
+        "ImagePath": "Icons/Items/Drawing/2hMusketA",
+        "DisplayText": "@MusketA_GroupName",
+        "Description": "@MusketA_GroupDesc"
+    },
+    {
+        "CategoryID": "PistolA",
+        "ImagePath": "Icons/Items/Drawing/1hPistol",
+        "DisplayText": "@PistolA_GroupName",
+        "Description": "@PistolA_GroupDesc"
+    },
+    {
+        "CategoryID": "ShieldA",
+        "ImagePath": "Icons/Items/Drawing/1hShieldA",
+        "DisplayText": "@ShieldA_GroupName",
+        "Description": "@ShieldA_GroupDesc"
+    },
+    {
+        "CategoryID": "ShieldB",
+        "ImagePath": "Icons/Items/Drawing/1hShieldB",
+        "DisplayText": "@ShieldB_GroupName",
+        "Description": "@ShieldB_GroupDesc"
+    },
+    {
+        "CategoryID": "ShieldC",
+        "ImagePath": "Icons/Items/Drawing/1hShieldC",
+        "DisplayText": "@ShieldC_GroupName",
+        "Description": "@ShieldC_GroupDesc"
+    },
+    {
+        "CategoryID": "ShieldD",
+        "ImagePath": "Icons/Items/Drawing/1hShieldD",
+        "DisplayText": "@ShieldD_GroupName",
+        "Description": "@ShieldD_GroupDesc"
+    },
+    {
+        "CategoryID": "ArrowA",
+        "ImagePath": "Icons/Items/Drawing/arrowA",
+        "DisplayText": "@ArrowA_GroupName",
+        "Description": "@ArrowA_GroupDesc"
+    },
+    {
+        "CategoryID": "ArrowB",
+        "ImagePath": "Icons/Items/Drawing/arrowB",
+        "DisplayText": "@ArrowB_GroupName",
+        "Description": "@ArrowB_GroupDesc"
+    },
+    {
+        "CategoryID": "BulletA",
+        "ImagePath": "Icons/Items/Drawing/shot",
+        "DisplayText": "@BulletA_GroupName",
+        "Description": "@BulletA_GroupDesc"
+    },
+    {
+        "CategoryID": "Ammunition",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_resources",
+        "DisplayText": "@CategoryData_Ammunition",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FishingPole",
+        "ImagePath": "Icons/Items/Drawing/2hFishingPole",
+        "DisplayText": "@FishingPole_GroupName",
+        "Description": "@FishingPole_GroupDesc"
+    },
+    {
+        "CategoryID": "2hDemoHammer",
+        "ImagePath": "Icons/Items/Drawing/2hDemoHammer",
+        "DisplayText": "@SiegeHammer_GroupName",
+        "Description": "@2hDemoHammer_GroupDesc"
+    },
+    {
+        "CategoryID": "Warhammer",
+        "ImagePath": "Icons/Items/Drawing/2hDemoHammer",
+        "DisplayText": "@Warhammer_GroupName",
+        "Description": "@Warhammer_GroupDesc"
+    },
+    {
+        "CategoryID": "Imbue",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_Imbue",
+        "Description": "@CategoryData_ImbueDesc"
+    },
+    {
+        "CategoryID": "Potion",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_Potion",
+        "Description": "@CategoryData_PotionDesc"
+    },
+    {
+        "CategoryID": "Gauntlets",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_Gauntlets",
+        "Description": "@CategoryData_GauntletsDesc"
+    },
+    {
+        "CategoryID": "Meal",
+        "ImagePath": "items/meal1t2",
+        "DisplayText": "@CategoryData_Meal",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Drink",
+        "ImagePath": "items/drink1t2",
+        "DisplayText": "@CategoryData_Drink",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Feast",
+        "ImagePath": "items/feast1t5",
+        "DisplayText": "",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Shields",
+        "ImagePath": "Icons/Items/Drawing/placeholder",
+        "DisplayText": "@CategoryData_Shields",
+        "Description": ""
+    },
+    {
+        "CategoryID": "WearableTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@CategoryData_WearableTrinkets",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CoreTrinkets",
+        "ImagePath": "items/TrinketAt2",
+        "DisplayText": "@CategoryData_CoreTrinkets",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RefinedMaterial",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_RefinedMaterial",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GatheringTools",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_GatheringTools",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SiegeTools",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_SiegeTools",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PotionHealth",
+        "ImagePath": "Icons/Items/Drawing/potionHealth",
+        "DisplayText": "@PotionHealth_GroupName",
+        "Description": "@PotionHealth_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionHealthB",
+        "ImagePath": "Icons/Items/Drawing/potionHealth",
+        "DisplayText": "@PotionHealthB_GroupName",
+        "Description": "@PotionHealthB_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionMana",
+        "ImagePath": "Icons/Items/Drawing/potionMana",
+        "DisplayText": "@PotionMana_GroupName",
+        "Description": "@PotionMana_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionPurify",
+        "ImagePath": "Icons/Items/Drawing/potionPurify",
+        "DisplayText": "@PotionPurify_GroupName",
+        "Description": "@PotionPurify_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionPurifyB",
+        "ImagePath": "Icons/Items/Drawing/potionPurify",
+        "DisplayText": "@PotionPurifyB_GroupName",
+        "Description": "@PotionPurify_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionAntidote",
+        "ImagePath": "Icons/Items/Drawing/potionAntidote",
+        "DisplayText": "@PotionAntidote_GroupName",
+        "Description": "@PotionAntidote_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionAntidoteB",
+        "ImagePath": "Icons/Items/Drawing/potionAntidote",
+        "DisplayText": "@PotionAntidoteB_GroupName",
+        "Description": "@PotionAntidote_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionWellness",
+        "ImagePath": "Icons/Items/Drawing/potionWellness",
+        "DisplayText": "@PotionWellness_GroupName",
+        "Description": "@PotionWellness_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionWellnessB",
+        "ImagePath": "Icons/Items/Drawing/potionWellness",
+        "DisplayText": "@PotionWellnessB_GroupName",
+        "Description": "@PotionWellness_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionClotting",
+        "ImagePath": "Icons/Items/Drawing/potionClotting",
+        "DisplayText": "@PotionClotting_GroupName",
+        "Description": "@PotionClotting_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionWarming",
+        "ImagePath": "Icons/Items/Drawing/potionWarming",
+        "DisplayText": "@PotionWarming_GroupName",
+        "Description": "@PotionWarming_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionWarmingB",
+        "ImagePath": "Icons/Items/Drawing/potionWarming",
+        "DisplayText": "@PotionWarmingB_GroupName",
+        "Description": "@PotionWarming_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionRegen",
+        "ImagePath": "Icons/Items/Drawing/potionRegen",
+        "DisplayText": "@PotionRegen_GroupName",
+        "Description": "@PotionRegen_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionEndurance",
+        "ImagePath": "Icons/Items/Drawing/potionEndurance",
+        "DisplayText": "@PotionEndurance_GroupName",
+        "Description": "@PotionEndurance_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionFocus",
+        "ImagePath": "Icons/Items/Drawing/potionFocus",
+        "DisplayText": "@PotionFocus_GroupName",
+        "Description": "@PotionFocus_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionStalwart",
+        "ImagePath": "Icons/Items/Drawing/potionStalwart",
+        "DisplayText": "@PotionStalwart_GroupName",
+        "Description": "@PotionStalwart_GroupDesc"
+    },
+    {
+        "CategoryID": "PotionEncumbrance",
+        "ImagePath": "Icons/Items/Drawing/potionEncumbrance",
+        "DisplayText": "@PotionEncumbrance_GroupName",
+        "Description": "@PotionEncumbrance_GroupDesc"
+    },
+    {
+        "CategoryID": "ImbueFire",
+        "ImagePath": "Icons/Items/Drawing/imbueFire",
+        "DisplayText": "@ImbueFire_GroupName",
+        "Description": "@ImbueFire_GroupDesc"
+    },
+    {
+        "CategoryID": "ImbueFireB",
+        "ImagePath": "Icons/Items/Drawing/imbueFire",
+        "DisplayText": "@ImbueFireB_GroupName",
+        "Description": "@ImbueFire_GroupDesc"
+    },
+    {
+        "CategoryID": "ImbuePoison",
+        "ImagePath": "Icons/Items/Drawing/imbuePoison",
+        "DisplayText": "@ImbuePoison_GroupName",
+        "Description": "@ImbuePoison_GroupDesc"
+    },
+    {
+        "CategoryID": "ImbuePoisonB",
+        "ImagePath": "Icons/Items/Drawing/imbuePoison",
+        "DisplayText": "@ImbuePoisonB_GroupName",
+        "Description": "@ImbuePoison_GroupDesc"
+    },
+    {
+        "CategoryID": "ImbueBleed",
+        "ImagePath": "Icons/Items/Drawing/imbueBleed",
+        "DisplayText": "@ImbueBleed_GroupName",
+        "Description": "@ImbueBleed_GroupDesc"
+    },
+    {
+        "CategoryID": "ImbueHoly",
+        "ImagePath": "Icons/Items/Drawing/imbueHoly",
+        "DisplayText": "@ImbueHoly_GroupName",
+        "Description": "@ImbueHoly_GroupDesc"
+    },
+    {
+        "CategoryID": "ImbueFrostbite",
+        "ImagePath": "Icons/Items/Drawing/imbueFrostbite",
+        "DisplayText": "@ImbueFrostbite_GroupName",
+        "Description": "@ImbueFrostbite_GroupDesc"
+    },
+    {
+        "CategoryID": "ImbueLightning",
+        "ImagePath": "Icons/Items/Drawing/imbueLightning",
+        "DisplayText": "@ImbueLightning_GroupName",
+        "Description": "@ImbueLightning_GroupDesc"
+    },
+    {
+        "CategoryID": "ImbueCorruption",
+        "ImagePath": "Icons/Items/Drawing/imbueCorruption",
+        "DisplayText": "@ImbueCorruption_GroupName",
+        "Description": "@ImbueCorruption_GroupDesc"
+    },
+    {
+        "CategoryID": "Meat",
+        "ImagePath": "Icons/Items/Drawing/meatCooked",
+        "DisplayText": "@MeatCooked_GroupName",
+        "Description": "@MeatCooked_GroupDesc"
+    },
+    {
+        "CategoryID": "Fruit",
+        "ImagePath": "Icons/Items/Drawing/fruitCooked",
+        "DisplayText": "@FruitCooked_GroupName",
+        "Description": "@FruitCooked_GroupDesc"
+    },
+    {
+        "CategoryID": "Vegetable",
+        "ImagePath": "Icons/Items/Drawing/vegetableCooked",
+        "DisplayText": "@VegetableCooked_GroupName",
+        "Description": "@VegetableCooked_GroupDesc"
+    },
+    {
+        "CategoryID": "Grain",
+        "ImagePath": "Icons/Items/Drawing/grainCooked",
+        "DisplayText": "@GrainCooked_GroupName",
+        "Description": "@GrainCooked_GroupDesc"
+    },
+    {
+        "CategoryID": "Meal1",
+        "ImagePath": "Icons/Items/Drawing/meal1",
+        "DisplayText": "@Meal1_GroupName",
+        "Description": "@Meal1_GroupDesc"
+    },
+    {
+        "CategoryID": "Meal2",
+        "ImagePath": "Icons/Items/Drawing/meal2",
+        "DisplayText": "@Meal2_GroupName",
+        "Description": "@Meal2_GroupDesc"
+    },
+    {
+        "CategoryID": "Meal3",
+        "ImagePath": "Icons/Items/Drawing/meal3",
+        "DisplayText": "@Meal3_GroupName",
+        "Description": "@Meal3_GroupDesc"
+    },
+    {
+        "CategoryID": "Meal4",
+        "ImagePath": "Icons/Items/Drawing/meal4",
+        "DisplayText": "@Meal4_GroupName",
+        "Description": "@Meal4_GroupDesc"
+    },
+    {
+        "CategoryID": "Meal5",
+        "ImagePath": "Icons/Items/Drawing/meal5",
+        "DisplayText": "@Meal5_GroupName",
+        "Description": "@Meal5_GroupDesc"
+    },
+    {
+        "CategoryID": "Meal5B",
+        "ImagePath": "Icons/Items/Drawing/meal5",
+        "DisplayText": "@Meal5_GroupName",
+        "Description": "@Meal5_GroupDesc"
+    },
+    {
+        "CategoryID": "Meal6",
+        "ImagePath": "Icons/Items/Drawing/meal6",
+        "DisplayText": "@Meal6_GroupName",
+        "Description": "@Meal6_GroupDesc"
+    },
+    {
+        "CategoryID": "Meal7",
+        "ImagePath": "Icons/Items/Drawing/meal7",
+        "DisplayText": "@Meal7_GroupName",
+        "Description": "@Meal7_GroupDesc"
+    },
+    {
+        "CategoryID": "Meal8",
+        "ImagePath": "Icons/Items/Drawing/meal8",
+        "DisplayText": "@Meal8_GroupName",
+        "Description": "@Meal8_GroupDesc"
+    },
+    {
+        "CategoryID": "Meal9",
+        "ImagePath": "Icons/Items/Drawing/meal9",
+        "DisplayText": "@Meal9_GroupName",
+        "Description": "@Meal9_GroupDesc"
+    },
+    {
+        "CategoryID": "Drink1",
+        "ImagePath": "Icons/Items/Drawing/drink1",
+        "DisplayText": "@Drink1_GroupName",
+        "Description": "@Drink1_GroupDesc"
+    },
+    {
+        "CategoryID": "Drink1B",
+        "ImagePath": "Icons/Items/Drawing/drink1",
+        "DisplayText": "@Drink1_GroupName",
+        "Description": "@Drink1_GroupDesc"
+    },
+    {
+        "CategoryID": "Drink2",
+        "ImagePath": "Icons/Items/Drawing/drink2",
+        "DisplayText": "@Drink2_GroupName",
+        "Description": "@Drink2_GroupDesc"
+    },
+    {
+        "CategoryID": "Drink3",
+        "ImagePath": "Icons/Items/Drawing/drink3",
+        "DisplayText": "@Drink3_GroupName",
+        "Description": "@Drink3_GroupDesc"
+    },
+    {
+        "CategoryID": "Drink4",
+        "ImagePath": "Icons/Items/Drawing/drink4",
+        "DisplayText": "@Drink4_GroupName",
+        "Description": "@Drink4_GroupDesc"
+    },
+    {
+        "CategoryID": "Drink5",
+        "ImagePath": "Icons/Items/Drawing/drink5",
+        "DisplayText": "@Drink5_GroupName",
+        "Description": "@Drink5_GroupDesc"
+    },
+    {
+        "CategoryID": "Drink6",
+        "ImagePath": "Icons/Items/Drawing/drink6",
+        "DisplayText": "@Drink6_GroupName",
+        "Description": "@Drink6_GroupDesc"
+    },
+    {
+        "CategoryID": "Feast1",
+        "ImagePath": "Icons/Items/Drawing/feast1",
+        "DisplayText": "@Feast1_GroupName",
+        "Description": "@Feast1_GroupDesc"
+    },
+    {
+        "CategoryID": "Feast2",
+        "ImagePath": "Icons/Items/Drawing/feast2",
+        "DisplayText": "@Feast2_GroupName",
+        "Description": "@Feast2_GroupDesc"
+    },
+    {
+        "CategoryID": "Feast3",
+        "ImagePath": "Icons/Items/Drawing/feast3",
+        "DisplayText": "@Feast3_GroupName",
+        "Description": "@Feast3_GroupDesc"
+    },
+    {
+        "CategoryID": "RefinedStone",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_resources",
+        "DisplayText": "@CategoryData_Block",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Block",
+        "ImagePath": "Icons/Items/Drawing/block",
+        "DisplayText": "@Block_GroupName",
+        "Description": "@Block_GroupDesc"
+    },
+    {
+        "CategoryID": "Timber",
+        "ImagePath": "Icons/Items/Drawing/timber",
+        "DisplayText": "@CategoryData_Timber",
+        "Description": "@Timber_GroupDesc"
+    },
+    {
+        "CategoryID": "BasicCooking",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_BasicCooking",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Bandage",
+        "ImagePath": "Icons/Items/Drawing/potionCurative",
+        "DisplayText": "@Bandage_GroupName",
+        "Description": "@Bandage_GroupDesc"
+    },
+    {
+        "CategoryID": "Tincture",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_Tincture",
+        "Description": "@CategoryData_TinctureDesc"
+    },
+    {
+        "CategoryID": "Gunpowder",
+        "ImagePath": "Icons/Items/Drawing/gunpowder",
+        "DisplayText": "@Gunpowder_GroupName",
+        "Description": "@Gunpowder_GroupDesc"
+    },
+    {
+        "CategoryID": "DefenseTrinkets",
+        "ImagePath": "items/TrinketAt2",
+        "DisplayText": "@CategoryData_DefenseTrinkets",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MealsPhysicalCombat",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_MealsPhysicalCombat",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MealsAffliction",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_MealsAffliction",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MealsFeasts",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_MealsFeasts",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MealsRegeneration",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_MealsRegeneration",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MealsAbsorption",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_MealsAbsorption",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CelestialGauntlet",
+        "ImagePath": "Icons/Items/Drawing/celestialGauntlet_square",
+        "DisplayText": "@CelestialGauntlet_GroupName",
+        "Description": "@CelestialGauntlet_GroupDesc"
+    },
+    {
+        "CategoryID": "CampWeapons",
+        "ImagePath": "",
+        "DisplayText": "@CampWeapons_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CampAlchemy",
+        "ImagePath": "",
+        "DisplayText": "@CampAlchemy_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CampRecovery",
+        "ImagePath": "Icons/Items/Drawing/potionHealth",
+        "DisplayText": "@CampRecovery_GroupName",
+        "Description": "@CampRecovery_GroupDesc"
+    },
+    {
+        "CategoryID": "CampCoatings",
+        "ImagePath": "Icons/Items/Drawing/imbueHoly",
+        "DisplayText": "@CampCoatings_GroupName",
+        "Description": "@CampCoatings_GroupDesc"
+    },
+    {
+        "CategoryID": "WaterSkin",
+        "ImagePath": "Icons/Items/Drawing/waterskin",
+        "DisplayText": "@WaterSkin_GroupName",
+        "Description": "@WaterSkin_GroupDesc"
+    },
+    {
+        "CategoryID": "BoostFireAbs",
+        "ImagePath": "Icons/Items/Drawing/boostFireAbs",
+        "DisplayText": "@BoostFireAbs_GroupName",
+        "Description": "@BoostFireAbs_GroupDesc"
+    },
+    {
+        "CategoryID": "BoostMagicAbs",
+        "ImagePath": "Icons/Items/Drawing/boostMagicAbs",
+        "DisplayText": "@BoostMagicAbs_GroupName",
+        "Description": "@BoostMagicAbs_GroupDesc"
+    },
+    {
+        "CategoryID": "BoostLightningAbs",
+        "ImagePath": "Icons/Items/Drawing/boostLightningAbs",
+        "DisplayText": "@BoostLightningAbs_GroupName",
+        "Description": "@BoostLightningAbs_GroupDesc"
+    },
+    {
+        "CategoryID": "BoostVoidAbs",
+        "ImagePath": "Icons/Items/Drawing/boostVoidAbs",
+        "DisplayText": "@BoostVoidAbs_GroupName",
+        "Description": "@BoostVoidAbs_GroupDesc"
+    },
+    {
+        "CategoryID": "CureState",
+        "ImagePath": "Icons/Items/Drawing/potionRestorative",
+        "DisplayText": "@CureState_GroupName",
+        "Description": "@CureState_GroupDesc"
+    },
+    {
+        "CategoryID": "Crafting",
+        "ImagePath": "",
+        "DisplayText": "@ui_buildmode_crafting",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Refining",
+        "ImagePath": "",
+        "DisplayText": "@ui_buildmode_refining",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Production",
+        "ImagePath": "",
+        "DisplayText": "@ui_buildmode_production",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Dwelling",
+        "ImagePath": "",
+        "DisplayText": "@ui_buildmode_dwelling",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Storage",
+        "ImagePath": "",
+        "DisplayText": "@ui_buildmode_storage",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DefenseFood",
+        "ImagePath": "",
+        "DisplayText": "@DefenseFood_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RecoveryFood",
+        "ImagePath": "",
+        "DisplayText": "@RecoveryFood_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CraftingFood",
+        "ImagePath": "",
+        "DisplayText": "@CraftingFood_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GatheringFood",
+        "ImagePath": "",
+        "DisplayText": "@GatheringFood_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodCorrupted",
+        "ImagePath": "Icons/Items/Drawing/FoodCorrupted",
+        "DisplayText": "@FoodCorrupted_GroupName",
+        "Description": "@FoodCorrupted_GroupDesc"
+    },
+    {
+        "CategoryID": "FoodLost",
+        "ImagePath": "Icons/Items/Drawing/FoodLost",
+        "DisplayText": "@FoodLost_GroupName",
+        "Description": "@FoodLost_GroupDesc"
+    },
+    {
+        "CategoryID": "FoodAngryEarth",
+        "ImagePath": "Icons/Items/Drawing/FoodAngryEarth",
+        "DisplayText": "@FoodAngryEarth_GroupName",
+        "Description": "@FoodAngryEarth_GroupDesc"
+    },
+    {
+        "CategoryID": "FoodBeast",
+        "ImagePath": "Icons/Items/Drawing/FoodBeast",
+        "DisplayText": "@FoodBeast_GroupName",
+        "Description": "@FoodBeast_GroupDesc"
+    },
+    {
+        "CategoryID": "FoodAncient",
+        "ImagePath": "Icons/Items/Drawing/FoodAncient",
+        "DisplayText": "@FoodAncient_GroupName",
+        "Description": "@FoodAncient_GroupDesc"
+    },
+    {
+        "CategoryID": "FoodMana",
+        "ImagePath": "Icons/Items/Drawing/FoodMana",
+        "DisplayText": "@FoodMana_GroupName",
+        "Description": "@FoodMana_GroupDesc"
+    },
+    {
+        "CategoryID": "CONTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@CONTrinkets_GroupName",
+        "Description": "@CONTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "STRTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@STRTrinkets_GroupName",
+        "Description": "@STRTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@DEXTrinkets_GroupName",
+        "Description": "@DEXTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "INTTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@INTTrinkets_GroupName",
+        "Description": "@INTTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "FOCTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@FOCTrinkets_GroupName",
+        "Description": "@FOCTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "FOCCONTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@FOCCONTrinkets_GroupName",
+        "Description": "@FOCCONTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "STRCONTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@STRCONTrinkets_GroupName",
+        "Description": "@STRCONTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXCONTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@DEXCONTrinkets_GroupName",
+        "Description": "@DEXCONTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "INTCONTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@INTCONTrinkets_GroupName",
+        "Description": "@INTCONTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "STRFOCTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@STRFOCTrinkets_GroupName",
+        "Description": "@STRFOCTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXFOCTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@DEXFOCTrinkets_GroupName",
+        "Description": "@DEXFOCTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "INTFOCTrinkets",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
+        "DisplayText": "@INTFOCTrinkets_GroupName",
+        "Description": "@INTFOCTrinkets_GroupDesc"
+    },
+    {
+        "CategoryID": "CONAmulets",
+        "ImagePath": "Icons/items/Drawing/CONAmulets",
+        "DisplayText": "@CONAmulets_GroupName",
+        "Description": "@CONAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "STRAmulets",
+        "ImagePath": "Icons/items/Drawing/STRAmulets",
+        "DisplayText": "@STRAmulets_GroupName",
+        "Description": "@STRAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXAmulets",
+        "ImagePath": "Icons/items/Drawing/DEXAmulets",
+        "DisplayText": "@DEXAmulets_GroupName",
+        "Description": "@DEXAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "INTAmulets",
+        "ImagePath": "Icons/items/Drawing/INTAmulets",
+        "DisplayText": "@INTAmulets_GroupName",
+        "Description": "@INTAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "FOCAmulets",
+        "ImagePath": "Icons/items/Drawing/FOCAmulets",
+        "DisplayText": "@FOCAmulets_GroupName",
+        "Description": "@FOCAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "FOCCONAmulets",
+        "ImagePath": "Icons/items/Drawing/FOCCONAmulets",
+        "DisplayText": "@FOCCONAmulets_GroupName",
+        "Description": "@FOCCONAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "STRCONAmulets",
+        "ImagePath": "Icons/items/Drawing/STRCONAmulets",
+        "DisplayText": "@STRCONAmulets_GroupName",
+        "Description": "@STRCONAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXCONAmulets",
+        "ImagePath": "Icons/items/Drawing/DEXCONAmulets",
+        "DisplayText": "@DEXCONAmulets_GroupName",
+        "Description": "@DEXCONAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "INTCONAmulets",
+        "ImagePath": "Icons/items/Drawing/INTCONAmulets",
+        "DisplayText": "@INTCONAmulets_GroupName",
+        "Description": "@INTCONAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "STRFOCAmulets",
+        "ImagePath": "Icons/items/Drawing/STRFOCAmulets",
+        "DisplayText": "@STRFOCAmulets_GroupName",
+        "Description": "@STRFOCAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXFOCAmulets",
+        "ImagePath": "Icons/items/Drawing/DEXFOCAmulets",
+        "DisplayText": "@DEXFOCAmulets_GroupName",
+        "Description": "@DEXFOCAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "INTFOCAmulets",
+        "ImagePath": "Icons/items/Drawing/INTFOCAmulets",
+        "DisplayText": "@INTFOCAmulets_GroupName",
+        "Description": "@INTFOCAmulets_GroupDesc"
+    },
+    {
+        "CategoryID": "CONRings",
+        "ImagePath": "Icons/items/Drawing/CONRings",
+        "DisplayText": "@CONRings_GroupName",
+        "Description": "@CONRings_GroupDesc"
+    },
+    {
+        "CategoryID": "STRRings",
+        "ImagePath": "Icons/items/Drawing/STRRings",
+        "DisplayText": "@STRRings_GroupName",
+        "Description": "@STRRings_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXRings",
+        "ImagePath": "Icons/items/Drawing/DEXRings",
+        "DisplayText": "@DEXRings_GroupName",
+        "Description": "@DEXRings_GroupDesc"
+    },
+    {
+        "CategoryID": "INTRings",
+        "ImagePath": "Icons/items/Drawing/INTRings",
+        "DisplayText": "@INTRings_GroupName",
+        "Description": "@INTRings_GroupDesc"
+    },
+    {
+        "CategoryID": "FOCRings",
+        "ImagePath": "Icons/items/Drawing/FOCRings",
+        "DisplayText": "@FOCRings_GroupName",
+        "Description": "@FOCRings_GroupDesc"
+    },
+    {
+        "CategoryID": "FOCCONRings",
+        "ImagePath": "Icons/items/Drawing/FOCCONRings",
+        "DisplayText": "@FOCCONRings_GroupName",
+        "Description": "@FOCCONRings_GroupDesc"
+    },
+    {
+        "CategoryID": "STRCONRings",
+        "ImagePath": "Icons/items/Drawing/STRCONRings",
+        "DisplayText": "@STRCONRings_GroupName",
+        "Description": "@STRCONRings_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXCONRings",
+        "ImagePath": "Icons/items/Drawing/DEXCONRings",
+        "DisplayText": "@DEXCONRings_GroupName",
+        "Description": "@DEXCONRings_GroupDesc"
+    },
+    {
+        "CategoryID": "INTCONRings",
+        "ImagePath": "Icons/items/Drawing/INTCONRings",
+        "DisplayText": "@INTCONRings_GroupName",
+        "Description": "@INTCONRings_GroupDesc"
+    },
+    {
+        "CategoryID": "STRFOCRings",
+        "ImagePath": "Icons/items/Drawing/STRFOCRings",
+        "DisplayText": "@STRFOCRings_GroupName",
+        "Description": "@STRFOCRings_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXFOCRings",
+        "ImagePath": "Icons/items/Drawing/DEXFOCRings",
+        "DisplayText": "@DEXFOCRings_GroupName",
+        "Description": "@DEXFOCRings_GroupDesc"
+    },
+    {
+        "CategoryID": "INTFOCRings",
+        "ImagePath": "Icons/items/Drawing/INTFOCRings",
+        "DisplayText": "@INTFOCRings_GroupName",
+        "Description": "@INTFOCRings_GroupDesc"
+    },
+    {
+        "CategoryID": "CONEarrings",
+        "ImagePath": "Icons/items/Drawing/CONEarrings",
+        "DisplayText": "@CONEarrings_GroupName",
+        "Description": "@CONEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "STREarrings",
+        "ImagePath": "Icons/items/Drawing/STREarrings",
+        "DisplayText": "@STREarrings_GroupName",
+        "Description": "@STREarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXEarrings",
+        "ImagePath": "Icons/items/Drawing/DEXEarrings",
+        "DisplayText": "@DEXEarrings_GroupName",
+        "Description": "@DEXEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "INTEarrings",
+        "ImagePath": "Icons/items/Drawing/INTEarrings",
+        "DisplayText": "@INTEarrings_GroupName",
+        "Description": "@INTEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "FOCEarrings",
+        "ImagePath": "Icons/items/Drawing/FOCEarrings",
+        "DisplayText": "@FOCEarrings_GroupName",
+        "Description": "@FOCEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "FOCCONEarrings",
+        "ImagePath": "Icons/items/Drawing/FOCCONEarrings",
+        "DisplayText": "@FOCCONEarrings_GroupName",
+        "Description": "@FOCCONEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "STRCONEarrings",
+        "ImagePath": "Icons/items/Drawing/STRCONEarrings",
+        "DisplayText": "@STRCONEarrings_GroupName",
+        "Description": "@STRCONEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXCONEarrings",
+        "ImagePath": "Icons/items/Drawing/DEXCONEarrings",
+        "DisplayText": "@DEXCONEarrings_GroupName",
+        "Description": "@DEXCONEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "INTCONEarrings",
+        "ImagePath": "Icons/items/Drawing/INTCONEarrings",
+        "DisplayText": "@INTCONEarrings_GroupName",
+        "Description": "@INTCONEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "STRFOCEarrings",
+        "ImagePath": "Icons/items/Drawing/STRFOCEarrings",
+        "DisplayText": "@STRFOCEarrings_GroupName",
+        "Description": "@STRFOCEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "DEXFOCEarrings",
+        "ImagePath": "Icons/items/Drawing/DEXFOCEarrings",
+        "DisplayText": "@DEXFOCEarrings_GroupName",
+        "Description": "@DEXFOCEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "INTFOCEarrings",
+        "ImagePath": "Icons/items/Drawing/INTFOCEarrings",
+        "DisplayText": "@INTFOCEarrings_GroupName",
+        "Description": "@INTFOCEarrings_GroupDesc"
+    },
+    {
+        "CategoryID": "MagicStaves",
+        "ImagePath": "",
+        "DisplayText": "@MagicStaves_GroupName",
+        "Description": "@CategoryData_MagicStavesDesc"
+    },
+    {
+        "CategoryID": "StaffLife",
+        "ImagePath": "Icons/Items/Drawing/StaffLife",
+        "DisplayText": "@StaffLife_GroupName",
+        "Description": "@StaffLife_GroupDesc"
+    },
+    {
+        "CategoryID": "StaffFire",
+        "ImagePath": "Icons/Items/Drawing/StaffFire",
+        "DisplayText": "@StaffFire_GroupName",
+        "Description": "@StaffFire_GroupDesc"
+    },
+    {
+        "CategoryID": "WeaponCoatings",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_WeaponCoatings",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AfflictionResistance",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_AfflictionResistance",
+        "Description": ""
+    },
+    {
+        "CategoryID": "HealthRecovery",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_HealthRecovery",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Bags",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_Bags",
+        "Description": ""
+    },
+    {
+        "CategoryID": "LargeFurnishings",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_LargeFurnishings",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SmallFurnishings",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_SmallFurnishings",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Trophies",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_Trophies",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Beds",
+        "ImagePath": "Icons/Items/Drawing/beds",
+        "DisplayText": "@Beds_GroupName",
+        "Description": "@Beds_GroupDesc"
+    },
+    {
+        "CategoryID": "Tables",
+        "ImagePath": "Icons/Items/Drawing/tables",
+        "DisplayText": "@Tables_GroupName",
+        "Description": "@Tables_GroupDesc"
+    },
+    {
+        "CategoryID": "SideTables",
+        "ImagePath": "Icons/Items/Drawing/sideTables",
+        "DisplayText": "@SideTables_GroupName",
+        "Description": "@SideTables_GroupDesc"
+    },
+    {
+        "CategoryID": "Drawers",
+        "ImagePath": "Icons/Items/Drawing/drawers",
+        "DisplayText": "@Drawers_GroupName",
+        "Description": "@Drawers_GroupDesc"
+    },
+    {
+        "CategoryID": "Bookcase",
+        "ImagePath": "Icons/Items/Drawing/bookcase",
+        "DisplayText": "@Bookcase_GroupName",
+        "Description": "@Bookcase_GroupDesc"
+    },
+    {
+        "CategoryID": "StorageTypeA",
+        "ImagePath": "Icons/Items/Drawing/storageTypeA",
+        "DisplayText": "@StorageTypeA_GroupName",
+        "Description": "@StorageTypeA_GroupDesc"
+    },
+    {
+        "CategoryID": "StorageTypeB",
+        "ImagePath": "Icons/Items/Drawing/storageTypeB",
+        "DisplayText": "@StorageTypeB_GroupName",
+        "Description": "@StorageTypeB_GroupDesc"
+    },
+    {
+        "CategoryID": "DecorationA",
+        "ImagePath": "Icons/Items/Drawing/decorationA",
+        "DisplayText": "@DecorationA_GroupName",
+        "Description": "@DecorationA_GroupDesc"
+    },
+    {
+        "CategoryID": "DecorationB",
+        "ImagePath": "Icons/Items/Drawing/decorationB",
+        "DisplayText": "@DecorationB_GroupName",
+        "Description": "@DecorationB_GroupDesc"
+    },
+    {
+        "CategoryID": "Decorations",
+        "ImagePath": "",
+        "DisplayText": "@Decorations_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Fabric",
+        "ImagePath": "Icons/Items/Drawing/fabric",
+        "DisplayText": "@Fabric_GroupName",
+        "Description": "@Fabric_GroupDesc"
+    },
+    {
+        "CategoryID": "Chairs",
+        "ImagePath": "Icons/Items/Drawing/chairs",
+        "DisplayText": "@Chairs_GroupName",
+        "Description": "@Chairs_GroupDesc"
+    },
+    {
+        "CategoryID": "Wreath",
+        "ImagePath": "Icons/Items/Drawing/wreath",
+        "DisplayText": "@Wreath_GroupName",
+        "Description": "@Wreath_GroupDesc"
+    },
+    {
+        "CategoryID": "Cookware",
+        "ImagePath": "Icons/Items/Drawing/cookware",
+        "DisplayText": "@Cookware_GroupName",
+        "Description": "@Cookware_GroupDesc"
+    },
+    {
+        "CategoryID": "Lightings",
+        "ImagePath": "Icons/Items/Drawing/lightings",
+        "DisplayText": "@Lightings_GroupName",
+        "Description": "@Lightings_GroupDesc"
+    },
+    {
+        "CategoryID": "AlchemyBonus",
+        "ImagePath": "Icons/Items/Drawing/arcaneBonus",
+        "DisplayText": "@AlchemyBonus_GroupName",
+        "Description": "@AlchemyBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "BlacksmithBonus",
+        "ImagePath": "Icons/Items/Drawing/forgingBonus",
+        "DisplayText": "@BlacksmithBonus_GroupName",
+        "Description": "@BlacksmithBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "CookingBonus",
+        "ImagePath": "Icons/Items/Drawing/cookingBonus",
+        "DisplayText": "@CookingBonus_GroupName",
+        "Description": "@CookingBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "EngineeringBonus",
+        "ImagePath": "Icons/Items/Drawing/engineeringBonus",
+        "DisplayText": "@EngineeringBonus_GroupName",
+        "Description": "@EngineeringBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "HarvestingBonus",
+        "ImagePath": "Icons/Items/Drawing/harvestingBonus",
+        "DisplayText": "@HarvestingBonus_GroupName",
+        "Description": "@HarvestingBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "LoggingBonus",
+        "ImagePath": "Icons/Items/Drawing/loggingBonus",
+        "DisplayText": "@LoggingBonus_GroupName",
+        "Description": "@LoggingBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "MiningBonus",
+        "ImagePath": "Icons/Items/Drawing/miningBonus",
+        "DisplayText": "@MiningBonus_GroupName",
+        "Description": "@MiningBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "OutfittingBonus",
+        "ImagePath": "Icons/Items/Drawing/tailoringBonus",
+        "DisplayText": "@OutfittingBonus_GroupName",
+        "Description": "@OutfittingBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "SkinningBonus",
+        "ImagePath": "Icons/Items/Drawing/skinningBonus",
+        "DisplayText": "@SkinningBonus_GroupName",
+        "Description": "@SkinningBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "AncientBonus",
+        "ImagePath": "Icons/Items/Drawing/ancientBonus",
+        "DisplayText": "@AncientBonus_GroupName",
+        "Description": "@AncientBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "AngryEarthBonus",
+        "ImagePath": "Icons/Items/Drawing/angryEarthBonus",
+        "DisplayText": "@AngryEarthBonus_GroupName",
+        "Description": "@AngryEarthBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "BeastBonus",
+        "ImagePath": "Icons/Items/Drawing/beastBonus",
+        "DisplayText": "@BeastBonus_GroupName",
+        "Description": "@BeastBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "CorruptedBonus",
+        "ImagePath": "Icons/Items/Drawing/corruptedBonus",
+        "DisplayText": "@CorruptedBonus_GroupName",
+        "Description": "@CorruptedBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "LostBonus",
+        "ImagePath": "Icons/Items/Drawing/lostBonus",
+        "DisplayText": "@LostBonus_GroupName",
+        "Description": "@LostBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "LuckBonus",
+        "ImagePath": "Icons/Items/Drawing/globalLuckBonus",
+        "DisplayText": "@LuckBonus_GroupName",
+        "Description": "@LuckBonus_GroupDesc"
+    },
+    {
+        "CategoryID": "Gemcutting",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_resources",
+        "DisplayText": "@CategoryData_Gemcutting",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Gems",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_resources",
+        "DisplayText": "@CategoryData_Gems",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AmberCut",
+        "ImagePath": "Icons/Items/Drawing/AmberCut",
+        "DisplayText": "@AmberCut_GroupName",
+        "Description": "@AmberCut_GroupDesc"
+    },
+    {
+        "CategoryID": "AmethystCut",
+        "ImagePath": "Icons/Items/Drawing/AmethystCut",
+        "DisplayText": "@AmethystCut_GroupName",
+        "Description": "@AmethystCut_GroupDesc"
+    },
+    {
+        "CategoryID": "AquamarineCut",
+        "ImagePath": "Icons/Items/Drawing/AquamarineCut",
+        "DisplayText": "@AquamarineCut_GroupName",
+        "Description": "@AquamarineCut_GroupDesc"
+    },
+    {
+        "CategoryID": "CarnelianCut",
+        "ImagePath": "Icons/Items/Drawing/CarnelianCut",
+        "DisplayText": "@CarnelianCut_GroupName",
+        "Description": "@CarnelianCut_GroupDesc"
+    },
+    {
+        "CategoryID": "CitrineCut",
+        "ImagePath": "Icons/Items/Drawing/CitrineCut",
+        "DisplayText": "@CitrineCut_GroupName",
+        "Description": "@CitrineCut_GroupDesc"
+    },
+    {
+        "CategoryID": "DiamondCut",
+        "ImagePath": "Icons/Items/Drawing/DiamondCut",
+        "DisplayText": "@DiamondCut_GroupName",
+        "Description": "@DiamondCut_GroupDesc"
+    },
+    {
+        "CategoryID": "EmeraldCut",
+        "ImagePath": "Icons/Items/Drawing/EmeraldCut",
+        "DisplayText": "@EmeraldCut_GroupName",
+        "Description": "@EmeraldCut_GroupDesc"
+    },
+    {
+        "CategoryID": "GarnetCut",
+        "ImagePath": "Icons/Items/Drawing/GarnetCut",
+        "DisplayText": "@GarnetCut_GroupName",
+        "Description": "@GarnetCut_GroupDesc"
+    },
+    {
+        "CategoryID": "JadeCut",
+        "ImagePath": "Icons/Items/Drawing/JadeCut",
+        "DisplayText": "@JadeCut_GroupName",
+        "Description": "@JadeCut_GroupDesc"
+    },
+    {
+        "CategoryID": "JasperCut",
+        "ImagePath": "Icons/Items/Drawing/JasperCut",
+        "DisplayText": "@JasperCut_GroupName",
+        "Description": "@JasperCut_GroupDesc"
+    },
+    {
+        "CategoryID": "LapisLazuliCut",
+        "ImagePath": "Icons/Items/Drawing/LapisLazuliCut",
+        "DisplayText": "@LapisLazuliCut_GroupName",
+        "Description": "@LapisLazuliCut_GroupDesc"
+    },
+    {
+        "CategoryID": "MalachiteCut",
+        "ImagePath": "Icons/Items/Drawing/MalachiteCut",
+        "DisplayText": "@MalachiteCut_GroupName",
+        "Description": "@MalachiteCut_GroupDesc"
+    },
+    {
+        "CategoryID": "MoonstoneCut",
+        "ImagePath": "Icons/Items/Drawing/MoonstoneCut",
+        "DisplayText": "@MoonstoneCut_GroupName",
+        "Description": "@MoonstoneCut_GroupDesc"
+    },
+    {
+        "CategoryID": "OnyxCut",
+        "ImagePath": "Icons/Items/Drawing/OnyxCut",
+        "DisplayText": "@OnyxCut_GroupName",
+        "Description": "@OnyxCut_GroupDesc"
+    },
+    {
+        "CategoryID": "OpalCut",
+        "ImagePath": "Icons/Items/Drawing/OpalCut",
+        "DisplayText": "@OpalCut_GroupName",
+        "Description": "@OpalCut_GroupDesc"
+    },
+    {
+        "CategoryID": "RubyCut",
+        "ImagePath": "Icons/Items/Drawing/RubyCut",
+        "DisplayText": "@RubyCut_GroupName",
+        "Description": "@RubyCut_GroupDesc"
+    },
+    {
+        "CategoryID": "SapphireCut",
+        "ImagePath": "Icons/Items/Drawing/SapphireCut",
+        "DisplayText": "@SapphireCut_GroupName",
+        "Description": "@SapphireCut_GroupDesc"
+    },
+    {
+        "CategoryID": "TopazCut",
+        "ImagePath": "Icons/Items/Drawing/TopazCut",
+        "DisplayText": "@TopazCut_GroupName",
+        "Description": "@TopazCut_GroupDesc"
+    },
+    {
+        "CategoryID": "TurquoiseCut",
+        "ImagePath": "Icons/Items/Drawing/TurquoiseCut",
+        "DisplayText": "@TurquoiseCut_GroupName",
+        "Description": "@TurquoiseCut_GroupDesc"
+    },
+    {
+        "CategoryID": "DyeGroup",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_utilities",
+        "DisplayText": "@CategoryData_Dyes",
+        "Description": "@Dyes_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye1",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye1_GroupName",
+        "Description": "@Dye1_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye2",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye2_GroupName",
+        "Description": "@Dye2_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye3",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye3_GroupName",
+        "Description": "@Dye3_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye4",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye4_GroupName",
+        "Description": "@Dye4_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye5",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye5_GroupName",
+        "Description": "@Dye5_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye6",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye6_GroupName",
+        "Description": "@Dye6_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye7",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye7_GroupName",
+        "Description": "@Dye7_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye8",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye8_GroupName",
+        "Description": "@Dye8_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye9",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye9_GroupName",
+        "Description": "@Dye9_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye10",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye10_GroupName",
+        "Description": "@Dye10_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye11",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye11_GroupName",
+        "Description": "@Dye11_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye12",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye12_GroupName",
+        "Description": "@Dye12_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye13",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye13_GroupName",
+        "Description": "@Dye13_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye14",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye14_GroupName",
+        "Description": "@Dye14_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye15",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye15_GroupName",
+        "Description": "@Dye15_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye16",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye16_GroupName",
+        "Description": "@Dye16_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye17",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye17_GroupName",
+        "Description": "@Dye17_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye18",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye18_GroupName",
+        "Description": "@Dye18_GroupDesc"
+    },
+    {
+        "CategoryID": "Dye19",
+        "ImagePath": "Icons/Items/Drawing/armorDyes",
+        "DisplayText": "@Dye19_GroupName",
+        "Description": "@Dye19_GroupDesc"
+    },
+    {
+        "CategoryID": "Swords",
+        "ImagePath": "",
+        "DisplayText": "@Swords_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Offensive",
+        "ImagePath": "",
+        "DisplayText": "@Offensive_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Defensive",
+        "ImagePath": "",
+        "DisplayText": "@Defensive_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Utility",
+        "ImagePath": "",
+        "DisplayText": "@Utility_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Conditional",
+        "ImagePath": "",
+        "DisplayText": "@Conditional_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Armoire01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Armoire01",
+        "DisplayText": "@Armoire01_GroupName",
+        "Description": "@Armoire01_GroupDesc"
+    },
+    {
+        "CategoryID": "Bed01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Bed01",
+        "DisplayText": "@Bed01_GroupName",
+        "Description": "@Bed01_GroupDesc"
+    },
+    {
+        "CategoryID": "Bed02",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Bed02",
+        "DisplayText": "@Bed02_GroupName",
+        "Description": "@Bed02_GroupDesc"
+    },
+    {
+        "CategoryID": "BedSideTable",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_BedSideTable01",
+        "DisplayText": "@BedSideTable_GroupName",
+        "Description": "@BedSideTable_GroupDesc"
+    },
+    {
+        "CategoryID": "Bookcase01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Bookcase01",
+        "DisplayText": "@Bookcase01_GroupName",
+        "Description": "@Bookcase01_GroupDesc"
+    },
+    {
+        "CategoryID": "Bookcase02",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Bookcase02",
+        "DisplayText": "@Bookcase02_GroupName",
+        "Description": "@Bookcase02_GroupDesc"
+    },
+    {
+        "CategoryID": "Cabinet01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Cabinet 01",
+        "DisplayText": "@Cabinet01_GroupName",
+        "Description": "@Cabinet01_GroupDesc"
+    },
+    {
+        "CategoryID": "Cabinet02",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Cabinet02",
+        "DisplayText": "@Cabinet02_GroupName",
+        "Description": "@Cabinet02_GroupDesc"
+    },
+    {
+        "CategoryID": "Chair01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Chair01",
+        "DisplayText": "@Chair01_GroupName",
+        "Description": "@Chair01_GroupDesc"
+    },
+    {
+        "CategoryID": "Chair02",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Chair02",
+        "DisplayText": "@Chair02_GroupName",
+        "Description": "@Chair02_GroupDesc"
+    },
+    {
+        "CategoryID": "Desk01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Desk01",
+        "DisplayText": "@Desk01_GroupName",
+        "Description": "@Desk01_GroupDesc"
+    },
+    {
+        "CategoryID": "Dresser01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Dresser01",
+        "DisplayText": "@Dresser01_GroupName",
+        "Description": "@Dresser01_GroupDesc"
+    },
+    {
+        "CategoryID": "LightHanging01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_LightHanging01",
+        "DisplayText": "@LightHanging01_GroupName",
+        "Description": "@LightHanging01_GroupDesc"
+    },
+    {
+        "CategoryID": "LightTable01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_LightTable01",
+        "DisplayText": "@LightTable01_GroupName",
+        "Description": "@LightTable01_GroupDesc"
+    },
+    {
+        "CategoryID": "LightWall01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_LightWall01",
+        "DisplayText": "@LightWall01_GroupName",
+        "Description": "@LightWall01_GroupDesc"
+    },
+    {
+        "CategoryID": "Shelf01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Shelf01",
+        "DisplayText": "@Shelf01_GroupName",
+        "Description": "@Shelf01_GroupDesc"
+    },
+    {
+        "CategoryID": "Stool01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Stool01",
+        "DisplayText": "@Stool01_GroupName",
+        "Description": "@Stool01_GroupDesc"
+    },
+    {
+        "CategoryID": "Stove01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Stove01",
+        "DisplayText": "@Stove01_GroupName",
+        "Description": "@Stove01_GroupDesc"
+    },
+    {
+        "CategoryID": "Table01",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Table01",
+        "DisplayText": "@Table01_GroupName",
+        "Description": "@Table01_GroupDesc"
+    },
+    {
+        "CategoryID": "Table02",
+        "ImagePath": "Icons/Items/Drawing/housing_Category_Table02",
+        "DisplayText": "@Table02_GroupName",
+        "Description": "@Table02_GroupDesc"
+    },
+    {
+        "CategoryID": "Wood",
+        "ImagePath": "Icons/Items/Drawing/wood",
+        "DisplayText": "@Wood_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "WoodAny",
+        "ImagePath": "Icons/Items/Drawing/wood",
+        "DisplayText": "@WoodAny_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Metal",
+        "ImagePath": "Icons/Items/Drawing/ingot",
+        "DisplayText": "@Metal_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MetalPrecious",
+        "ImagePath": "Icons/Items/Drawing/ingot",
+        "DisplayText": "@MetalPrecious_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Leather",
+        "ImagePath": "Icons/Items/Drawing/leather",
+        "DisplayText": "@Leather_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Cloth",
+        "ImagePath": "Icons/Items/Drawing/cloth",
+        "DisplayText": "@Cloth_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemRuby",
+        "ImagePath": "Icons/Items/Drawing/rubycut",
+        "DisplayText": "@GemRuby_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemAmbe",
+        "ImagePath": "Icons/Items/Drawing/aquamarinecut",
+        "DisplayText": "@GemAmbe_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemAqua",
+        "ImagePath": "Icons/Items/Drawing/aquamarinecut",
+        "DisplayText": "@GemAqua_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemCarn",
+        "ImagePath": "Icons/Items/Drawing/CarnelianCut",
+        "DisplayText": "@GemCarn_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemSapp",
+        "ImagePath": "Icons/Items/Drawing/sapphirecut",
+        "DisplayText": "@GemSapp_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemOnyx",
+        "ImagePath": "Icons/Items/Drawing/onyxcut",
+        "DisplayText": "@GemOnyx_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemOpal",
+        "ImagePath": "Icons/Items/Drawing/opalcut",
+        "DisplayText": "@GemOpal_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemDiam",
+        "ImagePath": "Icons/Items/Drawing/DiamondCut",
+        "DisplayText": "@GemDiam_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemJasp",
+        "ImagePath": "Icons/Items/Drawing/JasperCut",
+        "DisplayText": "@GemJasp_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemEmer",
+        "ImagePath": "Icons/Items/Drawing/EmeraldCut",
+        "DisplayText": "@GemEmer_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemMala",
+        "ImagePath": "Icons/Items/Drawing/MalachiteCut",
+        "DisplayText": "@GemMala_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemMoon",
+        "ImagePath": "Icons/Items/Drawing/MoonstoneCut",
+        "DisplayText": "@GemMoon_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemTopa",
+        "ImagePath": "Icons/Items/Drawing/TopazCut",
+        "DisplayText": "@GemTopa_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemAmet",
+        "ImagePath": "Icons/Items/Drawing/AmethystCut",
+        "DisplayText": "@GemAmet_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemPearl",
+        "ImagePath": "",
+        "DisplayText": "@GemPearl_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Fur",
+        "ImagePath": "Icons/Items/Drawing/beastbonus",
+        "DisplayText": "@Fur_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaFire",
+        "ImagePath": "Icons/Items/Drawing/alchemyfire",
+        "DisplayText": "@ArcanaFire_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaLife",
+        "ImagePath": "Icons/Items/Drawing/alchemylife",
+        "DisplayText": "@ArcanaLife_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaWater",
+        "ImagePath": "Icons/Items/Drawing/alchemywater",
+        "DisplayText": "@ArcanaWater_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyLife",
+        "ImagePath": "Icons/Items/Drawing/alchemylife",
+        "DisplayText": "@AlchemyLife_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyDeath",
+        "ImagePath": "Icons/Items/Drawing/alchemydeath",
+        "DisplayText": "@AlchemyDeath_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemySpirit",
+        "ImagePath": "Icons/Items/Drawing/alchemyspirit",
+        "DisplayText": "@AlchemySpirit_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyAir",
+        "ImagePath": "Icons/Items/Drawing/alchemyair",
+        "DisplayText": "@AlchemyAir_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyWater",
+        "ImagePath": "Icons/Items/Drawing/alchemywater",
+        "DisplayText": "@AlchemyWater_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyFire",
+        "ImagePath": "Icons/Items/Drawing/alchemyfire",
+        "DisplayText": "@AlchemyFire_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyEarth",
+        "ImagePath": "Icons/Items/Drawing/alchemyearth",
+        "DisplayText": "@AlchemyEarth_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "HealthCooking",
+        "ImagePath": "Icons/Items/Drawing/foodangryearth",
+        "DisplayText": "@HealthCooking_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ManaCooking",
+        "ImagePath": "Icons/Items/Drawing/foodmana",
+        "DisplayText": "@ManaCooking_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Seasoning",
+        "ImagePath": "Icons/Items/Drawing/seasoningpouch",
+        "DisplayText": "@Seasoning_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMedicinal",
+        "ImagePath": "Icons/Items/Drawing/potionhealth",
+        "DisplayText": "@AlchemyMedicinal_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMagical",
+        "ImagePath": "Icons/Items/Drawing/potionmana",
+        "DisplayText": "@AlchemyMagical_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyProtective",
+        "ImagePath": "Icons/Items/Drawing/potionendurance",
+        "DisplayText": "@AlchemyProtective_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyOffensive",
+        "ImagePath": "Icons/Items/Drawing/potionregen",
+        "DisplayText": "@AlchemyOffensive_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PerkItem",
+        "ImagePath": "Icons/Items/Drawing/moonstonecut",
+        "DisplayText": "@PerkItem_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaDeath",
+        "ImagePath": "Icons/Items/Drawing/alchemydeath",
+        "DisplayText": "@ArcanaDeath_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaSpirit",
+        "ImagePath": "Icons/Items/Drawing/alchemyspirit",
+        "DisplayText": "@ArcanaSpirit_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaAir",
+        "ImagePath": "Icons/Items/Drawing/alchemyair",
+        "DisplayText": "@ArcanaAir_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaEarth",
+        "ImagePath": "Icons/Items/Drawing/alchemyearth",
+        "DisplayText": "@ArcanaEarth_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RefinedResources",
+        "ImagePath": "",
+        "DisplayText": "@RefinedResources_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CutStone",
+        "ImagePath": "",
+        "DisplayText": "@CutStone_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CutGems",
+        "ImagePath": "",
+        "DisplayText": "@CutGems_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FuseGems",
+        "ImagePath": "",
+        "DisplayText": "@FuseGems_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Amulets",
+        "ImagePath": "Icons/items/Drawing/trinketA",
+        "DisplayText": "@Amulets_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Rings",
+        "ImagePath": "Icons/items/Drawing/trinketG",
+        "DisplayText": "@Rings_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Earrings",
+        "ImagePath": "Icons/items/Drawing/trinketO",
+        "DisplayText": "@Earrings_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CraftingConsumables",
+        "ImagePath": "",
+        "DisplayText": "@CraftingConsumables_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Weapons",
+        "ImagePath": "",
+        "DisplayText": "@Weapons_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Consumables",
+        "ImagePath": "",
+        "DisplayText": "@Consumables_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Tools",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_tools",
+        "DisplayText": "@CategoryData_Tools",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Ammo",
+        "ImagePath": "",
+        "DisplayText": "@Ammo_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorHeavy",
+        "ImagePath": "",
+        "DisplayText": "@ArmorHeavy_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorMedium",
+        "ImagePath": "",
+        "DisplayText": "@ArmorMedium_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorLight",
+        "ImagePath": "",
+        "DisplayText": "@ArmorLight_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Encumbrance",
+        "ImagePath": "",
+        "DisplayText": "@Encumbrance_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ConsumablesRecovery",
+        "ImagePath": "",
+        "DisplayText": "@ConsumablesRecovery_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ConsumablesUtility",
+        "ImagePath": "",
+        "DisplayText": "@ConsumablesUtility_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Coatings",
+        "ImagePath": "",
+        "DisplayText": "@Coatings_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ConsumablesAffliction",
+        "ImagePath": "",
+        "DisplayText": "@ConsumablesAffliction_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ConsumablesResistance",
+        "ImagePath": "",
+        "DisplayText": "@ConsumablesResistance_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodRecovery",
+        "ImagePath": "",
+        "DisplayText": "@FoodRecovery_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Components",
+        "ImagePath": "",
+        "DisplayText": "@Components_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodsBuffs",
+        "ImagePath": "",
+        "DisplayText": "@FoodsBuffs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodsAttributes",
+        "ImagePath": "",
+        "DisplayText": "@FoodsAttributes_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Dyes",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_utilities",
+        "DisplayText": "@CategoryData_Dyes",
+        "Description": "@Dyes_GroupDesc"
+    },
+    {
+        "CategoryID": "CraftingQuestRecipe",
+        "ImagePath": "",
+        "DisplayText": "@CraftingQuestRecipe_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Furniture",
+        "ImagePath": "",
+        "DisplayText": "@Furniture_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Pigments",
+        "ImagePath": "",
+        "DisplayText": "@Pigments_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Ingot",
+        "ImagePath": "Icons/Items/Drawing/ingot",
+        "DisplayText": "@CategoryData_Ingot",
+        "Description": "@Ingot_GroupDesc"
+    },
+    {
+        "CategoryID": "IngotPrecious",
+        "ImagePath": "Icons/Items/Drawing/ingotPrecious",
+        "DisplayText": "@CategoryData_IngotPrecious",
+        "Description": "@IngotPrecious_GroupDesc"
+    },
+    {
+        "CategoryID": "Charcoal",
+        "ImagePath": "Icons/Items/Drawing/charcoal",
+        "DisplayText": "@CategoryData_Charcoal",
+        "Description": "@Charcoal_GroupDesc"
+    },
+    {
+        "CategoryID": "Planks",
+        "ImagePath": "",
+        "DisplayText": "@Planks_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Blocks",
+        "ImagePath": "",
+        "DisplayText": "@Blocks_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CutGemsT1",
+        "ImagePath": "",
+        "DisplayText": "@CutGemsT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CutGemsT2",
+        "ImagePath": "",
+        "DisplayText": "@CutGemsT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CutGemsT3",
+        "ImagePath": "",
+        "DisplayText": "@CutGemsT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CutGemsT4",
+        "ImagePath": "",
+        "DisplayText": "@CutGemsT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CutGemsFuseT1",
+        "ImagePath": "",
+        "DisplayText": "@CutGemsFuseT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CutGemsFuseT2",
+        "ImagePath": "",
+        "DisplayText": "@CutGemsFuseT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CutGemsFuseT3",
+        "ImagePath": "",
+        "DisplayText": "@CutGemsFuseT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CutGemsFuseT4",
+        "ImagePath": "",
+        "DisplayText": "@CutGemsFuseT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AmuletsT2",
+        "ImagePath": "",
+        "DisplayText": "@AmuletsT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AmuletsT3",
+        "ImagePath": "",
+        "DisplayText": "@AmuletsT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AmuletsT4",
+        "ImagePath": "",
+        "DisplayText": "@AmuletsT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AmuletsT5",
+        "ImagePath": "",
+        "DisplayText": "@AmuletsT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RingsT2",
+        "ImagePath": "",
+        "DisplayText": "@RingsT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RingsT3",
+        "ImagePath": "",
+        "DisplayText": "@RingsT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RingsT4",
+        "ImagePath": "",
+        "DisplayText": "@RingsT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RingsT5",
+        "ImagePath": "",
+        "DisplayText": "@RingsT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "EarringsT2",
+        "ImagePath": "",
+        "DisplayText": "@EarringsT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "EarringsT3",
+        "ImagePath": "",
+        "DisplayText": "@EarringsT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "EarringsT4",
+        "ImagePath": "",
+        "DisplayText": "@EarringsT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "EarringsT5",
+        "ImagePath": "",
+        "DisplayText": "@EarringsT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemstoneDust",
+        "ImagePath": "",
+        "DisplayText": "@GemstoneDust_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Longswords",
+        "ImagePath": "",
+        "DisplayText": "@Longswords_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Hatchets",
+        "ImagePath": "",
+        "DisplayText": "@Hatchets_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "WarHammers",
+        "ImagePath": "",
+        "DisplayText": "@WarHammers_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Bows",
+        "ImagePath": "",
+        "DisplayText": "@Bows_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Muskets",
+        "ImagePath": "",
+        "DisplayText": "@Muskets_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "StavesFire",
+        "ImagePath": "",
+        "DisplayText": "@StavesFire_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "StavesLife",
+        "ImagePath": "",
+        "DisplayText": "@StavesLife_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ShieldsRound",
+        "ImagePath": "",
+        "DisplayText": "@ShieldsRound_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ShieldsKite",
+        "ImagePath": "",
+        "DisplayText": "@ShieldsKite_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Spears",
+        "ImagePath": "",
+        "DisplayText": "@Spears_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Greataxes",
+        "ImagePath": "",
+        "DisplayText": "@Greataxes_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Rapiers",
+        "ImagePath": "",
+        "DisplayText": "@Rapiers_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ShieldsTower",
+        "ImagePath": "",
+        "DisplayText": "@ShieldsTower_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "LoggingAxes",
+        "ImagePath": "",
+        "DisplayText": "@LoggingAxes_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MiningPicks",
+        "ImagePath": "",
+        "DisplayText": "@MiningPicks_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SkinningKnives",
+        "ImagePath": "",
+        "DisplayText": "@SkinningKnives_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Sickles",
+        "ImagePath": "",
+        "DisplayText": "@Sickles_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FishingPoles",
+        "ImagePath": "",
+        "DisplayText": "@FishingPoles_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Arrows",
+        "ImagePath": "",
+        "DisplayText": "@Arrows_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Cartridges",
+        "ImagePath": "",
+        "DisplayText": "@Cartridges_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SurvivalTools",
+        "ImagePath": "",
+        "DisplayText": "@SurvivalTools_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "EngineeringComponents",
+        "ImagePath": "",
+        "DisplayText": "@EngineeringComponents_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorPlateHead",
+        "ImagePath": "",
+        "DisplayText": "@ArmorPlateHead_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorPlateChest",
+        "ImagePath": "",
+        "DisplayText": "@ArmorPlateChest_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorPlateHands",
+        "ImagePath": "",
+        "DisplayText": "@ArmorPlateHands_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorPlateLegs",
+        "ImagePath": "",
+        "DisplayText": "@ArmorPlateLegs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorPlateFeet",
+        "ImagePath": "",
+        "DisplayText": "@ArmorPlateFeet_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorLeatherHead",
+        "ImagePath": "",
+        "DisplayText": "@ArmorLeatherHead_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorLeatherChest",
+        "ImagePath": "",
+        "DisplayText": "@ArmorLeatherChest_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorLeatherHands",
+        "ImagePath": "",
+        "DisplayText": "@ArmorLeatherHands_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorLeatherLegs",
+        "ImagePath": "",
+        "DisplayText": "@ArmorLeatherLegs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorLeatherFeet",
+        "ImagePath": "",
+        "DisplayText": "@ArmorLeatherFeet_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorClothHead",
+        "ImagePath": "",
+        "DisplayText": "@ArmorClothHead_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorClothChest",
+        "ImagePath": "",
+        "DisplayText": "@ArmorClothChest_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorClothHands",
+        "ImagePath": "",
+        "DisplayText": "@ArmorClothHands_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorClothLegs",
+        "ImagePath": "",
+        "DisplayText": "@ArmorClothLegs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorClothFeet",
+        "ImagePath": "",
+        "DisplayText": "@ArmorClothFeet_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorHeavyHead",
+        "ImagePath": "",
+        "DisplayText": "@ArmorHeavyHead_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorHeavyChest",
+        "ImagePath": "",
+        "DisplayText": "@ArmorHeavyChest_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorHeavyHands",
+        "ImagePath": "",
+        "DisplayText": "@ArmorHeavyHands_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorHeavyLegs",
+        "ImagePath": "",
+        "DisplayText": "@ArmorHeavyLegs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorHeavyFeet",
+        "ImagePath": "",
+        "DisplayText": "@ArmorHeavyFeet_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorFurHead",
+        "ImagePath": "",
+        "DisplayText": "@ArmorFurHead_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorFurChest",
+        "ImagePath": "",
+        "DisplayText": "@ArmorFurChest_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorFurHands",
+        "ImagePath": "",
+        "DisplayText": "@ArmorFurHands_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorFurLegs",
+        "ImagePath": "",
+        "DisplayText": "@ArmorFurLegs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorFurFeet",
+        "ImagePath": "",
+        "DisplayText": "@ArmorFurFeet_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorRobeHead",
+        "ImagePath": "",
+        "DisplayText": "@ArmorRobeHead_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorRobeChest",
+        "ImagePath": "",
+        "DisplayText": "@ArmorRobeChest_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorRobeHands",
+        "ImagePath": "",
+        "DisplayText": "@ArmorRobeHands_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorRobeLegs",
+        "ImagePath": "",
+        "DisplayText": "@ArmorRobeLegs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorRobeFeet",
+        "ImagePath": "",
+        "DisplayText": "@ArmorRobeFeet_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MagicStaffFire",
+        "ImagePath": "",
+        "DisplayText": "@MagicStaffFire_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MagicStaffLife",
+        "ImagePath": "",
+        "DisplayText": "@MagicStaffLife_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ProcPotionHealth",
+        "ImagePath": "",
+        "DisplayText": "@ProcPotionHealth_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ProcPotionMana",
+        "ImagePath": "",
+        "DisplayText": "@ProcPotionMana_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ProcPotionRegen",
+        "ImagePath": "",
+        "DisplayText": "@ProcPotionRegen_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CoatingBeast",
+        "ImagePath": "Icons/Items/Drawing/imbueBleed",
+        "DisplayText": "@CoatingBeast_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CoatingLost",
+        "ImagePath": "Icons/Items/Drawing/imbueHoly",
+        "DisplayText": "@CoatingLost_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CoatingCorrupted",
+        "ImagePath": "Icons/Items/Drawing/imbueCorruption",
+        "DisplayText": "@CoatingCorrupted_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CoatingAncient",
+        "ImagePath": "Icons/Items/Drawing/imbuePoison",
+        "DisplayText": "@CoatingAncient_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CoatingAngryEarth",
+        "ImagePath": "Icons/Items/Drawing/imbueFire",
+        "DisplayText": "@CoatingAngryEarth_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TinctureCorruption",
+        "ImagePath": "",
+        "DisplayText": "@TinctureCorruption_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TinctureBlight",
+        "ImagePath": "",
+        "DisplayText": "@TinctureBlight_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PotionFireAbs",
+        "ImagePath": "",
+        "DisplayText": "@PotionFireAbs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PotionMagicAbs",
+        "ImagePath": "",
+        "DisplayText": "@PotionMagicAbs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PotionLightningAbs",
+        "ImagePath": "",
+        "DisplayText": "@PotionLightningAbs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PotionVoidAbs",
+        "ImagePath": "",
+        "DisplayText": "@PotionVoidAbs_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodHealthRecovery",
+        "ImagePath": "Icons/Items/Drawing/meal9",
+        "DisplayText": "@FoodHealthRecovery_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodManaRecovery",
+        "ImagePath": "",
+        "DisplayText": "@FoodManaRecovery_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodDefense",
+        "ImagePath": "Icons/Items/Drawing/FoodDefense",
+        "DisplayText": "@FoodDefense_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodWeaponsmith",
+        "ImagePath": "Icons/Items/Drawing/FoodWeaponsmith",
+        "DisplayText": "@FoodWeaponsmith_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodJewelcrafter",
+        "ImagePath": "Icons/Items/Drawing/FoodJewelcrafter",
+        "DisplayText": "@FoodJewelcrafter_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodEngineer",
+        "ImagePath": "Icons/Items/Drawing/FoodEngineer",
+        "DisplayText": "@FoodEngineer_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodArcanist",
+        "ImagePath": "Icons/Items/Drawing/FoodArcanist",
+        "DisplayText": "@FoodArcanist_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodArmorer",
+        "ImagePath": "Icons/Items/Drawing/FoodArmorer",
+        "DisplayText": "@FoodArmorer_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodMiner",
+        "ImagePath": "Icons/Items/Drawing/FoodMiner",
+        "DisplayText": "@FoodMiner_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodHarvester",
+        "ImagePath": "Icons/Items/Drawing/FoodHarvester",
+        "DisplayText": "@FoodHarvester_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodHunter",
+        "ImagePath": "Icons/Items/Drawing/FoodHunter",
+        "DisplayText": "@FoodHunter_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodLumberjack",
+        "ImagePath": "Icons/Items/Drawing/FoodLumberjack",
+        "DisplayText": "@FoodLumberjack_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodSTR",
+        "ImagePath": "",
+        "DisplayText": "@FoodSTR_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodDEX",
+        "ImagePath": "",
+        "DisplayText": "@FoodDEX_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodINT",
+        "ImagePath": "",
+        "DisplayText": "@FoodINT_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodCON",
+        "ImagePath": "",
+        "DisplayText": "@FoodCON_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodFOC",
+        "ImagePath": "",
+        "DisplayText": "@FoodFOC_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeRed",
+        "ImagePath": "",
+        "DisplayText": "@DyeRed_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeYellow",
+        "ImagePath": "",
+        "DisplayText": "@DyeYellow_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeGreen",
+        "ImagePath": "",
+        "DisplayText": "@DyeGreen_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeBlue",
+        "ImagePath": "",
+        "DisplayText": "@DyeBlue_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeOrange",
+        "ImagePath": "",
+        "DisplayText": "@DyeOrange_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeWhite",
+        "ImagePath": "",
+        "DisplayText": "@DyeWhite_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeBlack",
+        "ImagePath": "",
+        "DisplayText": "@DyeBlack_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyePurple",
+        "ImagePath": "",
+        "DisplayText": "@DyePurple_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeBrown",
+        "ImagePath": "",
+        "DisplayText": "@DyeBrown_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeGrey",
+        "ImagePath": "",
+        "DisplayText": "@DyeGrey_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeCyan",
+        "ImagePath": "",
+        "DisplayText": "@DyeCyan_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeTurquoise",
+        "ImagePath": "",
+        "DisplayText": "@DyeTurquoise_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeMagenta",
+        "ImagePath": "",
+        "DisplayText": "@DyeMagenta_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeViolet",
+        "ImagePath": "",
+        "DisplayText": "@DyeViolet_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "WorkOrder",
+        "ImagePath": "",
+        "DisplayText": "@WorkOrder_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmoringConsumables",
+        "ImagePath": "",
+        "DisplayText": "@ArmoringConsumables_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "EngineeringConsumables",
+        "ImagePath": "",
+        "DisplayText": "@EngineeringConsumables_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "WeaponsmithingConsumables",
+        "ImagePath": "",
+        "DisplayText": "@WeaponsmithingConsumables_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Armor",
+        "ImagePath": "",
+        "DisplayText": "@Armor_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorPlate",
+        "ImagePath": "",
+        "DisplayText": "@ArmorPlate_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorLeather",
+        "ImagePath": "",
+        "DisplayText": "@ArmorLeather_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorCloth",
+        "ImagePath": "",
+        "DisplayText": "@ArmorCloth_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorPlateHeavy",
+        "ImagePath": "",
+        "DisplayText": "@ArmorPlateHeavy_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorFur",
+        "ImagePath": "",
+        "DisplayText": "@ArmorFur_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArmorRobe",
+        "ImagePath": "",
+        "DisplayText": "@ArmorRobe_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "BagsGeneral",
+        "ImagePath": "",
+        "DisplayText": "@BagsGeneral_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Concoctions",
+        "ImagePath": "",
+        "DisplayText": "@Concoctions_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RepairKits",
+        "ImagePath": "",
+        "DisplayText": "@RepairKits_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Seating",
+        "ImagePath": "",
+        "DisplayText": "@Seating_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodTradeskill",
+        "ImagePath": "",
+        "DisplayText": "@FoodTradeskill_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Trinkets",
+        "ImagePath": "",
+        "DisplayText": "@Trinkets_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "T1Meat",
+        "ImagePath": "",
+        "DisplayText": "@T1Meat_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Foods",
+        "ImagePath": "",
+        "DisplayText": "@Foods_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodAttribute",
+        "ImagePath": "",
+        "DisplayText": "@FoodAttribute_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RepairKit",
+        "ImagePath": "",
+        "DisplayText": "@RepairKit_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodIngredient",
+        "ImagePath": "",
+        "DisplayText": "@FoodIngredient_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Fish",
+        "ImagePath": "",
+        "DisplayText": "@Fish_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Bait",
+        "ImagePath": "",
+        "DisplayText": "@Bait_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Flux",
+        "ImagePath": "",
+        "DisplayText": "@Flux_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Solvent",
+        "ImagePath": "",
+        "DisplayText": "@Solvent_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Sandpaper",
+        "ImagePath": "",
+        "DisplayText": "@Sandpaper_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Tannin",
+        "ImagePath": "",
+        "DisplayText": "@Tannin_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Crossweave",
+        "ImagePath": "",
+        "DisplayText": "@Crossweave_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AttributeItem",
+        "ImagePath": "",
+        "DisplayText": "@AttributeItem_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaRefining",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaRefining_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ElementalWisp",
+        "ImagePath": "",
+        "DisplayText": "@ElementalWisp_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ElementalEssence",
+        "ImagePath": "",
+        "DisplayText": "@ElementalEssence_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ElementalQuintessence",
+        "ImagePath": "",
+        "DisplayText": "@ElementalQuintessence_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CraftModRefining",
+        "ImagePath": "",
+        "DisplayText": "@CraftModRefining_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ModsUncommon",
+        "ImagePath": "",
+        "DisplayText": "@ModsUncommon_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ModsRare",
+        "ImagePath": "",
+        "DisplayText": "@ModsRare_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ModsEpic",
+        "ImagePath": "",
+        "DisplayText": "@ModsEpic_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ResourceDowngrade",
+        "ImagePath": "",
+        "DisplayText": "@ResourceDowngrade_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MetalT2",
+        "ImagePath": "Icons/Items/Drawing/ingot",
+        "DisplayText": "@MetalT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MetalT3",
+        "ImagePath": "Icons/Items/Drawing/ingot",
+        "DisplayText": "@MetalT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MetalT4",
+        "ImagePath": "Icons/Items/Drawing/ingot",
+        "DisplayText": "@MetalT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MetalT5",
+        "ImagePath": "Icons/Items/Drawing/ingot",
+        "DisplayText": "@MetalT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TimberT2",
+        "ImagePath": "Icons/Items/Drawing/timber",
+        "DisplayText": "@TimberT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TimberT3",
+        "ImagePath": "Icons/Items/Drawing/timber",
+        "DisplayText": "@TimberT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TimberT4",
+        "ImagePath": "Icons/Items/Drawing/timber",
+        "DisplayText": "@TimberT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TimberT5",
+        "ImagePath": "Icons/Items/Drawing/timber",
+        "DisplayText": "@TimberT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "LeatherT2",
+        "ImagePath": "Icons/Items/Drawing/leather",
+        "DisplayText": "@LeatherT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "LeatherT3",
+        "ImagePath": "Icons/Items/Drawing/leather",
+        "DisplayText": "@LeatherT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "LeatherT4",
+        "ImagePath": "Icons/Items/Drawing/leather",
+        "DisplayText": "@LeatherT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "LeatherT5",
+        "ImagePath": "Icons/Items/Drawing/leather",
+        "DisplayText": "@LeatherT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FurT3",
+        "ImagePath": "Icons/Items/Drawing/beastbonus",
+        "DisplayText": "@FurT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FurT4",
+        "ImagePath": "Icons/Items/Drawing/beastbonus",
+        "DisplayText": "@FurT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FurT5",
+        "ImagePath": "Icons/Items/Drawing/beastbonus",
+        "DisplayText": "@FurT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ClothT2",
+        "ImagePath": "Icons/Items/Drawing/cloth",
+        "DisplayText": "@ClothT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ClothT3",
+        "ImagePath": "Icons/Items/Drawing/cloth",
+        "DisplayText": "@ClothT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ClothT4",
+        "ImagePath": "Icons/Items/Drawing/cloth",
+        "DisplayText": "@ClothT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ClothT5",
+        "ImagePath": "Icons/Items/Drawing/cloth",
+        "DisplayText": "@ClothT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Gemstone",
+        "ImagePath": "Icons/Crafting/icon_crafting_category_resources",
+        "DisplayText": "@Gemstone_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemstoneT1",
+        "ImagePath": "",
+        "DisplayText": "@GemstoneT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemstoneT2",
+        "ImagePath": "",
+        "DisplayText": "@GemstoneT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemstoneT3",
+        "ImagePath": "",
+        "DisplayText": "@GemstoneT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GemstoneT4",
+        "ImagePath": "",
+        "DisplayText": "@GemstoneT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Meats",
+        "ImagePath": "Icons/Items/Drawing/meatCooked",
+        "DisplayText": "@Meats_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MeatT1",
+        "ImagePath": "Icons/Items/Drawing/meatCooked",
+        "DisplayText": "@MeatT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MeatT2",
+        "ImagePath": "Icons/Items/Drawing/meatCooked",
+        "DisplayText": "@MeatT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MeatT3",
+        "ImagePath": "Icons/Items/Drawing/meatCooked",
+        "DisplayText": "@MeatT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MeatT4",
+        "ImagePath": "Icons/Items/Drawing/meatCooked",
+        "DisplayText": "@MeatT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MeatT5",
+        "ImagePath": "Icons/Items/Drawing/meatCooked",
+        "DisplayText": "@MeatT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodIngredientT1",
+        "ImagePath": "",
+        "DisplayText": "@FoodIngredientT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodIngredientT2",
+        "ImagePath": "",
+        "DisplayText": "@FoodIngredientT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodIngredientT3",
+        "ImagePath": "",
+        "DisplayText": "@FoodIngredientT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodIngredientT4",
+        "ImagePath": "",
+        "DisplayText": "@FoodIngredientT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FoodIngredientT5",
+        "ImagePath": "",
+        "DisplayText": "@FoodIngredientT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "VegetableT1",
+        "ImagePath": "Icons/Items/Drawing/vegetableCooked",
+        "DisplayText": "@VegetableT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "VegetableT2",
+        "ImagePath": "Icons/Items/Drawing/vegetableCooked",
+        "DisplayText": "@VegetableT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "VegetableT3",
+        "ImagePath": "Icons/Items/Drawing/vegetableCooked",
+        "DisplayText": "@VegetableT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "VegetableT4",
+        "ImagePath": "Icons/Items/Drawing/vegetableCooked",
+        "DisplayText": "@VegetableT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "VegetableT5",
+        "ImagePath": "Icons/Items/Drawing/vegetableCooked",
+        "DisplayText": "@VegetableT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FruitT1",
+        "ImagePath": "Icons/Items/Drawing/fruitCooked",
+        "DisplayText": "@FruitT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FruitT2",
+        "ImagePath": "Icons/Items/Drawing/fruitCooked",
+        "DisplayText": "@FruitT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FruitT3",
+        "ImagePath": "Icons/Items/Drawing/fruitCooked",
+        "DisplayText": "@FruitT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FruitT4",
+        "ImagePath": "Icons/Items/Drawing/fruitCooked",
+        "DisplayText": "@FruitT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FruitT5",
+        "ImagePath": "Icons/Items/Drawing/fruitCooked",
+        "DisplayText": "@FruitT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GrainT1",
+        "ImagePath": "Icons/Items/Drawing/grainCooked",
+        "DisplayText": "@GrainT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GrainT2",
+        "ImagePath": "Icons/Items/Drawing/grainCooked",
+        "DisplayText": "@GrainT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GrainT3",
+        "ImagePath": "Icons/Items/Drawing/grainCooked",
+        "DisplayText": "@GrainT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GrainT4",
+        "ImagePath": "Icons/Items/Drawing/grainCooked",
+        "DisplayText": "@GrainT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GrainT5",
+        "ImagePath": "Icons/Items/Drawing/grainCooked",
+        "DisplayText": "@GrainT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyEarthT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyEarthT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyEarthT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyEarthT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyEarthT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyEarthT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyEarthT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyEarthT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyFireT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyFireT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyFireT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyFireT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyFireT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyFireT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyFireT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyFireT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyAirT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyAirT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyAirT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyAirT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyAirT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyAirT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyAirT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyAirT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyWaterT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyWaterT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyWaterT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyWaterT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyWaterT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyWaterT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyWaterT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyWaterT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyLifeT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyLifeT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyLifeT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyLifeT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyLifeT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyLifeT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyLifeT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyLifeT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyDeathT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyDeathT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyDeathT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyDeathT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyDeathT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyDeathT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyDeathT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyDeathT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemySpiritT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemySpiritT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemySpiritT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemySpiritT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemySpiritT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemySpiritT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemySpiritT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemySpiritT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaEarthT2",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaEarthT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaEarthT3",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaEarthT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaEarthT4",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaEarthT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaEarthT5",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaEarthT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaFireT2",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaFireT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaFireT3",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaFireT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaFireT4",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaFireT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaFireT5",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaFireT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaAirT2",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaAirT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaAirT3",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaAirT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaAirT4",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaAirT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaAirT5",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaAirT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaWaterT2",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaWaterT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaWaterT3",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaWaterT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaWaterT4",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaWaterT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaWaterT5",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaWaterT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaLifeT2",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaLifeT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaLifeT3",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaLifeT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaLifeT4",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaLifeT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaLifeT5",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaLifeT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaDeathT2",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaDeathT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaDeathT3",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaDeathT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaDeathT4",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaDeathT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaDeathT5",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaDeathT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaSpiritT2",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaSpiritT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaSpiritT3",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaSpiritT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaSpiritT4",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaSpiritT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaSpiritT5",
+        "ImagePath": "",
+        "DisplayText": "@ArcanaSpiritT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyOffensiveT1",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyOffensiveT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyOffensiveT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyOffensiveT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyOffensiveT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyOffensiveT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyOffensiveT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyOffensiveT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyOffensiveT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyOffensiveT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyProtectiveT1",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyProtectiveT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyProtectiveT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyProtectiveT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyProtectiveT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyProtectiveT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyProtectiveT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyProtectiveT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyProtectiveT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyProtectiveT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMedicinalT1",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyMedicinalT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMedicinalT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyMedicinalT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMedicinalT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyMedicinalT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMedicinalT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyMedicinalT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMedicinalT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyMedicinalT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMagicalT1",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyMagicalT1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMagicalT2",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyMagicalT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMagicalT3",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyMagicalT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMagicalT4",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyMagicalT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AlchemyMagicalT5",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyMagicalT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MaterialConversion",
+        "ImagePath": "",
+        "DisplayText": "@MaterialConversion_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RefiningReagentsT3",
+        "ImagePath": "",
+        "DisplayText": "@RefiningReagentsT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RefiningReagentsT4",
+        "ImagePath": "",
+        "DisplayText": "@RefiningReagentsT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RefiningReagentsT5",
+        "ImagePath": "",
+        "DisplayText": "@RefiningReagentsT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Conversion3",
+        "ImagePath": "",
+        "DisplayText": "@Conversion3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Conversion4",
+        "ImagePath": "",
+        "DisplayText": "@Conversion4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Conversion5",
+        "ImagePath": "",
+        "DisplayText": "@Conversion5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FluxReagentsT3",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FluxReagentsT4",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FluxReagentsT5",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SolventReagentsT3",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SolventReagentsT4",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SolventReagentsT5",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TanninReagentsT3",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TanninReagentsT4",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TanninReagentsT5",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ClothWeaveReagentsT3",
+        "ImagePath": "",
+        "DisplayText": "@RefiningReagentsT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ClothWeaveReagentsT4",
+        "ImagePath": "",
+        "DisplayText": "@RefiningReagentsT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ClothWeaveReagentsT5",
+        "ImagePath": "",
+        "DisplayText": "@RefiningReagentsT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SandpaperReagentsT3",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SandpaperReagentsT4",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SandpaperReagentsT5",
+        "ImagePath": "Icons/Items/Drawing/RefiningReagents",
+        "DisplayText": "@RefiningReagentsT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ToolsGathering",
+        "ImagePath": "",
+        "DisplayText": "@ToolsGathering_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonMeleeWeapons",
+        "ImagePath": "",
+        "DisplayText": "@DungeonMeleeWeapons_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonRangedWeapons",
+        "ImagePath": "",
+        "DisplayText": "@DungeonRangedWeapons_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonShields",
+        "ImagePath": "",
+        "DisplayText": "@DungeonShields_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonMagicWeapons",
+        "ImagePath": "",
+        "DisplayText": "@DungeonMagicWeapons_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonHeavyArmor",
+        "ImagePath": "",
+        "DisplayText": "@DungeonHeavyArmor_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonMediumArmor",
+        "ImagePath": "",
+        "DisplayText": "@DungeonMediumArmor_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonLightArmor",
+        "ImagePath": "",
+        "DisplayText": "@DungeonLightArmor_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GauntletIce",
+        "ImagePath": "",
+        "DisplayText": "@GauntletIce_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketBand",
+        "ImagePath": "",
+        "DisplayText": "@TrinketBand_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketSetting",
+        "ImagePath": "",
+        "DisplayText": "@TrinketSetting_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketChain",
+        "ImagePath": "",
+        "DisplayText": "@TrinketChain_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketHook",
+        "ImagePath": "",
+        "DisplayText": "@TrinketHook_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketComponents",
+        "ImagePath": "",
+        "DisplayText": "@TrinketComponents_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketBandT2",
+        "ImagePath": "",
+        "DisplayText": "@TrinketBandT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketBandT3",
+        "ImagePath": "",
+        "DisplayText": "@TrinketBandT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketBandT4",
+        "ImagePath": "",
+        "DisplayText": "@TrinketBandT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketBandT5",
+        "ImagePath": "",
+        "DisplayText": "@TrinketBandT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketChainT2",
+        "ImagePath": "",
+        "DisplayText": "@TrinketChainT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketChainT3",
+        "ImagePath": "",
+        "DisplayText": "@TrinketChainT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketChainT4",
+        "ImagePath": "",
+        "DisplayText": "@TrinketChainT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketChainT5",
+        "ImagePath": "",
+        "DisplayText": "@TrinketChainT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketHookT2",
+        "ImagePath": "",
+        "DisplayText": "@TrinketHookT2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketHookT3",
+        "ImagePath": "",
+        "DisplayText": "@TrinketHookT3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketHookT4",
+        "ImagePath": "",
+        "DisplayText": "@TrinketHookT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketHookT5",
+        "ImagePath": "",
+        "DisplayText": "@TrinketHookT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Books",
+        "ImagePath": "",
+        "DisplayText": "@Books_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReplicas",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReplicas_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps1",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps2",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps3",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps4",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps5",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps6",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps6_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps7",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps7_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps8",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps8_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps9",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps9_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps10",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps10_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Keys",
+        "ImagePath": "",
+        "DisplayText": "@KeyParts_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "KeyParts",
+        "ImagePath": "",
+        "DisplayText": "@Keys_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CorruptedRefining",
+        "ImagePath": "",
+        "DisplayText": "@Refining_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CorruptedRefinement",
+        "ImagePath": "",
+        "DisplayText": "@CorruptedRefinement_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Faction",
+        "ImagePath": "",
+        "DisplayText": "@Faction_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PvPStatSwap",
+        "ImagePath": "",
+        "DisplayText": "@PvPStatSwap_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RecipeFurnishing",
+        "ImagePath": "",
+        "DisplayText": "@RecipeFurnishing_GroupName",
+        "Description": ""
+    }
+]

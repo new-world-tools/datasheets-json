@@ -1,0 +1,178 @@
+[
+    {
+        "AffixID": "RarityLevel1",
+        "DisplayName": "@RarityLevel1_DisplayName",
+        "Category": "Material",
+        "AffixDataWeapon": "AffixWeaponRarityLevel1",
+        "AffixDataArmor": "AffixArmorRarityLevel1",
+        "AffixDataMisc": "",
+        "QualityContribution": 3,
+        "GearScoreContribution": 20,
+        "Rarity": 1
+    },
+    {
+        "AffixID": "RarityLevel2",
+        "DisplayName": "@RarityLevel2_DisplayName",
+        "Category": "Material",
+        "AffixDataWeapon": "AffixWeaponRarityLevel2",
+        "AffixDataArmor": "AffixArmorRarityLevel2",
+        "AffixDataMisc": "",
+        "QualityContribution": 5,
+        "GearScoreContribution": 30,
+        "Rarity": 2
+    },
+    {
+        "AffixID": "RarityLevel3",
+        "DisplayName": "@RarityLevel3_DisplayName",
+        "Category": "Material",
+        "AffixDataWeapon": "AffixWeaponRarityLevel3",
+        "AffixDataArmor": "AffixArmorRarityLevel3",
+        "AffixDataMisc": "",
+        "QualityContribution": 9,
+        "GearScoreContribution": 40,
+        "Rarity": 3
+    },
+    {
+        "AffixID": "EnchantFire1",
+        "DisplayName": "@EnchantFire1_DisplayName",
+        "Category": "Magic",
+        "AffixDataWeapon": "AffixWeaponEnchantFire1",
+        "AffixDataArmor": "",
+        "AffixDataMisc": "",
+        "QualityContribution": null,
+        "GearScoreContribution": 100,
+        "Rarity": null
+    },
+    {
+        "AffixID": "TypeLevel1",
+        "DisplayName": "",
+        "Category": "Type",
+        "AffixDataWeapon": "AffixTypeLevel1",
+        "AffixDataArmor": "AffixTypeLevel1",
+        "AffixDataMisc": "",
+        "QualityContribution": null,
+        "GearScoreContribution": null,
+        "Rarity": null
+    },
+    {
+        "AffixID": "TypeLevel2",
+        "DisplayName": "@TypeLevel2_DisplayName",
+        "Category": "Type",
+        "AffixDataWeapon": "AffixTypeLevel2",
+        "AffixDataArmor": "AffixTypeLevel2",
+        "AffixDataMisc": "AffixTypeLevel2",
+        "QualityContribution": null,
+        "GearScoreContribution": 50,
+        "Rarity": null
+    },
+    {
+        "AffixID": "TypeLevel3",
+        "DisplayName": "@TypeLevel3_DisplayName",
+        "Category": "Type",
+        "AffixDataWeapon": "AffixTypeLevel3",
+        "AffixDataArmor": "AffixTypeLevel3",
+        "AffixDataMisc": "AffixTypeLevel3",
+        "QualityContribution": null,
+        "GearScoreContribution": 65,
+        "Rarity": null
+    },
+    {
+        "AffixID": "TypeLevel4",
+        "DisplayName": "@TypeLevel4_DisplayName",
+        "Category": "Type",
+        "AffixDataWeapon": "AffixTypeLevel4",
+        "AffixDataArmor": "AffixTypeLevel4",
+        "AffixDataMisc": "AffixTypeLevel4",
+        "QualityContribution": null,
+        "GearScoreContribution": 75,
+        "Rarity": null
+    },
+    {
+        "AffixID": "TypeLevel5",
+        "DisplayName": "@TypeLevel5_DisplayName",
+        "Category": "Type",
+        "AffixDataWeapon": "AffixTypeLevel5",
+        "AffixDataArmor": "AffixTypeLevel5",
+        "AffixDataMisc": "AffixTypeLevel5",
+        "QualityContribution": null,
+        "GearScoreContribution": 85,
+        "Rarity": null
+    },
+    {
+        "AffixID": "WornItem",
+        "DisplayName": "@WornItem_DisplayName",
+        "Category": "Type",
+        "AffixDataWeapon": "AffixWornItem",
+        "AffixDataArmor": "AffixWornItem",
+        "AffixDataMisc": "AffixWornItem",
+        "QualityContribution": null,
+        "GearScoreContribution": -90,
+        "Rarity": null
+    },
+    {
+        "AffixID": "Alchemy2",
+        "DisplayName": "Distilled",
+        "Category": "Type",
+        "AffixDataWeapon": "",
+        "AffixDataArmor": "",
+        "AffixDataMisc": "AffixAlchemyConsumable2",
+        "QualityContribution": null,
+        "GearScoreContribution": null,
+        "Rarity": null
+    },
+    {
+        "AffixID": "Alchemy3",
+        "DisplayName": "Concentrated",
+        "Category": "Type",
+        "AffixDataWeapon": "",
+        "AffixDataArmor": "",
+        "AffixDataMisc": "AffixAlchemyConsumable3",
+        "QualityContribution": null,
+        "GearScoreContribution": null,
+        "Rarity": null
+    },
+    {
+        "AffixID": "TypeLevel2Shield",
+        "DisplayName": "@TypeLevel2_DisplayName",
+        "Category": "Type",
+        "AffixDataWeapon": "AffixTypeLevel2Shield",
+        "AffixDataArmor": "AffixTypeLevel2Shield",
+        "AffixDataMisc": "AffixTypeLevel2Shield",
+        "QualityContribution": null,
+        "GearScoreContribution": 50,
+        "Rarity": null
+    },
+    {
+        "AffixID": "TypeLevel3Shield",
+        "DisplayName": "@TypeLevel3_DisplayName",
+        "Category": "Type",
+        "AffixDataWeapon": "AffixTypeLevel3Shield",
+        "AffixDataArmor": "AffixTypeLevel3Shield",
+        "AffixDataMisc": "AffixTypeLevel3Shield",
+        "QualityContribution": null,
+        "GearScoreContribution": 65,
+        "Rarity": null
+    },
+    {
+        "AffixID": "TypeLevel4Shield",
+        "DisplayName": "@TypeLevel4_DisplayName",
+        "Category": "Type",
+        "AffixDataWeapon": "AffixTypeLevel4Shield",
+        "AffixDataArmor": "AffixTypeLevel4Shield",
+        "AffixDataMisc": "AffixTypeLevel4Shield",
+        "QualityContribution": null,
+        "GearScoreContribution": 75,
+        "Rarity": null
+    },
+    {
+        "AffixID": "TypeLevel5Shield",
+        "DisplayName": "@TypeLevel5_DisplayName",
+        "Category": "Type",
+        "AffixDataWeapon": "AffixTypeLevel5Shield",
+        "AffixDataArmor": "AffixTypeLevel5Shield",
+        "AffixDataMisc": "AffixTypeLevel5Shield",
+        "QualityContribution": null,
+        "GearScoreContribution": 85,
+        "Rarity": null
+    }
+]

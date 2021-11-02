@@ -1,0 +1,821 @@
+[
+    {
+        "Rank": 500,
+        "ExceedMax": 5,
+        "FloorDistance": 0,
+        "ChanceToExceed": 0.03,
+        "ChanceBump": 0.0025,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 501,
+        "ExceedMax": 5,
+        "FloorDistance": 1,
+        "ChanceToExceed": 0.03,
+        "ChanceBump": 0.002475,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 502,
+        "ExceedMax": 5,
+        "FloorDistance": 2,
+        "ChanceToExceed": 0.03,
+        "ChanceBump": 0.00245,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 503,
+        "ExceedMax": 5,
+        "FloorDistance": 3,
+        "ChanceToExceed": 0.03,
+        "ChanceBump": 0.002425,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 504,
+        "ExceedMax": 5,
+        "FloorDistance": 4,
+        "ChanceToExceed": 0.03,
+        "ChanceBump": 0.0024,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 505,
+        "ExceedMax": 5,
+        "FloorDistance": 5,
+        "ChanceToExceed": 0.03,
+        "ChanceBump": 0.002375,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 506,
+        "ExceedMax": 5,
+        "FloorDistance": 6,
+        "ChanceToExceed": 0.03,
+        "ChanceBump": 0.00235,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 507,
+        "ExceedMax": 5,
+        "FloorDistance": 7,
+        "ChanceToExceed": 0.03,
+        "ChanceBump": 0.002325,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 508,
+        "ExceedMax": 5,
+        "FloorDistance": 8,
+        "ChanceToExceed": 0.03,
+        "ChanceBump": 0.0023,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 509,
+        "ExceedMax": 5,
+        "FloorDistance": 9,
+        "ChanceToExceed": 0.03,
+        "ChanceBump": 0.002275,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 510,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.00225,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 511,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.002225,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 512,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.0022,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 513,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.002175,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 514,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.00215,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 515,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.002125,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 516,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.0021,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 517,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.002075,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 518,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.00205,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 519,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.002025,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 520,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.002,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 521,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.001975,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 522,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.00195,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 523,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.001925,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 524,
+        "ExceedMax": 5,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.02,
+        "ChanceBump": 0.0019,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 525,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001875,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 526,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.00185,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 527,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001825,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 528,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.0018,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 529,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001775,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 530,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.00175,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 531,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001725,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 532,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.0017,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 533,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001675,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 534,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.00165,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 535,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001625,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 536,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.0016,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 537,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001575,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 538,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.00155,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 539,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001525,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 540,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.0015,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 541,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001475,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 542,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.00145,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 543,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001425,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 544,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.0014,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 545,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001375,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 546,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.00135,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 547,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001325,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 548,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.0013,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 549,
+        "ExceedMax": 4,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.0175,
+        "ChanceBump": 0.001275,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 550,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.00125,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 551,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.001225,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 552,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.0012,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 553,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.001175,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 554,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.00115,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 555,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.001125,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 556,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.0011,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 557,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.001075,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 558,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.00105,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 559,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.001025,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 560,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.001,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 561,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.000975,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 562,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.00095,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 563,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.000925,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 564,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.0009,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 565,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.000875,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 566,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.00085,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 567,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.000825,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 568,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.0008,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 569,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.000775,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 570,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.00075,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 571,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.000725,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 572,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.0007,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 573,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.000675,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 574,
+        "ExceedMax": 3,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.015,
+        "ChanceBump": 0.00065,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 575,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.000625,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 576,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.0006,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 577,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.000575,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 578,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.00055,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 579,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.000525,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 580,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.0005,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 581,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.000475,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 582,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.00045,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 583,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.000425,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 584,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.0004,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 585,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.000375,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 586,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.00035,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 587,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.000325,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 588,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.0003,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 589,
+        "ExceedMax": 2,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.000275,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    },
+    {
+        "Rank": 590,
+        "ExceedMax": 10,
+        "FloorDistance": 10,
+        "ChanceToExceed": 0.01,
+        "ChanceBump": 0.00025,
+        "ModifierAffectsBump": false,
+        "RollupChance": 0.1
+    }
+]

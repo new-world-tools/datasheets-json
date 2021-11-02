@@ -1,0 +1,74 @@
+[
+    {
+        "Rank": 0,
+        "DisplayName": "@ui_camping_reward_tier_0",
+        "MaximumInfluence": 1,
+        "RequiredLevel": "",
+        "InfluenceCost": null,
+        "CurrencyCost": "",
+        "AzothCost": "",
+        "SanityCheck": null,
+        "GameEventId": "",
+        "EntitlementId": ""
+    },
+    {
+        "Rank": 1,
+        "DisplayName": "@ui_camping_reward_tier_1",
+        "MaximumInfluence": 1,
+        "RequiredLevel": "",
+        "InfluenceCost": 1,
+        "CurrencyCost": "",
+        "AzothCost": "",
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": ""
+    },
+    {
+        "Rank": 2,
+        "DisplayName": "@ui_camping_reward_tier_2",
+        "MaximumInfluence": 1,
+        "RequiredLevel": "",
+        "InfluenceCost": 1,
+        "CurrencyCost": "",
+        "AzothCost": "",
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": ""
+    },
+    {
+        "Rank": 3,
+        "DisplayName": "@ui_camping_reward_tier_3",
+        "MaximumInfluence": 1,
+        "RequiredLevel": "",
+        "InfluenceCost": 1,
+        "CurrencyCost": "",
+        "AzothCost": "",
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": ""
+    },
+    {
+        "Rank": 4,
+        "DisplayName": "@ui_camping_reward_tier_4",
+        "MaximumInfluence": 1,
+        "RequiredLevel": "",
+        "InfluenceCost": 1,
+        "CurrencyCost": "",
+        "AzothCost": "",
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": ""
+    },
+    {
+        "Rank": 5,
+        "DisplayName": "@ui_camping_reward_tier_5",
+        "MaximumInfluence": 1,
+        "RequiredLevel": "",
+        "InfluenceCost": 1,
+        "CurrencyCost": "",
+        "AzothCost": "",
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": ""
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "CategoryId": "Boss",
+        "CategoryDamageMod": 2.1,
+        "CategoryHealthMod": 40,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Boss-",
+        "CategoryDamageMod": 1.9,
+        "CategoryHealthMod": 25,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Boss+",
+        "CategoryDamageMod": 2.5,
+        "CategoryHealthMod": 50,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Critter",
+        "CategoryDamageMod": 0.05,
+        "CategoryHealthMod": 0.05,
+        "CategoryDropChanceMod": 0
+    },
+    {
+        "CategoryId": "Dungeon",
+        "CategoryDamageMod": 1.7,
+        "CategoryHealthMod": 4,
+        "CategoryDropChanceMod": 0.1
+    },
+    {
+        "CategoryId": "Dungeon-",
+        "CategoryDamageMod": 1.35,
+        "CategoryHealthMod": 2,
+        "CategoryDropChanceMod": 0.05
+    },
+    {
+        "CategoryId": "Dungeon+",
+        "CategoryDamageMod": 2.05,
+        "CategoryHealthMod": 10,
+        "CategoryDropChanceMod": 0.15
+    },
+    {
+        "CategoryId": "DungeonBoss",
+        "CategoryDamageMod": 2.5,
+        "CategoryHealthMod": 50,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "DungeonMiniBoss",
+        "CategoryDamageMod": 2.25,
+        "CategoryHealthMod": 30,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Elite",
+        "CategoryDamageMod": 1.4,
+        "CategoryHealthMod": 3,
+        "CategoryDropChanceMod": 0.15
+    },
+    {
+        "CategoryId": "Elite-",
+        "CategoryDamageMod": 1.2,
+        "CategoryHealthMod": 1.8,
+        "CategoryDropChanceMod": 0.1
+    },
+    {
+        "CategoryId": "Elite+",
+        "CategoryDamageMod": 1.7,
+        "CategoryHealthMod": 8,
+        "CategoryDropChanceMod": 0.45
+    },
+    {
+        "CategoryId": "EliteMiniBoss",
+        "CategoryDamageMod": 1.9,
+        "CategoryHealthMod": 25,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "EliteBoss",
+        "CategoryDamageMod": 2.1,
+        "CategoryHealthMod": 40,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Named_Solo",
+        "CategoryDamageMod": 1.2,
+        "CategoryHealthMod": 1.5,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Named_Solo+",
+        "CategoryDamageMod": 1.3,
+        "CategoryHealthMod": 2.5,
+        "CategoryDropChanceMod": 0.65
+    },
+    {
+        "CategoryId": "Solo",
+        "CategoryDamageMod": 1,
+        "CategoryHealthMod": 1,
+        "CategoryDropChanceMod": 0.085
+    },
+    {
+        "CategoryId": "Solo-",
+        "CategoryDamageMod": 0.6,
+        "CategoryHealthMod": 0.6,
+        "CategoryDropChanceMod": 0.05
+    },
+    {
+        "CategoryId": "Solo+",
+        "CategoryDamageMod": 1.25,
+        "CategoryHealthMod": 2,
+        "CategoryDropChanceMod": 0.25
+    },
+    {
+        "CategoryId": "OutpostRushSolo",
+        "CategoryDamageMod": 1,
+        "CategoryHealthMod": 1,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "OutpostRushElite",
+        "CategoryDamageMod": 1.25,
+        "CategoryHealthMod": 2.75,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "OutpostRushElite+",
+        "CategoryDamageMod": 3,
+        "CategoryHealthMod": 4.5,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Player",
+        "CategoryDamageMod": 1,
+        "CategoryHealthMod": 1,
+        "CategoryDropChanceMod": 1
+    }
+]
