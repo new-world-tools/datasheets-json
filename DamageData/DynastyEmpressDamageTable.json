@@ -7,7 +7,7 @@
         "Unblockable": null,
         "NoReaction": null,
         "SurfaceImpactEffect": "Bullet",
-        "AttackType": "Ranged",
+        "AttackType": "Light",
         "DamageType": "Corruption",
         "Affixes": "",
         "StatusEffect": "",
@@ -46,7 +46,8 @@
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.25,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Corruption_Blast",
@@ -95,7 +96,8 @@
         "BlockStaminaDmgMod": 1.4,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": true
     },
     {
         "DamageID": "Corruption_Wave",
@@ -105,7 +107,7 @@
         "Unblockable": true,
         "NoReaction": null,
         "SurfaceImpactEffect": "Bullet",
-        "AttackType": "Ranged",
+        "AttackType": "Magic",
         "DamageType": "Corruption",
         "Affixes": "",
         "StatusEffect": "",
@@ -144,7 +146,8 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Pearl_Shot",
@@ -154,7 +157,7 @@
         "Unblockable": null,
         "NoReaction": null,
         "SurfaceImpactEffect": "Bullet",
-        "AttackType": "Ranged",
+        "AttackType": "Light",
         "DamageType": "Corruption",
         "Affixes": "",
         "StatusEffect": "",
@@ -193,7 +196,8 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Pearl_ Sweep",
@@ -242,7 +246,8 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Pearl_ Sweep_Arm",
@@ -291,7 +296,8 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Pearl_ Sweep_Combo",
@@ -340,7 +346,8 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.5,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Dragon_Breath",
@@ -389,7 +396,8 @@
         "BlockStaminaDmgMod": 2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Dragon_Dive",
@@ -438,7 +446,8 @@
         "BlockStaminaDmgMod": 1.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Dragon_Round",
@@ -487,7 +496,8 @@
         "BlockStaminaDmgMod": 2.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Dragon_Breath_Bump",
@@ -536,7 +546,8 @@
         "BlockStaminaDmgMod": 1.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.5,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Intro_Bump",
@@ -585,7 +596,8 @@
         "BlockStaminaDmgMod": 2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.5,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Fall",
@@ -634,7 +646,8 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": null,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "UseAttackerPosForReaction": null
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -683,6 +696,7 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 1
+        "LOSCheckVerticalAngleOffset": 1,
+        "UseAttackerPosForReaction": null
     }
 ]

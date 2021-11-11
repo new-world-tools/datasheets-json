@@ -286,7 +286,7 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": ""
     },
     {
@@ -385,7 +385,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,

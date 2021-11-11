@@ -11,5 +11,18 @@
         "POITag": "DefendObject",
         "RequiredItemId": "",
         "RecommendedLevel": ""
+    },
+    {
+        "TerritoryID": 8102,
+        "NameLocalizationKey": "@objective_quest_encounter",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI\\Images\\Icons\\Objectives\\icon_objective_mapButton.png",
+        "CompassIcon": "LyShineUI\\Images\\Icons\\Objectives\\icon_Objective_Quest.png",
+        "TooltipBackground": "LyShineUI/Images/map/tooltipImages/POI/mapTooltip_darkness_minor_monolith.png",
+        "GroupSize": 0,
+        "POILevel": 0,
+        "POITag": "QuestEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": ""
     }
 ]

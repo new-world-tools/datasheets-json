@@ -39,7 +39,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0901_0101_culldrowned",
@@ -81,7 +82,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0901_0102_campandtools",
@@ -123,7 +125,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0901_0103_boarproblem",
@@ -165,7 +168,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0901_0104_xmarksthespot",
@@ -207,7 +211,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0901_0107_preciouscargo",
@@ -249,7 +254,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0901_0108_introtosettlement",
@@ -291,7 +297,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0925_0101_truffles",
@@ -333,7 +340,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0904_01a01_warnmagistrate",
@@ -375,7 +383,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0902_0101_hearthandhome",
@@ -417,7 +426,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0902_0102_intrototrader",
@@ -459,7 +469,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0902_0103_introtooverseer",
@@ -501,7 +512,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0904_0104_overseersettlement",
@@ -543,7 +555,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0904_0103_introtoartificer",
@@ -585,7 +598,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0905_0101_craftforartificer",
@@ -627,7 +641,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0905_0102_campingunlock",
@@ -669,7 +684,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0903_0201_survivalistquest",
@@ -707,11 +723,55 @@
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": null,
+        "ReleaseEventTags": "HFR",
+        "ReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
+    },
+    {
+        "ObjectiveID": "0903_0201_survivalistquest_V2",
+        "Type": "MainStoryQuest",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "0903_0201_d_00_container_survivalistquest_V2",
+        "NpcDestinationId": "0903_Survivalist",
+        "ExclusiveTerritory": 9,
+        "AchievementId": "S_magistratequest",
+        "RequiredAchievementId": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "SuccessGameEventId": "0903_0201_survivalistquest_V2_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": "",
+        "ShouldResetOnFactionChange": null,
+        "Repeatable": null,
+        "CanBeAbandoned": false,
+        "Title": "@0903_0201_survivalistquest_objective_title",
+        "Description": "@0903_0201_survivalistquest_objective_desc",
+        "PlayerPrompt": "@0903_0201_survivalistquest_start_prompt",
+        "ObjectiveProposalResponse": "@0903_0201_survivalistquest_proposal",
+        "InProgressResponse": "@0903_0201_survivalistquest_incomplete",
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "DestinationCompletionAvailableResponse": "@0903_0201_survivalistquest_complete_availaible_response",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0903_0202_returntomagistrate",
@@ -753,7 +813,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0902_0202_introtoallfactions",
@@ -795,7 +856,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0907_0101_marauderquest1",
@@ -837,7 +899,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0908_0101_syndicatequest1",
@@ -879,7 +942,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0909_0101_covenantquest1",
@@ -921,7 +985,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0909_0103_timetochoose",
@@ -963,7 +1028,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0902_0401_factionhandoff",
@@ -1005,7 +1071,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0904_0501_encroachingcorruption",
@@ -1047,7 +1114,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0910_0101_laidtorest",
@@ -1089,7 +1157,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FirstLightArc1"
+        "QuestArcTag": "FirstLightArc1",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0903_0301_avoidopenflame",
@@ -1131,7 +1200,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0910_0102_distillation",
@@ -1173,7 +1243,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FirstLightArc1"
+        "QuestArcTag": "FirstLightArc1",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0904_0201_minerrequisition",
@@ -1215,7 +1286,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0905_0302_theoryoldworld",
@@ -1257,7 +1329,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0905_0301_evolutioncorruption_pt1",
@@ -1299,7 +1372,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FirstLightArc1"
+        "QuestArcTag": "FirstLightArc1",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0902_0501_discardedmemories",
@@ -1341,7 +1415,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0905_0305_evolutioncorruption_pt3",
@@ -1383,7 +1458,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FirstLightArc1"
+        "QuestArcTag": "FirstLightArc1",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0902_0502_errorofways",
@@ -1425,7 +1501,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FirstLightArc3"
+        "QuestArcTag": "FirstLightArc3",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0904_0301_muzzleorthrus",
@@ -1467,7 +1544,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FirstLightArc3"
+        "QuestArcTag": "FirstLightArc3",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0903_0401_skininthegame",
@@ -1509,7 +1587,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0902_0503_abandonedresearch",
@@ -1551,7 +1630,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0904_0302_snuffingcandle",
@@ -1593,7 +1673,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0905_0306_brightazothflame",
@@ -1635,7 +1716,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0902_0601_dispatchtothefront",
@@ -1677,7 +1759,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FirstLightArc2"
+        "QuestArcTag": "FirstLightArc2",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0910_0201_zoneofcontrol",
@@ -1719,7 +1802,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0904_0303_curseebonyhawk",
@@ -1761,7 +1845,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FirstLightArc2"
+        "QuestArcTag": "FirstLightArc2",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0905_0307_evolutioncorruption_pt4",
@@ -1803,7 +1888,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FirstLightArc1"
+        "QuestArcTag": "FirstLightArc1",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0904_0801_reassuringmagistrate",
@@ -1845,7 +1931,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0905_0701_artificersgratitude",
@@ -1887,7 +1974,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FirstLightArc1"
+        "QuestArcTag": "FirstLightArc1",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0904_0901_TheHermitFL",
@@ -1929,7 +2017,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0922_1501_intrototravel",
@@ -1971,7 +2060,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0922_1502_returntravel",
@@ -2013,7 +2103,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0901_objective",
@@ -2055,7 +2146,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0902_objective",
@@ -2097,7 +2189,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0903_objective",
@@ -2139,7 +2232,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0904_objective",
@@ -2181,7 +2275,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0905_objective",
@@ -2223,7 +2318,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0906_objective",
@@ -2265,7 +2361,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0907_objective",
@@ -2307,7 +2404,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0901_objective",
@@ -2349,7 +2447,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0902_objective",
@@ -2391,7 +2490,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0903_objective",
@@ -2433,7 +2533,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0904_objective",
@@ -2475,7 +2576,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0905_objective",
@@ -2517,7 +2619,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0906_objective",
@@ -2559,7 +2662,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0907_objective",
@@ -2601,7 +2705,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0901_objective",
@@ -2643,7 +2748,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0902_objective",
@@ -2685,7 +2791,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0903_objective",
@@ -2727,7 +2834,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0904_objective",
@@ -2769,7 +2877,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0905_objective",
@@ -2811,7 +2920,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0906_objective",
@@ -2853,7 +2963,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0907_objective",
@@ -2895,7 +3006,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0930_objective",
@@ -2937,7 +3049,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0931_objective",
@@ -2979,7 +3092,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0932_objective",
@@ -3021,7 +3135,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0933_objective",
@@ -3063,7 +3178,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0934_objective",
@@ -3105,7 +3221,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0935_objective",
@@ -3147,7 +3264,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0936_objective",
@@ -3189,7 +3307,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0960_objective",
@@ -3231,7 +3350,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0961_objective",
@@ -3273,7 +3393,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0962_objective",
@@ -3315,7 +3436,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0963_objective",
@@ -3357,7 +3479,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0964_objective",
@@ -3399,7 +3522,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0965_objective",
@@ -3441,7 +3565,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0966_objective",
@@ -3483,7 +3608,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0960_objective",
@@ -3525,7 +3651,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0961_objective",
@@ -3567,7 +3694,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0962_objective",
@@ -3609,7 +3737,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0963_objective",
@@ -3651,7 +3780,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0964_objective",
@@ -3693,7 +3823,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0965_objective",
@@ -3735,7 +3866,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0966_objective",
@@ -3777,7 +3909,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0960_objective",
@@ -3819,7 +3952,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0961_objective",
@@ -3861,7 +3995,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0962_objective",
@@ -3903,7 +4038,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0963_objective",
@@ -3945,7 +4081,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0964_objective",
@@ -3987,7 +4124,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0965_objective",
@@ -4029,7 +4167,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0966_objective",
@@ -4071,7 +4210,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_H_01_objective",
@@ -4113,7 +4253,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_H_02_objective",
@@ -4155,7 +4296,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_H_03_objective",
@@ -4197,7 +4339,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_PVP_Area1_Syndicate_objective",
@@ -4239,7 +4382,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_PVP_Area2_Syndicate_objective",
@@ -4281,7 +4425,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_PVP_Area3_Syndicate_objective",
@@ -4323,7 +4468,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_PVP_Area1_Marauder_objective",
@@ -4365,7 +4511,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_PVP_Area2_Marauder_objective",
@@ -4407,7 +4554,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_PVP_Area3_Marauder_objective",
@@ -4449,7 +4597,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_PVP_Area1_Covenant_objective",
@@ -4491,7 +4640,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_PVP_Area2_Covenant_objective",
@@ -4533,7 +4683,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_PVP_Area3_Covenant_objective",
@@ -4575,7 +4726,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_09_PVP_PK_Marauder_objective",
@@ -4617,6 +4769,7 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     }
 ]

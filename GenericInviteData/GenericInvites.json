@@ -9,10 +9,11 @@
         "FactionType": "",
         "MinDistance": "",
         "MaxDistance": 10,
-        "InSanctuary": false,
-        "InGameMode": false,
-        "InWar": false,
-        "InArena": false
+        "AllowInSanctuary": false,
+        "AllowInFtue": false,
+        "AllowInWar": false,
+        "AllowInArena": false,
+        "DisallowInGameModes": "Dungeon,OutpostRush,Duel,"
     },
     {
         "ActivityCrc": "Trade",
@@ -24,9 +25,10 @@
         "FactionType": "",
         "MinDistance": "",
         "MaxDistance": 10,
-        "InSanctuary": true,
-        "InGameMode": false,
-        "InWar": false,
-        "InArena": false
+        "AllowInSanctuary": true,
+        "AllowInFtue": false,
+        "AllowInWar": false,
+        "AllowInArena": false,
+        "DisallowInGameModes": "OutpostRush,Duel,"
     }
 ]

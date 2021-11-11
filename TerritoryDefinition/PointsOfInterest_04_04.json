@@ -25,9 +25,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "31-55",
         "Containers": 8,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_fortress11.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40402,
@@ -55,9 +56,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "31-55",
         "Containers": 8,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_fortress8.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40403,
@@ -85,9 +87,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "31-55",
         "Containers": 8,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_fortress5.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40404,
@@ -115,9 +118,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "31-55",
         "Containers": 8,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_fortress15.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40405,
@@ -128,7 +132,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/military_camp_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 250,
+        "DiscoveryRadius": 375,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -145,9 +149,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "25-55",
         "Containers": 11,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_SvikinsStand.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40406,
@@ -177,7 +182,8 @@
         "Containers": 0,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40407,
@@ -188,7 +194,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_shrine_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 600,
+        "DiscoveryRadius": 375,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -205,9 +211,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "31-65",
         "Containers": 41,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_GreaterTribulation.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40408,
@@ -216,9 +223,9 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Fort_elite.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandonedcity_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 350,
+        "DiscoveryRadius": 600,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -235,9 +242,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "33-55",
         "Containers": 30,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_Caminus.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40409,
@@ -248,7 +256,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/outpost_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 200,
+        "DiscoveryRadius": 375,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -265,9 +273,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_TheTangle.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40410,
@@ -278,7 +287,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/damnedcapitalcity_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 200,
+        "DiscoveryRadius": 375,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -295,9 +304,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_Opulence.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40411,
@@ -308,7 +318,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandonedcity_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 200,
+        "DiscoveryRadius": 375,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -325,9 +335,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_UpperHarrow.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40412,
@@ -336,9 +347,9 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/graveyard_elite.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/cathedral_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 200,
+        "DiscoveryRadius": 600,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -355,9 +366,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_MyrkgardCathedral.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40413,
@@ -366,7 +378,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_sm.png",
+        "MapIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\Ore.png",
         "CompassIcon": "",
         "DiscoveryRadius": 1000,
         "IsDiscoverable": true,
@@ -387,7 +399,8 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40414,
@@ -396,7 +409,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_sm.png",
+        "MapIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\Ore.png",
         "CompassIcon": "",
         "DiscoveryRadius": 1000,
         "IsDiscoverable": true,
@@ -417,7 +430,8 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40415,
@@ -447,7 +461,8 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40416,
@@ -477,7 +492,8 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40417,
@@ -505,9 +521,10 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_fortress9.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40418,
@@ -537,7 +554,8 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40419,
@@ -548,7 +566,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Mine_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 200,
+        "DiscoveryRadius": 375,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -565,9 +583,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_AmbustiInferior.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40420,
@@ -578,7 +597,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Mine_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 200,
+        "DiscoveryRadius": 600,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -595,9 +614,10 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_AmbustiSuperior.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40421,
@@ -625,9 +645,10 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40422,
@@ -657,7 +678,8 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40423,
@@ -687,7 +709,8 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40424,
@@ -717,7 +740,8 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
     },
     {
         "TerritoryID": 40425,
@@ -728,7 +752,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -747,6 +771,38 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": ""
+    },
+    {
+        "TerritoryID": 40426,
+        "NameLocalizationKey": "@ui_poi_yeti_40426",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/cave.png",
+        "CompassIcon": "",
+        "DiscoveryRadius": 150,
+        "IsDiscoverable": true,
+        "IsChartable": true,
+        "DefaultAchievement": null,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "yeti_40426_discovered",
+        "ChartedAchievement": "yeti_40426_charted",
+        "POITag": "yeti_40426",
+        "AudioGroup": "Music_POI",
+        "AudioState": "cave_ice",
+        "CanPlaceCamp": false,
+        "DevName": "",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": null,
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_icecave.png",
+        "GameMode": "",
+        "GroupSize": null,
+        "RecommendedLevel": ""
     }
 ]

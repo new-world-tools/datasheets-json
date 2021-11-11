@@ -21,7 +21,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 9,
+        "MarkerRadius": 9.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -46,7 +46,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 7,
+        "MarkerRadius": 7.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -71,7 +71,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 7,
+        "MarkerRadius": 7.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -96,7 +96,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 6,
+        "MarkerRadius": 7.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -121,7 +121,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 5.5,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -146,7 +146,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 5.5,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -171,7 +171,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 5.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -196,7 +196,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 4,
+        "MarkerRadius": 5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -221,7 +221,232 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 5,
+        "AllowGatheringInGameModes": ""
+    },
+    {
+        "VariantID": "Boulder_Desert_lg_a",
+        "StartMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_lg_a.cgf",
+        "StartMat": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Lg_A_mat.mtl",
+        "GatherableEntryID": "BoulderLarge",
+        "GatheringRadius": 4,
+        "InteractionRadius": 6.5,
+        "DetectableRadius": 6,
+        "DepletedSFX": "Play_Gather_Boulder_Lrg",
+        "IdleSFX": "",
+        "AudioPreloadName": "",
+        "IdleVFX": "",
+        "DepletedVFX": "Gatherable_Mineral.Demolish.Boulder_lg_A",
+        "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_lg_frag_a.cgf",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Lg_A_mat.mtl",
+        "VegAreaClearRadius": 4.5,
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "ShowOnCompass": null,
+        "CompassIcon": "",
+        "TradeskillIconUnlockType": "",
+        "AcceptSnow": false,
+        "MarkerRadius": 9.5,
+        "AllowGatheringInGameModes": ""
+    },
+    {
+        "VariantID": "Boulder_Desert_lg_b",
+        "StartMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_lg_b.cgf",
+        "StartMat": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Lg_B_mat.mtl",
+        "GatherableEntryID": "BoulderLarge",
+        "GatheringRadius": 3,
+        "InteractionRadius": 4.5,
+        "DetectableRadius": 4,
+        "DepletedSFX": "Play_Gather_Boulder_Lrg",
+        "IdleSFX": "",
+        "AudioPreloadName": "",
+        "IdleVFX": "",
+        "DepletedVFX": "Gatherable_Mineral.Demolish.Boulder_lg_B",
+        "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_lg_frag_b.cgf",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Lg_B_mat.mtl",
+        "VegAreaClearRadius": 3.6,
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "ShowOnCompass": null,
+        "CompassIcon": "",
+        "TradeskillIconUnlockType": "",
+        "AcceptSnow": false,
+        "MarkerRadius": 7.5,
+        "AllowGatheringInGameModes": ""
+    },
+    {
+        "VariantID": "Boulder_Desert_lg_c",
+        "StartMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_lg_c.cgf",
+        "StartMat": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Lg_C_mat.mtl",
+        "GatherableEntryID": "BoulderLarge",
+        "GatheringRadius": 3,
+        "InteractionRadius": 4.5,
+        "DetectableRadius": 4,
+        "DepletedSFX": "Play_Gather_Boulder_Lrg",
+        "IdleSFX": "",
+        "AudioPreloadName": "",
+        "IdleVFX": "",
+        "DepletedVFX": "Gatherable_Mineral.Demolish.Boulder_lg_C",
+        "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_lg_frag_c.cgf",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Lg_C_mat.mtl",
+        "VegAreaClearRadius": 3.2,
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "ShowOnCompass": null,
+        "CompassIcon": "",
+        "TradeskillIconUnlockType": "",
+        "AcceptSnow": false,
+        "MarkerRadius": 7.5,
+        "AllowGatheringInGameModes": ""
+    },
+    {
+        "VariantID": "Boulder_Desert_md_a",
+        "StartMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_md_a.cgf",
+        "StartMat": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Md_A_mat.mtl",
+        "GatherableEntryID": "BoulderMedium",
+        "GatheringRadius": 1.75,
+        "InteractionRadius": 4.5,
+        "DetectableRadius": 3,
+        "DepletedSFX": "Play_Gather_Boulder_Med",
+        "IdleSFX": "",
+        "AudioPreloadName": "",
+        "IdleVFX": "",
+        "DepletedVFX": "Gatherable_Mineral.Demolish.Boulder_md_A",
+        "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_md_frag_a.cgf",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Md_A_mat.mtl",
+        "VegAreaClearRadius": 3.1,
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "ShowOnCompass": null,
+        "CompassIcon": "",
+        "TradeskillIconUnlockType": "",
+        "AcceptSnow": false,
+        "MarkerRadius": 7.5,
+        "AllowGatheringInGameModes": ""
+    },
+    {
+        "VariantID": "Boulder_Desert_md_b",
+        "StartMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_md_b.cgf",
+        "StartMat": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Md_B_mat.mtl",
+        "GatherableEntryID": "BoulderMedium",
+        "GatheringRadius": 1.35,
+        "InteractionRadius": 3,
+        "DetectableRadius": 2.5,
+        "DepletedSFX": "Play_Gather_Boulder_Med",
+        "IdleSFX": "",
+        "AudioPreloadName": "",
+        "IdleVFX": "",
+        "DepletedVFX": "Gatherable_Mineral.Demolish.Boulder_md_B",
+        "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_md_frag_b.cgf",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Md_B_mat.mtl",
+        "VegAreaClearRadius": 2.4,
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "ShowOnCompass": null,
+        "CompassIcon": "",
+        "TradeskillIconUnlockType": "",
+        "AcceptSnow": false,
+        "MarkerRadius": 6,
+        "AllowGatheringInGameModes": ""
+    },
+    {
+        "VariantID": "Boulder_Desert_md_c",
+        "StartMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_md_c.cgf",
+        "StartMat": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Md_C_mat.mtl",
+        "GatherableEntryID": "BoulderMedium",
+        "GatheringRadius": 1.35,
+        "InteractionRadius": 3,
+        "DetectableRadius": 2.5,
+        "DepletedSFX": "Play_Gather_Boulder_Med",
+        "IdleSFX": "",
+        "AudioPreloadName": "",
+        "IdleVFX": "",
+        "DepletedVFX": "Gatherable_Mineral.Demolish.Boulder_md_C",
+        "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_md_frag_c.cgf",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Md_C_mat.mtl",
+        "VegAreaClearRadius": 2.1,
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "ShowOnCompass": null,
+        "CompassIcon": "",
+        "TradeskillIconUnlockType": "",
+        "AcceptSnow": false,
+        "MarkerRadius": 6,
+        "AllowGatheringInGameModes": ""
+    },
+    {
+        "VariantID": "Boulder_Desert_sm_a",
+        "StartMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_sm_a.cgf",
+        "StartMat": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Sm_A_mat.mtl",
+        "GatherableEntryID": "BoulderSmall",
+        "GatheringRadius": 0.95,
+        "InteractionRadius": 2.5,
+        "DetectableRadius": 1.5,
+        "DepletedSFX": "Play_Gather_Boulder_Sml",
+        "IdleSFX": "",
+        "AudioPreloadName": "",
+        "IdleVFX": "",
+        "DepletedVFX": "Gatherable_Mineral.Demolish.Boulder_sm_A",
+        "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_sm_frag_a.cgf",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Sm_A_mat.mtl",
+        "VegAreaClearRadius": 1.2,
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "ShowOnCompass": null,
+        "CompassIcon": "",
+        "TradeskillIconUnlockType": "",
+        "AcceptSnow": false,
+        "MarkerRadius": 5.5,
+        "AllowGatheringInGameModes": ""
+    },
+    {
+        "VariantID": "Boulder_Desert_sm_b",
+        "StartMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_sm_b.cgf",
+        "StartMat": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Sm_B_mat.mtl",
+        "GatherableEntryID": "BoulderSmall",
+        "GatheringRadius": 0.65,
+        "InteractionRadius": 2,
+        "DetectableRadius": 1,
+        "DepletedSFX": "Play_Gather_Boulder_Sml",
+        "IdleSFX": "",
+        "AudioPreloadName": "",
+        "IdleVFX": "",
+        "DepletedVFX": "Gatherable_Mineral.Demolish.Boulder_sm_B",
+        "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_sm_frag_b.cgf",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Sm_B_mat.mtl",
+        "VegAreaClearRadius": 0.9,
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "ShowOnCompass": null,
+        "CompassIcon": "",
+        "TradeskillIconUnlockType": "",
+        "AcceptSnow": false,
+        "MarkerRadius": 5,
+        "AllowGatheringInGameModes": ""
+    },
+    {
+        "VariantID": "Boulder_Desert_sm_c",
+        "StartMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_sm_c.cgf",
+        "StartMat": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Sm_C_mat.mtl",
+        "GatherableEntryID": "BoulderSmall",
+        "GatheringRadius": 0.85,
+        "InteractionRadius": 2,
+        "DetectableRadius": 1.5,
+        "DepletedSFX": "Play_Gather_Boulder_Sml",
+        "IdleSFX": "",
+        "AudioPreloadName": "",
+        "IdleVFX": "",
+        "DepletedVFX": "Gatherable_Mineral.Demolish.Boulder_sm_C",
+        "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_sm_frag_c.cgf",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Boulders\\Boulders_Desert\\JAV_Fst_Boulder_Sm_C_mat.mtl",
+        "VegAreaClearRadius": 1.5,
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "ShowOnCompass": null,
+        "CompassIcon": "",
+        "TradeskillIconUnlockType": "",
+        "AcceptSnow": false,
+        "MarkerRadius": 5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -238,7 +463,7 @@
         "IdleVFX": "",
         "DepletedVFX": "Gatherable_Mineral.Demolish.Lodestone_A",
         "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_sm_frag_a.cgf",
-        "DepletedMaterial": "",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Veins\\Veins_Starmetal\\jav_boulder_lodestone_a_mat.mtl",
         "VegAreaClearRadius": 1.2,
         "StartMeshLOD": 100,
         "EndMeshLOD": 100,
@@ -246,7 +471,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Lodestone_Compass.png",
         "TradeskillIconUnlockType": "Lodestone",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -263,7 +488,7 @@
         "IdleVFX": "",
         "DepletedVFX": "Gatherable_Mineral.Demolish.Lodestone_B",
         "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_sm_frag_b.cgf",
-        "DepletedMaterial": "",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Veins\\Veins_Starmetal\\jav_boulder_lodestone_b_mat.mtl",
         "VegAreaClearRadius": 0.9,
         "StartMeshLOD": 100,
         "EndMeshLOD": 100,
@@ -271,7 +496,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Lodestone_Compass.png",
         "TradeskillIconUnlockType": "Lodestone",
         "AcceptSnow": false,
-        "MarkerRadius": 4,
+        "MarkerRadius": 5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -288,7 +513,7 @@
         "IdleVFX": "",
         "DepletedVFX": "Gatherable_Mineral.Demolish.Lodestone_C",
         "DepletedMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Forest\\jav_fst_boulder_sm_frag_c.cgf",
-        "DepletedMaterial": "",
+        "DepletedMaterial": "Objects\\Nature\\Rock_Veins\\Veins_Starmetal\\jav_boulder_lodestone_c_mat.mtl",
         "VegAreaClearRadius": 1.5,
         "StartMeshLOD": 100,
         "EndMeshLOD": 100,
@@ -296,7 +521,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Lodestone_Compass.png",
         "TradeskillIconUnlockType": "Lodestone",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -321,7 +546,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 15,
+        "MarkerRadius": 6.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -346,7 +571,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 15,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -371,7 +596,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 15,
+        "MarkerRadius": 5.75,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -396,7 +621,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 15,
+        "MarkerRadius": 5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -421,7 +646,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 15,
+        "MarkerRadius": 4.85,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -446,7 +671,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": true,
-        "MarkerRadius": 15,
+        "MarkerRadius": 5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -471,7 +696,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Oil_Compass.png",
         "TradeskillIconUnlockType": "Oil",
         "AcceptSnow": true,
-        "MarkerRadius": 7,
+        "MarkerRadius": 7.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -496,7 +721,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Oil_Compass.png",
         "TradeskillIconUnlockType": "Oil",
         "AcceptSnow": true,
-        "MarkerRadius": 6.5,
+        "MarkerRadius": 6.75,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -521,7 +746,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Oil_Compass.png",
         "TradeskillIconUnlockType": "Oil",
         "AcceptSnow": true,
-        "MarkerRadius": 6,
+        "MarkerRadius": 5.75,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -546,7 +771,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": true,
-        "MarkerRadius": 8,
+        "MarkerRadius": 4.8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -571,7 +796,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": true,
-        "MarkerRadius": 8,
+        "MarkerRadius": 4.8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -596,7 +821,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": true,
-        "MarkerRadius": 8,
+        "MarkerRadius": 4.8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -621,7 +846,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": true,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 5.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -646,7 +871,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": true,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -671,7 +896,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": true,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 4.8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -696,7 +921,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Gold_Compass.png",
         "TradeskillIconUnlockType": "Gold",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -721,7 +946,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Gold_Compass.png",
         "TradeskillIconUnlockType": "Gold",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -746,7 +971,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Gold_Compass.png",
         "TradeskillIconUnlockType": "Gold",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -771,7 +996,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Iron_Compass.png",
         "TradeskillIconUnlockType": "Iron",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -796,7 +1021,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Iron_Compass.png",
         "TradeskillIconUnlockType": "Iron",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -821,7 +1046,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Iron_Compass.png",
         "TradeskillIconUnlockType": "Iron",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -846,7 +1071,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silver_Compass.png",
         "TradeskillIconUnlockType": "Silver",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -871,7 +1096,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silver_Compass.png",
         "TradeskillIconUnlockType": "Silver",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -896,7 +1121,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silver_Compass.png",
         "TradeskillIconUnlockType": "Silver",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -921,7 +1146,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Starmetal",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -946,7 +1171,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Starmetal",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -971,7 +1196,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Starmetal",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -996,7 +1221,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Orichalcum_Compass.png",
         "TradeskillIconUnlockType": "Orichalcum",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1004,7 +1229,7 @@
         "StartMesh": "Objects\\Nature\\Rock_Veins\\Veins_Gold\\jav_fst_vein_gold_b.cgf",
         "StartMat": "Objects\\Nature\\Rock_Veins\\Veins_Starmetal\\jav_boulder_orichalcum_a_mat.mtl",
         "GatherableEntryID": "OreVeinOrichalcumMedium",
-        "GatheringRadius": 0.8,
+        "GatheringRadius": 2,
         "InteractionRadius": 4,
         "DetectableRadius": 1.5,
         "DepletedSFX": "Play_Gather_Boulder_Med",
@@ -1021,7 +1246,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Orichalcum_Compass.png",
         "TradeskillIconUnlockType": "Orichalcum",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1046,7 +1271,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Orichalcum_Compass.png",
         "TradeskillIconUnlockType": "Orichalcum",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1096,7 +1321,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Orichalcum_Compass.png",
         "TradeskillIconUnlockType": "Orichalcum",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1121,7 +1346,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": true,
-        "MarkerRadius": 5,
+        "MarkerRadius": 5.25,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1146,7 +1371,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": true,
-        "MarkerRadius": 4.8,
+        "MarkerRadius": 4.95,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1171,7 +1396,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": true,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 4.85,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1196,7 +1421,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Platinum",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1221,7 +1446,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Platinum",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1246,7 +1471,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Platinum",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1271,7 +1496,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1296,7 +1521,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Orichalcum_Compass.png",
         "TradeskillIconUnlockType": "Orichalcum",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1321,7 +1546,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Starmetal",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": "OutpostRush"
     },
     {
@@ -1346,7 +1571,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Starmetal",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": "OutpostRush"
     },
     {
@@ -1371,7 +1596,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Starmetal",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": "OutpostRush"
     },
     {
@@ -1396,7 +1621,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silver_Compass.png",
         "TradeskillIconUnlockType": "Silver",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1421,7 +1646,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silver_Compass.png",
         "TradeskillIconUnlockType": "Silver",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1446,7 +1671,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Lodestone_Compass.png",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1471,7 +1696,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 9,
+        "MarkerRadius": 9.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1496,7 +1721,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 7,
+        "MarkerRadius": 7.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1521,7 +1746,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 9,
+        "MarkerRadius": 9.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1546,7 +1771,7 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "AcceptSnow": false,
-        "MarkerRadius": 7,
+        "MarkerRadius": 7.5,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1571,7 +1796,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Gold_Compass.png",
         "TradeskillIconUnlockType": "Gold",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1596,7 +1821,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Gold_Compass.png",
         "TradeskillIconUnlockType": "Gold",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1621,7 +1846,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Gold_Compass.png",
         "TradeskillIconUnlockType": "Gold",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1646,7 +1871,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Iron_Compass.png",
         "TradeskillIconUnlockType": "Iron",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1671,7 +1896,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Iron_Compass.png",
         "TradeskillIconUnlockType": "Iron",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1696,7 +1921,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Iron_Compass.png",
         "TradeskillIconUnlockType": "Iron",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1721,7 +1946,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Starmetal",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1746,7 +1971,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Starmetal",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1771,7 +1996,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Starmetal",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1796,7 +2021,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Orichalcum_Compass.png",
         "TradeskillIconUnlockType": "Orichalcum",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1821,7 +2046,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Orichalcum_Compass.png",
         "TradeskillIconUnlockType": "Orichalcum",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1846,7 +2071,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Orichalcum_Compass.png",
         "TradeskillIconUnlockType": "Orichalcum",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1871,7 +2096,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Platinum",
         "AcceptSnow": false,
-        "MarkerRadius": 5.2,
+        "MarkerRadius": 8,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1896,7 +2121,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Platinum",
         "AcceptSnow": false,
-        "MarkerRadius": 4.5,
+        "MarkerRadius": 7,
         "AllowGatheringInGameModes": ""
     },
     {
@@ -1921,7 +2146,7 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Starmetal_Compass.png",
         "TradeskillIconUnlockType": "Platinum",
         "AcceptSnow": false,
-        "MarkerRadius": 4.25,
+        "MarkerRadius": 6,
         "AllowGatheringInGameModes": ""
     }
 ]

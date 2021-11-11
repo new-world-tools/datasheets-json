@@ -1,5 +1,47 @@
 [
     {
+        "ObjectiveID": "9901_0008_oldstoneremembers_v2",
+        "Type": "MainStoryQuest",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": "",
+        "CanBeShared": "",
+        "CanFastTravel": "",
+        "Task": "9901_0008_d_00_container_oldstoneremembers_v2",
+        "NpcDestinationId": "9901_MSQ_Yonas",
+        "ExclusiveTerritory": "",
+        "AchievementId": "99_MSQ_8",
+        "RequiredAchievementId": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "SuccessGameEventId": "9901_0008_oldstoneremembers_v2_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": "",
+        "Repeatable": "",
+        "CanBeAbandoned": false,
+        "Title": "@9901_0008_oldstoneremembers_objective_title",
+        "Description": "@9901_0008_oldstoneremembers_objective_desc",
+        "PlayerPrompt": "@9901_0008_oldstoneremembers_start_prompt",
+        "ObjectiveProposalResponse": "@9901_0008_oldstoneremembers_proposal",
+        "InProgressResponse": "@9901_0008_oldstoneremembers_incomplete",
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "DestinationCompletionAvailableResponse": "@9901_0008_oldstoneremembers_complete_available_response",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": null,
+        "ReleaseEventTags": "",
+        "ReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
+    },
+    {
         "ObjectiveID": "9901_0008_oldstoneremembers",
         "Type": "MainStoryQuest",
         "Difficulty": "",
@@ -33,12 +75,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0008_oldstoneremembers_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
-        "ReleaseEventTags": "",
+        "HideIncompleteTurninMarker": null,
+        "ReleaseEventTags": "HFR",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0009_thetower",
@@ -74,12 +117,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0009_thetower_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0010_inthequiet",
@@ -115,12 +159,55 @@
         "DestinationCompletionAvailableResponse": "@9901_0010_inthequiet_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
+    },
+    {
+        "ObjectiveID": "9901_0011_afreshsoul_V2",
+        "Type": "MainStoryQuest",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": "",
+        "CanBeShared": "",
+        "CanFastTravel": "",
+        "Task": "9901_0011_d_00_container_afreshsoul_V2",
+        "NpcDestinationId": "9901_MSQ_Yonas",
+        "ExclusiveTerritory": "",
+        "AchievementId": "99_MSQ_11",
+        "RequiredAchievementId": "99_MSQ_10",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "SuccessGameEventId": "9901_0011_afreshsoul_V2_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": "",
+        "Repeatable": "",
+        "CanBeAbandoned": false,
+        "Title": "@9901_0011_afreshsoul_objective_title",
+        "Description": "@9901_0011_afreshsoul_objective_desc",
+        "PlayerPrompt": "@9901_0011_afreshsoul_start_prompt",
+        "ObjectiveProposalResponse": "@9901_0011_afreshsoul_proposal",
+        "InProgressResponse": "@9901_0011_afreshsoul_incomplete",
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "DestinationCompletionAvailableResponse": "@9901_0011_afreshsoul_complete_available_response",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": null,
+        "ReleaseEventTags": "",
+        "ReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0011_afreshsoul",
@@ -156,12 +243,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0011_afreshsoul_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
-        "ReleaseEventTags": "",
+        "HideIncompleteTurninMarker": null,
+        "ReleaseEventTags": "HFR",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0012_overseaunderstone",
@@ -197,12 +285,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0012_overseaunderstone_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0013_argentandaether",
@@ -238,12 +327,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0013_argentandaether_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0014_oldfoesoldfavors",
@@ -279,12 +369,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0014_oldfoesoldfavors_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9902_0015_itmustflow",
@@ -320,12 +411,13 @@
         "DestinationCompletionAvailableResponse": "@9902_0015_itmustflow_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9902_0016_corruptiontincture",
@@ -361,12 +453,13 @@
         "DestinationCompletionAvailableResponse": "@9902_0016_corruptiontincture_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9902_0017_landcriesout",
@@ -402,12 +495,13 @@
         "DestinationCompletionAvailableResponse": "@9902_0017_landcriesout_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9902_0018_returntoyonas",
@@ -443,12 +537,13 @@
         "DestinationCompletionAvailableResponse": "@9902_0018_returntoyonas_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0019_forgethestaff",
@@ -484,12 +579,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0019_forgethestaff_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0019_forgethestaffreturn",
@@ -525,12 +621,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0019_forgethestaff_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0020_healtherift",
@@ -566,12 +663,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0020_healtherift_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0021_destinyunearthed",
@@ -607,12 +705,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0021_destinyunearthed_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0022_theritual",
@@ -648,12 +747,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0022_theritual_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0023_agreatmovement",
@@ -689,12 +789,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0023_agreatmovement_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": true,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9903_0024_alostcause",
@@ -730,12 +831,13 @@
         "DestinationCompletionAvailableResponse": "@9903_0024_alostcause_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9903_0025_chainofcommand",
@@ -771,12 +873,13 @@
         "DestinationCompletionAvailableResponse": "@9903_0025_chainofcommand_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9903_0026_heartsandsouls",
@@ -812,12 +915,13 @@
         "DestinationCompletionAvailableResponse": "@9903_0026_heartsandsouls_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0027_thesyndicatesupport",
@@ -853,12 +957,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0027_thesyndicatesupport_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9904_0028_thenoseknows",
@@ -894,12 +999,13 @@
         "DestinationCompletionAvailableResponse": "@9904_0028_thenoseknows_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9904_0028_thenoseknowsa",
@@ -935,12 +1041,97 @@
         "DestinationCompletionAvailableResponse": "@9904_0028_thenoseknowsa_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
+    },
+    {
+        "ObjectiveID": "9904_0028_thenoseknows_V2",
+        "Type": "MainStoryQuest",
+        "Difficulty": "",
+        "DifficultyLevel": 32,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": "",
+        "CanBeShared": "",
+        "CanFastTravel": "",
+        "Task": "9904_0028_d_00_container_thenoseknows_V2",
+        "NpcDestinationId": "9914_MSQ_Hunter",
+        "ExclusiveTerritory": "",
+        "AchievementId": "99_MSQ_27b",
+        "RequiredAchievementId": "99_MSQ_27",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "SuccessGameEventId": "9904_0028_thenoseknows_V2_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "9904_0028_thenoseknowsa_V2",
+        "ItemRewardName": "",
+        "ItemRewardQty": "",
+        "Repeatable": "",
+        "CanBeAbandoned": false,
+        "Title": "@9904_0028_thenoseknows_objective_title",
+        "Description": "@9904_0028_thenoseknows_objective_desc",
+        "PlayerPrompt": "@9904_0028_thenoseknows_start_prompt",
+        "ObjectiveProposalResponse": "@9904_0028_thenoseknows_proposal",
+        "InProgressResponse": "@9904_0028_thenoseknows_incomplete",
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "DestinationCompletionAvailableResponse": "@9904_0028_thenoseknows_complete_available_response",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": null,
+        "ReleaseEventTags": "HFR",
+        "ReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
+    },
+    {
+        "ObjectiveID": "9904_0028_thenoseknowsa_V2",
+        "Type": "MainStoryQuest",
+        "Difficulty": "",
+        "DifficultyLevel": 32,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": "",
+        "CanBeShared": "",
+        "CanFastTravel": "",
+        "Task": "9904_0028_d_00_container_thenoseknowsa_V2",
+        "NpcDestinationId": "9915_MSQ_Researcher1",
+        "ExclusiveTerritory": "",
+        "AchievementId": "99_MSQ_27c",
+        "RequiredAchievementId": "99_MSQ_27b",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "SuccessGameEventId": "9904_0028_thenoseknowsa_V2_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "9904_0028_thenoseknowsb",
+        "ItemRewardName": "",
+        "ItemRewardQty": "",
+        "Repeatable": "",
+        "CanBeAbandoned": false,
+        "Title": "@9904_0028_thenoseknowsa_objective_title",
+        "Description": "@9904_0028_thenoseknows_objective_desc",
+        "PlayerPrompt": "@9904_0028_thenoseknowsa_start_prompt",
+        "ObjectiveProposalResponse": "@9904_0028_thenoseknowsa_proposal",
+        "InProgressResponse": "@9904_0028_thenoseknowsa_incomplete",
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "DestinationCompletionAvailableResponse": "@9904_0028_thenoseknowsa_complete_available_response",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": null,
+        "ReleaseEventTags": "HFR",
+        "ReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9904_0028_thenoseknowsb",
@@ -976,12 +1167,13 @@
         "DestinationCompletionAvailableResponse": "@9904_0028_thenoseknowsb_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9904_0028_thenoseknowsc",
@@ -1017,12 +1209,13 @@
         "DestinationCompletionAvailableResponse": "@9904_0028_thenoseknowsc_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9904_0028_thenoseknowsd",
@@ -1058,12 +1251,13 @@
         "DestinationCompletionAvailableResponse": "@9904_0028_thenoseknowsd_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9904_0028_thenoseknowse",
@@ -1099,12 +1293,13 @@
         "DestinationCompletionAvailableResponse": "@9904_0028_thenoseknowse_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9904_0029_thestormwall",
@@ -1140,12 +1335,13 @@
         "DestinationCompletionAvailableResponse": "@9904_0029_thestormwall_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9904_0030_twodown",
@@ -1181,12 +1377,13 @@
         "DestinationCompletionAvailableResponse": "@9904_0030_twodown_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0031_themaraudersupport",
@@ -1222,12 +1419,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0031_themaraudersupport_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9905_0032_invalhalla",
@@ -1263,12 +1461,13 @@
         "DestinationCompletionAvailableResponse": "@9905_0032_invalhalla_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9905_0033_stillwerise",
@@ -1304,12 +1503,13 @@
         "DestinationCompletionAvailableResponse": "@9905_0033_stillwerise_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9905_0034_thealliance",
@@ -1345,12 +1545,13 @@
         "DestinationCompletionAvailableResponse": "@9905_0034_thealliance_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0035_herewestand",
@@ -1386,12 +1587,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0035_herewestand_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0036_masterofthetempest",
@@ -1427,12 +1629,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0036_masterofthetempest_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9919_0037_planb",
@@ -1468,12 +1671,13 @@
         "DestinationCompletionAvailableResponse": "@9905_0037_planb_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9905_0038_itstrueface",
@@ -1509,12 +1713,13 @@
         "DestinationCompletionAvailableResponse": "@9905_0038_itstrueface_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9903_0039_aherosduty",
@@ -1550,12 +1755,13 @@
         "DestinationCompletionAvailableResponse": "@9903_0039_aherosduty_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9903_0040_emilesrequest",
@@ -1591,12 +1797,13 @@
         "DestinationCompletionAvailableResponse": "@9903_0040_emilesrequest_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9903_0041_somethinglefttosave",
@@ -1632,12 +1839,13 @@
         "DestinationCompletionAvailableResponse": "@9903_0041_somethinglefttosave_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9905_0042_shecameback",
@@ -1673,12 +1881,13 @@
         "DestinationCompletionAvailableResponse": "@9905_0042_shecameback_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9905_0043_foragoodcause",
@@ -1714,12 +1923,13 @@
         "DestinationCompletionAvailableResponse": "@9905_0043_foragoodcause_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": true,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9909_0044_mothertongue",
@@ -1755,12 +1965,13 @@
         "DestinationCompletionAvailableResponse": "@9909_0044_mothertongue_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": true,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9905_0045_thebox",
@@ -1796,12 +2007,13 @@
         "DestinationCompletionAvailableResponse": "@9905_0045_thebox_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9902_0046_stemthetide",
@@ -1837,12 +2049,13 @@
         "DestinationCompletionAvailableResponse": "@9902_0046_stemthetide_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9904_0047_greatminds",
@@ -1878,12 +2091,13 @@
         "DestinationCompletionAvailableResponse": "@9904_0047_greatminds_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9904_0048_enemyofmyenemy",
@@ -1919,12 +2133,13 @@
         "DestinationCompletionAvailableResponse": "@9904_0048_enemyofmyenemy_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9902_0049_recipeforfailure",
@@ -1960,12 +2175,13 @@
         "DestinationCompletionAvailableResponse": "@9902_0049_recipeforfailure_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9906_0050_thescenicroute",
@@ -2001,12 +2217,13 @@
         "DestinationCompletionAvailableResponse": "@9906_0050_thescenicroute_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9906_0051_ararespice",
@@ -2042,12 +2259,13 @@
         "DestinationCompletionAvailableResponse": "@9906_0051_ararespice_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9906_0050_thescenicrouteb",
@@ -2083,12 +2301,13 @@
         "DestinationCompletionAvailableResponse": "@9906_0050_thescenicrouteb_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9902_0052_saboteur",
@@ -2124,12 +2343,13 @@
         "DestinationCompletionAvailableResponse": "@9902_0052_saboteur_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9907_0053_blessingofearth",
@@ -2165,12 +2385,13 @@
         "DestinationCompletionAvailableResponse": "@9907_0053_blessingofearth_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9907_0053_blessingofearth_Juice",
@@ -2206,12 +2427,13 @@
         "DestinationCompletionAvailableResponse": "@9907_0053_blessingofearth_Juice_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9907_0053_blessingofearth_Snap",
@@ -2247,12 +2469,13 @@
         "DestinationCompletionAvailableResponse": "@9907_0053_blessingofearth_Snap_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9907_0053_blessingofearth_Ixia",
@@ -2288,12 +2511,13 @@
         "DestinationCompletionAvailableResponse": "@9907_0053_blessingofearth_Ixia_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9902_0054_ASelflessNature",
@@ -2329,12 +2553,13 @@
         "DestinationCompletionAvailableResponse": "@9902_0054_richesoftheearth_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9902_0055_shatteredmountain",
@@ -2370,12 +2595,13 @@
         "DestinationCompletionAvailableResponse": "@9902_0055_shatteredmountain_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9910_0056_thetempestsheart",
@@ -2411,12 +2637,13 @@
         "DestinationCompletionAvailableResponse": "@9910_0056_thetempestsheart_complete_available_response_alt",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9901_0057_insoulinstone",
@@ -2452,12 +2679,13 @@
         "DestinationCompletionAvailableResponse": "@9901_0057_insoulinstone_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "MSQ",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "9910_0058_finallyexhale",
@@ -2493,11 +2721,96 @@
         "DestinationCompletionAvailableResponse": "@9910_0058_finallyexhale_complete_available_response",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
+        "HideIncompleteTurninMarker": null,
         "ReleaseEventTags": "MSQ",
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
+    },
+    {
+        "ObjectiveID": "9926_0101_TenaciousRose",
+        "Type": "Journey",
+        "Difficulty": "",
+        "DifficultyLevel": 20,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": "",
+        "CanBeShared": "",
+        "CanFastTravel": "",
+        "Task": "9926_0101_d_00_container_TenaciousRose",
+        "NpcDestinationId": "9926_VK_AbigailRoseB",
+        "ExclusiveTerritory": "",
+        "AchievementId": "VarangianKnights_0101",
+        "RequiredAchievementId": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "SuccessGameEventId": "9926_0101_TenaciousRose_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": "",
+        "Repeatable": "",
+        "CanBeAbandoned": false,
+        "Title": "@9926_0101_TenaciousRose_objective_title",
+        "Description": "@9926_0101_TenaciousRose_objective_desc",
+        "PlayerPrompt": "@9926_0101_TenaciousRose_start_prompt",
+        "ObjectiveProposalResponse": "@9926_0101_TenaciousRose_proposal",
+        "InProgressResponse": "@9926_0101_TenaciousRose_incomplete",
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "DestinationCompletionAvailableResponse": "@9926_0101_TenaciousRose_complete_available_response",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": null,
+        "ReleaseEventTags": "",
+        "ReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
+    },
+    {
+        "ObjectiveID": "9927_0102_VisionsOfInvaders",
+        "Type": "Journey",
+        "Difficulty": "",
+        "DifficultyLevel": 20,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": "",
+        "CanBeShared": "",
+        "CanFastTravel": "",
+        "Task": "9927_0102_d_00_container_VisionsOfInvaders",
+        "NpcDestinationId": "0903_Survivalist",
+        "ExclusiveTerritory": "",
+        "AchievementId": "VarangianKnights_0102",
+        "RequiredAchievementId": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "SuccessGameEventId": "9927_0102_VisionsOfInvaders_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": "",
+        "Repeatable": "",
+        "CanBeAbandoned": false,
+        "Title": "@9927_0102_VisionsOfInvaders_objective_title",
+        "Description": "@9927_0102_VisionsOfInvaders_objective_desc",
+        "PlayerPrompt": "@9927_0102_VisionsOfInvaders_start_prompt",
+        "ObjectiveProposalResponse": "@9927_0102_VisionsOfInvaders_proposal",
+        "InProgressResponse": "@9927_0102_VisionsOfInvaders_incomplete",
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "DestinationCompletionAvailableResponse": "@9927_0102_VisionsOfInvaders_complete_available_response",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": null,
+        "ReleaseEventTags": "",
+        "ReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     }
 ]

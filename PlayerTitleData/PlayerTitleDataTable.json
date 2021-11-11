@@ -1862,6 +1862,34 @@
         "RequiredPlayerLevel": null
     },
     {
+        "TitleID": "PlayerTitle_WeaponMaster_VoidGauntlet2",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Weapon_Mastery",
+        "TitleMale": "@ui_playertitle_weaponmaster_voidstaff2",
+        "TitleFemale": "@ui_playertitle_weaponmaster_voidstaff2_SHE",
+        "TitleNeutral": "@ui_playertitle_weaponmaster_voidstaff2_THEY",
+        "Description": "",
+        "MetaAchievementId": "WeaponMastery_VoidGauntlet2",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_WeaponMaster_VoidGauntlet3",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Weapon_Mastery",
+        "TitleMale": "@ui_playertitle_weaponmaster_voidstaff3",
+        "TitleFemale": "@ui_playertitle_weaponmaster_voidstaff3_SHE",
+        "TitleNeutral": "@ui_playertitle_weaponmaster_voidstaff3_THEY",
+        "Description": "",
+        "MetaAchievementId": "WeaponMastery_VoidGauntlet3",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
         "TitleID": "PlayerTitle_PVP_KillCountByFaction_Covenant1",
         "TitleType": "Account",
         "UIDisplayCategory": "Factions",

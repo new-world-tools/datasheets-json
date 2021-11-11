@@ -26,7 +26,7 @@
         "VitalsCategory": "Lost,Withered",
         "LevelRange": "7-9",
         "Containers": 5,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": ""
     },
     {
@@ -56,7 +56,7 @@
         "VitalsCategory": "Lost,Withered",
         "LevelRange": "8-12",
         "Containers": 9,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": ""
     },
     {
@@ -86,7 +86,7 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "11-13",
         "Containers": 10,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": ""
     },
     {
@@ -116,7 +116,7 @@
         "VitalsCategory": "Lost,Withered",
         "LevelRange": "11-19",
         "Containers": 10,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": ""
     },
     {
@@ -926,7 +926,7 @@
         "VitalsCategory": "Lost,Drowned",
         "LevelRange": "3-5",
         "Containers": 2,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory9.png",
         "GameMode": ""
     },
     {
@@ -956,7 +956,7 @@
         "VitalsCategory": "Lost,Drowned",
         "LevelRange": "3-5",
         "Containers": 1,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory9.png",
         "GameMode": ""
     },
     {
@@ -986,7 +986,7 @@
         "VitalsCategory": "Lost,Drowned",
         "LevelRange": "3-4",
         "Containers": 2,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory9.png",
         "GameMode": ""
     },
     {
@@ -1016,7 +1016,7 @@
         "VitalsCategory": "Boar",
         "LevelRange": "3",
         "Containers": 0,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_boar_island.png",
         "GameMode": ""
     },
     {
@@ -1046,7 +1046,7 @@
         "VitalsCategory": "Lost,Drowned",
         "LevelRange": "4",
         "Containers": 6,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory9.png",
         "GameMode": ""
     },
     {
@@ -1076,7 +1076,7 @@
         "VitalsCategory": "Boar",
         "LevelRange": "3",
         "Containers": 0,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_boar_island.png",
         "GameMode": ""
     },
     {
@@ -1106,7 +1106,7 @@
         "VitalsCategory": "Lost,Drowned",
         "LevelRange": "3-7",
         "Containers": 5,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_darkness_minor_hive.png",
         "GameMode": ""
     },
     {
@@ -1136,7 +1136,7 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": 0,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_outpost_default.png",
         "GameMode": ""
     },
     {
@@ -1166,7 +1166,7 @@
         "VitalsCategory": "Lost,Withered",
         "LevelRange": "9-11",
         "Containers": 10,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": ""
     },
     {
@@ -1196,7 +1196,7 @@
         "VitalsCategory": "Boar",
         "LevelRange": "3",
         "Containers": 0,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_boar_island.png",
         "GameMode": ""
     },
     {
@@ -1206,7 +1206,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_village.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Graveyard.png",
         "CompassIcon": "",
         "DiscoveryRadius": 450,
         "IsDiscoverable": true,
@@ -1226,7 +1226,7 @@
         "VitalsCategory": "Lost,Wraith,Withered,Undead",
         "LevelRange": "22-25",
         "Containers": 0,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_poi_graveyard.png",
         "GameMode": ""
     },
     {
@@ -1376,7 +1376,7 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_darkness_major_monolith.png",
         "GameMode": ""
     },
     {
@@ -1386,7 +1386,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_campsite.png",
+        "MapIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Grain_Compass.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1402,11 +1402,11 @@
         "AudioGroup": "Music_POI",
         "AudioState": "camp",
         "CanPlaceCamp": false,
-        "DevName": "Riverside Muck",
+        "DevName": "Bulrush Wash",
         "VitalsCategory": "Lost,Withered",
         "LevelRange": "11-12",
         "Containers": 5,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory13.png",
         "GameMode": ""
     },
     {
@@ -1466,7 +1466,7 @@
         "VitalsCategory": "Lost,Withered",
         "LevelRange": "11-19",
         "Containers": 10,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": ""
     },
     {
@@ -1476,7 +1476,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_village.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Buildings_Damned.png",
         "CompassIcon": "",
         "DiscoveryRadius": 100,
         "IsDiscoverable": true,
@@ -1492,11 +1492,11 @@
         "AudioGroup": "Music_POI",
         "AudioState": "Infested_Monolith",
         "CanPlaceCamp": false,
-        "DevName": "Infested Village",
+        "DevName": "Harplass Homestead",
         "VitalsCategory": "Corrupted",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_darkness_minor_hive.png",
         "GameMode": ""
     },
     {
@@ -1526,7 +1526,7 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": ""
     },
     {
@@ -1556,7 +1556,7 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": ""
     },
     {
@@ -1586,7 +1586,7 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": ""
     },
     {
@@ -1616,7 +1616,7 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": ""
     },
     {
@@ -1646,7 +1646,7 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": ""
     },
     {
@@ -1676,7 +1676,7 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory6.png",
         "GameMode": ""
     },
     {
@@ -1778,7 +1778,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -1808,7 +1808,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,

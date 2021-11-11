@@ -483,7 +483,7 @@
         "EffectOnlyOnDamage": true,
         "DeflectDamageID": "",
         "CanCrit": false,
-        "DmgCoef": 1.5,
+        "DmgCoef": 1,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
         "PowerLevel": 2,
@@ -1129,7 +1129,7 @@
     },
     {
         "DamageID": "Mage_Miniboss_Orb_AOE",
-        "WeaponCategory": "StaffSpells_No_Environment",
+        "WeaponCategory": "AncientMagic",
         "IgnoreInvulnerable": 0,
         "NoReaction": 0,
         "IsRanged": null,
