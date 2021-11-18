@@ -18,7 +18,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0401_0102_campandtools_success",
@@ -39,7 +40,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0401_0103_boarproblem_success",
@@ -60,7 +62,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0401_0104_xmarksthespot_p1_success",
@@ -81,7 +84,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0401_0107_preciouscargo_success",
@@ -102,7 +106,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0401_0108_introtosettlement_success",
@@ -123,7 +128,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0425_0101_truffles_success",
@@ -144,7 +150,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 2,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0401_0108_warnmagistrate_success",
@@ -165,7 +172,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0406_0103_hearthandhome_success",
@@ -186,7 +194,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0406_0101_intrototrader_success",
@@ -207,7 +216,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0403_0102_introtooverseer_success",
@@ -228,7 +238,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0404_0104_overseersettlement_success",
@@ -237,7 +248,7 @@
         "CreatureType": "Quest+",
         "UniversalExpAmount": 760,
         "CurrencyReward": 630,
-        "ItemReward": "QuestRewardArmorL4",
+        "ItemReward": "QuestRewardArmorL6",
         "RewardNotes": "",
         "GearScoreRange": 150,
         "CategoricalProgressionId": "",
@@ -249,7 +260,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0404_0103_introtoartificer_success",
@@ -258,7 +270,7 @@
         "CreatureType": "Quest-",
         "UniversalExpAmount": 230,
         "CurrencyReward": 180,
-        "ItemReward": "ArtificerResourceContainer1",
+        "ItemReward": "",
         "RewardNotes": "",
         "GearScoreRange": null,
         "CategoricalProgressionId": "",
@@ -270,7 +282,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0405_0101_craftforartificer_success",
@@ -279,7 +292,7 @@
         "CreatureType": "Quest-",
         "UniversalExpAmount": 230,
         "CurrencyReward": 180,
-        "ItemReward": "QuestRewardArmorL4",
+        "ItemReward": "QuestRewardArmorL6",
         "RewardNotes": "",
         "GearScoreRange": 155,
         "CategoricalProgressionId": "",
@@ -291,7 +304,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0405_0102_campingunlock_success",
@@ -312,7 +326,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0403_0201_survivalistquest_success",
@@ -333,7 +348,30 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "0403_0201_survivalistquest_V2_success",
+        "GameEventType": "",
+        "Level": 7,
+        "CreatureType": "Quest+",
+        "UniversalExpAmount": 400,
+        "CurrencyReward": 648,
+        "ItemReward": "1hLongsword_QuestL5",
+        "RewardNotes": "",
+        "GearScoreRange": 155,
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": null,
+        "TerritoryStanding": 250,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "0",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0403_0102_returntomagistrate_success",
@@ -354,7 +392,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0402_0202_introtoallfactions_success",
@@ -375,7 +414,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0409_0103_timetochoose_success",
@@ -396,7 +436,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0407_0101_marauderquest1_success",
@@ -417,7 +458,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0408_0101_syndicatequest1_success",
@@ -438,7 +480,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0409_0101_covenantquest1_success",
@@ -459,7 +502,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0402_0401_factionhandoff_success",
@@ -480,7 +524,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "100",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0404_0501_encroachingcorruption_success",
@@ -501,7 +546,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "100",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0422_1501_intrototravel_success",
@@ -522,7 +568,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "500",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": true
     },
     {
         "EventID": "0422_1502_returntravel_success",
@@ -542,8 +589,9 @@
         "FactionInfluenceAmount": "",
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
-        "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothReward": "10",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0410_0414_Rabbit_Success",
@@ -564,7 +612,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0410_0406_TopOfArcturus_Success",
@@ -585,7 +634,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0410_0407_OpeningSupply_Success",
@@ -606,7 +656,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0410_0408_Reclaiming_Success",
@@ -627,7 +678,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0405_0404_ArtificersQuarry_Success",
@@ -648,7 +700,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0405_0415_Ebenrock_Success",
@@ -669,7 +722,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0402_0413_Renee_Success",
@@ -690,7 +744,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0403_0405_AncientProblems_Success",
@@ -711,7 +766,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0404_0402_BreakingDay_Success",
@@ -732,7 +788,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "10",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0404_0403_WhatCameBefore_Success",
@@ -753,7 +810,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0402_0401_EnemyOfMyEnemy_Success",
@@ -774,7 +832,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "10",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0402_0502_Tainting_Success",
@@ -795,7 +854,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0411_0409_StarsAsOurGuide_Success",
@@ -816,7 +876,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0411_0410_UnderStars_Success",
@@ -837,7 +898,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0411_0411_LedByStars_Success",
@@ -858,7 +920,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0411_0101_Constellation_Success",
@@ -879,7 +942,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0411_0412_Center_Success",
@@ -900,7 +964,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0411_0413_Amrine_success",
@@ -921,14 +986,15 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0411_0414_Shattered_success",
         "GameEventType": "",
         "Level": 35,
         "CreatureType": "Quest+",
-        "UniversalExpAmount": 7500,
+        "UniversalExpAmount": 2120,
         "CurrencyReward": 11375,
         "ItemReward": "Amulet_ShatterstarAmuletT3",
         "RewardNotes": "",
@@ -942,7 +1008,184 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "20",
-        "AzothRewardChance": 1
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "0424_0101_Convergence_success",
+        "GameEventType": "",
+        "Level": 25,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 1230,
+        "CurrencyReward": 6875,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "EventProgress",
+        "CategoricalProgressionReward": 250,
+        "TerritoryStanding": 175,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "10",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "0424_0102_TreeOfLight_success",
+        "GameEventType": "",
+        "Level": 25,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 1230,
+        "CurrencyReward": 6875,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "EventProgress",
+        "CategoricalProgressionReward": 250,
+        "TerritoryStanding": 175,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "10",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "0424_0103_WinterTokens_success",
+        "GameEventType": "",
+        "Level": 25,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 1230,
+        "CurrencyReward": 6875,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "EventProgress",
+        "CategoricalProgressionReward": 250,
+        "TerritoryStanding": 175,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "10",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "0424_0104_Gleamites_success",
+        "GameEventType": "",
+        "Level": 25,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 1230,
+        "CurrencyReward": 6875,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "EventProgress",
+        "CategoricalProgressionReward": 250,
+        "TerritoryStanding": 175,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "10",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "0424_0105_JoyRecaptured_success",
+        "GameEventType": "",
+        "Level": 25,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 1230,
+        "CurrencyReward": 6875,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "EventProgress",
+        "CategoricalProgressionReward": 250,
+        "TerritoryStanding": 175,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "10",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "0424_0106_YetisAbound_success",
+        "GameEventType": "",
+        "Level": 25,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 1230,
+        "CurrencyReward": 6875,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "EventProgress",
+        "CategoricalProgressionReward": 250,
+        "TerritoryStanding": 175,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "10",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "0424_0107_WandererReborn_success",
+        "GameEventType": "",
+        "Level": 25,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 1230,
+        "CurrencyReward": 6875,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "EventProgress",
+        "CategoricalProgressionReward": 250,
+        "TerritoryStanding": 175,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "10",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "0424_0108_WinterWarrior_success",
+        "GameEventType": "",
+        "Level": 60,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 3000,
+        "CurrencyReward": 11250,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "EventProgress",
+        "CategoricalProgressionReward": 250,
+        "TerritoryStanding": 175,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "15",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0404_MSQ_AllThatRemainsGather4_success",
@@ -963,7 +1206,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 0
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0404_MSQ_AllThatRemainsGather5_success",
@@ -984,7 +1228,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "0",
-        "AzothRewardChance": 0
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0402_GruelBarrel_interact",
@@ -1005,7 +1250,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "",
-        "AzothRewardChance": 0
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0405_GlowingOre_interact_success",
@@ -1026,7 +1272,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "#N/A",
-        "AzothRewardChance": 0
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0411_Armillary_interact_success",
@@ -1047,7 +1294,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "",
-        "AzothRewardChance": 0
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0404_CorruptedNoduleA_interact",
@@ -1068,7 +1316,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "",
-        "AzothRewardChance": 0
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0404_CorruptedNoduleB_interact",
@@ -1089,7 +1338,8 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "",
-        "AzothRewardChance": 0
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
     },
     {
         "EventID": "0404_CorruptedNoduleC_interact",
@@ -1110,6 +1360,73 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": "",
-        "AzothRewardChance": 0
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "0404_CorruptedNoduleD_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": null,
+        "TerritoryStanding": null,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "",
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "IO_0403_0201_AlphaLure_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": null,
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "0",
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
+    },
+    {
+        "EventID": "IO_0424_0108_YetiRune_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": null,
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "0",
+        "AzothRewardChance": 0,
+        "IgnoreEconomyTracker": null
     }
 ]

@@ -804,6 +804,12 @@
         "Description": "@CategoryData_GauntletsDesc"
     },
     {
+        "CategoryID": "Alkahest",
+        "ImagePath": "Icons/Items/Drawing/placeholder_square",
+        "DisplayText": "@CategoryData_Alkahest",
+        "Description": "@CategoryData_AlkahestDesc"
+    },
+    {
         "CategoryID": "Meal",
         "ImagePath": "items/meal1t2",
         "DisplayText": "@CategoryData_Meal",
@@ -3631,49 +3637,49 @@
     },
     {
         "CategoryID": "FoodIngredient",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/ingot",
         "DisplayText": "@FoodIngredient_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "Fish",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/fish",
         "DisplayText": "@Fish_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "Bait",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/bait",
         "DisplayText": "@Bait_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "Flux",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/flux",
         "DisplayText": "@Flux_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "Solvent",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/solvent",
         "DisplayText": "@Solvent_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "Sandpaper",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/sandpaper",
         "DisplayText": "@Sandpaper_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "Tannin",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/tannin",
         "DisplayText": "@Tannin_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "Crossweave",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/clothweave",
         "DisplayText": "@Crossweave_GroupName",
         "Description": ""
     },
@@ -3919,31 +3925,31 @@
     },
     {
         "CategoryID": "FoodIngredientT1",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/RawFoodTier",
         "DisplayText": "@FoodIngredientT1_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "FoodIngredientT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/RawFoodTier",
         "DisplayText": "@FoodIngredientT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "FoodIngredientT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/RawFoodTier",
         "DisplayText": "@FoodIngredientT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "FoodIngredientT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/RawFoodTier",
         "DisplayText": "@FoodIngredientT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "FoodIngredientT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/RawFoodTier",
         "DisplayText": "@FoodIngredientT5_GroupName",
         "Description": ""
     },
@@ -4039,169 +4045,169 @@
     },
     {
         "CategoryID": "AlchemyEarthT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/EarthReagent",
         "DisplayText": "@AlchemyEarthT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyEarthT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/EarthReagent",
         "DisplayText": "@AlchemyEarthT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyEarthT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/EarthReagent",
         "DisplayText": "@AlchemyEarthT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyEarthT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/EarthReagent",
         "DisplayText": "@AlchemyEarthT5_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyFireT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/FireReagent",
         "DisplayText": "@AlchemyFireT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyFireT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/FireReagent",
         "DisplayText": "@AlchemyFireT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyFireT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/FireReagent",
         "DisplayText": "@AlchemyFireT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyFireT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/FireReagent",
         "DisplayText": "@AlchemyFireT5_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyAirT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/AirReagent",
         "DisplayText": "@AlchemyAirT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyAirT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/AirReagent",
         "DisplayText": "@AlchemyAirT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyAirT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/AirReagent",
         "DisplayText": "@AlchemyAirT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyAirT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/AirReagent",
         "DisplayText": "@AlchemyAirT5_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyWaterT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/WaterReagent",
         "DisplayText": "@AlchemyWaterT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyWaterT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/WaterReagent",
         "DisplayText": "@AlchemyWaterT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyWaterT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/WaterReagent",
         "DisplayText": "@AlchemyWaterT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyWaterT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/WaterReagent",
         "DisplayText": "@AlchemyWaterT5_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyLifeT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/LifeReagent",
         "DisplayText": "@AlchemyLifeT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyLifeT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/LifeReagent",
         "DisplayText": "@AlchemyLifeT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyLifeT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/LifeReagent",
         "DisplayText": "@AlchemyLifeT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyLifeT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/LifeReagent",
         "DisplayText": "@AlchemyLifeT5_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyDeathT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/DeathReagent",
         "DisplayText": "@AlchemyDeathT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyDeathT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/DeathReagent",
         "DisplayText": "@AlchemyDeathT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyDeathT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/DeathReagent",
         "DisplayText": "@AlchemyDeathT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyDeathT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/DeathReagent",
         "DisplayText": "@AlchemyDeathT5_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemySpiritT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/SpiritReagent",
         "DisplayText": "@AlchemySpiritT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemySpiritT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/SpiritReagent",
         "DisplayText": "@AlchemySpiritT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemySpiritT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/SpiritReagent",
         "DisplayText": "@AlchemySpiritT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemySpiritT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/SpiritReagent",
         "DisplayText": "@AlchemySpiritT5_GroupName",
         "Description": ""
     },
@@ -4375,61 +4381,61 @@
     },
     {
         "CategoryID": "AlchemyOffensiveT1",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/OffensiveReagentT1",
         "DisplayText": "@AlchemyOffensiveT1_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyOffensiveT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/OffensiveReagentT2",
         "DisplayText": "@AlchemyOffensiveT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyOffensiveT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/OffensiveReagentT3",
         "DisplayText": "@AlchemyOffensiveT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyOffensiveT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/OffensiveReagentT4",
         "DisplayText": "@AlchemyOffensiveT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyOffensiveT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/OffensiveReagentT5",
         "DisplayText": "@AlchemyOffensiveT5_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyProtectiveT1",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/ProtectiveReagentT1",
         "DisplayText": "@AlchemyProtectiveT1_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyProtectiveT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/ProtectiveReagentT2",
         "DisplayText": "@AlchemyProtectiveT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyProtectiveT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/ProtectiveReagentT3",
         "DisplayText": "@AlchemyProtectiveT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyProtectiveT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/ProtectiveReagentT4",
         "DisplayText": "@AlchemyProtectiveT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "AlchemyProtectiveT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/ProtectiveReagentT5",
         "DisplayText": "@AlchemyProtectiveT5_GroupName",
         "Description": ""
     },
@@ -4680,26 +4686,32 @@
         "Description": ""
     },
     {
-        "CategoryID": "TrinketBand",
+        "CategoryID": "GauntletVoid",
         "ImagePath": "",
+        "DisplayText": "@GauntletVoid_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketBand",
+        "ImagePath": "Icons/Items/Drawing/TrinketBand",
         "DisplayText": "@TrinketBand_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketSetting",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketSetting",
         "DisplayText": "@TrinketSetting_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketChain",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketChain",
         "DisplayText": "@TrinketChain_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketHook",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketHook",
         "DisplayText": "@TrinketHook_GroupName",
         "Description": ""
     },
@@ -4711,73 +4723,73 @@
     },
     {
         "CategoryID": "TrinketBandT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketBand",
         "DisplayText": "@TrinketBandT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketBandT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketBand",
         "DisplayText": "@TrinketBandT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketBandT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketBand",
         "DisplayText": "@TrinketBandT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketBandT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketBand",
         "DisplayText": "@TrinketBandT5_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketChainT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketChain",
         "DisplayText": "@TrinketChainT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketChainT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketChain",
         "DisplayText": "@TrinketChainT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketChainT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketChain",
         "DisplayText": "@TrinketChainT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketChainT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketChain",
         "DisplayText": "@TrinketChainT5_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketHookT2",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketHook",
         "DisplayText": "@TrinketHookT2_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketHookT3",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketHook",
         "DisplayText": "@TrinketHookT3_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketHookT4",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketHook",
         "DisplayText": "@TrinketHookT4_GroupName",
         "Description": ""
     },
     {
         "CategoryID": "TrinketHookT5",
-        "ImagePath": "",
+        "ImagePath": "Icons/Items/Drawing/TrinketHook",
         "DisplayText": "@TrinketHookT5_GroupName",
         "Description": ""
     },
@@ -4854,6 +4866,12 @@
         "Description": ""
     },
     {
+        "CategoryID": "FoodComponents",
+        "ImagePath": "",
+        "DisplayText": "@FoodComponents_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "Keys",
         "ImagePath": "",
         "DisplayText": "@KeyParts_GroupName",
@@ -4893,6 +4911,12 @@
         "CategoryID": "RecipeFurnishing",
         "ImagePath": "",
         "DisplayText": "@RecipeFurnishing_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Lodestone",
+        "ImagePath": "",
+        "DisplayText": "@Lodestone",
         "Description": ""
     }
 ]

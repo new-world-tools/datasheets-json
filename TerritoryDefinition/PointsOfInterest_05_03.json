@@ -6,7 +6,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_village.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/azure_tree.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -23,11 +23,12 @@
         "CanPlaceCamp": false,
         "DevName": "Bile Dust",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50383,
@@ -53,11 +54,12 @@
         "CanPlaceCamp": false,
         "DevName": "Valhalla",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50384,
@@ -83,11 +85,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_corruptedwall_50384",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50301,
@@ -113,11 +116,12 @@
         "CanPlaceCamp": false,
         "DevName": "Slobbering Cave",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50302,
@@ -143,11 +147,12 @@
         "CanPlaceCamp": false,
         "DevName": "Broadpaw Den",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50303,
@@ -173,11 +178,12 @@
         "CanPlaceCamp": false,
         "DevName": "Dusty Paw Burrow",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50304,
@@ -203,11 +209,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_azure_fissure_50304",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50305,
@@ -233,11 +240,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_azure_fissure_50305",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50306,
@@ -263,11 +271,12 @@
         "CanPlaceCamp": false,
         "DevName": "Corvus",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50307,
@@ -293,11 +302,12 @@
         "CanPlaceCamp": false,
         "DevName": "Creeping Reach",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50308,
@@ -323,11 +333,12 @@
         "CanPlaceCamp": false,
         "DevName": "Sapterlith",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50309,
@@ -353,11 +364,12 @@
         "CanPlaceCamp": false,
         "DevName": "Grasping Summit",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50310,
@@ -383,11 +395,12 @@
         "CanPlaceCamp": false,
         "DevName": "Bramblecliff",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50311,
@@ -413,11 +426,12 @@
         "CanPlaceCamp": false,
         "DevName": "Twisted Roots",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50312,
@@ -426,7 +440,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_sm.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -443,11 +457,12 @@
         "CanPlaceCamp": false,
         "DevName": "Hydnora",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50313,
@@ -456,7 +471,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_lg.png",
         "CompassIcon": "",
         "DiscoveryRadius": 250,
         "IsDiscoverable": true,
@@ -473,11 +488,12 @@
         "CanPlaceCamp": false,
         "DevName": "Rafflesia",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50314,
@@ -486,7 +502,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_lg.png",
         "CompassIcon": "",
         "DiscoveryRadius": 400,
         "IsDiscoverable": true,
@@ -503,11 +519,12 @@
         "CanPlaceCamp": false,
         "DevName": "Drosera",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50315,
@@ -533,11 +550,12 @@
         "CanPlaceCamp": false,
         "DevName": "Tirla Beacon",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50316,
@@ -563,11 +581,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_fort_50316",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50317,
@@ -593,11 +612,12 @@
         "CanPlaceCamp": false,
         "DevName": "Bladderwort",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_township5.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50318,
@@ -623,11 +643,12 @@
         "CanPlaceCamp": false,
         "DevName": "Leyroot Grove",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_township5.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50319,
@@ -653,11 +674,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_prowlerhole_50319",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50320,
@@ -683,11 +705,12 @@
         "CanPlaceCamp": false,
         "DevName": "Fungalrust",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50321,
@@ -713,11 +736,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_settlement_50321",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50322,
@@ -726,7 +750,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_spriggan.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_spriggan_elite.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -737,17 +761,18 @@
         "LootTags": "",
         "DiscoveredAchievement": "crater_spriggan_50322_discovered",
         "ChartedAchievement": "crater_spriggan_50322_charted",
-        "POITag": "crater_spriggan_50322",
+        "POITag": "crater_spriggan_50322,elite",
         "AudioGroup": "Music_POI",
         "AudioState": "crater_spriggan",
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_spriggan_50322",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": 66,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_spriggan.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": 3,
+        "RecommendedLevel": 66
     },
     {
         "TerritoryID": 50323,
@@ -756,7 +781,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_spriggan.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_spriggan_elite.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -767,17 +792,18 @@
         "LootTags": "",
         "DiscoveredAchievement": "crater_spriggan_50323_discovered",
         "ChartedAchievement": "crater_spriggan_50323_charted",
-        "POITag": "crater_spriggan_50323",
+        "POITag": "crater_spriggan_50323,elite",
         "AudioGroup": "Music_POI",
         "AudioState": "crater_spriggan",
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_spriggan_50323",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": 66,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_spriggan.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": 3,
+        "RecommendedLevel": 66
     },
     {
         "TerritoryID": 50324,
@@ -803,11 +829,12 @@
         "CanPlaceCamp": false,
         "DevName": "Litheltop",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50325,
@@ -833,11 +860,12 @@
         "CanPlaceCamp": false,
         "DevName": "Malevolence",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_Malevolence.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50326,
@@ -863,11 +891,12 @@
         "CanPlaceCamp": false,
         "DevName": "Umbrage",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50327,
@@ -893,11 +922,12 @@
         "CanPlaceCamp": false,
         "DevName": "Nettlevex",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50328,
@@ -923,11 +953,12 @@
         "CanPlaceCamp": false,
         "DevName": "Pavo",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50329,
@@ -953,11 +984,12 @@
         "CanPlaceCamp": false,
         "DevName": "DELETE_50329",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50330,
@@ -983,11 +1015,12 @@
         "CanPlaceCamp": false,
         "DevName": "Fanglethorn Pass",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50331,
@@ -1013,11 +1046,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_ferociousforest_50331",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50332,
@@ -1043,11 +1077,12 @@
         "CanPlaceCamp": false,
         "DevName": "Lower Slag Mine",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50333,
@@ -1073,11 +1108,12 @@
         "CanPlaceCamp": false,
         "DevName": "Upper Slag Mine",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50334,
@@ -1103,11 +1139,12 @@
         "CanPlaceCamp": false,
         "DevName": "Valor Hold",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50335,
@@ -1133,11 +1170,12 @@
         "CanPlaceCamp": false,
         "DevName": "Cook Slop",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50336,
@@ -1163,11 +1201,12 @@
         "CanPlaceCamp": false,
         "DevName": "DELETE_50336",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50337,
@@ -1193,11 +1232,12 @@
         "CanPlaceCamp": false,
         "DevName": "DELETE_50337",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50338,
@@ -1206,7 +1246,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_ruins.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_lg.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1223,11 +1263,12 @@
         "CanPlaceCamp": false,
         "DevName": "Laslus Well",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50339,
@@ -1253,11 +1294,12 @@
         "CanPlaceCamp": false,
         "DevName": "Hill Slag Camp",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50340,
@@ -1283,11 +1325,12 @@
         "CanPlaceCamp": false,
         "DevName": "Rotted Sping Camp",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50341,
@@ -1313,11 +1356,12 @@
         "CanPlaceCamp": false,
         "DevName": "Mouthsting Lumbermill",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_carpentry.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50342,
@@ -1326,7 +1370,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_sm.png",
         "CompassIcon": "",
         "DiscoveryRadius": 400,
         "IsDiscoverable": true,
@@ -1343,11 +1387,12 @@
         "CanPlaceCamp": false,
         "DevName": "Cresent Window",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50343,
@@ -1373,11 +1418,12 @@
         "CanPlaceCamp": false,
         "DevName": "Blisteroot",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50344,
@@ -1403,11 +1449,12 @@
         "CanPlaceCamp": false,
         "DevName": "DELETE_50344",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50345,
@@ -1433,11 +1480,12 @@
         "CanPlaceCamp": false,
         "DevName": "DELETE_50345",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50346,
@@ -1446,7 +1494,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_sm.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1463,11 +1511,12 @@
         "CanPlaceCamp": false,
         "DevName": "Crumbletrap",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50347,
@@ -1493,11 +1542,12 @@
         "CanPlaceCamp": false,
         "DevName": "50347_MERGEWITH_50314",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50348,
@@ -1523,11 +1573,12 @@
         "CanPlaceCamp": false,
         "DevName": "50348_MERGEWITH_50314",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50349,
@@ -1553,11 +1604,12 @@
         "CanPlaceCamp": false,
         "DevName": "DELETE_50349",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50350,
@@ -1583,11 +1635,12 @@
         "CanPlaceCamp": false,
         "DevName": "50350_MERGEWITH_50351",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50351,
@@ -1596,7 +1649,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\angryearth_spriggan.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1613,11 +1666,12 @@
         "CanPlaceCamp": false,
         "DevName": "Asterwilt Bridge",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50352,
@@ -1643,11 +1697,12 @@
         "CanPlaceCamp": false,
         "DevName": "Greenfever Crossing",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50353,
@@ -1656,7 +1711,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\angryearth_spriggan.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1673,11 +1728,12 @@
         "CanPlaceCamp": false,
         "DevName": "Basalrot Bridge",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50354,
@@ -1686,7 +1742,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_sm.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1703,11 +1759,12 @@
         "CanPlaceCamp": false,
         "DevName": "Thorny Steps",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50355,
@@ -1733,11 +1790,12 @@
         "CanPlaceCamp": false,
         "DevName": "50355_MERGEWITH_50314",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50356,
@@ -1763,11 +1821,12 @@
         "CanPlaceCamp": false,
         "DevName": "Sundew Aqueduct",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50357,
@@ -1793,11 +1852,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_feyruins_50357",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50358,
@@ -1806,7 +1866,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_village.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/azure_tree.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1823,11 +1883,12 @@
         "CanPlaceCamp": false,
         "DevName": "Festermire",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50359,
@@ -1836,7 +1897,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_cave.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_grovealtar.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1853,11 +1914,12 @@
         "CanPlaceCamp": false,
         "DevName": "The Motherwell",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_motherwell.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50360,
@@ -1883,11 +1945,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_feyruins_50360",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50361,
@@ -1913,11 +1976,12 @@
         "CanPlaceCamp": false,
         "DevName": "50361_MERGEWITH_50309",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50362,
@@ -1943,11 +2007,12 @@
         "CanPlaceCamp": false,
         "DevName": "50362_MERGEWITH_50309",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50363,
@@ -1973,11 +2038,12 @@
         "CanPlaceCamp": false,
         "DevName": "50363_MERGEWITH_50313",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50364,
@@ -2003,11 +2069,12 @@
         "CanPlaceCamp": false,
         "DevName": "DELETE_50364",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50365,
@@ -2033,11 +2100,12 @@
         "CanPlaceCamp": false,
         "DevName": "DELETE_50365",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50366,
@@ -2063,11 +2131,12 @@
         "CanPlaceCamp": false,
         "DevName": "Arum",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50367,
@@ -2076,7 +2145,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\angryearth_spriggan.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -2093,11 +2162,12 @@
         "CanPlaceCamp": false,
         "DevName": "Panellus",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50368,
@@ -2106,7 +2176,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\ancient_tower.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -2123,11 +2193,12 @@
         "CanPlaceCamp": false,
         "DevName": "Seniab",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50369,
@@ -2153,11 +2224,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_mysticbridge_50369",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50370,
@@ -2183,11 +2255,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_mysticruins_50370",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50371,
@@ -2213,11 +2286,12 @@
         "CanPlaceCamp": false,
         "DevName": "DELETE_50371",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50372,
@@ -2243,11 +2317,12 @@
         "CanPlaceCamp": false,
         "DevName": "Agaricus",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50373,
@@ -2273,11 +2348,12 @@
         "CanPlaceCamp": false,
         "DevName": "Amanita",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50374,
@@ -2303,11 +2379,12 @@
         "CanPlaceCamp": false,
         "DevName": "Amidella",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50375,
@@ -2316,7 +2393,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_ruins.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_lg.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -2333,11 +2410,12 @@
         "CanPlaceCamp": false,
         "DevName": "Tadeas Stronghold",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50376,
@@ -2363,11 +2441,12 @@
         "CanPlaceCamp": false,
         "DevName": "NOTHINGHERE_50376",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50377,
@@ -2393,11 +2472,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_feralruins_50377",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50378,
@@ -2423,11 +2503,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_feralruins_50378",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50379,
@@ -2453,11 +2534,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_feralruins_50379",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50380,
@@ -2483,11 +2565,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_feralruins_50380",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50381,
@@ -2513,131 +2596,12 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_feralruins_50381",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
-    },
-    {
-        "TerritoryID": 50385,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_rare",
-        "BaseStructureLimit": "",
-        "MaxStructureLimit": "",
-        "TerritoryScore": "",
-        "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot2.png",
-        "CompassIcon": "",
-        "DiscoveryRadius": 60,
-        "IsDiscoverable": false,
-        "IsChartable": true,
-        "DefaultAchievement": null,
-        "OutpostId": "",
-        "Debug": "",
-        "LootTags": "",
-        "DiscoveredAchievement": "",
-        "ChartedAchievement": "fish_hotspot_50385_charted",
-        "POITag": "FishingHotspot",
-        "AudioGroup": "Music_POI",
-        "AudioState": "camp",
-        "CanPlaceCamp": false,
-        "DevName": "Fishing Hotspot",
-        "VitalsCategory": "",
-        "LevelRange": "",
-        "Containers": "",
-        "TooltipBackground": "",
-        "GameMode": "",
-        "GroupSize": null
-    },
-    {
-        "TerritoryID": 50386,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_secret",
-        "BaseStructureLimit": "",
-        "MaxStructureLimit": "",
-        "TerritoryScore": "",
-        "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot3.png",
-        "CompassIcon": "",
-        "DiscoveryRadius": 60,
-        "IsDiscoverable": false,
-        "IsChartable": true,
-        "DefaultAchievement": null,
-        "OutpostId": "",
-        "Debug": "",
-        "LootTags": "",
-        "DiscoveredAchievement": "",
-        "ChartedAchievement": "fish_hotspot_50386_charted",
-        "POITag": "FishingHotspot",
-        "AudioGroup": "Music_POI",
-        "AudioState": "camp",
-        "CanPlaceCamp": false,
-        "DevName": "Fishing Hotspot",
-        "VitalsCategory": "",
-        "LevelRange": "",
-        "Containers": "",
-        "TooltipBackground": "",
-        "GameMode": "",
-        "GroupSize": null
-    },
-    {
-        "TerritoryID": 50387,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_rare",
-        "BaseStructureLimit": "",
-        "MaxStructureLimit": "",
-        "TerritoryScore": "",
-        "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot2.png",
-        "CompassIcon": "",
-        "DiscoveryRadius": 60,
-        "IsDiscoverable": false,
-        "IsChartable": true,
-        "DefaultAchievement": null,
-        "OutpostId": "",
-        "Debug": "",
-        "LootTags": "",
-        "DiscoveredAchievement": "",
-        "ChartedAchievement": "fish_hotspot_50387_charted",
-        "POITag": "FishingHotspot",
-        "AudioGroup": "Music_POI",
-        "AudioState": "camp",
-        "CanPlaceCamp": false,
-        "DevName": "Fishing Hotspot",
-        "VitalsCategory": "",
-        "LevelRange": "",
-        "Containers": "",
-        "TooltipBackground": "",
-        "GameMode": "",
-        "GroupSize": null
-    },
-    {
-        "TerritoryID": 50388,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_secret",
-        "BaseStructureLimit": "",
-        "MaxStructureLimit": "",
-        "TerritoryScore": "",
-        "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot3.png",
-        "CompassIcon": "",
-        "DiscoveryRadius": 60,
-        "IsDiscoverable": false,
-        "IsChartable": true,
-        "DefaultAchievement": null,
-        "OutpostId": "",
-        "Debug": "",
-        "LootTags": "",
-        "DiscoveredAchievement": "",
-        "ChartedAchievement": "fish_hotspot_50388_charted",
-        "POITag": "FishingHotspot",
-        "AudioGroup": "Music_POI",
-        "AudioState": "camp",
-        "CanPlaceCamp": false,
-        "DevName": "Fishing Hotspot",
-        "VitalsCategory": "",
-        "LevelRange": "",
-        "Containers": "",
-        "TooltipBackground": "",
-        "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50389,
@@ -2663,11 +2627,12 @@
         "CanPlaceCamp": false,
         "DevName": "Fishing Hotspot",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50390,
@@ -2693,11 +2658,136 @@
         "CanPlaceCamp": false,
         "DevName": "Fishing Hotspot",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
+    },
+    {
+        "TerritoryID": 50385,
+        "NameLocalizationKey": "@ui_poi_fish_hotspot_rare",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot2.png",
+        "CompassIcon": "",
+        "DiscoveryRadius": 60,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": null,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "fish_hotspot_50385_charted",
+        "POITag": "FishingHotspot",
+        "AudioGroup": "Music_POI",
+        "AudioState": "camp",
+        "CanPlaceCamp": false,
+        "DevName": "Fishing Hotspot",
+        "VitalsCategory": "",
+        "LevelRange": null,
+        "Containers": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
+        "GameMode": "",
+        "GroupSize": null,
+        "RecommendedLevel": null
+    },
+    {
+        "TerritoryID": 50387,
+        "NameLocalizationKey": "@ui_poi_fish_hotspot_rare",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot2.png",
+        "CompassIcon": "",
+        "DiscoveryRadius": 60,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": null,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "fish_hotspot_50387_charted",
+        "POITag": "FishingHotspot",
+        "AudioGroup": "Music_POI",
+        "AudioState": "camp",
+        "CanPlaceCamp": false,
+        "DevName": "Fishing Hotspot",
+        "VitalsCategory": "",
+        "LevelRange": null,
+        "Containers": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
+        "GameMode": "",
+        "GroupSize": null,
+        "RecommendedLevel": null
+    },
+    {
+        "TerritoryID": 50386,
+        "NameLocalizationKey": "@ui_poi_fish_hotspot_secret",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot3.png",
+        "CompassIcon": "",
+        "DiscoveryRadius": 60,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": null,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "fish_hotspot_50386_charted",
+        "POITag": "FishingHotspot",
+        "AudioGroup": "Music_POI",
+        "AudioState": "camp",
+        "CanPlaceCamp": false,
+        "DevName": "Fishing Hotspot",
+        "VitalsCategory": "",
+        "LevelRange": null,
+        "Containers": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
+        "GameMode": "",
+        "GroupSize": null,
+        "RecommendedLevel": null
+    },
+    {
+        "TerritoryID": 50388,
+        "NameLocalizationKey": "@ui_poi_fish_hotspot_secret",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot3.png",
+        "CompassIcon": "",
+        "DiscoveryRadius": 60,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": null,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "fish_hotspot_50388_charted",
+        "POITag": "FishingHotspot",
+        "AudioGroup": "Music_POI",
+        "AudioState": "camp",
+        "CanPlaceCamp": false,
+        "DevName": "Fishing Hotspot",
+        "VitalsCategory": "",
+        "LevelRange": null,
+        "Containers": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
+        "GameMode": "",
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50391,
@@ -2723,11 +2813,12 @@
         "CanPlaceCamp": false,
         "DevName": "Gren's Place",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50392,
@@ -2736,7 +2827,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Fort.png",
+        "MapIcon": "LyShineUI\\Images\\Map\\Icon\\outpost.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -2753,11 +2844,12 @@
         "CanPlaceCamp": false,
         "DevName": "Fort Alazar",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_fortress9.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_fortress8.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50393,
@@ -2783,11 +2875,12 @@
         "CanPlaceCamp": true,
         "DevName": "Faction Area",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50394,
@@ -2813,11 +2906,12 @@
         "CanPlaceCamp": true,
         "DevName": "Faction Area",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50395,
@@ -2843,11 +2937,12 @@
         "CanPlaceCamp": true,
         "DevName": "Faction Area",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50396,
@@ -2858,7 +2953,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -2873,11 +2968,12 @@
         "CanPlaceCamp": false,
         "DevName": "Spirit Shrine",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50397,
@@ -2888,7 +2984,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -2903,11 +2999,12 @@
         "CanPlaceCamp": false,
         "DevName": "Spirit Shrine",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 50398,
@@ -2918,7 +3015,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -2933,10 +3030,11 @@
         "CanPlaceCamp": false,
         "DevName": "Spirit Shrine",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     }
 ]

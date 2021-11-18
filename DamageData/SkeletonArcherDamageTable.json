@@ -53,7 +53,7 @@
         "AttackType": "Magic",
         "DamageType": "Arcane",
         "Affixes": "",
-        "StatusEffect": "AI_Snare_4sec",
+        "StatusEffect": "AI_Rend",
         "EffectOnlyOnDamage": true,
         "DeflectDamageID": "Deflect_Default",
         "CanCrit": false,

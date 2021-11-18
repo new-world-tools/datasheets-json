@@ -17,7 +17,7 @@
         "PotencyDiminishingMod": 0,
         "PotencyModMin": 0,
         "PotencyModMax": 0,
-        "ValueLimits": "MoveSpeedMod:-0.1,SprintSpeedMod:-0.1"
+        "ValueLimits": "MoveSpeedMod:-0.5,SprintSpeedMod:-0.5"
     },
     {
         "StatusEffectCategoryID": "Root",
@@ -101,8 +101,8 @@
     },
     {
         "StatusEffectCategoryID": "AI_Neutral",
-        "DurationDiminishingMod": -0.2,
-        "DurationModMin": -0.8,
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
         "DurationModMax": 0,
         "PotencyDiminishingMod": 0,
         "PotencyModMin": 0,
@@ -111,8 +111,8 @@
     },
     {
         "StatusEffectCategoryID": "NonDispellableDebuff",
-        "DurationDiminishingMod": 0,
-        "DurationModMin": 0,
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
         "DurationModMax": 0,
         "PotencyDiminishingMod": 0,
         "PotencyModMin": 0,

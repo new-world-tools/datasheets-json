@@ -56,7 +56,7 @@
         "FactionControlBuff": "Taxes_Housing_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner02",
-        "TerritoryStandingXpModifier": 1.5,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 150
     },
     {
@@ -86,7 +86,7 @@
         "FactionControlBuff": "None",
         "FactionControlTerritoryBuffs": "None",
         "PermanentOwnershipAchievementId": "",
-        "TerritoryStandingXpModifier": 2,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 200
     },
     {
@@ -107,7 +107,7 @@
         "DiscoveredAchievement": "",
         "ChartedAchievement": "",
         "AudioGroup": "Music_Territory",
-        "AudioState": "North_Windsward",
+        "AudioState": "Everfall",
         "RecommendedLevel": 1,
         "MaximumLevel": 25,
         "CanPlaceCamp": true,
@@ -116,7 +116,7 @@
         "FactionControlBuff": "Taxes_Trading_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner04",
-        "TerritoryStandingXpModifier": 1,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 75
     },
     {
@@ -137,7 +137,7 @@
         "DiscoveredAchievement": "",
         "ChartedAchievement": "",
         "AudioGroup": "Music_Territory",
-        "AudioState": "West_Consolation",
+        "AudioState": "Reekwater",
         "RecommendedLevel": 58,
         "MaximumLevel": 66,
         "CanPlaceCamp": true,
@@ -146,7 +146,7 @@
         "FactionControlBuff": "Taxes_Crafting_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner05",
-        "TerritoryStandingXpModifier": 3,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 400
     },
     {
@@ -167,7 +167,7 @@
         "DiscoveredAchievement": "",
         "ChartedAchievement": "",
         "AudioGroup": "Music_Territory",
-        "AudioState": "South_Windsward",
+        "AudioState": "Windsward",
         "RecommendedLevel": 1,
         "MaximumLevel": 25,
         "CanPlaceCamp": true,
@@ -176,7 +176,7 @@
         "FactionControlBuff": "Gathering_Volume_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner06",
-        "TerritoryStandingXpModifier": 1,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 75
     },
     {
@@ -206,7 +206,7 @@
         "FactionControlBuff": "None",
         "FactionControlTerritoryBuffs": "None",
         "PermanentOwnershipAchievementId": "",
-        "TerritoryStandingXpModifier": 3,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 400
     },
     {
@@ -228,15 +228,15 @@
         "ChartedAchievement": "",
         "AudioGroup": "Music_Territory",
         "AudioState": "Queensport",
-        "RecommendedLevel": 51,
-        "MaximumLevel": 62,
+        "RecommendedLevel": null,
+        "MaximumLevel": null,
         "CanPlaceCamp": true,
         "ObjectiveID": "",
         "IsTerritory": true,
         "FactionControlBuff": "Taxes_Refining_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner08",
-        "TerritoryStandingXpModifier": 3,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 400
     },
     {
@@ -266,7 +266,7 @@
         "FactionControlBuff": "Azoth_FastTravel_Weight_Reduction",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner09",
-        "TerritoryStandingXpModifier": 1,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 75
     },
     {
@@ -287,7 +287,7 @@
         "DiscoveredAchievement": "",
         "ChartedAchievement": "",
         "AudioGroup": "Music_Territory",
-        "AudioState": "Windsward_Shores",
+        "AudioState": "Cutlass Keys",
         "RecommendedLevel": 26,
         "MaximumLevel": 35,
         "CanPlaceCamp": true,
@@ -296,7 +296,7 @@
         "FactionControlBuff": "Azoth_FastTravel_GeneralCost_Reduction",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner10",
-        "TerritoryStandingXpModifier": 1.5,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 150
     },
     {
@@ -317,7 +317,7 @@
         "DiscoveredAchievement": "",
         "ChartedAchievement": "",
         "AudioGroup": "Music_Territory",
-        "AudioState": "Morrowtide",
+        "AudioState": "Mourningdale",
         "RecommendedLevel": 45,
         "MaximumLevel": 50,
         "CanPlaceCamp": true,
@@ -326,7 +326,7 @@
         "FactionControlBuff": "Rewards_Expedition_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner11",
-        "TerritoryStandingXpModifier": 2,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 200
     },
     {
@@ -356,7 +356,7 @@
         "FactionControlBuff": "Azoth_FastTravel_Distance_Reduction",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner12",
-        "TerritoryStandingXpModifier": 1,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 75
     },
     {
@@ -386,7 +386,7 @@
         "FactionControlBuff": "Rewards_FactionMission_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner13",
-        "TerritoryStandingXpModifier": 1.5,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 150
     },
     {
@@ -407,7 +407,7 @@
         "DiscoveredAchievement": "",
         "ChartedAchievement": "",
         "AudioGroup": "Music_Territory",
-        "AudioState": "Ancient_Crater",
+        "AudioState": "Edengrove",
         "RecommendedLevel": 51,
         "MaximumLevel": 60,
         "CanPlaceCamp": true,
@@ -416,7 +416,7 @@
         "FactionControlBuff": "None",
         "FactionControlTerritoryBuffs": "None",
         "PermanentOwnershipAchievementId": "",
-        "TerritoryStandingXpModifier": 3,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 400
     },
     {
@@ -437,7 +437,7 @@
         "DiscoveredAchievement": "",
         "ChartedAchievement": "",
         "AudioGroup": "Music_Territory",
-        "AudioState": "East_Consolation",
+        "AudioState": "Restless Shore",
         "RecommendedLevel": 41,
         "MaximumLevel": 46,
         "CanPlaceCamp": true,
@@ -446,38 +446,8 @@
         "FactionControlBuff": "Rewards_DarknessEvent_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner15",
-        "TerritoryStandingXpModifier": 2,
+        "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 200
-    },
-    {
-        "TerritoryID": 16,
-        "NameLocalizationKey": "@BrimstoneSands",
-        "BaseStructureLimit": 300,
-        "MaxStructureLimit": 500,
-        "TerritoryScore": null,
-        "IsPOI": null,
-        "MapIcon": "",
-        "CompassIcon": "",
-        "DiscoveryRadius": "",
-        "IsDiscoverable": "",
-        "IsChartable": "",
-        "DefaultAchievement": "",
-        "Grade": "",
-        "LootTags": "Brimstone",
-        "DiscoveredAchievement": "",
-        "ChartedAchievement": "",
-        "AudioGroup": "Music_Territory",
-        "AudioState": "Brimstone_Sands",
-        "RecommendedLevel": 60,
-        "MaximumLevel": 70,
-        "CanPlaceCamp": true,
-        "ObjectiveID": "",
-        "IsTerritory": true,
-        "FactionControlBuff": "None",
-        "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
-        "PermanentOwnershipAchievementId": "TerritoryPermanentOwner16",
-        "TerritoryStandingXpModifier": 3,
-        "PoiDiscoveryXpModifier": 400
     },
     {
         "TerritoryID": 17,

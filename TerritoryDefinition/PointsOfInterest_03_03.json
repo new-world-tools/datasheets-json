@@ -6,9 +6,9 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_sm_elite.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_buttress_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 300,
+        "DiscoveryRadius": 375,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": "",
@@ -25,9 +25,10 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": "",
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_BalebaneMaw.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 30302,
@@ -36,9 +37,9 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_sm.png",
+        "MapIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\Shrine_Air.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 300,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": "",
@@ -51,13 +52,14 @@
         "AudioGroup": "Music_POI",
         "AudioState": "abandoned_village",
         "CanPlaceCamp": false,
-        "DevName": "",
+        "DevName": "Air Shrine",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_iceBoss.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 30312,
@@ -85,9 +87,10 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_fortress13.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 30313,
@@ -117,7 +120,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     },
     {
         "TerritoryID": 30314,
@@ -128,7 +132,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": "",
@@ -147,6 +151,7 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "RecommendedLevel": null
     }
 ]

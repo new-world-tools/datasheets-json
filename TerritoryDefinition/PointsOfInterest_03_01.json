@@ -27,7 +27,8 @@
         "Containers": 1,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30102,
@@ -57,7 +58,8 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30103,
@@ -87,7 +89,8 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30104,
@@ -115,9 +118,10 @@
         "VitalsCategory": "Withered",
         "LevelRange": "11",
         "Containers": 10,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30105,
@@ -145,9 +149,10 @@
         "VitalsCategory": "Withered",
         "LevelRange": "11",
         "Containers": 10,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30106,
@@ -177,7 +182,8 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30107,
@@ -207,7 +213,8 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30108,
@@ -235,9 +242,10 @@
         "VitalsCategory": "Withered",
         "LevelRange": "11-14",
         "Containers": 0,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30109,
@@ -267,7 +275,8 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30110,
@@ -297,7 +306,8 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30111,
@@ -327,7 +337,8 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30112,
@@ -355,9 +366,10 @@
         "VitalsCategory": "Withered",
         "LevelRange": "14-15",
         "Containers": 15,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30113,
@@ -368,7 +380,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_farm_village.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 175,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -385,9 +397,10 @@
         "VitalsCategory": "Withered",
         "LevelRange": "9-21",
         "Containers": 6,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30114,
@@ -415,9 +428,10 @@
         "VitalsCategory": "Withered",
         "LevelRange": "11-14",
         "Containers": 5,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30115,
@@ -445,9 +459,10 @@
         "VitalsCategory": "Withered",
         "LevelRange": "9-14",
         "Containers": 9,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30116,
@@ -475,9 +490,10 @@
         "VitalsCategory": "Withered",
         "LevelRange": "9-14",
         "Containers": 0,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30117,
@@ -505,9 +521,10 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_outpost_default.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30118,
@@ -529,15 +546,16 @@
         "ChartedAchievement": "withered_farm_1_30118_charted",
         "POITag": "withered_farm_1_30118",
         "AudioGroup": "Music_POI",
-        "AudioState": "farm",
+        "AudioState": "fishing_village",
         "CanPlaceCamp": false,
         "DevName": "Reedwater Fishery",
         "VitalsCategory": "Withered",
         "LevelRange": "8-11",
         "Containers": 8,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30119,
@@ -567,7 +585,8 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30120,
@@ -597,7 +616,8 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30121,
@@ -608,7 +628,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_ruins.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 200,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -627,7 +647,8 @@
         "Containers": 2,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30122,
@@ -655,9 +676,10 @@
         "VitalsCategory": "Drowned",
         "LevelRange": "3-7",
         "Containers": 5,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_darkness_minor_hive.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30123,
@@ -685,9 +707,10 @@
         "VitalsCategory": "Drowned",
         "LevelRange": "3-5",
         "Containers": 3,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30124,
@@ -698,7 +721,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Fort_elite.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 375,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -711,13 +734,14 @@
         "AudioGroup": "Music_POI",
         "AudioState": "cave",
         "CanPlaceCamp": false,
-        "DevName": "Deadman's Cove",
+        "DevName": "Deadfool Cove",
         "VitalsCategory": "Pirates",
         "LevelRange": "25",
         "Containers": 8,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_elite_default.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_DeadmansCove.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30125,
@@ -745,9 +769,10 @@
         "VitalsCategory": "Drowned",
         "LevelRange": "3-5",
         "Containers": 3,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30126,
@@ -777,7 +802,8 @@
         "Containers": 15,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30127,
@@ -805,9 +831,10 @@
         "VitalsCategory": "Pirates",
         "LevelRange": "15-22",
         "Containers": 5,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30128,
@@ -835,9 +862,10 @@
         "VitalsCategory": "Boars",
         "LevelRange": "3",
         "Containers": 0,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_boar_island.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30129,
@@ -865,9 +893,10 @@
         "VitalsCategory": "Drowned",
         "LevelRange": "3-7",
         "Containers": 3,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30130,
@@ -895,9 +924,10 @@
         "VitalsCategory": "Drowned",
         "LevelRange": "3-7",
         "Containers": 3,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30131,
@@ -927,7 +957,8 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30132,
@@ -957,7 +988,8 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30133,
@@ -985,9 +1017,10 @@
         "VitalsCategory": "Boars",
         "LevelRange": "3",
         "Containers": 0,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_boar_island.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30134,
@@ -1011,13 +1044,14 @@
         "AudioGroup": "Music_POI",
         "AudioState": "devilspit",
         "CanPlaceCamp": false,
-        "DevName": "",
+        "DevName": "Devil's Pit",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_storage.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30135,
@@ -1045,9 +1079,10 @@
         "VitalsCategory": "Lynx",
         "LevelRange": "16",
         "Containers": 0,
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_catden.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30136,
@@ -1077,7 +1112,8 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_darkness_major_monolith.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30137,
@@ -1105,9 +1141,10 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30138,
@@ -1135,9 +1172,10 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30139,
@@ -1165,9 +1203,10 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30140,
@@ -1195,9 +1234,10 @@
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "",
+        "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30141,
@@ -1227,7 +1267,8 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
     },
     {
         "TerritoryID": 30142,
@@ -1238,7 +1279,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -1257,6 +1298,131 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "IsCollapsible": null
+    },
+    {
+        "TerritoryID": 30143,
+        "NameLocalizationKey": "@ui_poi_camp_30143",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/military_camp.png",
+        "CompassIcon": "",
+        "DiscoveryRadius": 150,
+        "IsDiscoverable": true,
+        "IsChartable": true,
+        "DefaultAchievement": null,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "camp_30143_discovered",
+        "ChartedAchievement": "camp_30143_charted",
+        "POITag": "camp_30143",
+        "AudioGroup": "Music_POI",
+        "AudioState": "camp",
+        "CanPlaceCamp": false,
+        "DevName": "",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": null,
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_varangian.png",
+        "GameMode": "",
+        "GroupSize": null,
+        "IsCollapsible": null
+    },
+    {
+        "TerritoryID": 30146,
+        "NameLocalizationKey": "@ui_poi_factionarea_30146",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "",
+        "CompassIcon": "",
+        "DiscoveryRadius": 60,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": null,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "factionarea_30146_charted",
+        "POITag": "poi_30146_factionarea",
+        "AudioGroup": "Music_POI",
+        "AudioState": "factionarea",
+        "CanPlaceCamp": true,
+        "DevName": "Faction Area",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": null,
+        "TooltipBackground": "",
+        "GameMode": "",
+        "GroupSize": null,
+        "IsCollapsible": null
+    },
+    {
+        "TerritoryID": 30147,
+        "NameLocalizationKey": "@ui_poi_factionarea_30147",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "",
+        "CompassIcon": "",
+        "DiscoveryRadius": 60,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": null,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "factionarea_30147_charted",
+        "POITag": "poi_30147_factionarea",
+        "AudioGroup": "Music_POI",
+        "AudioState": "factionarea",
+        "CanPlaceCamp": true,
+        "DevName": "Faction Area",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": null,
+        "TooltipBackground": "",
+        "GameMode": "",
+        "GroupSize": null,
+        "IsCollapsible": null
+    },
+    {
+        "TerritoryID": 30148,
+        "NameLocalizationKey": "@ui_poi_factionarea_30148",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "",
+        "CompassIcon": "",
+        "DiscoveryRadius": 60,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": null,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "factionarea_30148_charted",
+        "POITag": "poi_30148_factionarea",
+        "AudioGroup": "Music_POI",
+        "AudioState": "factionarea",
+        "CanPlaceCamp": true,
+        "DevName": "Faction Area",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": null,
+        "TooltipBackground": "",
+        "GameMode": "",
+        "GroupSize": null,
+        "IsCollapsible": null
     }
 ]

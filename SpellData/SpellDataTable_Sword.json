@@ -6,7 +6,7 @@
         "Revive": "",
         "Siphon": "",
         "AttachToOwner": true,
-        "StickWhenAttached": null,
+        "StickWhenAttached": true,
         "StoreOffsetWhenStuckToGDE": null,
         "SpawnSecondaryOnElapsed": "",
         "SpawnSecondaryOnCollision": "",

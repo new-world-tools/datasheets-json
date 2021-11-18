@@ -2,6 +2,7 @@
     {
         "ConversionID": "M_1hLongsword_MarauderRank1",
         "ItemID": "1hLongsword_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -24,6 +25,7 @@
     {
         "ConversionID": "M_2hWarhammer_MarauderRank1",
         "ItemID": "2hWarhammer_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -46,6 +48,7 @@
     {
         "ConversionID": "M_2hMusket_MarauderRank1",
         "ItemID": "2hMusket_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -68,6 +71,7 @@
     {
         "ConversionID": "M_2hBow_MarauderRank1",
         "ItemID": "2hBow_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -90,6 +94,7 @@
     {
         "ConversionID": "M_1hThrowingAxe_MarauderRank1",
         "ItemID": "1hThrowingAxe_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -112,6 +117,7 @@
     {
         "ConversionID": "M_2hFireStaff_MarauderRank1",
         "ItemID": "2hFireStaff_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -134,6 +140,7 @@
     {
         "ConversionID": "M_2hLifeStaff_MarauderRank1",
         "ItemID": "2hLifeStaff_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -156,6 +163,7 @@
     {
         "ConversionID": "M_1hRShield_MarauderRank1",
         "ItemID": "1hRShield_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -178,6 +186,7 @@
     {
         "ConversionID": "M_2hSpear_MarauderRank1",
         "ItemID": "2hSpear_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -200,6 +209,7 @@
     {
         "ConversionID": "M_2hGreataxe_MarauderRank1",
         "ItemID": "2hGreataxe_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -222,6 +232,7 @@
     {
         "ConversionID": "M_1hRapier_MarauderRank1",
         "ItemID": "1hRapier_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -244,6 +255,30 @@
     {
         "ConversionID": "M_1hGauntletIce_MarauderRank1",
         "ItemID": "1hGauntletIce_MarauderRank1",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "MarauderTokens",
+        "RankCheckCategoricalProgressionId": "Marauder",
+        "RequiredCategoricalProgressionRank": 0,
+        "BuyCategoricalProgressionCost": 2500,
+        "BuyCurrencyCost": 12500,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "M_1hGauntletVoid_MarauderRank1",
+        "ItemID": "1hGauntletVoid_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -266,6 +301,7 @@
     {
         "ConversionID": "M_HeavyHead_MarauderRank1",
         "ItemID": "HeavyHead_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -288,6 +324,7 @@
     {
         "ConversionID": "M_HeavyChest_MarauderRank1",
         "ItemID": "HeavyChest_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -310,6 +347,7 @@
     {
         "ConversionID": "M_HeavyHands_MarauderRank1",
         "ItemID": "HeavyHands_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -332,6 +370,7 @@
     {
         "ConversionID": "M_HeavyLegs_MarauderRank1",
         "ItemID": "HeavyLegs_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -354,6 +393,7 @@
     {
         "ConversionID": "M_HeavyFeet_MarauderRank1",
         "ItemID": "HeavyFeet_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -376,6 +416,7 @@
     {
         "ConversionID": "M_LightHead_MarauderRank1",
         "ItemID": "LightHead_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -398,6 +439,7 @@
     {
         "ConversionID": "M_LightChest_MarauderRank1",
         "ItemID": "LightChest_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -420,6 +462,7 @@
     {
         "ConversionID": "M_LightHands_MarauderRank1",
         "ItemID": "LightHands_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -442,6 +485,7 @@
     {
         "ConversionID": "M_LightLegs_MarauderRank1",
         "ItemID": "LightLegs_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -464,6 +508,7 @@
     {
         "ConversionID": "M_LightFeet_MarauderRank1",
         "ItemID": "LightFeet_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -486,6 +531,7 @@
     {
         "ConversionID": "M_MediumHead_MarauderRank1",
         "ItemID": "MediumHead_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -508,6 +554,7 @@
     {
         "ConversionID": "M_MediumChest_MarauderRank1",
         "ItemID": "MediumChest_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -530,6 +577,7 @@
     {
         "ConversionID": "M_MediumHands_MarauderRank1",
         "ItemID": "MediumHands_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -552,6 +600,7 @@
     {
         "ConversionID": "M_MediumLegs_MarauderRank1",
         "ItemID": "MediumLegs_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -574,6 +623,7 @@
     {
         "ConversionID": "M_MediumFeet_MarauderRank1",
         "ItemID": "MediumFeet_MarauderRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -596,6 +646,7 @@
     {
         "ConversionID": "M_ShotT2",
         "ItemID": "ShotT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -618,6 +669,7 @@
     {
         "ConversionID": "M_ArrowT2",
         "ItemID": "ArrowT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -640,6 +692,7 @@
     {
         "ConversionID": "M_HoldingRuneT2",
         "ItemID": "HoldingRuneT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -662,6 +715,7 @@
     {
         "ConversionID": "M_FactionChisel1",
         "ItemID": "FactionChisel1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -684,6 +738,7 @@
     {
         "ConversionID": "M_FactionPotionHealthT2",
         "ItemID": "FactionPotionHealthT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -706,6 +761,7 @@
     {
         "ConversionID": "M_FactionPotionManaT2",
         "ItemID": "FactionPotionManaT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -728,6 +784,7 @@
     {
         "ConversionID": "M_MarauderSeal_Barbarian",
         "ItemID": "MarauderSeal_Barbarian",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -750,6 +807,7 @@
     {
         "ConversionID": "M_MarauderSeal_Brigand",
         "ItemID": "MarauderSeal_Brigand",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -772,6 +830,7 @@
     {
         "ConversionID": "M_MarauderSeal_Occultist",
         "ItemID": "MarauderSeal_Occultist",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -794,6 +853,7 @@
     {
         "ConversionID": "M_MarauderSeal_Cleric",
         "ItemID": "MarauderSeal_Cleric",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -816,6 +876,7 @@
     {
         "ConversionID": "M_1hLongsword_MarauderRank2",
         "ItemID": "1hLongsword_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -838,6 +899,7 @@
     {
         "ConversionID": "M_2hWarhammer_MarauderRank2",
         "ItemID": "2hWarhammer_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -860,6 +922,7 @@
     {
         "ConversionID": "M_2hMusket_MarauderRank2",
         "ItemID": "2hMusket_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -882,6 +945,7 @@
     {
         "ConversionID": "M_2hBow_MarauderRank2",
         "ItemID": "2hBow_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -904,6 +968,7 @@
     {
         "ConversionID": "M_1hThrowingAxe_MarauderRank2",
         "ItemID": "1hThrowingAxe_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -926,6 +991,7 @@
     {
         "ConversionID": "M_2hFireStaff_MarauderRank2",
         "ItemID": "2hFireStaff_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -948,6 +1014,7 @@
     {
         "ConversionID": "M_2hLifeStaff_MarauderRank2",
         "ItemID": "2hLifeStaff_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -970,6 +1037,7 @@
     {
         "ConversionID": "M_1hRShield_MarauderRank2",
         "ItemID": "1hRShield_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -992,6 +1060,7 @@
     {
         "ConversionID": "M_1hKShield_MarauderRank2",
         "ItemID": "1hKShield_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1014,6 +1083,7 @@
     {
         "ConversionID": "M_2hSpear_MarauderRank2",
         "ItemID": "2hSpear_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1036,6 +1106,7 @@
     {
         "ConversionID": "M_2hGreataxe_MarauderRank2",
         "ItemID": "2hGreataxe_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1058,6 +1129,7 @@
     {
         "ConversionID": "M_1hRapier_MarauderRank2",
         "ItemID": "1hRapier_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1080,6 +1152,30 @@
     {
         "ConversionID": "M_1hGauntletIce_MarauderRank2",
         "ItemID": "1hGauntletIce_MarauderRank2",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "MarauderTokens",
+        "RankCheckCategoricalProgressionId": "Marauder",
+        "RequiredCategoricalProgressionRank": 1,
+        "BuyCategoricalProgressionCost": 5000,
+        "BuyCurrencyCost": 25000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "M_1hGauntletVoid_MarauderRank2",
+        "ItemID": "1hGauntletVoid_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1102,6 +1198,7 @@
     {
         "ConversionID": "M_HeavyHead_MarauderRank2",
         "ItemID": "HeavyHead_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1124,6 +1221,7 @@
     {
         "ConversionID": "M_HeavyChest_MarauderRank2",
         "ItemID": "HeavyChest_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1146,6 +1244,7 @@
     {
         "ConversionID": "M_HeavyHands_MarauderRank2",
         "ItemID": "HeavyHands_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1168,6 +1267,7 @@
     {
         "ConversionID": "M_HeavyLegs_MarauderRank2",
         "ItemID": "HeavyLegs_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1190,6 +1290,7 @@
     {
         "ConversionID": "M_HeavyFeet_MarauderRank2",
         "ItemID": "HeavyFeet_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1212,6 +1313,7 @@
     {
         "ConversionID": "M_LightHead_MarauderRank2",
         "ItemID": "LightHead_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1234,6 +1336,7 @@
     {
         "ConversionID": "M_LightChest_MarauderRank2",
         "ItemID": "LightChest_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1256,6 +1359,7 @@
     {
         "ConversionID": "M_LightHands_MarauderRank2",
         "ItemID": "LightHands_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1278,6 +1382,7 @@
     {
         "ConversionID": "M_LightLegs_MarauderRank2",
         "ItemID": "LightLegs_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1300,6 +1405,7 @@
     {
         "ConversionID": "M_LightFeet_MarauderRank2",
         "ItemID": "LightFeet_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1322,6 +1428,7 @@
     {
         "ConversionID": "M_MediumHead_MarauderRank2",
         "ItemID": "MediumHead_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1344,6 +1451,7 @@
     {
         "ConversionID": "M_MediumChest_MarauderRank2",
         "ItemID": "MediumChest_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1366,6 +1474,7 @@
     {
         "ConversionID": "M_MediumHands_MarauderRank2",
         "ItemID": "MediumHands_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1388,6 +1497,7 @@
     {
         "ConversionID": "M_MediumLegs_MarauderRank2",
         "ItemID": "MediumLegs_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1410,6 +1520,7 @@
     {
         "ConversionID": "M_MediumFeet_MarauderRank2",
         "ItemID": "MediumFeet_MarauderRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1432,6 +1543,7 @@
     {
         "ConversionID": "M_HoldingRuneT3",
         "ItemID": "HoldingRuneT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1454,6 +1566,7 @@
     {
         "ConversionID": "M_ReagentConverterT3",
         "ItemID": "ReagentConverterT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1476,6 +1589,7 @@
     {
         "ConversionID": "M_FactionChisel2",
         "ItemID": "FactionChisel2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1498,6 +1612,7 @@
     {
         "ConversionID": "M_FactionTinctureCorruptionT2",
         "ItemID": "FactionTinctureCorruptionT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1520,6 +1635,7 @@
     {
         "ConversionID": "M_FactionTinctureBlightT2",
         "ItemID": "FactionTinctureBlightT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1542,6 +1658,7 @@
     {
         "ConversionID": "M_FactionPotionHealthT3",
         "ItemID": "FactionPotionHealthT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1564,6 +1681,7 @@
     {
         "ConversionID": "M_FactionPotionManaT3",
         "ItemID": "FactionPotionManaT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1586,6 +1704,7 @@
     {
         "ConversionID": "M_1hLongsword_MarauderRank3",
         "ItemID": "1hLongsword_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1608,6 +1727,7 @@
     {
         "ConversionID": "M_2hWarhammer_MarauderRank3",
         "ItemID": "2hWarhammer_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1630,6 +1750,7 @@
     {
         "ConversionID": "M_2hMusket_MarauderRank3",
         "ItemID": "2hMusket_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1652,6 +1773,7 @@
     {
         "ConversionID": "M_2hBow_MarauderRank3",
         "ItemID": "2hBow_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1674,6 +1796,7 @@
     {
         "ConversionID": "M_1hThrowingAxe_MarauderRank3",
         "ItemID": "1hThrowingAxe_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1696,6 +1819,7 @@
     {
         "ConversionID": "M_2hFireStaff_MarauderRank3",
         "ItemID": "2hFireStaff_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1718,6 +1842,7 @@
     {
         "ConversionID": "M_2hLifeStaff_MarauderRank3",
         "ItemID": "2hLifeStaff_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1740,6 +1865,7 @@
     {
         "ConversionID": "M_1hRShield_MarauderRank3",
         "ItemID": "1hRShield_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1762,6 +1888,7 @@
     {
         "ConversionID": "M_1hKShield_MarauderRank3",
         "ItemID": "1hKShield_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1784,6 +1911,7 @@
     {
         "ConversionID": "M_1hTShield_MarauderRank3",
         "ItemID": "1hTShield_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1806,6 +1934,7 @@
     {
         "ConversionID": "M_2hSpear_MarauderRank3",
         "ItemID": "2hSpear_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1828,6 +1957,7 @@
     {
         "ConversionID": "M_2hGreataxe_MarauderRank3",
         "ItemID": "2hGreataxe_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1850,6 +1980,7 @@
     {
         "ConversionID": "M_1hRapier_MarauderRank3",
         "ItemID": "1hRapier_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1872,6 +2003,30 @@
     {
         "ConversionID": "M_1hGauntletIce_MarauderRank3",
         "ItemID": "1hGauntletIce_MarauderRank3",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "MarauderTokens",
+        "RankCheckCategoricalProgressionId": "Marauder",
+        "RequiredCategoricalProgressionRank": 2,
+        "BuyCategoricalProgressionCost": 7500,
+        "BuyCurrencyCost": 50000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "M_1hGauntletVoid_MarauderRank3",
+        "ItemID": "1hGauntletVoid_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1894,6 +2049,7 @@
     {
         "ConversionID": "M_HeavyHead_MarauderRank3",
         "ItemID": "HeavyHead_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1916,6 +2072,7 @@
     {
         "ConversionID": "M_HeavyChest_MarauderRank3",
         "ItemID": "HeavyChest_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1938,6 +2095,7 @@
     {
         "ConversionID": "M_HeavyHands_MarauderRank3",
         "ItemID": "HeavyHands_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1960,6 +2118,7 @@
     {
         "ConversionID": "M_HeavyLegs_MarauderRank3",
         "ItemID": "HeavyLegs_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -1982,6 +2141,7 @@
     {
         "ConversionID": "M_HeavyFeet_MarauderRank3",
         "ItemID": "HeavyFeet_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2004,6 +2164,7 @@
     {
         "ConversionID": "M_LightHead_MarauderRank3",
         "ItemID": "LightHead_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2026,6 +2187,7 @@
     {
         "ConversionID": "M_LightChest_MarauderRank3",
         "ItemID": "LightChest_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2048,6 +2210,7 @@
     {
         "ConversionID": "M_LightHands_MarauderRank3",
         "ItemID": "LightHands_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2070,6 +2233,7 @@
     {
         "ConversionID": "M_LightLegs_MarauderRank3",
         "ItemID": "LightLegs_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2092,6 +2256,7 @@
     {
         "ConversionID": "M_LightFeet_MarauderRank3",
         "ItemID": "LightFeet_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2114,6 +2279,7 @@
     {
         "ConversionID": "M_MediumHead_MarauderRank3",
         "ItemID": "MediumHead_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2136,6 +2302,7 @@
     {
         "ConversionID": "M_MediumChest_MarauderRank3",
         "ItemID": "MediumChest_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2158,6 +2325,7 @@
     {
         "ConversionID": "M_MediumHands_MarauderRank3",
         "ItemID": "MediumHands_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2180,6 +2348,7 @@
     {
         "ConversionID": "M_MediumLegs_MarauderRank3",
         "ItemID": "MediumLegs_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2202,6 +2371,7 @@
     {
         "ConversionID": "M_MediumFeet_MarauderRank3",
         "ItemID": "MediumFeet_MarauderRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2224,6 +2394,7 @@
     {
         "ConversionID": "M_HoldingRuneT4",
         "ItemID": "HoldingRuneT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2246,6 +2417,7 @@
     {
         "ConversionID": "M_ReagentConverterT4",
         "ItemID": "ReagentConverterT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2268,6 +2440,7 @@
     {
         "ConversionID": "M_FactionChisel3",
         "ItemID": "FactionChisel3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2290,6 +2463,7 @@
     {
         "ConversionID": "M_DyeB146",
         "ItemID": "DyeB146",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2312,6 +2486,7 @@
     {
         "ConversionID": "M_GemSocketPinsT1",
         "ItemID": "GemSocketPinsT1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2334,6 +2509,7 @@
     {
         "ConversionID": "M_FactionTinctureCorruptionT3",
         "ItemID": "FactionTinctureCorruptionT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2356,6 +2532,7 @@
     {
         "ConversionID": "M_FactionTinctureBlightT3",
         "ItemID": "FactionTinctureBlightT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2378,6 +2555,7 @@
     {
         "ConversionID": "M_FactionPotionHealthT4",
         "ItemID": "FactionPotionHealthT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2400,6 +2578,7 @@
     {
         "ConversionID": "M_FactionPotionManaT4",
         "ItemID": "FactionPotionManaT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2422,6 +2601,7 @@
     {
         "ConversionID": "M_1hLongsword_MarauderRank4",
         "ItemID": "1hLongsword_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2444,6 +2624,7 @@
     {
         "ConversionID": "M_2hWarhammer_MarauderRank4",
         "ItemID": "2hWarhammer_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2466,6 +2647,7 @@
     {
         "ConversionID": "M_2hMusket_MarauderRank4",
         "ItemID": "2hMusket_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2488,6 +2670,7 @@
     {
         "ConversionID": "M_2hBow_MarauderRank4",
         "ItemID": "2hBow_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2510,6 +2693,7 @@
     {
         "ConversionID": "M_1hThrowingAxe_MarauderRank4",
         "ItemID": "1hThrowingAxe_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2532,6 +2716,7 @@
     {
         "ConversionID": "M_2hFireStaff_MarauderRank4",
         "ItemID": "2hFireStaff_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2554,6 +2739,7 @@
     {
         "ConversionID": "M_2hLifeStaff_MarauderRank4",
         "ItemID": "2hLifeStaff_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2576,6 +2762,7 @@
     {
         "ConversionID": "M_1hRShield_MarauderRank4",
         "ItemID": "1hRShield_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2598,6 +2785,7 @@
     {
         "ConversionID": "M_1hKShield_MarauderRank4",
         "ItemID": "1hKShield_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2620,6 +2808,7 @@
     {
         "ConversionID": "M_1hTShield_MarauderRank4",
         "ItemID": "1hTShield_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2642,6 +2831,7 @@
     {
         "ConversionID": "M_2hSpear_MarauderRank4",
         "ItemID": "2hSpear_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2664,6 +2854,7 @@
     {
         "ConversionID": "M_2hGreataxe_MarauderRank4",
         "ItemID": "2hGreataxe_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2686,6 +2877,7 @@
     {
         "ConversionID": "M_1hRapier_MarauderRank4",
         "ItemID": "1hRapier_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2708,6 +2900,30 @@
     {
         "ConversionID": "M_1hGauntletIce_MarauderRank4",
         "ItemID": "1hGauntletIce_MarauderRank4",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "MarauderTokens",
+        "RankCheckCategoricalProgressionId": "Marauder",
+        "RequiredCategoricalProgressionRank": 3,
+        "BuyCategoricalProgressionCost": 20000,
+        "BuyCurrencyCost": 100000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "M_1hGauntletVoid_MarauderRank4",
+        "ItemID": "1hGauntletVoid_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2730,6 +2946,7 @@
     {
         "ConversionID": "M_HeavyHead_MarauderRank4",
         "ItemID": "HeavyHead_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2752,6 +2969,7 @@
     {
         "ConversionID": "M_HeavyChest_MarauderRank4",
         "ItemID": "HeavyChest_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2774,6 +2992,7 @@
     {
         "ConversionID": "M_HeavyHands_MarauderRank4",
         "ItemID": "HeavyHands_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2796,6 +3015,7 @@
     {
         "ConversionID": "M_HeavyLegs_MarauderRank4",
         "ItemID": "HeavyLegs_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2818,6 +3038,7 @@
     {
         "ConversionID": "M_HeavyFeet_MarauderRank4",
         "ItemID": "HeavyFeet_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2840,6 +3061,7 @@
     {
         "ConversionID": "M_LightHead_MarauderRank4",
         "ItemID": "LightHead_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2862,6 +3084,7 @@
     {
         "ConversionID": "M_LightChest_MarauderRank4",
         "ItemID": "LightChest_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2884,6 +3107,7 @@
     {
         "ConversionID": "M_LightHands_MarauderRank4",
         "ItemID": "LightHands_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2906,6 +3130,7 @@
     {
         "ConversionID": "M_LightLegs_MarauderRank4",
         "ItemID": "LightLegs_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2928,6 +3153,7 @@
     {
         "ConversionID": "M_LightFeet_MarauderRank4",
         "ItemID": "LightFeet_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2950,6 +3176,7 @@
     {
         "ConversionID": "M_MediumHead_MarauderRank4",
         "ItemID": "MediumHead_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2972,6 +3199,7 @@
     {
         "ConversionID": "M_MediumChest_MarauderRank4",
         "ItemID": "MediumChest_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2994,6 +3222,7 @@
     {
         "ConversionID": "M_MediumHands_MarauderRank4",
         "ItemID": "MediumHands_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3016,6 +3245,7 @@
     {
         "ConversionID": "M_MediumLegs_MarauderRank4",
         "ItemID": "MediumLegs_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3038,6 +3268,7 @@
     {
         "ConversionID": "M_MediumFeet_MarauderRank4",
         "ItemID": "MediumFeet_MarauderRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3060,6 +3291,7 @@
     {
         "ConversionID": "M_HoldingRuneT5",
         "ItemID": "HoldingRuneT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3082,6 +3314,7 @@
     {
         "ConversionID": "M_ReagentConverterT5",
         "ItemID": "ReagentConverterT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3104,6 +3337,7 @@
     {
         "ConversionID": "M_FactionChisel4",
         "ItemID": "FactionChisel4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3126,6 +3360,7 @@
     {
         "ConversionID": "M_FactionTinctureCorruptionT4",
         "ItemID": "FactionTinctureCorruptionT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3148,6 +3383,7 @@
     {
         "ConversionID": "M_FactionTinctureBlightT4",
         "ItemID": "FactionTinctureBlightT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3170,6 +3406,7 @@
     {
         "ConversionID": "M_1hLongsword_MarauderRank5",
         "ItemID": "1hLongsword_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3192,6 +3429,7 @@
     {
         "ConversionID": "M_2hWarhammer_MarauderRank5",
         "ItemID": "2hWarhammer_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3214,6 +3452,7 @@
     {
         "ConversionID": "M_2hMusket_MarauderRank5",
         "ItemID": "2hMusket_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3236,6 +3475,7 @@
     {
         "ConversionID": "M_2hBow_MarauderRank5",
         "ItemID": "2hBow_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3258,6 +3498,7 @@
     {
         "ConversionID": "M_1hThrowingAxe_MarauderRank5",
         "ItemID": "1hThrowingAxe_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3280,6 +3521,7 @@
     {
         "ConversionID": "M_2hFireStaff_MarauderRank5",
         "ItemID": "2hFireStaff_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3302,6 +3544,7 @@
     {
         "ConversionID": "M_2hLifeStaff_MarauderRank5",
         "ItemID": "2hLifeStaff_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3324,6 +3567,7 @@
     {
         "ConversionID": "M_1hRShield_MarauderRank5",
         "ItemID": "1hRShield_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3346,6 +3590,7 @@
     {
         "ConversionID": "M_1hKShield_MarauderRank5",
         "ItemID": "1hKShield_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3368,6 +3613,7 @@
     {
         "ConversionID": "M_1hTShield_MarauderRank5",
         "ItemID": "1hTShield_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3390,6 +3636,7 @@
     {
         "ConversionID": "M_2hSpear_MarauderRank5",
         "ItemID": "2hSpear_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3412,6 +3659,7 @@
     {
         "ConversionID": "M_2hGreataxe_MarauderRank5",
         "ItemID": "2hGreataxe_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3434,6 +3682,7 @@
     {
         "ConversionID": "M_1hRapier_MarauderRank5",
         "ItemID": "1hRapier_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3456,6 +3705,30 @@
     {
         "ConversionID": "M_1hGauntletIce_MarauderRank5",
         "ItemID": "1hGauntletIce_MarauderRank5",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "MarauderTokens",
+        "RankCheckCategoricalProgressionId": "Marauder",
+        "RequiredCategoricalProgressionRank": 4,
+        "BuyCategoricalProgressionCost": 50000,
+        "BuyCurrencyCost": 200000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "M_1hGauntletVoid_MarauderRank5",
+        "ItemID": "1hGauntletVoid_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3478,6 +3751,7 @@
     {
         "ConversionID": "M_HeavyHead_MarauderRank5",
         "ItemID": "HeavyHead_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3500,6 +3774,7 @@
     {
         "ConversionID": "M_HeavyChest_MarauderRank5",
         "ItemID": "HeavyChest_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3522,6 +3797,7 @@
     {
         "ConversionID": "M_HeavyHands_MarauderRank5",
         "ItemID": "HeavyHands_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3544,6 +3820,7 @@
     {
         "ConversionID": "M_HeavyLegs_MarauderRank5",
         "ItemID": "HeavyLegs_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3566,6 +3843,7 @@
     {
         "ConversionID": "M_HeavyFeet_MarauderRank5",
         "ItemID": "HeavyFeet_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3588,6 +3866,7 @@
     {
         "ConversionID": "M_LightHead_MarauderRank5",
         "ItemID": "LightHead_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3610,6 +3889,7 @@
     {
         "ConversionID": "M_LightChest_MarauderRank5",
         "ItemID": "LightChest_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3632,6 +3912,7 @@
     {
         "ConversionID": "M_LightHands_MarauderRank5",
         "ItemID": "LightHands_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3654,6 +3935,7 @@
     {
         "ConversionID": "M_LightLegs_MarauderRank5",
         "ItemID": "LightLegs_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3676,6 +3958,7 @@
     {
         "ConversionID": "M_LightFeet_MarauderRank5",
         "ItemID": "LightFeet_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3698,6 +3981,7 @@
     {
         "ConversionID": "M_MediumHead_MarauderRank5",
         "ItemID": "MediumHead_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3720,6 +4004,7 @@
     {
         "ConversionID": "M_MediumChest_MarauderRank5",
         "ItemID": "MediumChest_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3742,6 +4027,7 @@
     {
         "ConversionID": "M_MediumHands_MarauderRank5",
         "ItemID": "MediumHands_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3764,6 +4050,7 @@
     {
         "ConversionID": "M_MediumLegs_MarauderRank5",
         "ItemID": "MediumLegs_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3786,6 +4073,7 @@
     {
         "ConversionID": "M_MediumFeet_MarauderRank5",
         "ItemID": "MediumFeet_MarauderRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3808,6 +4096,7 @@
     {
         "ConversionID": "M_FactionChisel5",
         "ItemID": "FactionChisel5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3828,8 +4117,32 @@
         "InContracts": false
     },
     {
+        "ConversionID": "M_ConsecratedIronT3",
+        "ItemID": "ConsecratedIronT3",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "MarauderTokens",
+        "RankCheckCategoricalProgressionId": "Marauder",
+        "RequiredCategoricalProgressionRank": 4,
+        "BuyCategoricalProgressionCost": 3000,
+        "BuyCurrencyCost": 0,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
         "ConversionID": "M_HeavyHead_MarauderLegatusT5",
         "ItemID": "HeavyHead_MarauderLegatusT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3852,6 +4165,7 @@
     {
         "ConversionID": "M_HeavyChest_MarauderLegatusT5",
         "ItemID": "HeavyChest_MarauderLegatusT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3874,6 +4188,7 @@
     {
         "ConversionID": "M_HeavyHands_MarauderLegatusT5",
         "ItemID": "HeavyHands_MarauderLegatusT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3896,6 +4211,7 @@
     {
         "ConversionID": "M_HeavyLegs_MarauderLegatusT5",
         "ItemID": "HeavyLegs_MarauderLegatusT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3918,6 +4234,7 @@
     {
         "ConversionID": "M_HeavyFeet_MarauderLegatusT5",
         "ItemID": "HeavyFeet_MarauderLegatusT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3940,6 +4257,7 @@
     {
         "ConversionID": "C_1hLongsword_CovenantRank1",
         "ItemID": "1hLongsword_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3962,6 +4280,7 @@
     {
         "ConversionID": "C_2hWarhammer_CovenantRank1",
         "ItemID": "2hWarhammer_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -3984,6 +4303,7 @@
     {
         "ConversionID": "C_2hMusket_CovenantRank1",
         "ItemID": "2hMusket_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4006,6 +4326,7 @@
     {
         "ConversionID": "C_2hBow_CovenantRank1",
         "ItemID": "2hBow_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4028,6 +4349,7 @@
     {
         "ConversionID": "C_1hThrowingAxe_CovenantRank1",
         "ItemID": "1hThrowingAxe_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4050,6 +4372,7 @@
     {
         "ConversionID": "C_2hFireStaff_CovenantRank1",
         "ItemID": "2hFireStaff_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4072,6 +4395,7 @@
     {
         "ConversionID": "C_2hLifeStaff_CovenantRank1",
         "ItemID": "2hLifeStaff_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4094,6 +4418,7 @@
     {
         "ConversionID": "C_1hRShield_CovenantRank1",
         "ItemID": "1hRShield_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4116,6 +4441,7 @@
     {
         "ConversionID": "C_2hSpear_CovenantRank1",
         "ItemID": "2hSpear_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4138,6 +4464,7 @@
     {
         "ConversionID": "C_2hGreataxe_CovenantRank1",
         "ItemID": "2hGreataxe_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4160,6 +4487,7 @@
     {
         "ConversionID": "C_1hRapier_CovenantRank1",
         "ItemID": "1hRapier_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4182,6 +4510,30 @@
     {
         "ConversionID": "C_1hGauntletIce_CovenantRank1",
         "ItemID": "1hGauntletIce_CovenantRank1",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "CovenantTokens",
+        "RankCheckCategoricalProgressionId": "Covenant",
+        "RequiredCategoricalProgressionRank": 0,
+        "BuyCategoricalProgressionCost": 2500,
+        "BuyCurrencyCost": 12500,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "C_1hGauntletVoid_CovenantRank1",
+        "ItemID": "1hGauntletVoid_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4204,6 +4556,7 @@
     {
         "ConversionID": "C_HeavyHead_CovenantRank1",
         "ItemID": "HeavyHead_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4226,6 +4579,7 @@
     {
         "ConversionID": "C_HeavyChest_CovenantRank1",
         "ItemID": "HeavyChest_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4248,6 +4602,7 @@
     {
         "ConversionID": "C_HeavyHands_CovenantRank1",
         "ItemID": "HeavyHands_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4270,6 +4625,7 @@
     {
         "ConversionID": "C_HeavyLegs_CovenantRank1",
         "ItemID": "HeavyLegs_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4292,6 +4648,7 @@
     {
         "ConversionID": "C_HeavyFeet_CovenantRank1",
         "ItemID": "HeavyFeet_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4314,6 +4671,7 @@
     {
         "ConversionID": "C_LightHead_CovenantRank1",
         "ItemID": "LightHead_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4336,6 +4694,7 @@
     {
         "ConversionID": "C_LightChest_CovenantRank1",
         "ItemID": "LightChest_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4358,6 +4717,7 @@
     {
         "ConversionID": "C_LightHands_CovenantRank1",
         "ItemID": "LightHands_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4380,6 +4740,7 @@
     {
         "ConversionID": "C_LightLegs_CovenantRank1",
         "ItemID": "LightLegs_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4402,6 +4763,7 @@
     {
         "ConversionID": "C_LightFeet_CovenantRank1",
         "ItemID": "LightFeet_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4424,6 +4786,7 @@
     {
         "ConversionID": "C_MediumHead_CovenantRank1",
         "ItemID": "MediumHead_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4446,6 +4809,7 @@
     {
         "ConversionID": "C_MediumChest_CovenantRank1",
         "ItemID": "MediumChest_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4468,6 +4832,7 @@
     {
         "ConversionID": "C_MediumHands_CovenantRank1",
         "ItemID": "MediumHands_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4490,6 +4855,7 @@
     {
         "ConversionID": "C_MediumLegs_CovenantRank1",
         "ItemID": "MediumLegs_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4512,6 +4878,7 @@
     {
         "ConversionID": "C_MediumFeet_CovenantRank1",
         "ItemID": "MediumFeet_CovenantRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4534,6 +4901,7 @@
     {
         "ConversionID": "C_ShotT2",
         "ItemID": "ShotT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4556,6 +4924,7 @@
     {
         "ConversionID": "C_ArrowT2",
         "ItemID": "ArrowT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4578,6 +4947,7 @@
     {
         "ConversionID": "C_HoldingRuneT2",
         "ItemID": "HoldingRuneT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4600,6 +4970,7 @@
     {
         "ConversionID": "C_FactionChisel1",
         "ItemID": "FactionChisel1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4622,6 +4993,7 @@
     {
         "ConversionID": "C_FactionPotionHealthT2",
         "ItemID": "FactionPotionHealthT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4644,6 +5016,7 @@
     {
         "ConversionID": "C_FactionPotionManaT2",
         "ItemID": "FactionPotionManaT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4666,6 +5039,7 @@
     {
         "ConversionID": "C_CovenantSeal_Barbarian",
         "ItemID": "CovenantSeal_Barbarian",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4688,6 +5062,7 @@
     {
         "ConversionID": "C_CovenantSeal_Brigand",
         "ItemID": "CovenantSeal_Brigand",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4710,6 +5085,7 @@
     {
         "ConversionID": "C_CovenantSeal_Occultist",
         "ItemID": "CovenantSeal_Occultist",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4732,6 +5108,7 @@
     {
         "ConversionID": "C_CovenantSeal_Cleric",
         "ItemID": "CovenantSeal_Cleric",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4754,6 +5131,7 @@
     {
         "ConversionID": "C_1hLongsword_CovenantRank2",
         "ItemID": "1hLongsword_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4776,6 +5154,7 @@
     {
         "ConversionID": "C_2hWarhammer_CovenantRank2",
         "ItemID": "2hWarhammer_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4798,6 +5177,7 @@
     {
         "ConversionID": "C_2hMusket_CovenantRank2",
         "ItemID": "2hMusket_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4820,6 +5200,7 @@
     {
         "ConversionID": "C_2hBow_CovenantRank2",
         "ItemID": "2hBow_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4842,6 +5223,7 @@
     {
         "ConversionID": "C_1hThrowingAxe_CovenantRank2",
         "ItemID": "1hThrowingAxe_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4864,6 +5246,7 @@
     {
         "ConversionID": "C_2hFireStaff_CovenantRank2",
         "ItemID": "2hFireStaff_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4886,6 +5269,7 @@
     {
         "ConversionID": "C_2hLifeStaff_CovenantRank2",
         "ItemID": "2hLifeStaff_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4908,6 +5292,7 @@
     {
         "ConversionID": "C_1hRShield_CovenantRank2",
         "ItemID": "1hRShield_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4930,6 +5315,7 @@
     {
         "ConversionID": "C_1hKShield_CovenantRank2",
         "ItemID": "1hKShield_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4952,6 +5338,7 @@
     {
         "ConversionID": "C_2hSpear_CovenantRank2",
         "ItemID": "2hSpear_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4974,6 +5361,7 @@
     {
         "ConversionID": "C_2hGreataxe_CovenantRank2",
         "ItemID": "2hGreataxe_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -4996,6 +5384,7 @@
     {
         "ConversionID": "C_1hRapier_CovenantRank2",
         "ItemID": "1hRapier_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5018,6 +5407,30 @@
     {
         "ConversionID": "C_1hGauntletIce_CovenantRank2",
         "ItemID": "1hGauntletIce_CovenantRank2",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "CovenantTokens",
+        "RankCheckCategoricalProgressionId": "Covenant",
+        "RequiredCategoricalProgressionRank": 1,
+        "BuyCategoricalProgressionCost": 5000,
+        "BuyCurrencyCost": 25000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "C_1hGauntletVoid_CovenantRank2",
+        "ItemID": "1hGauntletVoid_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5040,6 +5453,7 @@
     {
         "ConversionID": "C_HeavyHead_CovenantRank2",
         "ItemID": "HeavyHead_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5062,6 +5476,7 @@
     {
         "ConversionID": "C_HeavyChest_CovenantRank2",
         "ItemID": "HeavyChest_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5084,6 +5499,7 @@
     {
         "ConversionID": "C_HeavyHands_CovenantRank2",
         "ItemID": "HeavyHands_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5106,6 +5522,7 @@
     {
         "ConversionID": "C_HeavyLegs_CovenantRank2",
         "ItemID": "HeavyLegs_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5128,6 +5545,7 @@
     {
         "ConversionID": "C_HeavyFeet_CovenantRank2",
         "ItemID": "HeavyFeet_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5150,6 +5568,7 @@
     {
         "ConversionID": "C_LightHead_CovenantRank2",
         "ItemID": "LightHead_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5172,6 +5591,7 @@
     {
         "ConversionID": "C_LightChest_CovenantRank2",
         "ItemID": "LightChest_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5194,6 +5614,7 @@
     {
         "ConversionID": "C_LightHands_CovenantRank2",
         "ItemID": "LightHands_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5216,6 +5637,7 @@
     {
         "ConversionID": "C_LightLegs_CovenantRank2",
         "ItemID": "LightLegs_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5238,6 +5660,7 @@
     {
         "ConversionID": "C_LightFeet_CovenantRank2",
         "ItemID": "LightFeet_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5260,6 +5683,7 @@
     {
         "ConversionID": "C_MediumHead_CovenantRank2",
         "ItemID": "MediumHead_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5282,6 +5706,7 @@
     {
         "ConversionID": "C_MediumChest_CovenantRank2",
         "ItemID": "MediumChest_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5304,6 +5729,7 @@
     {
         "ConversionID": "C_MediumHands_CovenantRank2",
         "ItemID": "MediumHands_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5326,6 +5752,7 @@
     {
         "ConversionID": "C_MediumLegs_CovenantRank2",
         "ItemID": "MediumLegs_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5348,6 +5775,7 @@
     {
         "ConversionID": "C_MediumFeet_CovenantRank2",
         "ItemID": "MediumFeet_CovenantRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5370,6 +5798,7 @@
     {
         "ConversionID": "C_HoldingRuneT3",
         "ItemID": "HoldingRuneT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5392,6 +5821,7 @@
     {
         "ConversionID": "C_ReagentConverterT3",
         "ItemID": "ReagentConverterT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5414,6 +5844,7 @@
     {
         "ConversionID": "C_FactionChisel2",
         "ItemID": "FactionChisel2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5436,6 +5867,7 @@
     {
         "ConversionID": "C_FactionTinctureCorruptionT2",
         "ItemID": "FactionTinctureCorruptionT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5458,6 +5890,7 @@
     {
         "ConversionID": "C_FactionTinctureBlightT2",
         "ItemID": "FactionTinctureBlightT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5480,6 +5913,7 @@
     {
         "ConversionID": "C_FactionPotionHealthT3",
         "ItemID": "FactionPotionHealthT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5502,6 +5936,7 @@
     {
         "ConversionID": "C_FactionPotionManaT3",
         "ItemID": "FactionPotionManaT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5524,6 +5959,7 @@
     {
         "ConversionID": "C_1hLongsword_CovenantRank3",
         "ItemID": "1hLongsword_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5546,6 +5982,7 @@
     {
         "ConversionID": "C_2hWarhammer_CovenantRank3",
         "ItemID": "2hWarhammer_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5568,6 +6005,7 @@
     {
         "ConversionID": "C_2hMusket_CovenantRank3",
         "ItemID": "2hMusket_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5590,6 +6028,7 @@
     {
         "ConversionID": "C_2hBow_CovenantRank3",
         "ItemID": "2hBow_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5612,6 +6051,7 @@
     {
         "ConversionID": "C_1hThrowingAxe_CovenantRank3",
         "ItemID": "1hThrowingAxe_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5634,6 +6074,7 @@
     {
         "ConversionID": "C_2hFireStaff_CovenantRank3",
         "ItemID": "2hFireStaff_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5656,6 +6097,7 @@
     {
         "ConversionID": "C_2hLifeStaff_CovenantRank3",
         "ItemID": "2hLifeStaff_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5678,6 +6120,7 @@
     {
         "ConversionID": "C_1hRShield_CovenantRank3",
         "ItemID": "1hRShield_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5700,6 +6143,7 @@
     {
         "ConversionID": "C_1hKShield_CovenantRank3",
         "ItemID": "1hKShield_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5722,6 +6166,7 @@
     {
         "ConversionID": "C_1hTShield_CovenantRank3",
         "ItemID": "1hTShield_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5744,6 +6189,7 @@
     {
         "ConversionID": "C_2hSpear_CovenantRank3",
         "ItemID": "2hSpear_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5766,6 +6212,7 @@
     {
         "ConversionID": "C_2hGreataxe_CovenantRank3",
         "ItemID": "2hGreataxe_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5788,6 +6235,7 @@
     {
         "ConversionID": "C_1hRapier_CovenantRank3",
         "ItemID": "1hRapier_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5810,6 +6258,30 @@
     {
         "ConversionID": "C_1hGauntletIce_CovenantRank3",
         "ItemID": "1hGauntletIce_CovenantRank3",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "CovenantTokens",
+        "RankCheckCategoricalProgressionId": "Covenant",
+        "RequiredCategoricalProgressionRank": 2,
+        "BuyCategoricalProgressionCost": 7500,
+        "BuyCurrencyCost": 50000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "C_1hGauntletVoid_CovenantRank3",
+        "ItemID": "1hGauntletVoid_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5832,6 +6304,7 @@
     {
         "ConversionID": "C_HeavyHead_CovenantRank3",
         "ItemID": "HeavyHead_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5854,6 +6327,7 @@
     {
         "ConversionID": "C_HeavyChest_CovenantRank3",
         "ItemID": "HeavyChest_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5876,6 +6350,7 @@
     {
         "ConversionID": "C_HeavyHands_CovenantRank3",
         "ItemID": "HeavyHands_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5898,6 +6373,7 @@
     {
         "ConversionID": "C_HeavyLegs_CovenantRank3",
         "ItemID": "HeavyLegs_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5920,6 +6396,7 @@
     {
         "ConversionID": "C_HeavyFeet_CovenantRank3",
         "ItemID": "HeavyFeet_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5942,6 +6419,7 @@
     {
         "ConversionID": "C_LightHead_CovenantRank3",
         "ItemID": "LightHead_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5964,6 +6442,7 @@
     {
         "ConversionID": "C_LightChest_CovenantRank3",
         "ItemID": "LightChest_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -5986,6 +6465,7 @@
     {
         "ConversionID": "C_LightHands_CovenantRank3",
         "ItemID": "LightHands_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6008,6 +6488,7 @@
     {
         "ConversionID": "C_LightLegs_CovenantRank3",
         "ItemID": "LightLegs_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6030,6 +6511,7 @@
     {
         "ConversionID": "C_LightFeet_CovenantRank3",
         "ItemID": "LightFeet_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6052,6 +6534,7 @@
     {
         "ConversionID": "C_MediumHead_CovenantRank3",
         "ItemID": "MediumHead_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6074,6 +6557,7 @@
     {
         "ConversionID": "C_MediumChest_CovenantRank3",
         "ItemID": "MediumChest_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6096,6 +6580,7 @@
     {
         "ConversionID": "C_MediumHands_CovenantRank3",
         "ItemID": "MediumHands_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6118,6 +6603,7 @@
     {
         "ConversionID": "C_MediumLegs_CovenantRank3",
         "ItemID": "MediumLegs_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6140,6 +6626,7 @@
     {
         "ConversionID": "C_MediumFeet_CovenantRank3",
         "ItemID": "MediumFeet_CovenantRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6162,6 +6649,7 @@
     {
         "ConversionID": "C_HoldingRuneT4",
         "ItemID": "HoldingRuneT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6184,6 +6672,7 @@
     {
         "ConversionID": "C_ReagentConverterT4",
         "ItemID": "ReagentConverterT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6206,6 +6695,7 @@
     {
         "ConversionID": "C_FactionChisel3",
         "ItemID": "FactionChisel3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6228,6 +6718,7 @@
     {
         "ConversionID": "C_DyeB139",
         "ItemID": "DyeB139",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6250,6 +6741,7 @@
     {
         "ConversionID": "C_GemSocketPinsT1",
         "ItemID": "GemSocketPinsT1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6272,6 +6764,7 @@
     {
         "ConversionID": "C_FactionTinctureCorruptionT3",
         "ItemID": "FactionTinctureCorruptionT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6294,6 +6787,7 @@
     {
         "ConversionID": "C_FactionTinctureBlightT3",
         "ItemID": "FactionTinctureBlightT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6316,6 +6810,7 @@
     {
         "ConversionID": "C_FactionPotionHealthT4",
         "ItemID": "FactionPotionHealthT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6338,6 +6833,7 @@
     {
         "ConversionID": "C_FactionPotionManaT4",
         "ItemID": "FactionPotionManaT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6360,6 +6856,7 @@
     {
         "ConversionID": "C_1hLongsword_CovenantRank4",
         "ItemID": "1hLongsword_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6382,6 +6879,7 @@
     {
         "ConversionID": "C_2hWarhammer_CovenantRank4",
         "ItemID": "2hWarhammer_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6404,6 +6902,7 @@
     {
         "ConversionID": "C_2hMusket_CovenantRank4",
         "ItemID": "2hMusket_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6426,6 +6925,7 @@
     {
         "ConversionID": "C_2hBow_CovenantRank4",
         "ItemID": "2hBow_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6448,6 +6948,7 @@
     {
         "ConversionID": "C_1hThrowingAxe_CovenantRank4",
         "ItemID": "1hThrowingAxe_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6470,6 +6971,7 @@
     {
         "ConversionID": "C_2hFireStaff_CovenantRank4",
         "ItemID": "2hFireStaff_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6492,6 +6994,7 @@
     {
         "ConversionID": "C_2hLifeStaff_CovenantRank4",
         "ItemID": "2hLifeStaff_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6514,6 +7017,7 @@
     {
         "ConversionID": "C_1hRShield_CovenantRank4",
         "ItemID": "1hRShield_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6536,6 +7040,7 @@
     {
         "ConversionID": "C_1hKShield_CovenantRank4",
         "ItemID": "1hKShield_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6558,6 +7063,7 @@
     {
         "ConversionID": "C_1hTShield_CovenantRank4",
         "ItemID": "1hTShield_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6580,6 +7086,7 @@
     {
         "ConversionID": "C_2hSpear_CovenantRank4",
         "ItemID": "2hSpear_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6602,6 +7109,7 @@
     {
         "ConversionID": "C_2hGreataxe_CovenantRank4",
         "ItemID": "2hGreataxe_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6624,6 +7132,7 @@
     {
         "ConversionID": "C_1hRapier_CovenantRank4",
         "ItemID": "1hRapier_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6646,6 +7155,30 @@
     {
         "ConversionID": "C_1hGauntletIce_CovenantRank4",
         "ItemID": "1hGauntletIce_CovenantRank4",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "CovenantTokens",
+        "RankCheckCategoricalProgressionId": "Covenant",
+        "RequiredCategoricalProgressionRank": 3,
+        "BuyCategoricalProgressionCost": 20000,
+        "BuyCurrencyCost": 100000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "C_1hGauntletVoid_CovenantRank4",
+        "ItemID": "1hGauntletVoid_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6668,6 +7201,7 @@
     {
         "ConversionID": "C_HeavyHead_CovenantRank4",
         "ItemID": "HeavyHead_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6690,6 +7224,7 @@
     {
         "ConversionID": "C_HeavyChest_CovenantRank4",
         "ItemID": "HeavyChest_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6712,6 +7247,7 @@
     {
         "ConversionID": "C_HeavyHands_CovenantRank4",
         "ItemID": "HeavyHands_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6734,6 +7270,7 @@
     {
         "ConversionID": "C_HeavyLegs_CovenantRank4",
         "ItemID": "HeavyLegs_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6756,6 +7293,7 @@
     {
         "ConversionID": "C_HeavyFeet_CovenantRank4",
         "ItemID": "HeavyFeet_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6778,6 +7316,7 @@
     {
         "ConversionID": "C_LightHead_CovenantRank4",
         "ItemID": "LightHead_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6800,6 +7339,7 @@
     {
         "ConversionID": "C_LightChest_CovenantRank4",
         "ItemID": "LightChest_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6822,6 +7362,7 @@
     {
         "ConversionID": "C_LightHands_CovenantRank4",
         "ItemID": "LightHands_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6844,6 +7385,7 @@
     {
         "ConversionID": "C_LightLegs_CovenantRank4",
         "ItemID": "LightLegs_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6866,6 +7408,7 @@
     {
         "ConversionID": "C_LightFeet_CovenantRank4",
         "ItemID": "LightFeet_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6888,6 +7431,7 @@
     {
         "ConversionID": "C_MediumHead_CovenantRank4",
         "ItemID": "MediumHead_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6910,6 +7454,7 @@
     {
         "ConversionID": "C_MediumChest_CovenantRank4",
         "ItemID": "MediumChest_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6932,6 +7477,7 @@
     {
         "ConversionID": "C_MediumHands_CovenantRank4",
         "ItemID": "MediumHands_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6954,6 +7500,7 @@
     {
         "ConversionID": "C_MediumLegs_CovenantRank4",
         "ItemID": "MediumLegs_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6976,6 +7523,7 @@
     {
         "ConversionID": "C_MediumFeet_CovenantRank4",
         "ItemID": "MediumFeet_CovenantRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -6998,6 +7546,7 @@
     {
         "ConversionID": "C_HoldingRuneT5",
         "ItemID": "HoldingRuneT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7020,6 +7569,7 @@
     {
         "ConversionID": "C_ReagentConverterT5",
         "ItemID": "ReagentConverterT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7042,6 +7592,7 @@
     {
         "ConversionID": "C_FactionChisel4",
         "ItemID": "FactionChisel4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7064,6 +7615,7 @@
     {
         "ConversionID": "C_FactionTinctureCorruptionT4",
         "ItemID": "FactionTinctureCorruptionT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7086,6 +7638,7 @@
     {
         "ConversionID": "C_FactionTinctureBlightT4",
         "ItemID": "FactionTinctureBlightT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7108,6 +7661,7 @@
     {
         "ConversionID": "C_1hLongsword_CovenantRank5",
         "ItemID": "1hLongsword_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7130,6 +7684,7 @@
     {
         "ConversionID": "C_2hWarhammer_CovenantRank5",
         "ItemID": "2hWarhammer_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7152,6 +7707,7 @@
     {
         "ConversionID": "C_2hMusket_CovenantRank5",
         "ItemID": "2hMusket_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7174,6 +7730,7 @@
     {
         "ConversionID": "C_2hBow_CovenantRank5",
         "ItemID": "2hBow_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7196,6 +7753,7 @@
     {
         "ConversionID": "C_1hThrowingAxe_CovenantRank5",
         "ItemID": "1hThrowingAxe_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7218,6 +7776,7 @@
     {
         "ConversionID": "C_2hFireStaff_CovenantRank5",
         "ItemID": "2hFireStaff_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7240,6 +7799,7 @@
     {
         "ConversionID": "C_2hLifeStaff_CovenantRank5",
         "ItemID": "2hLifeStaff_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7262,6 +7822,7 @@
     {
         "ConversionID": "C_1hRShield_CovenantRank5",
         "ItemID": "1hRShield_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7284,6 +7845,7 @@
     {
         "ConversionID": "C_1hKShield_CovenantRank5",
         "ItemID": "1hKShield_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7306,6 +7868,7 @@
     {
         "ConversionID": "C_1hTShield_CovenantRank5",
         "ItemID": "1hTShield_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7328,6 +7891,7 @@
     {
         "ConversionID": "C_2hSpear_CovenantRank5",
         "ItemID": "2hSpear_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7350,6 +7914,7 @@
     {
         "ConversionID": "C_2hGreataxe_CovenantRank5",
         "ItemID": "2hGreataxe_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7372,6 +7937,7 @@
     {
         "ConversionID": "C_1hRapier_CovenantRank5",
         "ItemID": "1hRapier_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7394,6 +7960,30 @@
     {
         "ConversionID": "C_1hGauntletIce_CovenantRank5",
         "ItemID": "1hGauntletIce_CovenantRank5",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "CovenantTokens",
+        "RankCheckCategoricalProgressionId": "Covenant",
+        "RequiredCategoricalProgressionRank": 4,
+        "BuyCategoricalProgressionCost": 50000,
+        "BuyCurrencyCost": 200000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "C_1hGauntletVoid_CovenantRank5",
+        "ItemID": "1hGauntletVoid_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7416,6 +8006,7 @@
     {
         "ConversionID": "C_HeavyHead_CovenantRank5",
         "ItemID": "HeavyHead_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7438,6 +8029,7 @@
     {
         "ConversionID": "C_HeavyChest_CovenantRank5",
         "ItemID": "HeavyChest_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7460,6 +8052,7 @@
     {
         "ConversionID": "C_HeavyHands_CovenantRank5",
         "ItemID": "HeavyHands_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7482,6 +8075,7 @@
     {
         "ConversionID": "C_HeavyLegs_CovenantRank5",
         "ItemID": "HeavyLegs_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7504,6 +8098,7 @@
     {
         "ConversionID": "C_HeavyFeet_CovenantRank5",
         "ItemID": "HeavyFeet_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7526,6 +8121,7 @@
     {
         "ConversionID": "C_LightHead_CovenantRank5",
         "ItemID": "LightHead_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7548,6 +8144,7 @@
     {
         "ConversionID": "C_LightChest_CovenantRank5",
         "ItemID": "LightChest_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7570,6 +8167,7 @@
     {
         "ConversionID": "C_LightHands_CovenantRank5",
         "ItemID": "LightHands_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7592,6 +8190,7 @@
     {
         "ConversionID": "C_LightLegs_CovenantRank5",
         "ItemID": "LightLegs_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7614,6 +8213,7 @@
     {
         "ConversionID": "C_LightFeet_CovenantRank5",
         "ItemID": "LightFeet_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7636,6 +8236,7 @@
     {
         "ConversionID": "C_MediumHead_CovenantRank5",
         "ItemID": "MediumHead_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7658,6 +8259,7 @@
     {
         "ConversionID": "C_MediumChest_CovenantRank5",
         "ItemID": "MediumChest_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7680,6 +8282,7 @@
     {
         "ConversionID": "C_MediumHands_CovenantRank5",
         "ItemID": "MediumHands_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7702,6 +8305,7 @@
     {
         "ConversionID": "C_MediumLegs_CovenantRank5",
         "ItemID": "MediumLegs_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7724,6 +8328,7 @@
     {
         "ConversionID": "C_MediumFeet_CovenantRank5",
         "ItemID": "MediumFeet_CovenantRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7746,6 +8351,7 @@
     {
         "ConversionID": "C_FactionChisel5",
         "ItemID": "FactionChisel5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7766,8 +8372,32 @@
         "InContracts": false
     },
     {
+        "ConversionID": "C_ConsecratedIronT3",
+        "ItemID": "ConsecratedIronT3",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "CovenantTokens",
+        "RankCheckCategoricalProgressionId": "Covenant",
+        "RequiredCategoricalProgressionRank": 4,
+        "BuyCategoricalProgressionCost": 3000,
+        "BuyCurrencyCost": 0,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
         "ConversionID": "C_HeavyHead_CovenantInquisitorT5",
         "ItemID": "HeavyHead_CovenantInquisitorT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7790,6 +8420,7 @@
     {
         "ConversionID": "C_HeavyChest_CovenantInquisitorT5",
         "ItemID": "HeavyChest_CovenantInquisitorT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7812,6 +8443,7 @@
     {
         "ConversionID": "C_HeavyHands_CovenantInquisitorT5",
         "ItemID": "HeavyHands_CovenantInquisitorT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7834,6 +8466,7 @@
     {
         "ConversionID": "C_HeavyLegs_CovenantInquisitorT5",
         "ItemID": "HeavyLegs_CovenantInquisitorT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7856,6 +8489,7 @@
     {
         "ConversionID": "C_HeavyFeet_CovenantInquisitorT5",
         "ItemID": "HeavyFeet_CovenantInquisitorT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7878,6 +8512,7 @@
     {
         "ConversionID": "S_1hLongsword_SyndicateRank1",
         "ItemID": "1hLongsword_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7900,6 +8535,7 @@
     {
         "ConversionID": "S_2hWarhammer_SyndicateRank1",
         "ItemID": "2hWarhammer_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7922,6 +8558,7 @@
     {
         "ConversionID": "S_2hMusket_SyndicateRank1",
         "ItemID": "2hMusket_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7944,6 +8581,7 @@
     {
         "ConversionID": "S_2hBow_SyndicateRank1",
         "ItemID": "2hBow_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7966,6 +8604,7 @@
     {
         "ConversionID": "S_1hThrowingAxe_SyndicateRank1",
         "ItemID": "1hThrowingAxe_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -7988,6 +8627,7 @@
     {
         "ConversionID": "S_2hFireStaff_SyndicateRank1",
         "ItemID": "2hFireStaff_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8010,6 +8650,7 @@
     {
         "ConversionID": "S_2hLifeStaff_SyndicateRank1",
         "ItemID": "2hLifeStaff_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8032,6 +8673,7 @@
     {
         "ConversionID": "S_1hRShield_SyndicateRank1",
         "ItemID": "1hRShield_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8054,6 +8696,7 @@
     {
         "ConversionID": "S_2hSpear_SyndicateRank1",
         "ItemID": "2hSpear_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8076,6 +8719,7 @@
     {
         "ConversionID": "S_2hGreataxe_SyndicateRank1",
         "ItemID": "2hGreataxe_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8098,6 +8742,7 @@
     {
         "ConversionID": "S_1hRapier_SyndicateRank1",
         "ItemID": "1hRapier_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8120,6 +8765,30 @@
     {
         "ConversionID": "S_1hGauntletIce_SyndicateRank1",
         "ItemID": "1hGauntletIce_SyndicateRank1",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "SyndicateTokens",
+        "RankCheckCategoricalProgressionId": "Syndicate",
+        "RequiredCategoricalProgressionRank": 0,
+        "BuyCategoricalProgressionCost": 2500,
+        "BuyCurrencyCost": 12500,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "S_1hGauntletVoid_SyndicateRank1",
+        "ItemID": "1hGauntletVoid_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8142,6 +8811,7 @@
     {
         "ConversionID": "S_HeavyHead_SyndicateRank1",
         "ItemID": "HeavyHead_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8164,6 +8834,7 @@
     {
         "ConversionID": "S_HeavyChest_SyndicateRank1",
         "ItemID": "HeavyChest_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8186,6 +8857,7 @@
     {
         "ConversionID": "S_HeavyHands_SyndicateRank1",
         "ItemID": "HeavyHands_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8208,6 +8880,7 @@
     {
         "ConversionID": "S_HeavyLegs_SyndicateRank1",
         "ItemID": "HeavyLegs_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8230,6 +8903,7 @@
     {
         "ConversionID": "S_HeavyFeet_SyndicateRank1",
         "ItemID": "HeavyFeet_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8252,6 +8926,7 @@
     {
         "ConversionID": "S_LightHead_SyndicateRank1",
         "ItemID": "LightHead_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8274,6 +8949,7 @@
     {
         "ConversionID": "S_LightChest_SyndicateRank1",
         "ItemID": "LightChest_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8296,6 +8972,7 @@
     {
         "ConversionID": "S_LightHands_SyndicateRank1",
         "ItemID": "LightHands_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8318,6 +8995,7 @@
     {
         "ConversionID": "S_LightLegs_SyndicateRank1",
         "ItemID": "LightLegs_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8340,6 +9018,7 @@
     {
         "ConversionID": "S_LightFeet_SyndicateRank1",
         "ItemID": "LightFeet_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8362,6 +9041,7 @@
     {
         "ConversionID": "S_MediumHead_SyndicateRank1",
         "ItemID": "MediumHead_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8384,6 +9064,7 @@
     {
         "ConversionID": "S_MediumChest_SyndicateRank1",
         "ItemID": "MediumChest_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8406,6 +9087,7 @@
     {
         "ConversionID": "S_MediumHands_SyndicateRank1",
         "ItemID": "MediumHands_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8428,6 +9110,7 @@
     {
         "ConversionID": "S_MediumLegs_SyndicateRank1",
         "ItemID": "MediumLegs_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8450,6 +9133,7 @@
     {
         "ConversionID": "S_MediumFeet_SyndicateRank1",
         "ItemID": "MediumFeet_SyndicateRank1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8472,6 +9156,7 @@
     {
         "ConversionID": "S_ShotT2",
         "ItemID": "ShotT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8494,6 +9179,7 @@
     {
         "ConversionID": "S_ArrowT2",
         "ItemID": "ArrowT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8516,6 +9202,7 @@
     {
         "ConversionID": "S_HoldingRuneT2",
         "ItemID": "HoldingRuneT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8538,6 +9225,7 @@
     {
         "ConversionID": "S_FactionChisel1",
         "ItemID": "FactionChisel1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8560,6 +9248,7 @@
     {
         "ConversionID": "S_FactionPotionHealthT2",
         "ItemID": "FactionPotionHealthT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8582,6 +9271,7 @@
     {
         "ConversionID": "S_FactionPotionManaT2",
         "ItemID": "FactionPotionManaT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8604,6 +9294,7 @@
     {
         "ConversionID": "S_SyndicateSeal_Barbarian",
         "ItemID": "SyndicateSeal_Barbarian",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8626,6 +9317,7 @@
     {
         "ConversionID": "S_SyndicateSeal_Brigand",
         "ItemID": "SyndicateSeal_Brigand",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8648,6 +9340,7 @@
     {
         "ConversionID": "S_SyndicateSeal_Occultist",
         "ItemID": "SyndicateSeal_Occultist",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8670,6 +9363,7 @@
     {
         "ConversionID": "S_SyndicateSeal_Cleric",
         "ItemID": "SyndicateSeal_Cleric",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8692,6 +9386,7 @@
     {
         "ConversionID": "S_1hLongsword_SyndicateRank2",
         "ItemID": "1hLongsword_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8714,6 +9409,7 @@
     {
         "ConversionID": "S_2hWarhammer_SyndicateRank2",
         "ItemID": "2hWarhammer_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8736,6 +9432,7 @@
     {
         "ConversionID": "S_2hMusket_SyndicateRank2",
         "ItemID": "2hMusket_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8758,6 +9455,7 @@
     {
         "ConversionID": "S_2hBow_SyndicateRank2",
         "ItemID": "2hBow_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8780,6 +9478,7 @@
     {
         "ConversionID": "S_1hThrowingAxe_SyndicateRank2",
         "ItemID": "1hThrowingAxe_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8802,6 +9501,7 @@
     {
         "ConversionID": "S_2hFireStaff_SyndicateRank2",
         "ItemID": "2hFireStaff_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8824,6 +9524,7 @@
     {
         "ConversionID": "S_2hLifeStaff_SyndicateRank2",
         "ItemID": "2hLifeStaff_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8846,6 +9547,7 @@
     {
         "ConversionID": "S_1hRShield_SyndicateRank2",
         "ItemID": "1hRShield_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8868,6 +9570,7 @@
     {
         "ConversionID": "S_1hKShield_SyndicateRank2",
         "ItemID": "1hKShield_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8890,6 +9593,7 @@
     {
         "ConversionID": "S_2hSpear_SyndicateRank2",
         "ItemID": "2hSpear_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8912,6 +9616,7 @@
     {
         "ConversionID": "S_2hGreataxe_SyndicateRank2",
         "ItemID": "2hGreataxe_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8934,6 +9639,7 @@
     {
         "ConversionID": "S_1hRapier_SyndicateRank2",
         "ItemID": "1hRapier_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8956,6 +9662,30 @@
     {
         "ConversionID": "S_1hGauntletIce_SyndicateRank2",
         "ItemID": "1hGauntletIce_SyndicateRank2",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "SyndicateTokens",
+        "RankCheckCategoricalProgressionId": "Syndicate",
+        "RequiredCategoricalProgressionRank": 1,
+        "BuyCategoricalProgressionCost": 5000,
+        "BuyCurrencyCost": 25000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "S_1hGauntletVoid_SyndicateRank2",
+        "ItemID": "1hGauntletVoid_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -8978,6 +9708,7 @@
     {
         "ConversionID": "S_HeavyHead_SyndicateRank2",
         "ItemID": "HeavyHead_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9000,6 +9731,7 @@
     {
         "ConversionID": "S_HeavyChest_SyndicateRank2",
         "ItemID": "HeavyChest_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9022,6 +9754,7 @@
     {
         "ConversionID": "S_HeavyHands_SyndicateRank2",
         "ItemID": "HeavyHands_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9044,6 +9777,7 @@
     {
         "ConversionID": "S_HeavyLegs_SyndicateRank2",
         "ItemID": "HeavyLegs_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9066,6 +9800,7 @@
     {
         "ConversionID": "S_HeavyFeet_SyndicateRank2",
         "ItemID": "HeavyFeet_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9088,6 +9823,7 @@
     {
         "ConversionID": "S_LightHead_SyndicateRank2",
         "ItemID": "LightHead_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9110,6 +9846,7 @@
     {
         "ConversionID": "S_LightChest_SyndicateRank2",
         "ItemID": "LightChest_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9132,6 +9869,7 @@
     {
         "ConversionID": "S_LightHands_SyndicateRank2",
         "ItemID": "LightHands_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9154,6 +9892,7 @@
     {
         "ConversionID": "S_LightLegs_SyndicateRank2",
         "ItemID": "LightLegs_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9176,6 +9915,7 @@
     {
         "ConversionID": "S_LightFeet_SyndicateRank2",
         "ItemID": "LightFeet_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9198,6 +9938,7 @@
     {
         "ConversionID": "S_MediumHead_SyndicateRank2",
         "ItemID": "MediumHead_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9220,6 +9961,7 @@
     {
         "ConversionID": "S_MediumChest_SyndicateRank2",
         "ItemID": "MediumChest_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9242,6 +9984,7 @@
     {
         "ConversionID": "S_MediumHands_SyndicateRank2",
         "ItemID": "MediumHands_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9264,6 +10007,7 @@
     {
         "ConversionID": "S_MediumLegs_SyndicateRank2",
         "ItemID": "MediumLegs_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9286,6 +10030,7 @@
     {
         "ConversionID": "S_MediumFeet_SyndicateRank2",
         "ItemID": "MediumFeet_SyndicateRank2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9308,6 +10053,7 @@
     {
         "ConversionID": "S_HoldingRuneT3",
         "ItemID": "HoldingRuneT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9330,6 +10076,7 @@
     {
         "ConversionID": "S_ReagentConverterT3",
         "ItemID": "ReagentConverterT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9352,6 +10099,7 @@
     {
         "ConversionID": "S_FactionChisel2",
         "ItemID": "FactionChisel2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9374,6 +10122,7 @@
     {
         "ConversionID": "S_FactionTinctureCorruptionT2",
         "ItemID": "FactionTinctureCorruptionT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9396,6 +10145,7 @@
     {
         "ConversionID": "S_FactionTinctureBlightT2",
         "ItemID": "FactionTinctureBlightT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9418,6 +10168,7 @@
     {
         "ConversionID": "S_FactionPotionHealthT3",
         "ItemID": "FactionPotionHealthT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9440,6 +10191,7 @@
     {
         "ConversionID": "S_FactionPotionManaT3",
         "ItemID": "FactionPotionManaT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9462,6 +10214,7 @@
     {
         "ConversionID": "S_1hLongsword_SyndicateRank3",
         "ItemID": "1hLongsword_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9484,6 +10237,7 @@
     {
         "ConversionID": "S_2hWarhammer_SyndicateRank3",
         "ItemID": "2hWarhammer_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9506,6 +10260,7 @@
     {
         "ConversionID": "S_2hMusket_SyndicateRank3",
         "ItemID": "2hMusket_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9528,6 +10283,7 @@
     {
         "ConversionID": "S_2hBow_SyndicateRank3",
         "ItemID": "2hBow_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9550,6 +10306,7 @@
     {
         "ConversionID": "S_1hThrowingAxe_SyndicateRank3",
         "ItemID": "1hThrowingAxe_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9572,6 +10329,7 @@
     {
         "ConversionID": "S_2hFireStaff_SyndicateRank3",
         "ItemID": "2hFireStaff_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9594,6 +10352,7 @@
     {
         "ConversionID": "S_2hLifeStaff_SyndicateRank3",
         "ItemID": "2hLifeStaff_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9616,6 +10375,7 @@
     {
         "ConversionID": "S_1hRShield_SyndicateRank3",
         "ItemID": "1hRShield_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9638,6 +10398,7 @@
     {
         "ConversionID": "S_1hKShield_SyndicateRank3",
         "ItemID": "1hKShield_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9660,6 +10421,7 @@
     {
         "ConversionID": "S_1hTShield_SyndicateRank3",
         "ItemID": "1hTShield_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9682,6 +10444,7 @@
     {
         "ConversionID": "S_2hSpear_SyndicateRank3",
         "ItemID": "2hSpear_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9704,6 +10467,7 @@
     {
         "ConversionID": "S_2hGreataxe_SyndicateRank3",
         "ItemID": "2hGreataxe_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9726,6 +10490,7 @@
     {
         "ConversionID": "S_1hRapier_SyndicateRank3",
         "ItemID": "1hRapier_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9748,6 +10513,30 @@
     {
         "ConversionID": "S_1hGauntletIce_SyndicateRank3",
         "ItemID": "1hGauntletIce_SyndicateRank3",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "SyndicateTokens",
+        "RankCheckCategoricalProgressionId": "Syndicate",
+        "RequiredCategoricalProgressionRank": 2,
+        "BuyCategoricalProgressionCost": 7500,
+        "BuyCurrencyCost": 50000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "S_1hGauntletVoid_SyndicateRank3",
+        "ItemID": "1hGauntletVoid_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9770,6 +10559,7 @@
     {
         "ConversionID": "S_HeavyHead_SyndicateRank3",
         "ItemID": "HeavyHead_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9792,6 +10582,7 @@
     {
         "ConversionID": "S_HeavyChest_SyndicateRank3",
         "ItemID": "HeavyChest_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9814,6 +10605,7 @@
     {
         "ConversionID": "S_HeavyHands_SyndicateRank3",
         "ItemID": "HeavyHands_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9836,6 +10628,7 @@
     {
         "ConversionID": "S_HeavyLegs_SyndicateRank3",
         "ItemID": "HeavyLegs_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9858,6 +10651,7 @@
     {
         "ConversionID": "S_HeavyFeet_SyndicateRank3",
         "ItemID": "HeavyFeet_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9880,6 +10674,7 @@
     {
         "ConversionID": "S_LightHead_SyndicateRank3",
         "ItemID": "LightHead_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9902,6 +10697,7 @@
     {
         "ConversionID": "S_LightChest_SyndicateRank3",
         "ItemID": "LightChest_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9924,6 +10720,7 @@
     {
         "ConversionID": "S_LightHands_SyndicateRank3",
         "ItemID": "LightHands_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9946,6 +10743,7 @@
     {
         "ConversionID": "S_LightLegs_SyndicateRank3",
         "ItemID": "LightLegs_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9968,6 +10766,7 @@
     {
         "ConversionID": "S_LightFeet_SyndicateRank3",
         "ItemID": "LightFeet_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -9990,6 +10789,7 @@
     {
         "ConversionID": "S_MediumHead_SyndicateRank3",
         "ItemID": "MediumHead_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10012,6 +10812,7 @@
     {
         "ConversionID": "S_MediumChest_SyndicateRank3",
         "ItemID": "MediumChest_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10034,6 +10835,7 @@
     {
         "ConversionID": "S_MediumHands_SyndicateRank3",
         "ItemID": "MediumHands_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10056,6 +10858,7 @@
     {
         "ConversionID": "S_MediumLegs_SyndicateRank3",
         "ItemID": "MediumLegs_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10078,6 +10881,7 @@
     {
         "ConversionID": "S_MediumFeet_SyndicateRank3",
         "ItemID": "MediumFeet_SyndicateRank3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10100,6 +10904,7 @@
     {
         "ConversionID": "S_HoldingRuneT4",
         "ItemID": "HoldingRuneT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10122,6 +10927,7 @@
     {
         "ConversionID": "S_ReagentConverterT4",
         "ItemID": "ReagentConverterT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10144,6 +10950,7 @@
     {
         "ConversionID": "S_FactionChisel3",
         "ItemID": "FactionChisel3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10166,6 +10973,7 @@
     {
         "ConversionID": "S_DyeB167",
         "ItemID": "DyeB167",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10188,6 +10996,7 @@
     {
         "ConversionID": "S_GemSocketPinsT1",
         "ItemID": "GemSocketPinsT1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10210,6 +11019,7 @@
     {
         "ConversionID": "S_FactionTinctureCorruptionT3",
         "ItemID": "FactionTinctureCorruptionT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10232,6 +11042,7 @@
     {
         "ConversionID": "S_FactionTinctureBlightT3",
         "ItemID": "FactionTinctureBlightT3",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10254,6 +11065,7 @@
     {
         "ConversionID": "S_FactionPotionHealthT4",
         "ItemID": "FactionPotionHealthT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10276,6 +11088,7 @@
     {
         "ConversionID": "S_FactionPotionManaT4",
         "ItemID": "FactionPotionManaT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10298,6 +11111,7 @@
     {
         "ConversionID": "S_1hLongsword_SyndicateRank4",
         "ItemID": "1hLongsword_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10320,6 +11134,7 @@
     {
         "ConversionID": "S_2hWarhammer_SyndicateRank4",
         "ItemID": "2hWarhammer_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10342,6 +11157,7 @@
     {
         "ConversionID": "S_2hMusket_SyndicateRank4",
         "ItemID": "2hMusket_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10364,6 +11180,7 @@
     {
         "ConversionID": "S_2hBow_SyndicateRank4",
         "ItemID": "2hBow_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10386,6 +11203,7 @@
     {
         "ConversionID": "S_1hThrowingAxe_SyndicateRank4",
         "ItemID": "1hThrowingAxe_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10408,6 +11226,7 @@
     {
         "ConversionID": "S_2hFireStaff_SyndicateRank4",
         "ItemID": "2hFireStaff_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10430,6 +11249,7 @@
     {
         "ConversionID": "S_2hLifeStaff_SyndicateRank4",
         "ItemID": "2hLifeStaff_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10452,6 +11272,7 @@
     {
         "ConversionID": "S_1hRShield_SyndicateRank4",
         "ItemID": "1hRShield_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10474,6 +11295,7 @@
     {
         "ConversionID": "S_1hKShield_SyndicateRank4",
         "ItemID": "1hKShield_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10496,6 +11318,7 @@
     {
         "ConversionID": "S_1hTShield_SyndicateRank4",
         "ItemID": "1hTShield_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10518,6 +11341,7 @@
     {
         "ConversionID": "S_2hSpear_SyndicateRank4",
         "ItemID": "2hSpear_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10540,6 +11364,7 @@
     {
         "ConversionID": "S_2hGreataxe_SyndicateRank4",
         "ItemID": "2hGreataxe_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10562,6 +11387,7 @@
     {
         "ConversionID": "S_1hRapier_SyndicateRank4",
         "ItemID": "1hRapier_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10584,6 +11410,30 @@
     {
         "ConversionID": "S_1hGauntletIce_SyndicateRank4",
         "ItemID": "1hGauntletIce_SyndicateRank4",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "SyndicateTokens",
+        "RankCheckCategoricalProgressionId": "Syndicate",
+        "RequiredCategoricalProgressionRank": 3,
+        "BuyCategoricalProgressionCost": 20000,
+        "BuyCurrencyCost": 100000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "S_1hGauntletVoid_SyndicateRank4",
+        "ItemID": "1hGauntletVoid_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10606,6 +11456,7 @@
     {
         "ConversionID": "S_HeavyHead_SyndicateRank4",
         "ItemID": "HeavyHead_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10628,6 +11479,7 @@
     {
         "ConversionID": "S_HeavyChest_SyndicateRank4",
         "ItemID": "HeavyChest_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10650,6 +11502,7 @@
     {
         "ConversionID": "S_HeavyHands_SyndicateRank4",
         "ItemID": "HeavyHands_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10672,6 +11525,7 @@
     {
         "ConversionID": "S_HeavyLegs_SyndicateRank4",
         "ItemID": "HeavyLegs_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10694,6 +11548,7 @@
     {
         "ConversionID": "S_HeavyFeet_SyndicateRank4",
         "ItemID": "HeavyFeet_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10716,6 +11571,7 @@
     {
         "ConversionID": "S_LightHead_SyndicateRank4",
         "ItemID": "LightHead_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10738,6 +11594,7 @@
     {
         "ConversionID": "S_LightChest_SyndicateRank4",
         "ItemID": "LightChest_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10760,6 +11617,7 @@
     {
         "ConversionID": "S_LightHands_SyndicateRank4",
         "ItemID": "LightHands_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10782,6 +11640,7 @@
     {
         "ConversionID": "S_LightLegs_SyndicateRank4",
         "ItemID": "LightLegs_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10804,6 +11663,7 @@
     {
         "ConversionID": "S_LightFeet_SyndicateRank4",
         "ItemID": "LightFeet_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10826,6 +11686,7 @@
     {
         "ConversionID": "S_MediumHead_SyndicateRank4",
         "ItemID": "MediumHead_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10848,6 +11709,7 @@
     {
         "ConversionID": "S_MediumChest_SyndicateRank4",
         "ItemID": "MediumChest_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10870,6 +11732,7 @@
     {
         "ConversionID": "S_MediumHands_SyndicateRank4",
         "ItemID": "MediumHands_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10892,6 +11755,7 @@
     {
         "ConversionID": "S_MediumLegs_SyndicateRank4",
         "ItemID": "MediumLegs_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10914,6 +11778,7 @@
     {
         "ConversionID": "S_MediumFeet_SyndicateRank4",
         "ItemID": "MediumFeet_SyndicateRank4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10936,6 +11801,7 @@
     {
         "ConversionID": "S_HoldingRuneT5",
         "ItemID": "HoldingRuneT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10958,6 +11824,7 @@
     {
         "ConversionID": "S_ReagentConverterT5",
         "ItemID": "ReagentConverterT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -10980,6 +11847,7 @@
     {
         "ConversionID": "S_FactionChisel4",
         "ItemID": "FactionChisel4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11002,6 +11870,7 @@
     {
         "ConversionID": "S_FactionTinctureCorruptionT4",
         "ItemID": "FactionTinctureCorruptionT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11024,6 +11893,7 @@
     {
         "ConversionID": "S_FactionTinctureBlightT4",
         "ItemID": "FactionTinctureBlightT4",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11046,6 +11916,7 @@
     {
         "ConversionID": "S_1hLongsword_SyndicateRank5",
         "ItemID": "1hLongsword_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11068,6 +11939,7 @@
     {
         "ConversionID": "S_2hWarhammer_SyndicateRank5",
         "ItemID": "2hWarhammer_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11090,6 +11962,7 @@
     {
         "ConversionID": "S_2hMusket_SyndicateRank5",
         "ItemID": "2hMusket_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11112,6 +11985,7 @@
     {
         "ConversionID": "S_2hBow_SyndicateRank5",
         "ItemID": "2hBow_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11134,6 +12008,7 @@
     {
         "ConversionID": "S_1hThrowingAxe_SyndicateRank5",
         "ItemID": "1hThrowingAxe_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11156,6 +12031,7 @@
     {
         "ConversionID": "S_2hFireStaff_SyndicateRank5",
         "ItemID": "2hFireStaff_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11178,6 +12054,7 @@
     {
         "ConversionID": "S_2hLifeStaff_SyndicateRank5",
         "ItemID": "2hLifeStaff_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11200,6 +12077,7 @@
     {
         "ConversionID": "S_1hRShield_SyndicateRank5",
         "ItemID": "1hRShield_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11222,6 +12100,7 @@
     {
         "ConversionID": "S_1hKShield_SyndicateRank5",
         "ItemID": "1hKShield_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11244,6 +12123,7 @@
     {
         "ConversionID": "S_1hTShield_SyndicateRank5",
         "ItemID": "1hTShield_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11266,6 +12146,7 @@
     {
         "ConversionID": "S_2hSpear_SyndicateRank5",
         "ItemID": "2hSpear_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11288,6 +12169,7 @@
     {
         "ConversionID": "S_2hGreataxe_SyndicateRank5",
         "ItemID": "2hGreataxe_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11310,6 +12192,7 @@
     {
         "ConversionID": "S_1hRapier_SyndicateRank5",
         "ItemID": "1hRapier_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11332,6 +12215,30 @@
     {
         "ConversionID": "S_1hGauntletIce_SyndicateRank5",
         "ItemID": "1hGauntletIce_SyndicateRank5",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "SyndicateTokens",
+        "RankCheckCategoricalProgressionId": "Syndicate",
+        "RequiredCategoricalProgressionRank": 4,
+        "BuyCategoricalProgressionCost": 50000,
+        "BuyCurrencyCost": 200000,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
+        "ConversionID": "S_1hGauntletVoid_SyndicateRank5",
+        "ItemID": "1hGauntletVoid_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11354,6 +12261,7 @@
     {
         "ConversionID": "S_HeavyHead_SyndicateRank5",
         "ItemID": "HeavyHead_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11376,6 +12284,7 @@
     {
         "ConversionID": "S_HeavyChest_SyndicateRank5",
         "ItemID": "HeavyChest_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11398,6 +12307,7 @@
     {
         "ConversionID": "S_HeavyHands_SyndicateRank5",
         "ItemID": "HeavyHands_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11420,6 +12330,7 @@
     {
         "ConversionID": "S_HeavyLegs_SyndicateRank5",
         "ItemID": "HeavyLegs_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11442,6 +12353,7 @@
     {
         "ConversionID": "S_HeavyFeet_SyndicateRank5",
         "ItemID": "HeavyFeet_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11464,6 +12376,7 @@
     {
         "ConversionID": "S_LightHead_SyndicateRank5",
         "ItemID": "LightHead_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11486,6 +12399,7 @@
     {
         "ConversionID": "S_LightChest_SyndicateRank5",
         "ItemID": "LightChest_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11508,6 +12422,7 @@
     {
         "ConversionID": "S_LightHands_SyndicateRank5",
         "ItemID": "LightHands_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11530,6 +12445,7 @@
     {
         "ConversionID": "S_LightLegs_SyndicateRank5",
         "ItemID": "LightLegs_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11552,6 +12468,7 @@
     {
         "ConversionID": "S_LightFeet_SyndicateRank5",
         "ItemID": "LightFeet_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11574,6 +12491,7 @@
     {
         "ConversionID": "S_MediumHead_SyndicateRank5",
         "ItemID": "MediumHead_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11596,6 +12514,7 @@
     {
         "ConversionID": "S_MediumChest_SyndicateRank5",
         "ItemID": "MediumChest_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11618,6 +12537,7 @@
     {
         "ConversionID": "S_MediumHands_SyndicateRank5",
         "ItemID": "MediumHands_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11640,6 +12560,7 @@
     {
         "ConversionID": "S_MediumLegs_SyndicateRank5",
         "ItemID": "MediumLegs_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11662,6 +12583,7 @@
     {
         "ConversionID": "S_MediumFeet_SyndicateRank5",
         "ItemID": "MediumFeet_SyndicateRank5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11684,6 +12606,7 @@
     {
         "ConversionID": "S_FactionChisel5",
         "ItemID": "FactionChisel5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11704,8 +12627,32 @@
         "InContracts": false
     },
     {
+        "ConversionID": "S_ConsecratedIronT3",
+        "ItemID": "ConsecratedIronT3",
+        "EntitlementId": "",
+        "Perk1": "",
+        "Perk2": "",
+        "Perk3": "",
+        "Perk4": "",
+        "Bought": 1,
+        "Sold": 0,
+        "ItemQty": 1,
+        "CategoricalProgressionId": "SyndicateTokens",
+        "RankCheckCategoricalProgressionId": "Syndicate",
+        "RequiredCategoricalProgressionRank": 4,
+        "BuyCategoricalProgressionCost": 3000,
+        "BuyCurrencyCost": 0,
+        "BuyCurrencyItemName": "",
+        "BuyCurrencyItemCost": null,
+        "SellCategoricalProgressionCost": 0,
+        "SellCurrencyCost": 0,
+        "SellAzothCost": "",
+        "InContracts": false
+    },
+    {
         "ConversionID": "S_MediumHead_SyndicatePlagueDoctorT5",
         "ItemID": "MediumHead_SyndicatePlagueDoctorT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11728,6 +12675,7 @@
     {
         "ConversionID": "S_MediumChest_SyndicatePlagueDoctorT5",
         "ItemID": "MediumChest_SyndicatePlagueDoctorT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11750,6 +12698,7 @@
     {
         "ConversionID": "S_MediumHands_SyndicatePlagueDoctorT5",
         "ItemID": "MediumHands_SyndicatePlagueDoctorT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11772,6 +12721,7 @@
     {
         "ConversionID": "S_MediumLegs_SyndicatePlagueDoctorT5",
         "ItemID": "MediumLegs_SyndicatePlagueDoctorT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11794,6 +12744,7 @@
     {
         "ConversionID": "S_MediumFeet_SyndicatePlagueDoctorT5",
         "ItemID": "MediumFeet_SyndicatePlagueDoctorT5",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11816,6 +12767,7 @@
     {
         "ConversionID": "ArrowFTW",
         "ItemID": "ArrowFTW",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11838,6 +12790,7 @@
     {
         "ConversionID": "ShotFTW",
         "ItemID": "ShotFTW",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11860,6 +12813,7 @@
     {
         "ConversionID": "PotionCleanseFTW",
         "ItemID": "PotionCleanseFTW",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11882,6 +12836,7 @@
     {
         "ConversionID": "PotionHasteFTW",
         "ItemID": "PotionHasteFTW",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11904,6 +12859,7 @@
     {
         "ConversionID": "PotionHealthFTW",
         "ItemID": "PotionHealthFTW",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11926,6 +12882,7 @@
     {
         "ConversionID": "PotionManaFTW",
         "ItemID": "PotionManaFTW",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11948,6 +12905,7 @@
     {
         "ConversionID": "AmmoKit",
         "ItemID": "AmmoKit",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -11970,28 +12928,7 @@
     {
         "ConversionID": "TrapFire",
         "ItemID": "TrapFire",
-        "Perk1": "",
-        "Perk2": "",
-        "Perk3": "",
-        "Perk4": "",
-        "Bought": 1,
-        "Sold": 0,
-        "ItemQty": 1,
-        "CategoricalProgressionId": "Battle_Token",
-        "RankCheckCategoricalProgressionId": "Battle_Token",
-        "RequiredCategoricalProgressionRank": 0,
-        "BuyCategoricalProgressionCost": 30,
-        "BuyCurrencyCost": 0,
-        "BuyCurrencyItemName": "",
-        "BuyCurrencyItemCost": null,
-        "SellCategoricalProgressionCost": 0,
-        "SellCurrencyCost": 0,
-        "SellAzothCost": "",
-        "InContracts": false
-    },
-    {
-        "ConversionID": "TrapDecoy",
-        "ItemID": "TrapDecoy",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12014,6 +12951,7 @@
     {
         "ConversionID": "PlatformCannonT1",
         "ItemID": "PlatformCannonT1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12036,6 +12974,7 @@
     {
         "ConversionID": "PlatformFireLauncherT1",
         "ItemID": "PlatformFireLauncherT1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12058,6 +12997,7 @@
     {
         "ConversionID": "PlatformRepeaterT1",
         "ItemID": "PlatformRepeaterT1",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12080,6 +13020,7 @@
     {
         "ConversionID": "PowderKegT2",
         "ItemID": "PowderKegT2",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12102,6 +13043,7 @@
     {
         "ConversionID": "OR_PowderKeg",
         "ItemID": "OR_PowderKeg",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12124,6 +13066,7 @@
     {
         "ConversionID": "OR_PotionHealth",
         "ItemID": "OR_PotionHealth",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12146,6 +13089,7 @@
     {
         "ConversionID": "OR_PotionMana",
         "ItemID": "OR_PotionMana",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12168,6 +13112,7 @@
     {
         "ConversionID": "OR_PotionStamina",
         "ItemID": "OR_PotionStamina",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12190,6 +13135,7 @@
     {
         "ConversionID": "OR_FoodSpeed",
         "ItemID": "OR_FoodSpeed",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12212,6 +13158,7 @@
     {
         "ConversionID": "OR_FoodPvE",
         "ItemID": "OR_FoodPvE",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12234,6 +13181,7 @@
     {
         "ConversionID": "OR_FoodPvP",
         "ItemID": "OR_FoodPvP",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -12256,6 +13204,7 @@
     {
         "ConversionID": "OR_SummonStoneBear",
         "ItemID": "OR_SummonStoneBear",
+        "EntitlementId": "",
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",

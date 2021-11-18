@@ -14,7 +14,7 @@
         "AchievementId": "S_getoffbeach",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "S_getoffbeach_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -39,7 +39,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0601_0101_culldrowned",
@@ -56,7 +57,7 @@
         "AchievementId": "S_culldrowned",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0601_0101_culldrowned_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -81,7 +82,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0601_0102_campandtools",
@@ -98,7 +100,7 @@
         "AchievementId": "S_campandtools",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0601_0102_campandtools_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -123,7 +125,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0601_0103_boarproblem",
@@ -140,7 +143,7 @@
         "AchievementId": "S_boarproblem",
         "RequiredAchievementId": "S_campandtools",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0601_0103_boarproblem_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -165,7 +168,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0601_0104_xmarksthespot",
@@ -182,7 +186,7 @@
         "AchievementId": "S_xmarksthespot_p1",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0601_0104_xmarksthespot_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -207,7 +211,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0601_0107_preciouscargo",
@@ -224,7 +229,7 @@
         "AchievementId": "S_preciouscargo",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0601_0107_preciouscargo_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -249,7 +254,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0601_0108_introtosettlement",
@@ -266,7 +272,7 @@
         "AchievementId": "S_introtosettlement",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0601_0108_introtosettlement_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -291,7 +297,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0625_0101_truffles",
@@ -308,7 +315,7 @@
         "AchievementId": "S_truffles",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0625_0101_truffles_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -333,7 +340,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0604_0101_warnthemagistrate",
@@ -350,7 +358,7 @@
         "AchievementId": "S_warnmagistrate",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0604_0101_warnthemagistrate_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -375,7 +383,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0606_0102_hearthandhome",
@@ -392,7 +401,7 @@
         "AchievementId": "S_hearthhome",
         "RequiredAchievementId": "S_warnmagistrate",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0606_0102_hearthandhome_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -417,7 +426,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0602_0102_intrototrader",
@@ -434,7 +444,7 @@
         "AchievementId": "S_intrototrader",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0602_0102_intrototrader_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -459,7 +469,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0603_0102_introtooverseer",
@@ -476,7 +487,7 @@
         "AchievementId": "S_introtooverseer",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0603_0102_introtooverseer_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -501,7 +512,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0604_0104_overseersettlement",
@@ -518,7 +530,7 @@
         "AchievementId": "S_overseersettlement",
         "RequiredAchievementId": "S_introtooverseer",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0604_0104_overseersettlement_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -543,7 +555,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0604_0103_introtoartificer",
@@ -560,7 +573,7 @@
         "AchievementId": "S_introtoartificer",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0604_0103_introtoartificer_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -585,7 +598,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0605_0101_craftforartificer",
@@ -602,7 +616,7 @@
         "AchievementId": "S_craftforartificer",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0605_0101_craftforartificer_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -627,7 +641,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0605_0102_campingunlock",
@@ -644,7 +659,7 @@
         "AchievementId": "S_campingunlock",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0605_0102_campingunlock_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -669,7 +684,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0603_0201_survivalistquest",
@@ -686,8 +702,51 @@
         "AchievementId": "S_magistratequest",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0603_0201_survivalistquest_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": "",
+        "ShouldResetOnFactionChange": null,
+        "Repeatable": "",
+        "CanBeAbandoned": "0",
+        "Title": "@0603_0201_survivalistquest_objective_title",
+        "Description": "@0603_0201_survivalistquest_objective_desc",
+        "PlayerPrompt": "@0603_0201_survivalistquest_start_prompt",
+        "ObjectiveProposalResponse": "@0603_0201_survivalistquest_proposal",
+        "InProgressResponse": "@0603_0201_survivalistquest_incomplete",
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "DestinationCompletionAvailableResponse": "@0603_0201_survivalistquest_complete_availaible_response",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": null,
+        "ReleaseEventTags": "HFR",
+        "ReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
+    },
+    {
+        "ObjectiveID": "0603_0201_survivalistquest_V2",
+        "Type": "MainStoryQuest",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "0603_0201_d_00_container_survivalistquest_V2",
+        "NpcDestinationId": "0603_Survivalist",
+        "ExclusiveTerritory": 6,
+        "AchievementId": "S_magistratequest",
+        "RequiredAchievementId": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "SuccessGameEventId": "0603_0201_survivalistquest_V2_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -711,7 +770,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0603_0202_returntomagistrate",
@@ -728,7 +788,7 @@
         "AchievementId": "S_returntomagistrate",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0603_0202_returntomagistrate_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -753,7 +813,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0602_0202_introtoallfactions",
@@ -770,7 +831,7 @@
         "AchievementId": "S_introtoallfactions",
         "RequiredAchievementId": "S_introtoallfactions_accepted",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0602_0202_introtoallfactions_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -795,7 +856,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0607_0101_marauderquest1",
@@ -812,7 +874,7 @@
         "AchievementId": "S_marauderquest1",
         "RequiredAchievementId": "S_timetochoose",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0607_0101_marauderquest1_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -837,7 +899,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0608_0101_syndicatequest1",
@@ -854,7 +917,7 @@
         "AchievementId": "S_syndicatequest1",
         "RequiredAchievementId": "S_timetochoose",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0608_0101_syndicatequest1_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -879,7 +942,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0609_0101_covenantquest1",
@@ -896,7 +960,7 @@
         "AchievementId": "S_covenantquest1",
         "RequiredAchievementId": "S_timetochoose",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0609_0101_covenantquest1_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -921,7 +985,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0609_0103_timetochoose",
@@ -938,7 +1003,7 @@
         "AchievementId": "S_timetochoose",
         "RequiredAchievementId": "S_introtoallfactions",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0609_0103_timetochoose_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -963,7 +1028,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0602_0401_factionhandoff",
@@ -980,7 +1046,7 @@
         "AchievementId": "S_factionhandoff",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0602_0401_factionhandoff_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1005,7 +1071,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0604_0501_encroachingcorruption",
@@ -1022,7 +1089,7 @@
         "AchievementId": "S_encroachingcorruption",
         "RequiredAchievementId": "S_factionhandoff",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0604_0501_encroachingcorruption_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1047,7 +1114,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0610_0101_apricklyrequest",
@@ -1064,7 +1132,7 @@
         "AchievementId": "06_Quest_04",
         "RequiredAchievementId": "S_factionhandoff",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0610_0101_apricklyrequest_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1089,7 +1157,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc2"
+        "QuestArcTag": "WindswardArc2",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0604_0203_abominableluck",
@@ -1106,7 +1175,7 @@
         "AchievementId": "06_Quest_20",
         "RequiredAchievementId": "S_factionhandoff",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0604_0203_abominableluck_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1131,7 +1200,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc4"
+        "QuestArcTag": "WindswardArc4",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0605_0301_soiledexpectations",
@@ -1148,7 +1218,7 @@
         "AchievementId": "06_Quest_07",
         "RequiredAchievementId": "S_factionhandoff",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0605_0301_soiledexpectations_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1173,7 +1243,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc1"
+        "QuestArcTag": "WindswardArc1",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0603_0302_predatorprey",
@@ -1190,7 +1261,7 @@
         "AchievementId": "06_Quest_11",
         "RequiredAchievementId": "06_Quest_04",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0603_0302_predatorprey_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1215,7 +1286,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc3"
+        "QuestArcTag": "WindswardArc3",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0610_0103_thelonelyharvest",
@@ -1232,7 +1304,7 @@
         "AchievementId": "06_Quest_18",
         "RequiredAchievementId": "06_Quest_04",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0610_0103_thelonelyharvest_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1257,7 +1329,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc2"
+        "QuestArcTag": "WindswardArc2",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0604_0202_buildingblocks",
@@ -1274,7 +1347,7 @@
         "AchievementId": "06_Quest_15",
         "RequiredAchievementId": "06_Quest_20",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0604_0202_buildingblocks_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1299,7 +1372,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc4"
+        "QuestArcTag": "WindswardArc4",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0602_0503_warpandweft",
@@ -1316,7 +1390,7 @@
         "AchievementId": "06_Quest_13",
         "RequiredAchievementId": "06_Quest_15",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0602_0503_warpandweft_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1341,7 +1415,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0610_0102_piratesofspice",
@@ -1358,7 +1433,7 @@
         "AchievementId": "06_Quest_06",
         "RequiredAchievementId": "06_Quest_18",
         "RequiredFaction": "",
-        "RequiredLevel": 19,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0610_0102_piratesofspice_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1383,7 +1458,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc2"
+        "QuestArcTag": "WindswardArc2",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0603_0204_bearscratchrock",
@@ -1400,7 +1476,7 @@
         "AchievementId": "06_Quest_17",
         "RequiredAchievementId": "06_Quest_06",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0603_0204_bearscratchrock_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1425,7 +1501,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc3"
+        "QuestArcTag": "WindswardArc3",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0605_0401_jarofblackbile",
@@ -1442,7 +1519,7 @@
         "AchievementId": "06_Quest_19",
         "RequiredAchievementId": "06_Quest_06",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0605_0401_jarofblackbile_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1467,7 +1544,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc1"
+        "QuestArcTag": "WindswardArc1",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0603_0301_makingsparks",
@@ -1484,7 +1562,7 @@
         "AchievementId": "06_Quest_03",
         "RequiredAchievementId": "06_Quest_17",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0603_0301_makingsparks_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1509,7 +1587,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc3"
+        "QuestArcTag": "WindswardArc3",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0602_0504_fabricnegotiation",
@@ -1526,7 +1605,7 @@
         "AchievementId": "06_Quest_16",
         "RequiredAchievementId": "06_Quest_19",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0602_0504_fabricnegotiation_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1551,7 +1630,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0605_0501_azothfulminate",
@@ -1568,7 +1648,7 @@
         "AchievementId": "06_Quest_22",
         "RequiredAchievementId": "06_Quest_03",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0605_0501_azothfulminate_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1593,7 +1673,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "WindswardArc1"
+        "QuestArcTag": "WindswardArc1",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0604_0201_stevenexpedition",
@@ -1610,7 +1691,7 @@
         "AchievementId": "06_Quest_05",
         "RequiredAchievementId": "06_Quest_19",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0604_0201_stevenexpedition_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1635,7 +1716,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0604_0202_happyreturns",
@@ -1652,7 +1734,7 @@
         "AchievementId": "06_Quest_21",
         "RequiredAchievementId": "06_Quest_05",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0604_0202_happyreturns_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1677,7 +1759,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0611_0101_ancientobservations",
@@ -1694,7 +1777,7 @@
         "AchievementId": "06_Quest_12",
         "RequiredAchievementId": "06_Quest_05",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0611_0101_ancientobservations_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1719,7 +1802,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0602_0501_takentotask",
@@ -1736,7 +1820,7 @@
         "AchievementId": "06_Quest_01",
         "RequiredAchievementId": "06_Quest_12",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0602_0501_takentotask_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1761,7 +1845,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0610_0201_shotacrossbow_p1",
@@ -1778,7 +1863,7 @@
         "AchievementId": "06_Quest_08",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0610_0201_shotacrossbow_p1_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1803,7 +1888,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0610_0201_shotacrossbow_p2",
@@ -1820,7 +1906,7 @@
         "AchievementId": "06_Quest_09",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0610_0201_shotacrossbow_p2_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1845,7 +1931,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0610_0201_shotacrossbow_p3",
@@ -1862,7 +1949,7 @@
         "AchievementId": "06_Quest_10",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0610_0201_shotacrossbow_p3_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1887,7 +1974,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0602_0502_oftheheart",
@@ -1904,7 +1992,7 @@
         "AchievementId": "06_Quest_02",
         "RequiredAchievementId": "06_Quest_12",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0602_0502_oftheheart_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1929,7 +2017,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0622_1501_intrototravel",
@@ -1946,7 +2035,7 @@
         "AchievementId": "S_intrototravel",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0622_1501_intrototravel_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1971,7 +2060,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0622_1502_returntravel",
@@ -1988,7 +2078,7 @@
         "AchievementId": "S_returntravel",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0622_1502_returntravel_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2013,7 +2103,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0623_0101_FQ01",
@@ -2030,7 +2121,7 @@
         "AchievementId": "FishingQuest_01",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0623_0101_FQ01_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2055,7 +2146,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0623_0102_FQ02",
@@ -2072,7 +2164,7 @@
         "AchievementId": "FishingQuest_02",
         "RequiredAchievementId": "FishingQuest_01",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0623_0102_FQ02_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2097,7 +2189,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0423_0101_FQ03",
@@ -2114,7 +2207,7 @@
         "AchievementId": "FishingQuest_03",
         "RequiredAchievementId": "FishingQuest_02",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0423_0101_FQ03_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2139,7 +2232,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0923_0101_FQ04",
@@ -2156,7 +2250,7 @@
         "AchievementId": "FishingQuest_04",
         "RequiredAchievementId": "FishingQuest_03",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0923_0101_FQ04_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2181,7 +2275,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1223_0101_FQ05",
@@ -2198,7 +2293,7 @@
         "AchievementId": "FishingQuest_05",
         "RequiredAchievementId": "FishingQuest_04",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "1223_0101_FQ05_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2223,7 +2318,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1023_0101_FQ06",
@@ -2240,7 +2336,7 @@
         "AchievementId": "FishingQuest_06",
         "RequiredAchievementId": "FishingQuest_05",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "1023_0101_FQ06_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2265,7 +2361,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0223_0101_FQ07",
@@ -2282,7 +2379,7 @@
         "AchievementId": "FishingQuest_07",
         "RequiredAchievementId": "FishingQuest_06",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0223_0101_FQ07_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2307,7 +2404,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1323_0101_FQ08",
@@ -2324,7 +2422,7 @@
         "AchievementId": "FishingQuest_08",
         "RequiredAchievementId": "FishingQuest_07",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "1323_0101_FQ08_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2349,7 +2447,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1523_0101_FQ09",
@@ -2366,7 +2465,7 @@
         "AchievementId": "FishingQuest_09",
         "RequiredAchievementId": "FishingQuest_08",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "1523_0101_FQ09_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2391,7 +2490,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1123_0101_FQ10",
@@ -2408,7 +2508,7 @@
         "AchievementId": "FishingQuest_10",
         "RequiredAchievementId": "FishingQuest_09",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "1123_0101_FQ10_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2433,7 +2533,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1424_0101_FQ11",
@@ -2450,7 +2551,7 @@
         "AchievementId": "FishingQuest_11",
         "RequiredAchievementId": "FishingQuest_10",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "1424_0101_FQ11_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2475,7 +2576,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0324_0101_FQ12",
@@ -2492,7 +2594,7 @@
         "AchievementId": "FishingQuest_12",
         "RequiredAchievementId": "FishingQuest_11",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0324_0101_FQ12_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2517,7 +2619,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0724_0101_FQ13",
@@ -2534,7 +2637,7 @@
         "AchievementId": "FishingQuest_13",
         "RequiredAchievementId": "FishingQuest_12",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0724_0101_FQ13_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2559,7 +2662,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0823_0101_FQ14",
@@ -2576,7 +2680,7 @@
         "AchievementId": "FishingQuest_14",
         "RequiredAchievementId": "FishingQuest_13",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0823_0101_FQ14_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2601,7 +2705,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0523_0101_FQ15",
@@ -2618,7 +2723,7 @@
         "AchievementId": "FishingQuest_15",
         "RequiredAchievementId": "FishingQuest_14",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0523_0101_FQ15_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2643,7 +2748,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "FishingQuestsArc"
+        "QuestArcTag": "FishingQuestsArc",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0604_0799_TheHermitWW",
@@ -2660,7 +2766,7 @@
         "AchievementId": "MSQ_00_init",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "9901_MSQ_TheHermit_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2685,7 +2791,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0611_0102_SeeingClearly",
@@ -2702,7 +2809,7 @@
         "AchievementId": "06_Quest_23",
         "RequiredAchievementId": "06_Quest_01",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0611_0102_SeeingClearly_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2727,7 +2834,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0699_0103_BarkimedesPup",
@@ -2744,7 +2852,7 @@
         "AchievementId": "06_Quest_26",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0699_0103_BarkimedesPup_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2769,7 +2877,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0699_0101_Barkimedes",
@@ -2786,7 +2895,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "06_Quest_26",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0699_0101_Barkimedes_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2811,7 +2920,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "0699_0102_Barkimedes2",
@@ -2828,7 +2938,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "0699_0102_Barkimedes2_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2853,7 +2963,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_PVP_ControlSpot_Marauder_objective",
@@ -2870,7 +2981,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2895,7 +3006,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_PVP_PoachSpot_Marauder_objective",
@@ -2912,7 +3024,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2937,7 +3049,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_PVP_SpySpot_Marauder_objective",
@@ -2954,7 +3067,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2979,7 +3092,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_PVP_ControlSpot_Syndicate_objective",
@@ -2996,7 +3110,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3021,7 +3135,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_PVP_PoachSpot_Syndicate_objective",
@@ -3038,7 +3153,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3063,7 +3178,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_PVP_SpySpot_Syndicate_objective",
@@ -3080,7 +3196,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3105,7 +3221,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_PVP_ControlSpot_Covenant_objective",
@@ -3122,7 +3239,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3147,7 +3264,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_PVP_PoachSpot_Covenant_objective",
@@ -3164,7 +3282,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3189,7 +3307,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_PVP_SpySpot_Covenant_objective",
@@ -3206,7 +3325,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3231,7 +3350,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0601_objective",
@@ -3248,7 +3368,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3273,7 +3393,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0602_objective",
@@ -3290,7 +3411,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3315,7 +3436,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0603_objective",
@@ -3332,7 +3454,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3357,7 +3479,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0604_objective",
@@ -3374,7 +3497,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3399,7 +3522,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0605_objective",
@@ -3416,7 +3540,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3441,7 +3565,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0606_objective",
@@ -3458,7 +3583,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3483,7 +3608,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0607_objective",
@@ -3500,7 +3626,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3525,7 +3651,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0608_objective",
@@ -3542,7 +3669,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3567,7 +3694,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0609_objective",
@@ -3584,7 +3712,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3609,7 +3737,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0610_objective",
@@ -3626,7 +3755,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3651,7 +3780,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0601_objective",
@@ -3668,7 +3798,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3693,7 +3823,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0602_objective",
@@ -3710,7 +3841,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3735,7 +3866,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0603_objective",
@@ -3752,7 +3884,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3777,7 +3909,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0604_objective",
@@ -3794,7 +3927,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3819,7 +3952,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0605_objective",
@@ -3836,7 +3970,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3861,7 +3995,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0606_objective",
@@ -3878,7 +4013,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3903,7 +4038,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0607_objective",
@@ -3920,7 +4056,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3945,7 +4081,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0608_objective",
@@ -3962,7 +4099,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -3987,7 +4124,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0609_objective",
@@ -4004,7 +4142,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4029,7 +4167,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0610_objective",
@@ -4046,7 +4185,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4071,7 +4210,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0601_objective",
@@ -4088,7 +4228,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4113,7 +4253,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0602_objective",
@@ -4130,7 +4271,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4155,7 +4296,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0603_objective",
@@ -4172,7 +4314,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4197,7 +4339,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0604_objective",
@@ -4214,7 +4357,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4239,7 +4382,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0605_objective",
@@ -4256,7 +4400,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4281,7 +4425,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0606_objective",
@@ -4298,7 +4443,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4323,7 +4468,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0607_objective",
@@ -4340,7 +4486,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4365,7 +4511,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0608_objective",
@@ -4382,7 +4529,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4407,7 +4554,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0609_objective",
@@ -4424,7 +4572,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4449,7 +4597,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0610_objective",
@@ -4466,7 +4615,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4491,7 +4640,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0661_objective",
@@ -4508,7 +4658,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4533,7 +4683,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0662_objective",
@@ -4550,7 +4701,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4575,7 +4726,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0663_objective",
@@ -4592,7 +4744,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4617,7 +4769,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0664_objective",
@@ -4634,7 +4787,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4659,7 +4812,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0665_objective",
@@ -4676,7 +4830,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4701,7 +4855,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0666_objective",
@@ -4718,7 +4873,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4743,7 +4898,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0667_objective",
@@ -4760,7 +4916,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4785,7 +4941,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0668_objective",
@@ -4802,7 +4959,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4827,7 +4984,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0669_objective",
@@ -4844,7 +5002,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4869,7 +5027,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_0670_objective",
@@ -4886,7 +5045,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4911,7 +5070,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0661_objective",
@@ -4928,7 +5088,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4953,7 +5113,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0662_objective",
@@ -4970,7 +5131,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -4995,7 +5156,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0663_objective",
@@ -5012,7 +5174,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5037,7 +5199,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0664_objective",
@@ -5054,7 +5217,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5079,7 +5242,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0665_objective",
@@ -5096,7 +5260,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5121,7 +5285,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0666_objective",
@@ -5138,7 +5303,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5163,7 +5328,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0667_objective",
@@ -5180,7 +5346,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5205,7 +5371,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0668_objective",
@@ -5222,7 +5389,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5247,7 +5414,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0669_objective",
@@ -5264,7 +5432,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5289,7 +5457,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_0670_objective",
@@ -5306,7 +5475,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5331,7 +5500,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0661_objective",
@@ -5348,7 +5518,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5373,7 +5543,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0662_objective",
@@ -5390,7 +5561,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5415,7 +5586,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0663_objective",
@@ -5432,7 +5604,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5457,7 +5629,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0664_objective",
@@ -5474,7 +5647,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5499,7 +5672,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0665_objective",
@@ -5516,7 +5690,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5541,7 +5715,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0666_objective",
@@ -5558,7 +5733,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5583,7 +5758,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0667_objective",
@@ -5600,7 +5776,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5625,7 +5801,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0668_objective",
@@ -5642,7 +5819,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5667,7 +5844,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0669_objective",
@@ -5684,7 +5862,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5709,7 +5887,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_0670_objective",
@@ -5726,7 +5905,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5751,7 +5930,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_H_01_objective",
@@ -5768,7 +5948,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5793,7 +5973,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_H_02_objective",
@@ -5810,7 +5991,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5835,7 +6016,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_H_03_objective",
@@ -5852,7 +6034,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5877,7 +6059,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_EXP_01_objective",
@@ -5894,7 +6077,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5919,7 +6102,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_EXP_02_objective",
@@ -5936,7 +6120,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -5961,7 +6145,8 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_06_EXP_03_objective",
@@ -5978,7 +6163,7 @@
         "AchievementId": "",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": null,
+        "RequiredLevel": "",
         "SuccessGameEventId": "",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -6003,6 +6188,7 @@
         "ReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": ""
     }
 ]

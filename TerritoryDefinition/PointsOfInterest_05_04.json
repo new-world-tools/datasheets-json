@@ -23,9 +23,9 @@
         "CanPlaceCamp": false,
         "DevName": "Hidden Strain",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory14.png",
         "GameMode": ""
     },
     {
@@ -52,9 +52,9 @@
         "CanPlaceCamp": false,
         "DevName": "Blight Blister",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory14.png",
         "GameMode": ""
     },
     {
@@ -81,9 +81,9 @@
         "CanPlaceCamp": false,
         "DevName": "Tox",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory14.png",
         "GameMode": ""
     },
     {
@@ -110,9 +110,9 @@
         "CanPlaceCamp": false,
         "DevName": "Split Bark",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory14.png",
         "GameMode": ""
     },
     {
@@ -139,9 +139,9 @@
         "CanPlaceCamp": false,
         "DevName": "Rotfellow Hovel",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory14.png",
         "GameMode": ""
     },
     {
@@ -168,9 +168,9 @@
         "CanPlaceCamp": false,
         "DevName": "Pox Cyst",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory14.png",
         "GameMode": ""
     },
     {
@@ -180,7 +180,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_grove.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_grovealtar.png",
         "CompassIcon": "",
         "DiscoveryRadius": 200,
         "IsDiscoverable": true,
@@ -197,9 +197,9 @@
         "CanPlaceCamp": false,
         "DevName": "Fungalitch",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": ""
     },
     {
@@ -226,9 +226,9 @@
         "CanPlaceCamp": false,
         "DevName": "Canker Snap",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory14.png",
         "GameMode": ""
     },
     {
@@ -255,9 +255,9 @@
         "CanPlaceCamp": false,
         "DevName": "Protea Lair",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory14.png",
         "GameMode": ""
     },
     {
@@ -284,9 +284,9 @@
         "CanPlaceCamp": false,
         "DevName": "DELETE_50406",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": ""
     },
     {
@@ -296,7 +296,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_campsite.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_village.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -313,9 +313,9 @@
         "CanPlaceCamp": false,
         "DevName": "Ceremony",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_house_default.png",
         "GameMode": ""
     },
     {
@@ -342,7 +342,7 @@
         "CanPlaceCamp": false,
         "DevName": "Camp Raggedwolf",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": ""
@@ -371,7 +371,7 @@
         "CanPlaceCamp": false,
         "DevName": "NOTHINGHERE_50407",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": ""
@@ -400,7 +400,7 @@
         "CanPlaceCamp": false,
         "DevName": "Last Stand",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": ""
@@ -429,7 +429,7 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_feyoffering_50405",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": ""
@@ -458,7 +458,7 @@
         "CanPlaceCamp": false,
         "DevName": "Knot Rust",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": ""
@@ -487,9 +487,9 @@
         "CanPlaceCamp": false,
         "DevName": "@ui_poi_crater_spriggan_50409",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": 66,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_spriggan.png",
         "GameMode": ""
     },
     {
@@ -516,9 +516,9 @@
         "CanPlaceCamp": false,
         "DevName": "Preservation Pass",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": ""
     },
     {
@@ -545,9 +545,9 @@
         "CanPlaceCamp": false,
         "DevName": "Spryla Tower",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GameMode": ""
     },
     {
@@ -574,7 +574,7 @@
         "CanPlaceCamp": false,
         "DevName": "Mountainrise",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": ""
@@ -603,9 +603,9 @@
         "CanPlaceCamp": false,
         "DevName": "Fishing Hotspot",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
-        "TooltipBackground": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": ""
     },
     {
@@ -632,7 +632,7 @@
         "CanPlaceCamp": false,
         "DevName": "",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "lyShineui/images/map/tooltipimages/mapTooltip_DungeonEdengrove00.dds",
         "GameMode": "DungeonEdengrove00"
@@ -646,7 +646,7 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 100,
+        "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -661,7 +661,7 @@
         "CanPlaceCamp": false,
         "DevName": "Spirit Shrine",
         "VitalsCategory": "",
-        "LevelRange": "",
+        "LevelRange": null,
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": ""

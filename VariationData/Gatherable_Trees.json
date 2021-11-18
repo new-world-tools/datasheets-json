@@ -18,7 +18,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_b",
@@ -39,13 +42,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_ba",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_ba.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodLarge",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.25,
         "InteractionRadius": 2.2,
         "DetectableRadius": 2,
@@ -60,7 +66,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_ca",
@@ -81,13 +90,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cb",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cb.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -102,13 +114,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cc",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cc.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -123,13 +138,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cd",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cd.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.12,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -144,7 +162,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_d",
@@ -165,7 +186,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_e",
@@ -186,7 +210,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DamnedTree_a",
@@ -207,7 +234,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DamnedTree_dead_a",
@@ -228,7 +258,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DamnedTree_b",
@@ -249,7 +282,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DamnedTree_dead_b",
@@ -270,7 +306,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DamnedTree_ba",
@@ -291,7 +330,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DamnedTree_bb",
@@ -312,7 +354,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DamnedTree_c",
@@ -333,7 +378,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DamnedTree_ca",
@@ -354,7 +402,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DamnedTree_cb",
@@ -375,7 +426,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DamnedTree_d",
@@ -396,7 +450,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_a",
@@ -417,7 +474,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_b",
@@ -438,7 +498,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.2,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_c",
@@ -459,7 +522,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_d",
@@ -480,7 +546,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_e",
@@ -501,7 +570,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_f",
@@ -522,7 +594,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_Dead_b",
@@ -543,7 +618,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_Dead_c",
@@ -564,7 +642,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_Dead_ca",
@@ -585,7 +666,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_Dead_d",
@@ -606,7 +690,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_Dead_e",
@@ -627,7 +714,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_Dead_f",
@@ -648,7 +738,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_a",
@@ -669,7 +762,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_b",
@@ -690,7 +786,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_c",
@@ -711,7 +810,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_d",
@@ -732,7 +834,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_e",
@@ -753,7 +858,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_f",
@@ -774,7 +882,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_Dead_a",
@@ -795,7 +906,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_Dead_b",
@@ -816,7 +930,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_Dead_ba",
@@ -837,7 +954,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_Dead_c",
@@ -858,7 +978,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_Dead_ca",
@@ -879,7 +1002,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_Dead_d",
@@ -900,7 +1026,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_thin_a",
@@ -921,7 +1050,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_thin_b",
@@ -942,7 +1074,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_thin_c",
@@ -963,7 +1098,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Dead_a",
@@ -984,7 +1122,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Dead_aa",
@@ -1005,7 +1146,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Dead_ab",
@@ -1026,7 +1170,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Dead_ac",
@@ -1047,7 +1194,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Dead_b",
@@ -1068,13 +1218,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Dead_c",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_dead_c.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_Dead_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodLarge",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.28,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -1089,7 +1242,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_a",
@@ -1110,7 +1266,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_b",
@@ -1131,7 +1290,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_c",
@@ -1152,7 +1314,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_d",
@@ -1173,7 +1338,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_e",
@@ -1194,13 +1362,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_a",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_a.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.65,
         "InteractionRadius": 2.4,
         "DetectableRadius": 2,
@@ -1215,13 +1386,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_b",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_b.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.55,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -1236,13 +1410,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_c",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_c.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodTiny",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.28,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -1257,7 +1434,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "TablePineTree_a",
@@ -1278,7 +1458,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "TablePineTree_b",
@@ -1299,7 +1482,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "TablePineTree_c",
@@ -1320,7 +1506,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "TablePineTree_d",
@@ -1341,7 +1530,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "TablePineTree_e",
@@ -1362,7 +1554,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_a_fall01",
@@ -1383,7 +1578,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_b_fall01",
@@ -1404,13 +1602,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_ba_fall01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_ba.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodLarge",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.25,
         "InteractionRadius": 2.2,
         "DetectableRadius": 2,
@@ -1425,7 +1626,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_ca_fall01",
@@ -1446,13 +1650,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cb_fall01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cb.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -1467,13 +1674,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cc_fall01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cc.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -1488,13 +1698,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cd_fall01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cd.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.12,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -1509,7 +1722,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_d_fall01",
@@ -1530,7 +1746,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_e_fall01",
@@ -1551,7 +1770,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_a_fall01",
@@ -1572,7 +1794,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_b_fall01",
@@ -1593,7 +1818,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.2,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_c_fall01",
@@ -1614,7 +1842,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_d_fall01",
@@ -1635,7 +1866,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_e_fall01",
@@ -1656,7 +1890,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_f_fall01",
@@ -1677,7 +1914,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_a_fall01",
@@ -1698,7 +1938,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_b_fall01",
@@ -1719,7 +1962,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_c_fall01",
@@ -1740,7 +1986,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_d_fall01",
@@ -1761,7 +2010,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_e_fall01",
@@ -1782,13 +2034,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_a_fall01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_a.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Fall01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.65,
         "InteractionRadius": 2.4,
         "DetectableRadius": 2,
@@ -1803,13 +2058,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_b_fall01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_b.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Fall01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.55,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -1824,13 +2082,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_c_fall01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_c.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Fall01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodTiny",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.28,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -1845,13 +2106,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_a_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_a.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall02_mat.mtl",
-        "GatherableEntryID": "FallTreeSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.85,
         "InteractionRadius": 2.5,
         "DetectableRadius": 2,
@@ -1866,13 +2130,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_b_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_b.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall02_mat.mtl",
-        "GatherableEntryID": "FallTreeSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.45,
         "InteractionRadius": 2.2,
         "DetectableRadius": 2,
@@ -1887,13 +2154,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_ba_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_ba.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall02_mat.mtl",
-        "GatherableEntryID": "FallTreeSmall",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.25,
         "InteractionRadius": 2.2,
         "DetectableRadius": 2,
@@ -1908,13 +2178,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_ca_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_ca.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall02_mat.mtl",
-        "GatherableEntryID": "FallTreeSmall",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.16,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -1929,13 +2202,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cb_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cb.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall02_mat.mtl",
-        "GatherableEntryID": "FallTreeSmall",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -1950,13 +2226,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cc_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cc.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall02_mat.mtl",
-        "GatherableEntryID": "FallTreeSmall",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -1971,13 +2250,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cd_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cd.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall02_mat.mtl",
-        "GatherableEntryID": "FallTreeSmall",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.12,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -1992,13 +2274,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_d_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_d.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall02_mat.mtl",
-        "GatherableEntryID": "FallTreeSmall",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.08,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -2013,13 +2298,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_e_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_e.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Fall02_mat.mtl",
-        "GatherableEntryID": "FallTreeSmall",
+        "GatherableEntryID": "TreeHardwoodTiny",
         "GatheringRadius": 0.01,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -2034,7 +2322,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_a_fall02",
@@ -2055,7 +2346,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_b_fall02",
@@ -2076,7 +2370,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.2,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_c_fall02",
@@ -2097,7 +2394,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_d_fall02",
@@ -2118,7 +2418,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_e_fall02",
@@ -2139,7 +2442,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_f_fall02",
@@ -2160,7 +2466,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_a_fall02",
@@ -2181,7 +2490,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_b_fall02",
@@ -2202,7 +2514,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_c_fall02",
@@ -2223,7 +2538,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_d_fall02",
@@ -2244,7 +2562,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_e_fall02",
@@ -2265,13 +2586,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_a_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_a.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Fall02_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.65,
         "InteractionRadius": 2.4,
         "DetectableRadius": 2,
@@ -2286,13 +2610,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_b_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_b.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Fall02_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.55,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -2307,13 +2634,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_c_fall02",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_c.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Fall02_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodTiny",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.28,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -2328,7 +2658,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_a_wint01",
@@ -2349,7 +2682,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_b_wint01",
@@ -2370,13 +2706,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_ba_wint01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_ba.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Wint01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodLarge",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.25,
         "InteractionRadius": 2.2,
         "DetectableRadius": 2,
@@ -2391,7 +2730,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_ca_wint01",
@@ -2412,13 +2754,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cb_wint01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cb.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Wint01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -2433,13 +2778,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cc_wint01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cc.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Wint01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -2454,13 +2802,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cd_wint01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cd.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Wint01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.12,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -2475,7 +2826,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_d_wint01",
@@ -2496,7 +2850,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_e_wint01",
@@ -2517,7 +2874,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_a_wint01",
@@ -2538,7 +2898,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_b_wint01",
@@ -2559,7 +2922,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.2,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_c_wint01",
@@ -2580,7 +2946,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_d_wint01",
@@ -2601,7 +2970,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_e_wint01",
@@ -2622,7 +2994,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_f_wint01",
@@ -2643,7 +3018,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_a_wint01",
@@ -2664,7 +3042,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_b_wint01",
@@ -2685,7 +3066,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_c_wint01",
@@ -2706,7 +3090,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_d_wint01",
@@ -2727,7 +3114,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_e_wint01",
@@ -2748,7 +3138,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_f_wint01",
@@ -2769,7 +3162,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_thin_a_wint01",
@@ -2790,7 +3186,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_thin_b_wint01",
@@ -2811,7 +3210,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PineTree_thin_c_wint01",
@@ -2832,7 +3234,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_a_wint01",
@@ -2853,7 +3258,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_b_wint01",
@@ -2874,7 +3282,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_c_wint01",
@@ -2895,7 +3306,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_d_wint01",
@@ -2916,7 +3330,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_e_wint01",
@@ -2937,13 +3354,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_a_wint01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_a.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Wint01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.65,
         "InteractionRadius": 2.4,
         "DetectableRadius": 2,
@@ -2958,13 +3378,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_b_wint01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_b.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Wint01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.55,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -2979,13 +3402,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_c_wint01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_c.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Wint01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodTiny",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.28,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -3000,7 +3426,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_a_spri01",
@@ -3021,7 +3450,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_b_spri01",
@@ -3042,13 +3474,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_ba_spri01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_ba.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Spri01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodLarge",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.25,
         "InteractionRadius": 2.2,
         "DetectableRadius": 2,
@@ -3063,7 +3498,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_ca_spri01",
@@ -3084,13 +3522,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cb_spri01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cb.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Spri01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -3105,13 +3546,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cc_spri01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cc.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Spri01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -3126,13 +3570,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_cd_spri01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cd.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\JAV_Fst_BeechTree_Spri01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.12,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -3147,7 +3594,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_d_spri01",
@@ -3168,7 +3618,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BeechTree_e_spri01",
@@ -3189,7 +3642,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_a_spri01",
@@ -3210,7 +3666,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_b_spri01",
@@ -3231,7 +3690,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.2,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_c_spri01",
@@ -3252,7 +3714,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_d_spri01",
@@ -3273,7 +3738,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_e_spri01",
@@ -3294,7 +3762,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OakTree_f_spri01",
@@ -3315,7 +3786,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_a_spri01",
@@ -3336,7 +3810,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_b_spri01",
@@ -3357,7 +3834,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_c_spri01",
@@ -3378,7 +3858,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_d_spri01",
@@ -3399,7 +3882,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_e_spri01",
@@ -3420,13 +3906,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_a_spri01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_a.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Spri01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.65,
         "InteractionRadius": 2.4,
         "DetectableRadius": 2,
@@ -3441,13 +3930,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_b_spri01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_b.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Spri01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodSmall",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.55,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -3462,13 +3954,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_c_spri01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_c.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_Spri01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodTiny",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.28,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -3483,7 +3978,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "TablePineTree_a_wint01",
@@ -3504,7 +4002,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "TablePineTree_b_wint01",
@@ -3525,7 +4026,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "TablePineTree_c_wint01",
@@ -3546,7 +4050,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "TablePineTree_d_wint01",
@@ -3567,7 +4074,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "TablePineTree_e_wint01",
@@ -3588,7 +4098,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "IronwoodTree_a",
@@ -3609,7 +4122,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Ironwood_Compass.png",
         "TradeskillIconUnlockType": "Ironwood",
         "MarkerRadius": 5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "IronwoodTree_b",
@@ -3630,7 +4146,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Ironwood_Compass.png",
         "TradeskillIconUnlockType": "Ironwood",
         "MarkerRadius": 4.2,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "IronwoodTree_c",
@@ -3651,7 +4170,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Ironwood_Compass.png",
         "TradeskillIconUnlockType": "Ironwood",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "IronwoodTree_d",
@@ -3672,7 +4194,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Ironwood_Compass.png",
         "TradeskillIconUnlockType": "Ironwood",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "IronwoodTree_e",
@@ -3693,7 +4218,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Ironwood_Compass.png",
         "TradeskillIconUnlockType": "Ironwood",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "IronwoodTree_f",
@@ -3714,7 +4242,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Ironwood_Compass.png",
         "TradeskillIconUnlockType": "Ironwood",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "WyrdwoodTree_a",
@@ -3735,7 +4266,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "WyrdwoodTree_b",
@@ -3756,7 +4290,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 4.2,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "WyrdwoodTree_c",
@@ -3777,7 +4314,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "WyrdwoodTree_d",
@@ -3798,7 +4338,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "WyrdwoodTree_e",
@@ -3819,7 +4362,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "WyrdwoodTree_f",
@@ -3840,7 +4386,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LiveOakTree_a",
@@ -3861,7 +4410,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LiveOakTree_b",
@@ -3882,7 +4434,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LiveOakTree_c",
@@ -3903,7 +4458,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LiveOakTree_d",
@@ -3924,7 +4482,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LiveOakTree_e",
@@ -3945,7 +4506,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_a",
@@ -3966,7 +4530,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_b",
@@ -3987,7 +4554,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_c",
@@ -4008,7 +4578,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_d",
@@ -4029,7 +4602,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_e",
@@ -4050,7 +4626,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_a_super01",
@@ -4071,7 +4650,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_b_super01",
@@ -4092,7 +4674,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_c_super01",
@@ -4113,7 +4698,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_d_super01",
@@ -4134,7 +4722,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_e_super01",
@@ -4155,7 +4746,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_c_super02",
@@ -4176,7 +4770,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_d_super02",
@@ -4197,7 +4794,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "AspenTree_e_super02",
@@ -4218,7 +4818,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DogwoodTree_a_super01",
@@ -4239,7 +4842,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DogwoodTree_b_super01",
@@ -4260,7 +4866,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DogwoodTree_c_super01",
@@ -4281,7 +4890,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DogwoodTree_d_super01",
@@ -4302,7 +4914,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DogwoodTree_e_super01",
@@ -4323,7 +4938,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DogwoodTree_c_super02",
@@ -4344,7 +4962,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DogwoodTree_d_super02",
@@ -4365,7 +4986,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "DogwoodTree_e_super02",
@@ -4386,7 +5010,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_a_super01",
@@ -4407,13 +5034,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_b_super01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_full_b.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_super01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.55,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -4428,7 +5058,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_c_super01",
@@ -4449,7 +5082,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_d_super01",
@@ -4470,7 +5106,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Full_e_super01",
@@ -4491,7 +5130,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_a_super01",
@@ -4512,13 +5154,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_b_super01",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\jav_fst_poplartree_thin_b.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Poplar\\JAV_Fst_PoplarTree_A_super01_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodLarge",
         "GatheringRadius": 0.55,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -4533,7 +5178,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "PoplarTree_Thin_c_super01",
@@ -4554,7 +5202,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "CorruptedTree_a",
@@ -4575,7 +5226,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "GreyMangroveTree_a",
@@ -4596,7 +5250,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "GreyMangroveTree_b",
@@ -4617,7 +5274,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "GreyMangroveTree_c",
@@ -4638,7 +5298,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "GreyMangroveTree_d",
@@ -4659,7 +5322,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "GreyMangroveTree_e",
@@ -4680,7 +5346,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BananaTree_a",
@@ -4701,7 +5370,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BananaTree_b",
@@ -4722,7 +5394,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BananaTree_c",
@@ -4743,7 +5418,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LaurelFigTree_a",
@@ -4764,7 +5442,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LaurelFigTree_b",
@@ -4785,13 +5466,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LaurelFigTree_ba",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_ba.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Coast\\LaurelFig\\JAV_Cst_LaurelFig_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodLarge",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.25,
         "InteractionRadius": 2.2,
         "DetectableRadius": 2,
@@ -4806,7 +5490,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LaurelFigTree_ca",
@@ -4827,13 +5514,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LaurelFigTree_cb",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cb.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Coast\\LaurelFig\\JAV_Cst_LaurelFig_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -4848,13 +5538,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LaurelFigTree_cc",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cc.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Coast\\LaurelFig\\JAV_Cst_LaurelFig_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.1,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -4869,13 +5562,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LaurelFigTree_cd",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Forest\\Beech\\jav_fst_beechtree_full_cd.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Coast\\LaurelFig\\JAV_Cst_LaurelFig_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.12,
         "InteractionRadius": 1.8,
         "DetectableRadius": 2,
@@ -4890,7 +5586,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LaurelFigTree_d",
@@ -4911,7 +5610,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "LaurelFigTree_e",
@@ -4932,7 +5634,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_a",
@@ -4953,7 +5658,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_b",
@@ -4974,7 +5682,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_c",
@@ -4995,7 +5706,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_d",
@@ -5016,7 +5730,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_e",
@@ -5037,7 +5754,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_f",
@@ -5058,7 +5778,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_g",
@@ -5079,7 +5802,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_a_land",
@@ -5100,7 +5826,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_b_land",
@@ -5121,7 +5850,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_c_land",
@@ -5142,7 +5874,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_d_land",
@@ -5163,7 +5898,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_e_land",
@@ -5184,7 +5922,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_f_land",
@@ -5205,7 +5946,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_g_land",
@@ -5226,7 +5970,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_a_fall01",
@@ -5247,7 +5994,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_b_fall01",
@@ -5268,7 +6018,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_c_fall01",
@@ -5289,7 +6042,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_d_fall01",
@@ -5310,7 +6066,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_e_fall01",
@@ -5331,7 +6090,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_f_fall01",
@@ -5352,7 +6114,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_g_fall01",
@@ -5373,7 +6138,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_a_fall01_land",
@@ -5394,7 +6162,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_b_fall01_land",
@@ -5415,7 +6186,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_c_fall01_land",
@@ -5436,7 +6210,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_d_fall01_land",
@@ -5457,7 +6234,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_e_fall01_land",
@@ -5478,7 +6258,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_f_fall01_land",
@@ -5499,7 +6282,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_g_fall01_land",
@@ -5520,7 +6306,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_a_wint01",
@@ -5541,7 +6330,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_b_wint01",
@@ -5562,7 +6354,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_c_wint01",
@@ -5583,7 +6378,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_d_wint01",
@@ -5604,7 +6402,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_e_wint01",
@@ -5625,7 +6426,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_f_wint01",
@@ -5646,7 +6450,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_g_wint01",
@@ -5667,7 +6474,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_a_wint01_land",
@@ -5688,7 +6498,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_b_wint01_land",
@@ -5709,7 +6522,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 7.1,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_c_wint01_land",
@@ -5730,7 +6546,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_d_wint01_land",
@@ -5751,7 +6570,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_e_wint01_land",
@@ -5772,7 +6594,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_f_wint01_land",
@@ -5793,7 +6618,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "BaldCypressTree_g_wint01_land",
@@ -5814,7 +6642,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "KapokTree_a",
@@ -5835,7 +6666,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.9,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "KapokTree_b",
@@ -5856,7 +6690,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "KapokTree_c",
@@ -5877,7 +6714,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "KapokTree_d",
@@ -5898,7 +6738,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "KapokTree_e",
@@ -5919,7 +6762,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 4.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "KapokTree_f",
@@ -5940,13 +6786,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "KentiaPalm_a",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Jungle\\KentiaPalm\\jav_jgl_kentiapalm_a.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Jungle\\KentiaPalm\\JAV_Jgl_KentiaPalm_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodLarge",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.25,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -5961,7 +6810,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "KentiaPalm_b",
@@ -5982,7 +6834,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "KentiaPalm_c",
@@ -6003,7 +6858,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "KentiaPalm_d",
@@ -6024,13 +6882,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "Bamboo_a",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Jungle\\Bamboo\\jav_jgl_bamboo_a.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Jungle\\Bamboo\\JAV_Jgl_Bamboo_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodLarge",
+        "GatherableEntryID": "TreeHardwoodMedium",
         "GatheringRadius": 0.25,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -6045,13 +6906,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "Bamboo_b",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Jungle\\Bamboo\\jav_jgl_bamboo_b.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Jungle\\Bamboo\\JAV_Jgl_Bamboo_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodLarge",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.14,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -6066,13 +6930,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "Bamboo_c",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Jungle\\Bamboo\\jav_jgl_bamboo_c.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Jungle\\Bamboo\\JAV_Jgl_Bamboo_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodSmall",
         "GatheringRadius": 0.14,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -6087,13 +6954,16 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "Bamboo_d",
         "StartMesh": "Objects\\Nature\\Veg_Trees\\Trees_Jungle\\Bamboo\\jav_jgl_bamboo_d.cgf",
         "StartMat": "Objects\\Nature\\Veg_Trees\\Trees_Jungle\\Bamboo\\JAV_Jgl_Bamboo_A_mat.mtl",
-        "GatherableEntryID": "TreeHardwoodMedium",
+        "GatherableEntryID": "TreeHardwoodTiny",
         "GatheringRadius": 0.14,
         "InteractionRadius": 2.1,
         "DetectableRadius": 2,
@@ -6108,7 +6978,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "Bamboo_e",
@@ -6129,7 +7002,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "Bamboo_f",
@@ -6150,7 +7026,10 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.6,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OutpostRushTree_a",
@@ -6171,7 +7050,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 5,
-        "AllowGatheringInGameModes": "OutpostRush"
+        "AllowGatheringInGameModes": "OutpostRush",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OutpostRushTree_b",
@@ -6192,7 +7074,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 4.2,
-        "AllowGatheringInGameModes": "OutpostRush"
+        "AllowGatheringInGameModes": "OutpostRush",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OutpostRushTree_c",
@@ -6213,7 +7098,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": "OutpostRush"
+        "AllowGatheringInGameModes": "OutpostRush",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OutpostRushTree_d",
@@ -6234,7 +7122,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": "OutpostRush"
+        "AllowGatheringInGameModes": "OutpostRush",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OutpostRushTree_e",
@@ -6255,7 +7146,10 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": "OutpostRush"
+        "AllowGatheringInGameModes": "OutpostRush",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     },
     {
         "VariantID": "OutpostRushTree_f",
@@ -6276,6 +7170,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wyrdwood_Compass.png",
         "TradeskillIconUnlockType": "Wyrdwood",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": "OutpostRush"
+        "AllowGatheringInGameModes": "OutpostRush",
+        "InteractionMarker_Offset_X": null,
+        "InteractionMarker_Offset_Y": null,
+        "InteractionMarker_Offset_Z": null
     }
 ]
