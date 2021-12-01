@@ -3036,5 +3036,19 @@
         "CategoricalProgressionId": "",
         "RequiredCategoricalProgressionLevel": null,
         "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_TurkeyTerror",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Special_Achievements",
+        "TitleMale": "@ui_playertitle_special_TurkeyTerror",
+        "TitleFemale": "@ui_playertitle_special_TurkeyTerror_SHE",
+        "TitleNeutral": "@ui_playertitle_special_TurkeyTerror_THEY",
+        "Description": "@ui_playertitle_TurkeyTerror_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
     }
 ]

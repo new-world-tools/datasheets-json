@@ -4156,5 +4156,19 @@
         "EntitlementInfo": "",
         "SourceType": "",
         "Notes": ""
+    },
+    {
+        "UniqueTagID": "EntitlementTitle_TurkeyTerror",
+        "EntitlementIndex": 508,
+        "IsEnabled": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsConsumable": null,
+        "Icon": "",
+        "RewardType": "PlayerTitle",
+        "Reward(s)": "PlayerTitle_TurkeyTerror",
+        "EntitlementInfo": "",
+        "SourceType": "Store",
+        "Notes": ""
     }
 ]
