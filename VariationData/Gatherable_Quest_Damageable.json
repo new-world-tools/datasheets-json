@@ -1,5 +1,37 @@
 [
     {
+        "VariantID": "LostPresent01",
+        "Visual_Healthy": "slices\\Holiday\\WinterConvergence\\Activities\\LostPresent\\WinterConv_Activity_LostPresent_VisualHealthy.slice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "LostPresent01",
+        "InteractPromptRadius": 1,
+        "DetectableRadius": 1,
+        "MarkerRadius": 1,
+        "AudioPreload_depleted": "RarePresent",
+        "SFX_depleted": "Play_SFX_RarePresent_Depleted",
+        "AudioPreload_idle": "RarePresent",
+        "SFX_Idle": "Play_SFX_RarePresent_Lp",
+        "VFX_Idle": "Event_Winter_Convergence.Present.Idle_Rare",
+        "IdleVFX_Offset_Z": 10,
+        "DepletedVFX": "Event_Winter_Convergence.Present.End_Rare",
+        "depletedVFX_Offset_Z": 10,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": 10,
+        "interactionMarker_Offset_Z": 10,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": false,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\basesphere.cgf",
+        "ShouldHaveStaticCollision": "",
+        "Collision_Offset_Z": 10,
+        "VisualHealthy_Offset_Z": 10,
+        "IsStateControlledBySlayerScript": ""
+    },
+    {
         "VariantID": "0404_CorruptedNoduleA",
         "Visual_Healthy": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Healthy.dynamicslice",
         "Visual_Depleted": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Depleted.dynamicslice",
@@ -25,10 +57,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0404_CorruptedNoduleB",
@@ -56,10 +89,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0404_CorruptedNoduleC",
@@ -87,10 +121,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0404_CorruptedNoduleD",
@@ -118,10 +153,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0511_PowderkegA",
@@ -152,7 +188,8 @@
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_b.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0604_CorruptedNoduleA",
@@ -180,10 +217,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0604_CorruptedNoduleB",
@@ -211,10 +249,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0604_CorruptedNoduleC",
@@ -242,10 +281,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0604_CorruptedNoduleD",
@@ -273,10 +313,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0804_CorruptedNodule",
@@ -304,10 +345,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0901_Barley",
@@ -338,7 +380,8 @@
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_b.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0904_CorruptedNoduleA",
@@ -366,10 +409,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0904_CorruptedNoduleB",
@@ -397,10 +441,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0904_CorruptedNoduleC",
@@ -428,10 +473,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "0904_CorruptedNoduleD",
@@ -459,10 +505,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1204_CorruptedNoduleA",
@@ -490,10 +537,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1204_CorruptedNoduleB",
@@ -521,10 +569,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1204_CorruptedNoduleC",
@@ -552,10 +601,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1204_CorruptedNoduleD",
@@ -583,10 +633,11 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1127_MalignNodeA",
@@ -598,26 +649,27 @@
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
         "MarkerRadius": 10,
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
-        "AudioPreload_idle": "",
-        "SFX_Idle": "",
-        "VFX_Idle": "",
-        "IdleVFX_Offset_Z": null,
-        "DepletedVFX": "",
-        "depletedVFX_Offset_Z": null,
-        "GatheringFX": "",
-        "gatheringVFX_Offzet_Z": null,
+        "AudioPreload_depleted": "Gath_Alchemy_Fire_Boid",
+        "SFX_depleted": "Play_Alchemy_Fire_Boid",
+        "AudioPreload_idle": "Corruption_Beam_A",
+        "SFX_Idle": "Play_Corruption_Beam_A",
+        "VFX_Idle": "env_darkness.Core.Core_minor_monolith_idle01",
+        "IdleVFX_Offset_Z": 1.5,
+        "DepletedVFX": "env_darkness.Core.Core_death01",
+        "depletedVFX_Offset_Z": 1.5,
+        "GatheringFX": "env_darkness.Core.Core_minor_monolith_gather01",
+        "gatheringVFX_Offzet_Z": 1.5,
         "interactionMarker_Offset_Z": null,
         "InteractionEvent": "",
         "InteractTag": "IO_1127_MalignNodeA",
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1127_MalignNodeB",
@@ -629,26 +681,27 @@
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
         "MarkerRadius": 10,
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
-        "AudioPreload_idle": "",
-        "SFX_Idle": "",
-        "VFX_Idle": "",
-        "IdleVFX_Offset_Z": null,
-        "DepletedVFX": "",
-        "depletedVFX_Offset_Z": null,
-        "GatheringFX": "",
-        "gatheringVFX_Offzet_Z": null,
+        "AudioPreload_depleted": "Gath_Alchemy_Fire_Boid",
+        "SFX_depleted": "Play_Alchemy_Fire_Boid",
+        "AudioPreload_idle": "Corruption_Beam_A",
+        "SFX_Idle": "Play_Corruption_Beam_A",
+        "VFX_Idle": "env_darkness.Core.Core_minor_monolith_idle01",
+        "IdleVFX_Offset_Z": 1.5,
+        "DepletedVFX": "env_darkness.Core.Core_death01",
+        "depletedVFX_Offset_Z": 1.5,
+        "GatheringFX": "env_darkness.Core.Core_minor_monolith_gather01",
+        "gatheringVFX_Offzet_Z": 1.5,
         "interactionMarker_Offset_Z": null,
         "InteractionEvent": "",
         "InteractTag": "IO_1127_MalignNodeB",
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1127_MalignNodeC",
@@ -660,26 +713,27 @@
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
         "MarkerRadius": 10,
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
-        "AudioPreload_idle": "",
-        "SFX_Idle": "",
-        "VFX_Idle": "",
-        "IdleVFX_Offset_Z": null,
-        "DepletedVFX": "",
-        "depletedVFX_Offset_Z": null,
-        "GatheringFX": "",
-        "gatheringVFX_Offzet_Z": null,
+        "AudioPreload_depleted": "Gath_Alchemy_Fire_Boid",
+        "SFX_depleted": "Play_Alchemy_Fire_Boid",
+        "AudioPreload_idle": "Corruption_Beam_A",
+        "SFX_Idle": "Play_Corruption_Beam_A",
+        "VFX_Idle": "env_darkness.Core.Core_minor_monolith_idle01",
+        "IdleVFX_Offset_Z": 1.5,
+        "DepletedVFX": "env_darkness.Core.Core_death01",
+        "depletedVFX_Offset_Z": 1.5,
+        "GatheringFX": "env_darkness.Core.Core_minor_monolith_gather01",
+        "gatheringVFX_Offzet_Z": 1.5,
         "interactionMarker_Offset_Z": null,
         "InteractionEvent": "",
         "InteractTag": "IO_1127_MalignNodeC",
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_A",
@@ -710,7 +764,8 @@
         "CollisionAssetOverride": "Objects\\nature\\veg_bushes\\Bushes_Forest\\Cranberry\\jav_fst_cranberrybush_b.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": -0.5,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_B",
@@ -741,7 +796,8 @@
         "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Ancient_Crater_bridge_broken\\jav_struc_ruins_Crater_mileMarker_b_btm_Brk_02.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_C",
@@ -772,7 +828,8 @@
         "CollisionAssetOverride": "Objects\\nature\\veg_bushes\\Bushes_Forest\\Cranberry\\jav_fst_cranberrybush_b.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": -0.5,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_D",
@@ -803,7 +860,8 @@
         "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Ancient_Crater_bridge_broken\\jav_struc_ruins_Crater_mileMarker_b_btm_Brk_02.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_E",
@@ -834,7 +892,8 @@
         "CollisionAssetOverride": "Objects\\nature\\veg_bushes\\Bushes_Forest\\Cranberry\\jav_fst_cranberrybush_b.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": -0.5,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_F",
@@ -865,11 +924,12 @@
         "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Ancient_Crater_bridge_broken\\jav_struc_ruins_Crater_mileMarker_b_btm_Brk_02.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1130_ArcaneFocus1",
-        "Visual_Healthy": "slices\\WorldEvents\\Windsward\\SpectralShrine\\WorldEvent_Object_06_SpectralShrine_00.dynamicslice",
+        "Visual_Healthy": "slices/WorldEvents/Windsward/SpectralShrine/Art/WorldEvent_Art_06_SpectralShrine_00.dynamicslice",
         "Visual_Depleted": "slices\\POIs\\Assembly\\QuestAssets\\Ancient_Rubble_Pile_A.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
         "Visual_Basemesh": "",
@@ -896,11 +956,12 @@
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1130_ArcaneFocus2",
-        "Visual_Healthy": "slices\\WorldEvents\\Windsward\\SpectralShrine\\WorldEvent_Object_06_SpectralShrine_00.dynamicslice",
+        "Visual_Healthy": "slices/WorldEvents/Windsward/SpectralShrine/Art/WorldEvent_Art_06_SpectralShrine_00.dynamicslice",
         "Visual_Depleted": "slices\\POIs\\Assembly\\QuestAssets\\Ancient_Rubble_Pile_A.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
         "Visual_Basemesh": "",
@@ -927,11 +988,12 @@
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1130_ArcaneFocus3",
-        "Visual_Healthy": "slices\\WorldEvents\\Windsward\\SpectralShrine\\WorldEvent_Object_06_SpectralShrine_00.dynamicslice",
+        "Visual_Healthy": "slices/WorldEvents/Windsward/SpectralShrine/Art/WorldEvent_Art_06_SpectralShrine_00.dynamicslice",
         "Visual_Depleted": "slices\\POIs\\Assembly\\QuestAssets\\Ancient_Rubble_Pile_A.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
         "Visual_Basemesh": "",
@@ -958,11 +1020,12 @@
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     },
     {
         "VariantID": "1130_ArcaneFocus4",
-        "Visual_Healthy": "slices\\WorldEvents\\Windsward\\SpectralShrine\\WorldEvent_Object_06_SpectralShrine_00.dynamicslice",
+        "Visual_Healthy": "slices/WorldEvents/Windsward/SpectralShrine/Art/WorldEvent_Art_06_SpectralShrine_00.dynamicslice",
         "Visual_Depleted": "slices\\POIs\\Assembly\\QuestAssets\\Ancient_Rubble_Pile_A.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
         "Visual_Basemesh": "",
@@ -989,6 +1052,39 @@
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
-        "VisualHealthy_Offset_Z": null
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
+    },
+    {
+        "VariantID": "Dynasty_Gong",
+        "Visual_Healthy": "",
+        "Visual_Depleted": "slices\\WorldEvents\\Ebonscale\\WorldEvent_Object_Dynasty_Gong_Depleted_FX.dynamicslice",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "slices\\WorldEvents\\Ebonscale\\WorldEvent_Object_Dynasty_Gong_Base_Mesh.dynamicslice",
+        "GatherableEntryID": "Dynasty_Gong",
+        "InteractPromptRadius": 10,
+        "DetectableRadius": 10,
+        "MarkerRadius": 15,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "AudioPreload_idle": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "IO_Dynasty_Gong",
+        "InteractOnlyOnQuest": false,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Living_Structures\\Dynasty\\dynasty_struc_deco_gong_large_AB.cgf",
+        "ShouldHaveStaticCollision": "",
+        "Collision_Offset_Z": 6.34,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": ""
     }
 ]

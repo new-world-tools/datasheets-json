@@ -124,5 +124,32 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1225_Giacomo_HousingGeneral",
+        "PlayerPrompt": "@1225_Giacomo_HousingGeneral_Prompt",
+        "NPCResponse": "@1225_Giacomo_HousingGeneral_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "S_downpayment",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1225_Giacomo_HousingStorage",
+        "PlayerPrompt": "@1225_Giacomo_HousingStorage_Prompt",
+        "NPCResponse": "@1225_Giacomo_HousingStorage_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "12_Quest_Housing_3b",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1225_Giacomo_HousingTrophy",
+        "PlayerPrompt": "@1225_Giacomo_HousingTrophy_Prompt",
+        "NPCResponse": "@1225_Giacomo_HousingTrophy_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "12_Quest_Housing_6",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
     }
 ]

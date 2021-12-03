@@ -11,7 +11,7 @@
         "DiscoveryRadius": 2000,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "DynastyPalace,Corrupted",
@@ -27,7 +27,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_ImperialPalace.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 20202,
@@ -41,7 +42,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -57,7 +58,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_portal.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 20203,
@@ -71,7 +73,7 @@
         "DiscoveryRadius": 2000,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "DynastyShrine,Corrupted",
@@ -87,7 +89,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_NorthPalaceShrine.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 20204,
@@ -101,7 +104,7 @@
         "DiscoveryRadius": 600,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -117,7 +120,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineui/images/map/tooltipimages/mapTooltip_DungeonEbonscale00.png",
         "GameMode": "DungeonEbonscale00",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 20205,
@@ -131,7 +135,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -147,7 +151,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 20206,
@@ -161,7 +166,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -177,7 +182,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 20207,
@@ -191,7 +197,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -207,6 +213,38 @@
         "Containers": "",
         "TooltipBackground": "LyShineui/images/map/tooltipimages/mapTooltip_DungeonEbonscale00.png",
         "GameMode": "DungeonEbonscale00",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
+    },
+    {
+        "TerritoryID": 20208,
+        "NameLocalizationKey": "@ui_poi_spiritshrine_20208",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
+        "CompassIcon": "",
+        "DiscoveryRadius": 150,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": 1,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "spiritshrine_20208_charted",
+        "POITag": "spiritshrine_20208",
+        "AudioGroup": "Music_POI",
+        "AudioState": "watchtower",
+        "CanPlaceCamp": false,
+        "DevName": "Spirit Shrine",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": "",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
+        "GameMode": "",
+        "GroupSize": null,
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
     }
 ]

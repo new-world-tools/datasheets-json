@@ -4914,9 +4914,135 @@
         "Description": ""
     },
     {
+        "CategoryID": "CraftingPatterns",
+        "ImagePath": "",
+        "DisplayText": "@CraftingPatterns_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Tokens",
+        "ImagePath": "",
+        "DisplayText": "@Tokens_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TokenCreation",
+        "ImagePath": "",
+        "DisplayText": "@TokenCreation_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TokenConversion",
+        "ImagePath": "",
+        "DisplayText": "@TokenConversion_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Pattern",
+        "ImagePath": "",
+        "DisplayText": "@Pattern",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PatternRecipes",
+        "ImagePath": "",
+        "DisplayText": "@PatternRecipes",
+        "Description": ""
+    },
+    {
         "CategoryID": "Lodestone",
         "ImagePath": "",
         "DisplayText": "@Lodestone",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GypsumRefining",
+        "ImagePath": "",
+        "DisplayText": "@GypsumRefining_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GypsumCasting",
+        "ImagePath": "",
+        "DisplayText": "@GypsumCasting_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GypsumRaw",
+        "ImagePath": "",
+        "DisplayText": "@GypsumRaw_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GypsumCasts",
+        "ImagePath": "",
+        "DisplayText": "@GypsumCasts_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GypsumAttunement",
+        "ImagePath": "",
+        "DisplayText": "@GypsumAttunement_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AttributeStr",
+        "ImagePath": "",
+        "DisplayText": "@AttributeStr",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AttributeDex",
+        "ImagePath": "",
+        "DisplayText": "@AttributeDex",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AttributeInt",
+        "ImagePath": "",
+        "DisplayText": "@AttributeInt",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AttributeFoc",
+        "ImagePath": "",
+        "DisplayText": "@AttributeFoc",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AttributeCon",
+        "ImagePath": "",
+        "DisplayText": "@AttributeCon",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TimelessShardsStr",
+        "ImagePath": "",
+        "DisplayText": "@TimelessShardsStr",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TimelessShardsDex",
+        "ImagePath": "",
+        "DisplayText": "@TimelessShardsDex",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TimelessShardsInt",
+        "ImagePath": "",
+        "DisplayText": "@TimelessShardsInt",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TimelessShardsFoc",
+        "ImagePath": "",
+        "DisplayText": "@TimelessShardsFoc",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TimelessShardsCon",
+        "ImagePath": "",
+        "DisplayText": "@TimelessShardsCon",
         "Description": ""
     }
 ]

@@ -1,0 +1,23 @@
+[
+    {
+        "CampSkinID": "CampSkin_Winter01_A",
+        "ItemId": "CampSkin_Winter01_A",
+        "RequiredAchievementId": "CampSkin_Unlock_CampSkin_Winter01_A",
+        "IsEntitlement": false,
+        "IsEnabled": true
+    },
+    {
+        "CampSkinID": "CampSkin_Winter02_A",
+        "ItemId": "CampSkin_Winter02_A",
+        "RequiredAchievementId": "",
+        "IsEntitlement": true,
+        "IsEnabled": true
+    },
+    {
+        "CampSkinID": "CampSkin_Winter03_A",
+        "ItemId": "CampSkin_Winter03_A",
+        "RequiredAchievementId": "",
+        "IsEntitlement": true,
+        "IsEnabled": true
+    }
+]

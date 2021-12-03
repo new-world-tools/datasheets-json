@@ -78,5 +78,9 @@
     {
         "EffectName": "Event_Gleamite.Gleamite_Shard_Trail01",
         "PriorityOverride": "Normal"
+    },
+    {
+        "EffectName": "wFX_Default_Range.Aim_Post",
+        "PriorityOverride": "Required"
     }
 ]

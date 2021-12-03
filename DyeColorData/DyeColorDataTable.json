@@ -72,6 +72,18 @@
         "MaskGlossShift": 0.5
     },
     {
+        "Index": 33,
+        "Name": "Smoldering Scarlet",
+        "Color": "#4c1e21",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.5,
+        "SpecColor": "#200707",
+        "SpecAmount": 1,
+        "MaskGlossShift": 0.5
+    },
+    {
         "Index": 34,
         "Name": "Blood",
         "Color": "#6c1201",
@@ -80,6 +92,18 @@
         "ColorAmount": 1,
         "ColorOverride": 0.4,
         "SpecColor": "#2c0b06",
+        "SpecAmount": 1,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 35,
+        "Name": "Rouge",
+        "Color": "#a64168",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.1,
+        "SpecColor": "#72182b",
         "SpecAmount": 1,
         "MaskGlossShift": 0.5
     },
@@ -144,6 +168,30 @@
         "MaskGlossShift": 0.5
     },
     {
+        "Index": 44,
+        "Name": "Green Grass",
+        "Color": "#2a5c07",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.5,
+        "SpecColor": "#082003",
+        "SpecAmount": 1,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 46,
+        "Name": "Angelic Satin",
+        "Color": "#035f74",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.2,
+        "SpecColor": "#035f74",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
         "Index": 47,
         "Name": "Tradewind",
         "Color": "#54b2ac",
@@ -180,6 +228,18 @@
         "MaskGlossShift": 0.5
     },
     {
+        "Index": 51,
+        "Name": "Fierce Cobalt",
+        "Color": "#7895cf",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.1,
+        "SpecColor": "#7895cf",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
         "Index": 52,
         "Name": "Spring Grape",
         "Color": "#5c4686",
@@ -200,6 +260,18 @@
         "ColorAmount": 1,
         "ColorOverride": 0.3,
         "SpecColor": "#3e234e",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 56,
+        "Name": "Crushed Berry",
+        "Color": "#561a56",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.2,
+        "SpecColor": "#561a56",
         "SpecAmount": 0.3,
         "MaskGlossShift": 0.5
     },

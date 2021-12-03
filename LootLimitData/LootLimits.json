@@ -1,0 +1,72 @@
+[
+    {
+        "LootLimitID": "ORGypsum",
+        "IsItem": "FALSE",
+        "MinLimitSeconds": 840,
+        "MaxLimitSeconds": 900,
+        "CountLimit": 2,
+        "MinLimitMult": 100,
+        "MaxLimitMult": 100,
+        "LimitExpireSeconds": 72000
+    },
+    {
+        "LootLimitID": "GypsumBlue",
+        "IsItem": "FALSE",
+        "MinLimitSeconds": 170,
+        "MaxLimitSeconds": 180,
+        "CountLimit": 2,
+        "MinLimitMult": 400,
+        "MaxLimitMult": 400,
+        "LimitExpireSeconds": 72000
+    },
+    {
+        "LootLimitID": "PostCapGypsum",
+        "IsItem": "FALSE",
+        "MinLimitSeconds": 3500,
+        "MaxLimitSeconds": 3600,
+        "CountLimit": 1,
+        "MinLimitMult": 20,
+        "MaxLimitMult": 20,
+        "LimitExpireSeconds": 72000
+    },
+    {
+        "LootLimitID": "GypsumBlack",
+        "IsItem": "FALSE",
+        "MinLimitSeconds": 900,
+        "MaxLimitSeconds": 1200,
+        "CountLimit": 3,
+        "MinLimitMult": 60,
+        "MaxLimitMult": 60,
+        "LimitExpireSeconds": 72000
+    },
+    {
+        "LootLimitID": "GypsumYellow",
+        "IsItem": "FALSE",
+        "MinLimitSeconds": 60,
+        "MaxLimitSeconds": 180,
+        "CountLimit": 10,
+        "MinLimitMult": 240,
+        "MaxLimitMult": 240,
+        "LimitExpireSeconds": 72000
+    },
+    {
+        "LootLimitID": "ArenaGypsum",
+        "IsItem": "FALSE",
+        "MinLimitSeconds": 3500,
+        "MaxLimitSeconds": 3600,
+        "CountLimit": 1,
+        "MinLimitMult": 20,
+        "MaxLimitMult": 20,
+        "LimitExpireSeconds": 72000
+    },
+    {
+        "LootLimitID": "BreachGypsum",
+        "IsItem": "FALSE",
+        "MinLimitSeconds": 120,
+        "MaxLimitSeconds": 240,
+        "CountLimit": 7,
+        "MinLimitMult": 300,
+        "MaxLimitMult": 300,
+        "LimitExpireSeconds": 72000
+    }
+]

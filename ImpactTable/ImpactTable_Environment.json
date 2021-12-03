@@ -1387,7 +1387,7 @@
     },
     {
         "Name": "Blunderbuss",
-        "mat_default": "EnvironmentDefault",
+        "mat_default": "Blunderbuss_Env_Default",
         "mat_bark": "Blunderbuss_Env_Default",
         "mat_dirt": "Blunderbuss_Env_Default",
         "mat_fabric": "Blunderbuss_Env_Default",
@@ -1409,7 +1409,7 @@
     },
     {
         "Name": "Blunderbuss_Claw",
-        "mat_default": "EnvironmentDefault",
+        "mat_default": "Blunderbuss_Env_Claw",
         "mat_bark": "Blunderbuss_Env_Claw",
         "mat_dirt": "Blunderbuss_Env_Claw",
         "mat_fabric": "Blunderbuss_Env_Claw",
@@ -1431,7 +1431,7 @@
     },
     {
         "Name": "Blunderbuss_Net",
-        "mat_default": "EnvironmentDefault",
+        "mat_default": "Blunderbuss_Env_Net",
         "mat_bark": "Blunderbuss_Env_Net",
         "mat_dirt": "Blunderbuss_Env_Net",
         "mat_fabric": "Blunderbuss_Env_Net",
@@ -1452,8 +1452,30 @@
         "mat_holy_shield": "HolyShield_Proj"
     },
     {
+        "Name": "Blunderbuss_Net_Barbed",
+        "mat_default": "Blunderbuss_Env_Net_Barbed",
+        "mat_bark": "Blunderbuss_Env_Net_Barbed",
+        "mat_dirt": "Blunderbuss_Env_Net_Barbed",
+        "mat_fabric": "Blunderbuss_Env_Net_Barbed",
+        "mat_grass": "Blunderbuss_Env_Net_Barbed",
+        "mat_metal": "Blunderbuss_Env_Net_Barbed",
+        "mat_mud": "Blunderbuss_Env_Net_Barbed",
+        "mat_rock": "Blunderbuss_Env_Net_Barbed",
+        "mat_rock_wet": "Blunderbuss_Env_Net_Barbed",
+        "mat_sand": "Blunderbuss_Env_Net_Barbed",
+        "mat_sand_wet": "Blunderbuss_Env_Net_Barbed",
+        "mat_thatch": "Blunderbuss_Env_Net_Barbed",
+        "mat_water": "Blunderbuss_Env_Net_Barbed",
+        "mat_water_deep": "Blunderbuss_Env_Net_Barbed",
+        "mat_water_shallow": "Blunderbuss_Env_Net_Barbed",
+        "mat_wood": "Blunderbuss_Env_Net_Barbed",
+        "mat_corruption_core": "Blunderbuss_Env_Net_Barbed",
+        "mat_corruption": "Blunderbuss_Env_Net_Barbed",
+        "mat_holy_shield": "HolyShield_Proj"
+    },
+    {
         "Name": "Blunderbuss_Shrapnel",
-        "mat_default": "EnvironmentDefault",
+        "mat_default": "Blunderbuss_Env_Shrapnel",
         "mat_bark": "Blunderbuss_Env_Shrapnel",
         "mat_dirt": "Blunderbuss_Env_Shrapnel",
         "mat_fabric": "Blunderbuss_Env_Shrapnel",

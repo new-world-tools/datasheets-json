@@ -11,7 +11,7 @@
         "DiscoveryRadius": 375,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "MangledHeightsWest,Corrupted",
@@ -28,7 +28,8 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_BalebaneMaw.png",
         "GameMode": "",
         "GroupSize": 3,
-        "RecommendedLevel": null
+        "RecommendedLevel": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 30302,
@@ -42,7 +43,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -59,7 +60,8 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_iceBoss.png",
         "GameMode": "",
         "GroupSize": null,
-        "RecommendedLevel": null
+        "RecommendedLevel": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 30312,
@@ -73,7 +75,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -90,7 +92,8 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_fortress13.png",
         "GameMode": "",
         "GroupSize": null,
-        "RecommendedLevel": null
+        "RecommendedLevel": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 30313,
@@ -104,7 +107,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -121,7 +124,8 @@
         "TooltipBackground": "",
         "GameMode": "",
         "GroupSize": null,
-        "RecommendedLevel": null
+        "RecommendedLevel": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 30314,
@@ -133,13 +137,13 @@
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
-        "IsDiscoverable": true,
+        "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": 1,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
-        "DiscoveredAchievement": "spiritshrine_02_30314_discovered",
+        "DiscoveredAchievement": "",
         "ChartedAchievement": "spiritshrine_02_30314_charted",
         "POITag": "spiritshrine_02_30314",
         "AudioGroup": "Music_POI",
@@ -152,6 +156,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
         "GroupSize": null,
-        "RecommendedLevel": null
+        "RecommendedLevel": null,
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
     }
 ]

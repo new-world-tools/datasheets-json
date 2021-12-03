@@ -35,7 +35,8 @@
         "AnubianLocustScarab": "DebugTest",
         "Sun": "DebugTest",
         "MageArcaneShield": "DebugTest",
-        "RockNPC": "DebugTest"
+        "RockNPC": "DebugTest",
+        "Upyr": ""
     },
     {
         "Name": "Unarmed",
@@ -73,7 +74,8 @@
         "AnubianLocustScarab": "UnarmedAENaga",
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedRockNPC"
+        "RockNPC": "UnarmedRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Unarmed+Crit",
@@ -111,7 +113,8 @@
         "AnubianLocustScarab": "UnarmedAENaga",
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedRockNPC"
+        "RockNPC": "UnarmedRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Unarmed+Resist",
@@ -149,7 +152,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "Sword",
@@ -187,7 +191,8 @@
         "AnubianLocustScarab": "AnubianLocustScarabBody",
         "Sun": "SwordSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SwordRockNPC"
+        "RockNPC": "SwordRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Sword+Resist",
@@ -225,7 +230,8 @@
         "AnubianLocustScarab": "SwordResist",
         "Sun": "SwordResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SwordResist"
+        "RockNPC": "SwordResist",
+        "Upyr": ""
     },
     {
         "Name": "Sword+Fire+Resist",
@@ -263,7 +269,8 @@
         "AnubianLocustScarab": "SwordResist",
         "Sun": "SwordResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SwordResist"
+        "RockNPC": "SwordResist",
+        "Upyr": ""
     },
     {
         "Name": "Sword+Fire",
@@ -301,7 +308,8 @@
         "AnubianLocustScarab": "SwordFireGeneric",
         "Sun": "SwordFireGeneric",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SwordFireGeneric"
+        "RockNPC": "SwordFireGeneric",
+        "Upyr": ""
     },
     {
         "Name": "Sword+Crit",
@@ -339,7 +347,8 @@
         "AnubianLocustScarab": "SwordAENagaCrit",
         "Sun": "SwordSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SwordRockNPCCrit"
+        "RockNPC": "SwordRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "Club",
@@ -377,7 +386,8 @@
         "AnubianLocustScarab": "AnubianLocustScarabBody",
         "Sun": "ClubSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "ClubRockNPC"
+        "RockNPC": "ClubRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "ClubSpriggan",
@@ -415,7 +425,8 @@
         "AnubianLocustScarab": "AnubianLocustScarabBody",
         "Sun": "ClubSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "ClubRockNPC"
+        "RockNPC": "ClubRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "ClubSpriggan+Resist",
@@ -453,7 +464,8 @@
         "AnubianLocustScarab": "ClubResist",
         "Sun": "ClubResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "ClubResist"
+        "RockNPC": "ClubResist",
+        "Upyr": ""
     },
     {
         "Name": "Club+Resist",
@@ -491,7 +503,8 @@
         "AnubianLocustScarab": "ClubResist",
         "Sun": "ClubResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "ClubResist"
+        "RockNPC": "ClubResist",
+        "Upyr": ""
     },
     {
         "Name": "Club+Crit",
@@ -529,7 +542,8 @@
         "AnubianLocustScarab": "ClubAENagaCrit",
         "Sun": "ClubSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "ClubRockNPCCrit"
+        "RockNPC": "ClubRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "Axe",
@@ -567,7 +581,8 @@
         "AnubianLocustScarab": "AnubianLocustScarabBody",
         "Sun": "AxeSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "AxeRockNPC"
+        "RockNPC": "AxeRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Axe_Throw",
@@ -605,7 +620,8 @@
         "AnubianLocustScarab": "AxeAENagaThrow",
         "Sun": "AxeSunThrow",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "AxeRockNPCThrow"
+        "RockNPC": "AxeRockNPCThrow",
+        "Upyr": ""
     },
     {
         "Name": "Axe+Resist",
@@ -643,7 +659,8 @@
         "AnubianLocustScarab": "AxeResist",
         "Sun": "AxeResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "AxeResist"
+        "RockNPC": "AxeResist",
+        "Upyr": ""
     },
     {
         "Name": "Axe+Crit",
@@ -681,7 +698,8 @@
         "AnubianLocustScarab": "SwordAENagaCrit",
         "Sun": "SwordSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SwordRockNPCCrit"
+        "RockNPC": "SwordRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "Axe_Throw+Resist",
@@ -719,7 +737,8 @@
         "AnubianLocustScarab": "AxeResist",
         "Sun": "AxeResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "AxeResist"
+        "RockNPC": "AxeResist",
+        "Upyr": ""
     },
     {
         "Name": "Axe_Throw+Crit",
@@ -757,7 +776,8 @@
         "AnubianLocustScarab": "AxeAENagaThrowCrit",
         "Sun": "AxeSunThrowCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "AxeRockNPCThrowCrit"
+        "RockNPC": "AxeRockNPCThrowCrit",
+        "Upyr": ""
     },
     {
         "Name": "GreatAxe",
@@ -795,7 +815,8 @@
         "AnubianLocustScarab": "AnubianLocustScarabBody",
         "Sun": "GreatAxeSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "GreatAxeRockNPC"
+        "RockNPC": "GreatAxeRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "GreatAxe+Resist",
@@ -833,7 +854,8 @@
         "AnubianLocustScarab": "GreatAxeResist",
         "Sun": "GreatAxeResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "GreatAxeResist"
+        "RockNPC": "GreatAxeResist",
+        "Upyr": ""
     },
     {
         "Name": "GreatAxe+Crit",
@@ -871,7 +893,8 @@
         "AnubianLocustScarab": "SwordAENagaCrit",
         "Sun": "SwordSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SwordRockNPCCrit"
+        "RockNPC": "SwordRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "Musket",
@@ -909,7 +932,8 @@
         "AnubianLocustScarab": "MusketAENaga",
         "Sun": "MusketSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "MusketRockNPC"
+        "RockNPC": "MusketRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Musket_Heavy",
@@ -947,7 +971,8 @@
         "AnubianLocustScarab": "UnarmedAENaga",
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedRockNPC"
+        "RockNPC": "UnarmedRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "StickyBomb",
@@ -985,7 +1010,8 @@
         "AnubianLocustScarab": "StickyBombDefault",
         "Sun": "StickyBombDefault",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "StickyBombDefault"
+        "RockNPC": "StickyBombDefault",
+        "Upyr": ""
     },
     {
         "Name": "Musket+Resist",
@@ -1023,7 +1049,8 @@
         "AnubianLocustScarab": "MusketResist",
         "Sun": "MusketResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "MusketResist"
+        "RockNPC": "MusketResist",
+        "Upyr": ""
     },
     {
         "Name": "Musket+Crit",
@@ -1061,7 +1088,8 @@
         "AnubianLocustScarab": "MusketAENagaCrit",
         "Sun": "MusketSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "MusketRockNPCCrit"
+        "RockNPC": "MusketRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "Bow",
@@ -1099,7 +1127,8 @@
         "AnubianLocustScarab": "BowAENaga",
         "Sun": "BowSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "BowRockNPC"
+        "RockNPC": "BowRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Bow_Heavy",
@@ -1137,7 +1166,8 @@
         "AnubianLocustScarab": "UnarmedAENaga",
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedRockNPC"
+        "RockNPC": "UnarmedRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Bow+Resist",
@@ -1175,7 +1205,8 @@
         "AnubianLocustScarab": "BowResist",
         "Sun": "BowResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "BowResist"
+        "RockNPC": "BowResist",
+        "Upyr": ""
     },
     {
         "Name": "Bow+Crit",
@@ -1213,7 +1244,8 @@
         "AnubianLocustScarab": "BowAENagaCrit",
         "Sun": "BowSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "BowRockNPCCrit"
+        "RockNPC": "BowRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "Bow_Heavy+Crit",
@@ -1251,7 +1283,47 @@
         "AnubianLocustScarab": "BowAENagaCrit",
         "Sun": "BowSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "BowRockNPCCrit"
+        "RockNPC": "BowRockNPCCrit",
+        "Upyr": ""
+    },
+    {
+        "Name": "Bow+Arcane",
+        "Default": "BowArcane",
+        "Player": "BowArcane",
+        "Flesh": "BowArcane",
+        "FleshHead": "BowArcane",
+        "Armor": "BowArcane",
+        "ArmorHead": "BowArcane",
+        "Damned": "BowArcane",
+        "Dryad": "BowArcane",
+        "Ghost": "BowArcane",
+        "Turkey": "BowArcane",
+        "Skeleton": "BowArcane",
+        "AncientGuardian": "BowArcane",
+        "GhostCharred": "BowArcane",
+        "GhostFrozen": "BowArcane",
+        "GhostShipwrecked": "BowArcane",
+        "GhostHanged": "BowArcane",
+        "GhostPlagued": "BowArcane",
+        "BearElemental": "BowArcane",
+        "Bear": "BowArcane",
+        "Regurgitator": "BowArcane",
+        "SprigganForest": "BowArcane",
+        "CorruptedEntity": "BowArcane",
+        "BlightFiend": "BowArcane",
+        "FrostWolf": "BowArcane",
+        "EarthWolf": "BowArcane",
+        "Lost": "BowArcane",
+        "Withered": "BowArcane",
+        "Dynasty": "BowArcane",
+        "DunePhantom": "BowArcane",
+        "AnubianGuardianBrute": "BowArcane",
+        "AENaga": "BowArcane",
+        "AnubianLocustScarab": "BowArcane",
+        "Sun": "BowArcane",
+        "MageArcaneShield": "BowArcane",
+        "RockNPC": "BowArcane",
+        "Upyr": "BowArcane"
     },
     {
         "Name": "Shield",
@@ -1289,7 +1361,8 @@
         "AnubianLocustScarab": "ShieldAENaga",
         "Sun": "ShieldSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "ShieldRockNPC"
+        "RockNPC": "ShieldRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Shield+Resist",
@@ -1327,7 +1400,8 @@
         "AnubianLocustScarab": "ShieldResist",
         "Sun": "ShieldResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "ShieldResist"
+        "RockNPC": "ShieldResist",
+        "Upyr": ""
     },
     {
         "Name": "Shield+Crit",
@@ -1365,7 +1439,8 @@
         "AnubianLocustScarab": "ShieldAENagaCrit",
         "Sun": "ShieldSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "ShieldRockNPCCrit"
+        "RockNPC": "ShieldRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "Spear",
@@ -1403,7 +1478,8 @@
         "AnubianLocustScarab": "AnubianLocustScarabBody",
         "Sun": "SpearSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SpearRockNPC"
+        "RockNPC": "SpearRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Spear+Resist",
@@ -1441,7 +1517,8 @@
         "AnubianLocustScarab": "SpearResist",
         "Sun": "SpearResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SpearResist"
+        "RockNPC": "SpearResist",
+        "Upyr": ""
     },
     {
         "Name": "Spear+Crit",
@@ -1479,7 +1556,8 @@
         "AnubianLocustScarab": "SpearAENagaCrit",
         "Sun": "SpearSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SpearRockNPCCrit"
+        "RockNPC": "SpearRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "Spear_Throw",
@@ -1517,7 +1595,8 @@
         "AnubianLocustScarab": "SpearDefaultThrow",
         "Sun": "SpearDefaultThrow",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SpearDefaultThrow"
+        "RockNPC": "SpearDefaultThrow",
+        "Upyr": ""
     },
     {
         "Name": "Spear_Throw+Resist",
@@ -1555,7 +1634,8 @@
         "AnubianLocustScarab": "SpearResist",
         "Sun": "SpearResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SpearResist"
+        "RockNPC": "SpearResist",
+        "Upyr": ""
     },
     {
         "Name": "Spear_Throw+Crit",
@@ -1593,7 +1673,8 @@
         "AnubianLocustScarab": "SpearDefaultThrowCrit",
         "Sun": "SpearDefaultThrowCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SpearDefaultThrowCrit"
+        "RockNPC": "SpearDefaultThrowCrit",
+        "Upyr": ""
     },
     {
         "Name": "Spear_AI",
@@ -1631,7 +1712,8 @@
         "AnubianLocustScarab": "AnubianLocustScarabBody",
         "Sun": "SpearSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SpearRockNPC"
+        "RockNPC": "SpearRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Spear_AI+Resist",
@@ -1669,7 +1751,8 @@
         "AnubianLocustScarab": "SpearResist",
         "Sun": "SpearResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SpearResist"
+        "RockNPC": "SpearResist",
+        "Upyr": ""
     },
     {
         "Name": "Spear_AI+Crit",
@@ -1707,7 +1790,8 @@
         "AnubianLocustScarab": "SpearAENagaCrit",
         "Sun": "SpearSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SpearRockNPCCrit"
+        "RockNPC": "SpearRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "Warhammer",
@@ -1745,7 +1829,8 @@
         "AnubianLocustScarab": "WarHammerAENaga",
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerRockNPC"
+        "RockNPC": "WarHammerRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Warhammer_Heavy",
@@ -1783,7 +1868,8 @@
         "AnubianLocustScarab": "WarHammerAENaga",
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerRockNPC"
+        "RockNPC": "WarHammerRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Warhammer_Mightygavel",
@@ -1821,7 +1907,8 @@
         "AnubianLocustScarab": "WarHammerAENaga",
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerRockNPC"
+        "RockNPC": "WarHammerRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Warhammer_Shockwave",
@@ -1859,7 +1946,8 @@
         "AnubianLocustScarab": "WarHammerAENaga",
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerRockNPC"
+        "RockNPC": "WarHammerRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Warhammer_Wreckingball",
@@ -1897,7 +1985,8 @@
         "AnubianLocustScarab": "WarHammerAENaga",
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerRockNPC"
+        "RockNPC": "WarHammerRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Warhammer+Resist",
@@ -1935,7 +2024,8 @@
         "AnubianLocustScarab": "WarHammerResist",
         "Sun": "WarHammerResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerResist"
+        "RockNPC": "WarHammerResist",
+        "Upyr": ""
     },
     {
         "Name": "Warhammer_Wreckingball+Resist",
@@ -1973,7 +2063,8 @@
         "AnubianLocustScarab": "WarHammerResist",
         "Sun": "WarHammerResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerResist"
+        "RockNPC": "WarHammerResist",
+        "Upyr": ""
     },
     {
         "Name": "Warhammer_Heavy+Resist",
@@ -2011,7 +2102,8 @@
         "AnubianLocustScarab": "WarHammerResist",
         "Sun": "WarHammerResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerResist"
+        "RockNPC": "WarHammerResist",
+        "Upyr": ""
     },
     {
         "Name": "Warhammer+Crit",
@@ -2049,7 +2141,8 @@
         "AnubianLocustScarab": "WarHammerAENagaCrit",
         "Sun": "WarHammerSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerRockNPCCrit"
+        "RockNPC": "WarHammerRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "Warhammer_Heavy+Crit",
@@ -2087,7 +2180,8 @@
         "AnubianLocustScarab": "WarHammerAENagaCrit",
         "Sun": "WarHammerSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerRockNPCCrit"
+        "RockNPC": "WarHammerRockNPCCrit",
+        "Upyr": ""
     },
     {
         "Name": "StaffSpells_No_Environment",
@@ -2125,7 +2219,8 @@
         "AnubianLocustScarab": "UnarmedAENaga",
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedRockNPC"
+        "RockNPC": "UnarmedRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "StaffSpells_No_Environment+Resist",
@@ -2163,7 +2258,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Ice",
@@ -2201,7 +2297,8 @@
         "AnubianLocustScarab": "GhostFrozen",
         "Sun": "GhostFrozen",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "GhostFrozen"
+        "RockNPC": "GhostFrozen",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Ice+Resist",
@@ -2239,7 +2336,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Fire",
@@ -2277,7 +2375,8 @@
         "AnubianLocustScarab": "GhostFire",
         "Sun": "GhostFire",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "GhostFire"
+        "RockNPC": "GhostFire",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Fire+Resist",
@@ -2315,7 +2414,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Lightning",
@@ -2353,7 +2453,8 @@
         "AnubianLocustScarab": "GhostLightning",
         "Sun": "GhostLightning",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "GhostLightning"
+        "RockNPC": "GhostLightning",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Lightning+Resist",
@@ -2391,7 +2492,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Curse",
@@ -2429,7 +2531,8 @@
         "AnubianLocustScarab": "UnarmedRegurgitator",
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedRockNPC"
+        "RockNPC": "UnarmedRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Curse+Resist",
@@ -2467,7 +2570,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Disease",
@@ -2505,7 +2609,8 @@
         "AnubianLocustScarab": "GhostPoison",
         "Sun": "GhostPoison",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "GhostPoison"
+        "RockNPC": "GhostPoison",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Disease+Resist",
@@ -2543,7 +2648,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Shackled",
@@ -2581,7 +2687,8 @@
         "AnubianLocustScarab": "GhostShackled",
         "Sun": "GhostShackled",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "GhostShackled"
+        "RockNPC": "GhostShackled",
+        "Upyr": ""
     },
     {
         "Name": "GhostSpell_Shackled+Resist",
@@ -2619,7 +2726,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "GhostMelee",
@@ -2657,7 +2765,8 @@
         "AnubianLocustScarab": "GhostMelee",
         "Sun": "GhostMelee",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "GhostMelee"
+        "RockNPC": "GhostMelee",
+        "Upyr": ""
     },
     {
         "Name": "GhostMelee+Resist",
@@ -2695,7 +2804,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "Bite_AI",
@@ -2733,7 +2843,8 @@
         "AnubianLocustScarab": "UnarmedAENaga",
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedRockNPC"
+        "RockNPC": "UnarmedRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Bite_AI+Resist",
@@ -2771,7 +2882,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "Blunt_AI",
@@ -2809,7 +2921,8 @@
         "AnubianLocustScarab": "ClubDefault",
         "Sun": "ClubDefault",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "ClubDefault"
+        "RockNPC": "ClubDefault",
+        "Upyr": ""
     },
     {
         "Name": "Blunt_AI+Resist",
@@ -2847,7 +2960,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "Bear_Claw",
@@ -2885,7 +2999,8 @@
         "AnubianLocustScarab": "UnarmedAENaga",
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedRockNPC"
+        "RockNPC": "UnarmedRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Bear_Claw+Resist",
@@ -2923,7 +3038,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "Regurgitator_Vomitball",
@@ -2961,7 +3077,8 @@
         "AnubianLocustScarab": "Regurgitator_VomitballDefault",
         "Sun": "Regurgitator_VomitballDefault",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "Regurgitator_VomitballDefault"
+        "RockNPC": "Regurgitator_VomitballDefault",
+        "Upyr": ""
     },
     {
         "Name": "Regurgitator_Vomitball+Resist",
@@ -2999,7 +3116,8 @@
         "AnubianLocustScarab": "Regurgitator_VomitballResist",
         "Sun": "Regurgitator_VomitballResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "Regurgitator_VomitballResist"
+        "RockNPC": "Regurgitator_VomitballResist",
+        "Upyr": ""
     },
     {
         "Name": "Regurgitator_Vomitspray",
@@ -3037,7 +3155,8 @@
         "AnubianLocustScarab": "Regurgitator_VomitsprayDefault",
         "Sun": "Regurgitator_VomitsprayDefault",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "Regurgitator_VomitsprayDefault"
+        "RockNPC": "Regurgitator_VomitsprayDefault",
+        "Upyr": ""
     },
     {
         "Name": "Regurgitator_Vomitspray+Resist",
@@ -3075,7 +3194,8 @@
         "AnubianLocustScarab": "Regurgitator_VomitsprayResist",
         "Sun": "Regurgitator_VomitsprayResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "Regurgitator_VomitsprayResist"
+        "RockNPC": "Regurgitator_VomitsprayResist",
+        "Upyr": ""
     },
     {
         "Name": "Impaler_spike",
@@ -3113,7 +3233,8 @@
         "AnubianLocustScarab": "Impaler_spikeDefault",
         "Sun": "Impaler_spikeDefault",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "Impaler_spikeDefault"
+        "RockNPC": "Impaler_spikeDefault",
+        "Upyr": ""
     },
     {
         "Name": "Impaler_spike+Resist",
@@ -3151,7 +3272,8 @@
         "AnubianLocustScarab": "Impaler_spikeResist",
         "Sun": "Impaler_spikeResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "Impaler_spikeResist"
+        "RockNPC": "Impaler_spikeResist",
+        "Upyr": ""
     },
     {
         "Name": "LifeStaff_Proj",
@@ -3189,7 +3311,8 @@
         "AnubianLocustScarab": "LifeStaffFlesh",
         "Sun": "LifeStaffFlesh",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "LifeStaffDefault"
+        "RockNPC": "LifeStaffDefault",
+        "Upyr": ""
     },
     {
         "Name": "LifeStaff_Proj_Protect",
@@ -3227,7 +3350,8 @@
         "AnubianLocustScarab": "LifeStaff_Protect",
         "Sun": "LifeStaff_Protect",
         "MageArcaneShield": "LifeStaff_Protect",
-        "RockNPC": "LifeStaff_Protect"
+        "RockNPC": "LifeStaff_Protect",
+        "Upyr": ""
     },
     {
         "Name": "LifeStaff_Proj+Resist",
@@ -3265,7 +3389,8 @@
         "AnubianLocustScarab": "LifeStaffResist",
         "Sun": "LifeStaffResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "LifeStaffResist"
+        "RockNPC": "LifeStaffResist",
+        "Upyr": ""
     },
     {
         "Name": "LifeStaff_Proj+Crit",
@@ -3303,7 +3428,8 @@
         "AnubianLocustScarab": "LifeStaffDefaultCrit",
         "Sun": "LifeStaffDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "LifeStaffDefaultCrit"
+        "RockNPC": "LifeStaffDefaultCrit",
+        "Upyr": ""
     },
     {
         "Name": "FireStaff_Proj",
@@ -3341,7 +3467,8 @@
         "AnubianLocustScarab": "FireStaffFlesh",
         "Sun": "FireStaffFlesh",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "FireStaffDefault"
+        "RockNPC": "FireStaffDefault",
+        "Upyr": ""
     },
     {
         "Name": "FireStaff_Proj+Resist",
@@ -3379,7 +3506,8 @@
         "AnubianLocustScarab": "FireStaffResist",
         "Sun": "FireStaffResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "FireStaffResist"
+        "RockNPC": "FireStaffResist",
+        "Upyr": ""
     },
     {
         "Name": "FireStaff_Proj+Crit",
@@ -3417,7 +3545,8 @@
         "AnubianLocustScarab": "FireStaffDefaultCrit",
         "Sun": "FireStaffDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "FireStaffDefaultCrit"
+        "RockNPC": "FireStaffDefaultCrit",
+        "Upyr": ""
     },
     {
         "Name": "FlameThrower",
@@ -3455,7 +3584,8 @@
         "AnubianLocustScarab": "FlameThrowerFlesh",
         "Sun": "FlameThrowerFlesh",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "FlameThrowerDefault"
+        "RockNPC": "FlameThrowerDefault",
+        "Upyr": ""
     },
     {
         "Name": "FlameThrower+Resist",
@@ -3493,7 +3623,8 @@
         "AnubianLocustScarab": "FlameThrowerResist",
         "Sun": "FlameThrowerResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "FlameThrowerResist"
+        "RockNPC": "FlameThrowerResist",
+        "Upyr": ""
     },
     {
         "Name": "FlameThrower+Crit",
@@ -3531,7 +3662,8 @@
         "AnubianLocustScarab": "FlameThrowerDefaultCrit",
         "Sun": "FlameThrowerDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "FlameThrowerDefaultCrit"
+        "RockNPC": "FlameThrowerDefaultCrit",
+        "Upyr": ""
     },
     {
         "Name": "Burnout",
@@ -3569,7 +3701,8 @@
         "AnubianLocustScarab": "FireStaffFlesh",
         "Sun": "FireStaffFlesh",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "FireStaffDefault"
+        "RockNPC": "FireStaffDefault",
+        "Upyr": ""
     },
     {
         "Name": "Burnout+Resist",
@@ -3607,7 +3740,8 @@
         "AnubianLocustScarab": "FireStaffResist",
         "Sun": "FireStaffResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "FireStaffResist"
+        "RockNPC": "FireStaffResist",
+        "Upyr": ""
     },
     {
         "Name": "Burnout+Crit",
@@ -3645,7 +3779,8 @@
         "AnubianLocustScarab": "FireStaffDefaultCrit",
         "Sun": "FireStaffDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "FireStaffDefaultCrit"
+        "RockNPC": "FireStaffDefaultCrit",
+        "Upyr": ""
     },
     {
         "Name": "IceGauntlet_Proj",
@@ -3683,7 +3818,8 @@
         "AnubianLocustScarab": "IceGauntletFlesh",
         "Sun": "IceGauntletFlesh",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "IceGauntletDefault"
+        "RockNPC": "IceGauntletDefault",
+        "Upyr": ""
     },
     {
         "Name": "IceGauntlet_Proj_Heavy",
@@ -3721,7 +3857,8 @@
         "AnubianLocustScarab": "IceGauntletHeavyFlesh",
         "Sun": "IceGauntletHeavyFlesh",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "IceGauntletDefault"
+        "RockNPC": "IceGauntletDefault",
+        "Upyr": ""
     },
     {
         "Name": "IceGauntlet_Null",
@@ -3759,7 +3896,8 @@
         "AnubianLocustScarab": "IceGauntletNull",
         "Sun": "IceGauntletNull",
         "MageArcaneShield": "IceGauntletNull",
-        "RockNPC": "IceGauntletNull"
+        "RockNPC": "IceGauntletNull",
+        "Upyr": ""
     },
     {
         "Name": "IceGauntlet_Proj+Resist",
@@ -3797,7 +3935,8 @@
         "AnubianLocustScarab": "IceGauntletResist",
         "Sun": "IceGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "IceGauntletResist"
+        "RockNPC": "IceGauntletResist",
+        "Upyr": ""
     },
     {
         "Name": "IceGauntlet_Proj_Heavy+Resist",
@@ -3835,7 +3974,8 @@
         "AnubianLocustScarab": "IceGauntletResist",
         "Sun": "IceGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "IceGauntletResist"
+        "RockNPC": "IceGauntletResist",
+        "Upyr": ""
     },
     {
         "Name": "IceGauntlet_Proj+Crit",
@@ -3873,7 +4013,8 @@
         "AnubianLocustScarab": "IceGauntletDefaultCrit",
         "Sun": "IceGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "IceGauntletDefaultCrit"
+        "RockNPC": "IceGauntletDefaultCrit",
+        "Upyr": ""
     },
     {
         "Name": "IceGauntlet_Proj_Heavy+Crit",
@@ -3911,7 +4052,8 @@
         "AnubianLocustScarab": "IceGauntletDefaultCrit",
         "Sun": "IceGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "IceGauntletDefaultCrit"
+        "RockNPC": "IceGauntletDefaultCrit",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Proj",
@@ -3949,7 +4091,8 @@
         "AnubianLocustScarab": "VoidGauntletFlesh",
         "Sun": "VoidGauntletFlesh",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "VoidGauntletDefault"
+        "RockNPC": "VoidGauntletDefault",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Proj_Heavy",
@@ -3987,7 +4130,8 @@
         "AnubianLocustScarab": "VoidGauntletHeavyFlesh",
         "Sun": "VoidGauntletHeavyFlesh",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "VoidGauntletDefault"
+        "RockNPC": "VoidGauntletDefault",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Blade",
@@ -4025,7 +4169,8 @@
         "AnubianLocustScarab": "VoidGauntletBladeDefault",
         "Sun": "VoidGauntletBladeDefault",
         "MageArcaneShield": "VoidGauntletBladeDefault",
-        "RockNPC": "VoidGauntletBladeDefault"
+        "RockNPC": "VoidGauntletBladeDefault",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Special",
@@ -4063,7 +4208,8 @@
         "AnubianLocustScarab": "VoidGauntletSpecial",
         "Sun": "VoidGauntletSpecial",
         "MageArcaneShield": "VoidGauntletSpecial",
-        "RockNPC": "VoidGauntletSpecial"
+        "RockNPC": "VoidGauntletSpecial",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Rupture",
@@ -4101,7 +4247,8 @@
         "AnubianLocustScarab": "VoidGauntletRuptureDefault",
         "Sun": "VoidGauntletRuptureDefault",
         "MageArcaneShield": "VoidGauntletRuptureDefault",
-        "RockNPC": "VoidGauntletRuptureDefault"
+        "RockNPC": "VoidGauntletRuptureDefault",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Proj+Resist",
@@ -4139,7 +4286,8 @@
         "AnubianLocustScarab": "VoidGauntletResist",
         "Sun": "VoidGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "VoidGauntletResist"
+        "RockNPC": "VoidGauntletResist",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Proj+Crit",
@@ -4177,7 +4325,8 @@
         "AnubianLocustScarab": "VoidGauntletDefaultCrit",
         "Sun": "VoidGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "VoidGauntletDefaultCrit"
+        "RockNPC": "VoidGauntletDefaultCrit",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Proj_Heavy+Crit",
@@ -4215,7 +4364,8 @@
         "AnubianLocustScarab": "VoidGauntletDefaultCrit",
         "Sun": "VoidGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "VoidGauntletDefaultCrit"
+        "RockNPC": "VoidGauntletDefaultCrit",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Proj_Heavy+Resist",
@@ -4253,7 +4403,8 @@
         "AnubianLocustScarab": "VoidGauntletResist",
         "Sun": "VoidGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "VoidGauntletResist"
+        "RockNPC": "VoidGauntletResist",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Blade+Resist",
@@ -4291,7 +4442,8 @@
         "AnubianLocustScarab": "VoidGauntletBladeResist",
         "Sun": "VoidGauntletBladeResist",
         "MageArcaneShield": "VoidGauntletBladeResist",
-        "RockNPC": "VoidGauntletBladeResist"
+        "RockNPC": "VoidGauntletBladeResist",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Blade+Crit",
@@ -4329,7 +4481,8 @@
         "AnubianLocustScarab": "VoidGauntletBladeDefault",
         "Sun": "VoidGauntletBladeDefault",
         "MageArcaneShield": "VoidGauntletBladeDefault",
-        "RockNPC": "VoidGauntletBladeDefault"
+        "RockNPC": "VoidGauntletBladeDefault",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Rupture+Crit",
@@ -4367,7 +4520,8 @@
         "AnubianLocustScarab": "VoidGauntletRuptureDefault",
         "Sun": "VoidGauntletRuptureDefault",
         "MageArcaneShield": "VoidGauntletRuptureDefault",
-        "RockNPC": "VoidGauntletRuptureDefault"
+        "RockNPC": "VoidGauntletRuptureDefault",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Rupture+Resist",
@@ -4405,7 +4559,8 @@
         "AnubianLocustScarab": "VoidGauntletRuptureDefault",
         "Sun": "VoidGauntletRuptureDefault",
         "MageArcaneShield": "VoidGauntletRuptureDefault",
-        "RockNPC": "VoidGauntletRuptureDefault"
+        "RockNPC": "VoidGauntletRuptureDefault",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Special+Crit",
@@ -4443,7 +4598,8 @@
         "AnubianLocustScarab": "VoidGauntletSpecial",
         "Sun": "VoidGauntletSpecial",
         "MageArcaneShield": "VoidGauntletSpecial",
-        "RockNPC": "VoidGauntletSpecial"
+        "RockNPC": "VoidGauntletSpecial",
+        "Upyr": ""
     },
     {
         "Name": "VoidGauntlet_Special+Resist",
@@ -4481,7 +4637,8 @@
         "AnubianLocustScarab": "VoidGauntletSpecial",
         "Sun": "VoidGauntletSpecial",
         "MageArcaneShield": "VoidGauntletSpecial",
-        "RockNPC": "VoidGauntletSpecial"
+        "RockNPC": "VoidGauntletSpecial",
+        "Upyr": ""
     },
     {
         "Name": "Ballista",
@@ -4519,7 +4676,8 @@
         "AnubianLocustScarab": "SpearDefaultThrow",
         "Sun": "SpearDefaultThrow",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "SpearDefaultThrow"
+        "RockNPC": "SpearDefaultThrow",
+        "Upyr": ""
     },
     {
         "Name": "CannonBall",
@@ -4557,7 +4715,8 @@
         "AnubianLocustScarab": "WarHammerAENaga",
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "WarHammerRockNPC"
+        "RockNPC": "WarHammerRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Beam_Laser",
@@ -4595,7 +4754,8 @@
         "AnubianLocustScarab": "BeamLaserDefault",
         "Sun": "BeamLaserDefault",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "BeamLaserDefault"
+        "RockNPC": "BeamLaserDefault",
+        "Upyr": ""
     },
     {
         "Name": "Beam_VoidSpike",
@@ -4633,7 +4793,8 @@
         "AnubianLocustScarab": "BeamVoidSpikeDefault",
         "Sun": "BeamVoidSpikeDefault",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "BeamVoidSpikeDefault"
+        "RockNPC": "BeamVoidSpikeDefault",
+        "Upyr": ""
     },
     {
         "Name": "Sonic_Boom",
@@ -4671,7 +4832,8 @@
         "AnubianLocustScarab": "Sonicboom",
         "Sun": "Sonicboom",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "Sonicboom"
+        "RockNPC": "Sonicboom",
+        "Upyr": ""
     },
     {
         "Name": "Torch",
@@ -4709,7 +4871,8 @@
         "AnubianLocustScarab": "Torch",
         "Sun": "Torch",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "Torch"
+        "RockNPC": "Torch",
+        "Upyr": ""
     },
     {
         "Name": "Torch+Resist",
@@ -4747,7 +4910,8 @@
         "AnubianLocustScarab": "TorchResist",
         "Sun": "TorchResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "TorchResist"
+        "RockNPC": "TorchResist",
+        "Upyr": ""
     },
     {
         "Name": "CorruptedMagic",
@@ -4785,7 +4949,8 @@
         "AnubianLocustScarab": "CorruptedMagic",
         "Sun": "CorruptedMagic",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "CorruptedMagic"
+        "RockNPC": "CorruptedMagic",
+        "Upyr": ""
     },
     {
         "Name": "CorruptedMagic+Resist",
@@ -4823,7 +4988,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "GravediggerLifesteal",
@@ -4861,7 +5027,8 @@
         "AnubianLocustScarab": "GravediggerLifesteal",
         "Sun": "GravediggerLifesteal",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "GravediggerLifesteal"
+        "RockNPC": "GravediggerLifesteal",
+        "Upyr": ""
     },
     {
         "Name": "DryadMagic",
@@ -4899,7 +5066,8 @@
         "AnubianLocustScarab": "DryadMagic",
         "Sun": "DryadMagic",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "DryadMagic"
+        "RockNPC": "DryadMagic",
+        "Upyr": ""
     },
     {
         "Name": "DryadMagic+Resist",
@@ -4937,7 +5105,8 @@
         "AnubianLocustScarab": "UnarmedResist",
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "UnarmedResist"
+        "RockNPC": "UnarmedResist",
+        "Upyr": ""
     },
     {
         "Name": "AncientMagic",
@@ -4975,7 +5144,8 @@
         "AnubianLocustScarab": "AncientMagic",
         "Sun": "AncientMagic",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "AncientMagic"
+        "RockNPC": "AncientMagic",
+        "Upyr": ""
     },
     {
         "Name": "DynastyMagic",
@@ -5013,7 +5183,8 @@
         "AnubianLocustScarab": "DynastyMagic",
         "Sun": "DynastyMagic",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "DynastyMagic"
+        "RockNPC": "DynastyMagic",
+        "Upyr": ""
     },
     {
         "Name": "SunMagic",
@@ -5051,7 +5222,8 @@
         "AnubianLocustScarab": "SunMagic",
         "Sun": "SunMagic",
         "MageArcaneShield": "SunMagic",
-        "RockNPC": "SunMagic"
+        "RockNPC": "SunMagic",
+        "Upyr": ""
     },
     {
         "Name": "CorruptedSlash",
@@ -5089,7 +5261,8 @@
         "AnubianLocustScarab": "CorruptedSlash",
         "Sun": "CorruptedSlash",
         "MageArcaneShield": "CorruptedSlash",
-        "RockNPC": "CorruptedSlash"
+        "RockNPC": "CorruptedSlash",
+        "Upyr": ""
     },
     {
         "Name": "CorruptedMagic_Legion",
@@ -5127,125 +5300,129 @@
         "AnubianLocustScarab": "CorruptedMagic_Legion",
         "Sun": "CorruptedMagic_Legion",
         "MageArcaneShield": "CorruptedMagic_Legion",
-        "RockNPC": "CorruptedMagic_Legion"
+        "RockNPC": "CorruptedMagic_Legion",
+        "Upyr": ""
     },
     {
         "Name": "Blunderbuss",
-        "Default": "MusketDefault",
-        "Player": "MusketDefault",
-        "Flesh": "MusketFlesh",
-        "FleshHead": "MusketFleshHead",
-        "Armor": "MusketArmor",
-        "ArmorHead": "MusketArmorHead",
-        "Damned": "MusketDamned",
-        "Dryad": "MusketDryad",
-        "Ghost": "MusketGhost",
-        "Turkey": "MusketTurkey",
-        "Skeleton": "MusketSkeleton",
-        "AncientGuardian": "MusketAncientGuardian",
-        "GhostCharred": "MusketGhostCharred",
-        "GhostFrozen": "MusketGhostFrozen",
-        "GhostShipwrecked": "MusketGhostShipwrecked",
-        "GhostHanged": "MusketGhostHanged",
-        "GhostPlagued": "MusketGhostPlagued",
-        "BearElemental": "MusketBearElemental",
-        "Bear": "MusketDefault",
-        "Regurgitator": "MusketRegurgitator",
-        "SprigganForest": "MusketSprigganForest",
-        "CorruptedEntity": "MusketCorruptedEntity",
-        "BlightFiend": "MusketBlightFiend",
-        "FrostWolf": "MusketFrostWolf",
-        "EarthWolf": "MusketEarthWolf",
-        "Lost": "MusketLost",
-        "Withered": "MusketWithered",
-        "Dynasty": "MusketDynasty",
-        "DunePhantom": "MusketDunePhantom",
-        "AnubianGuardianBrute": "MusketDunePhantom",
-        "AENaga": "MusketAENaga",
-        "AnubianLocustScarab": "MusketAENaga",
-        "Sun": "MusketSun",
+        "Default": "BlunderbussDefault",
+        "Player": "BlunderbussDefault",
+        "Flesh": "BlunderbussFlesh",
+        "FleshHead": "BlunderbussFleshHead",
+        "Armor": "BlunderbussArmor",
+        "ArmorHead": "BlunderbussArmorHead",
+        "Damned": "BlunderbussDamned",
+        "Dryad": "BlunderbussDryad",
+        "Ghost": "BlunderbussGhost",
+        "Turkey": "BlunderbussTurkey",
+        "Skeleton": "BlunderbussSkeleton",
+        "AncientGuardian": "BlunderbussAncientGuardian",
+        "GhostCharred": "BlunderbussGhostCharred",
+        "GhostFrozen": "BlunderbussGhostFrozen",
+        "GhostShipwrecked": "BlunderbussGhostShipwrecked",
+        "GhostHanged": "BlunderbussGhostHanged",
+        "GhostPlagued": "BlunderbussGhostPlagued",
+        "BearElemental": "BlunderbussBearElemental",
+        "Bear": "BlunderbussDefault",
+        "Regurgitator": "BlunderbussRegurgitator",
+        "SprigganForest": "BlunderbussSprigganForest",
+        "CorruptedEntity": "BlunderbussCorruptedEntity",
+        "BlightFiend": "BlunderbussBlightFiend",
+        "FrostWolf": "BlunderbussFrostWolf",
+        "EarthWolf": "BlunderbussEarthWolf",
+        "Lost": "BlunderbussLost",
+        "Withered": "BlunderbussWithered",
+        "Dynasty": "BlunderbussDynasty",
+        "DunePhantom": "BlunderbussDunePhantom",
+        "AnubianGuardianBrute": "BlunderbussDunePhantom",
+        "AENaga": "BlunderbussAENaga",
+        "AnubianLocustScarab": "BlunderbussAENaga",
+        "Sun": "BlunderbussSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "MusketRockNPC"
+        "RockNPC": "BlunderbussRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Blunderbuss_Claw",
-        "Default": "MusketDefault",
-        "Player": "MusketDefault",
-        "Flesh": "MusketFlesh",
-        "FleshHead": "MusketFleshHead",
-        "Armor": "MusketArmor",
-        "ArmorHead": "MusketArmorHead",
-        "Damned": "MusketDamned",
-        "Dryad": "MusketDryad",
-        "Ghost": "MusketGhost",
-        "Turkey": "MusketTurkey",
-        "Skeleton": "MusketSkeleton",
-        "AncientGuardian": "MusketAncientGuardian",
-        "GhostCharred": "MusketGhostCharred",
-        "GhostFrozen": "MusketGhostFrozen",
-        "GhostShipwrecked": "MusketGhostShipwrecked",
-        "GhostHanged": "MusketGhostHanged",
-        "GhostPlagued": "MusketGhostPlagued",
-        "BearElemental": "MusketBearElemental",
-        "Bear": "MusketDefault",
-        "Regurgitator": "MusketRegurgitator",
-        "SprigganForest": "MusketSprigganForest",
-        "CorruptedEntity": "MusketCorruptedEntity",
-        "BlightFiend": "MusketBlightFiend",
-        "FrostWolf": "MusketFrostWolf",
-        "EarthWolf": "MusketEarthWolf",
-        "Lost": "MusketLost",
-        "Withered": "MusketWithered",
-        "Dynasty": "MusketDynasty",
-        "DunePhantom": "MusketDunePhantom",
-        "AnubianGuardianBrute": "MusketDunePhantom",
-        "AENaga": "MusketAENaga",
-        "AnubianLocustScarab": "MusketAENaga",
-        "Sun": "MusketSun",
+        "Default": "Blunderbuss_Claw_Flesh",
+        "Player": "Blunderbuss_Claw_Flesh",
+        "Flesh": "Blunderbuss_Claw_Flesh",
+        "FleshHead": "Blunderbuss_Claw_Flesh",
+        "Armor": "Blunderbuss_Claw_Flesh",
+        "ArmorHead": "Blunderbuss_Claw_Flesh",
+        "Damned": "Blunderbuss_Claw_Flesh",
+        "Dryad": "BlunderbussDryad",
+        "Ghost": "BlunderbussGhost",
+        "Turkey": "BlunderbussTurkey",
+        "Skeleton": "BlunderbussSkeleton",
+        "AncientGuardian": "BlunderbussAncientGuardian",
+        "GhostCharred": "BlunderbussGhostCharred",
+        "GhostFrozen": "BlunderbussGhostFrozen",
+        "GhostShipwrecked": "BlunderbussGhostShipwrecked",
+        "GhostHanged": "BlunderbussGhostHanged",
+        "GhostPlagued": "BlunderbussGhostPlagued",
+        "BearElemental": "BlunderbussBearElemental",
+        "Bear": "BlunderbussDefault",
+        "Regurgitator": "BlunderbussRegurgitator",
+        "SprigganForest": "BlunderbussSprigganForest",
+        "CorruptedEntity": "BlunderbussCorruptedEntity",
+        "BlightFiend": "BlunderbussBlightFiend",
+        "FrostWolf": "BlunderbussFrostWolf",
+        "EarthWolf": "BlunderbussEarthWolf",
+        "Lost": "BlunderbussLost",
+        "Withered": "BlunderbussWithered",
+        "Dynasty": "BlunderbussDynasty",
+        "DunePhantom": "BlunderbussDunePhantom",
+        "AnubianGuardianBrute": "BlunderbussDunePhantom",
+        "AENaga": "BlunderbussAENaga",
+        "AnubianLocustScarab": "BlunderbussAENaga",
+        "Sun": "BlunderbussSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "MusketRockNPC"
+        "RockNPC": "BlunderbussRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Blunderbuss_Net",
-        "Default": "MusketDefault",
-        "Player": "MusketDefault",
-        "Flesh": "MusketFlesh",
-        "FleshHead": "MusketFleshHead",
-        "Armor": "MusketArmor",
-        "ArmorHead": "MusketArmorHead",
-        "Damned": "MusketDamned",
-        "Dryad": "MusketDryad",
-        "Ghost": "MusketGhost",
-        "Turkey": "MusketTurkey",
-        "Skeleton": "MusketSkeleton",
-        "AncientGuardian": "MusketAncientGuardian",
-        "GhostCharred": "MusketGhostCharred",
-        "GhostFrozen": "MusketGhostFrozen",
-        "GhostShipwrecked": "MusketGhostShipwrecked",
-        "GhostHanged": "MusketGhostHanged",
-        "GhostPlagued": "MusketGhostPlagued",
-        "BearElemental": "MusketBearElemental",
-        "Bear": "MusketDefault",
-        "Regurgitator": "MusketRegurgitator",
-        "SprigganForest": "MusketSprigganForest",
-        "CorruptedEntity": "MusketCorruptedEntity",
-        "BlightFiend": "MusketBlightFiend",
-        "FrostWolf": "MusketFrostWolf",
-        "EarthWolf": "MusketEarthWolf",
-        "Lost": "MusketLost",
-        "Withered": "MusketWithered",
-        "Dynasty": "MusketDynasty",
-        "DunePhantom": "MusketDunePhantom",
-        "AnubianGuardianBrute": "MusketDunePhantom",
-        "AENaga": "MusketAENaga",
-        "AnubianLocustScarab": "MusketAENaga",
-        "Sun": "MusketSun",
+        "Default": "BlunderbussDefault",
+        "Player": "BlunderbussDefault",
+        "Flesh": "BlunderbussFlesh",
+        "FleshHead": "BlunderbussFleshHead",
+        "Armor": "BlunderbussArmor",
+        "ArmorHead": "BlunderbussArmorHead",
+        "Damned": "BlunderbussDamned",
+        "Dryad": "BlunderbussDryad",
+        "Ghost": "BlunderbussGhost",
+        "Turkey": "BlunderbussTurkey",
+        "Skeleton": "BlunderbussSkeleton",
+        "AncientGuardian": "BlunderbussAncientGuardian",
+        "GhostCharred": "BlunderbussGhostCharred",
+        "GhostFrozen": "BlunderbussGhostFrozen",
+        "GhostShipwrecked": "BlunderbussGhostShipwrecked",
+        "GhostHanged": "BlunderbussGhostHanged",
+        "GhostPlagued": "BlunderbussGhostPlagued",
+        "BearElemental": "BlunderbussBearElemental",
+        "Bear": "BlunderbussDefault",
+        "Regurgitator": "BlunderbussRegurgitator",
+        "SprigganForest": "BlunderbussSprigganForest",
+        "CorruptedEntity": "BlunderbussCorruptedEntity",
+        "BlightFiend": "BlunderbussBlightFiend",
+        "FrostWolf": "BlunderbussFrostWolf",
+        "EarthWolf": "BlunderbussEarthWolf",
+        "Lost": "BlunderbussLost",
+        "Withered": "BlunderbussWithered",
+        "Dynasty": "BlunderbussDynasty",
+        "DunePhantom": "BlunderbussDunePhantom",
+        "AnubianGuardianBrute": "BlunderbussDunePhantom",
+        "AENaga": "BlunderbussAENaga",
+        "AnubianLocustScarab": "BlunderbussAENaga",
+        "Sun": "BlunderbussSun",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "MusketRockNPC"
+        "RockNPC": "BlunderbussRockNPC",
+        "Upyr": ""
     },
     {
         "Name": "Blunderbuss_Shrapnel",
-        "Default": "MusketDefault",
+        "Default": "BlunderbussDefault",
         "Player": "Blunderbuss_Chr_Shrapnel",
         "Flesh": "Blunderbuss_Chr_Shrapnel",
         "FleshHead": "Blunderbuss_Chr_Shrapnel",
@@ -5279,82 +5456,436 @@
         "AnubianLocustScarab": "Blunderbuss_Chr_Shrapnel",
         "Sun": "Blunderbuss_Chr_Shrapnel",
         "MageArcaneShield": "Blunderbuss_Chr_Shrapnel",
-        "RockNPC": "Blunderbuss_Chr_Shrapnel"
+        "RockNPC": "Blunderbuss_Chr_Shrapnel",
+        "Upyr": ""
     },
     {
         "Name": "Blunderbuss+Resist",
-        "Default": "MusketResist",
-        "Player": "MusketResist",
-        "Flesh": "MusketResist",
-        "FleshHead": "MusketResist",
-        "Armor": "MusketResist",
-        "ArmorHead": "MusketResist",
-        "Damned": "MusketResist",
-        "Dryad": "MusketResist",
-        "Ghost": "MusketResist",
-        "Turkey": "MusketResist",
-        "Skeleton": "MusketResist",
-        "AncientGuardian": "MusketResist",
-        "GhostCharred": "MusketResist",
-        "GhostFrozen": "MusketResist",
-        "GhostShipwrecked": "MusketResist",
-        "GhostHanged": "MusketResist",
-        "GhostPlagued": "MusketResist",
-        "BearElemental": "MusketResist",
-        "Bear": "MusketResist",
-        "Regurgitator": "MusketResist",
+        "Default": "BlunderbussResist",
+        "Player": "BlunderbussResist",
+        "Flesh": "BlunderbussResist",
+        "FleshHead": "BlunderbussResist",
+        "Armor": "BlunderbussResist",
+        "ArmorHead": "BlunderbussResist",
+        "Damned": "BlunderbussResist",
+        "Dryad": "BlunderbussResist",
+        "Ghost": "BlunderbussResist",
+        "Turkey": "BlunderbussResist",
+        "Skeleton": "BlunderbussResist",
+        "AncientGuardian": "BlunderbussResist",
+        "GhostCharred": "BlunderbussResist",
+        "GhostFrozen": "BlunderbussResist",
+        "GhostShipwrecked": "BlunderbussResist",
+        "GhostHanged": "BlunderbussResist",
+        "GhostPlagued": "BlunderbussResist",
+        "BearElemental": "BlunderbussResist",
+        "Bear": "BlunderbussResist",
+        "Regurgitator": "BlunderbussResist",
         "SprigganForest": "StickyBombDefault",
-        "CorruptedEntity": "MusketResist",
-        "BlightFiend": "MusketResist",
-        "FrostWolf": "MusketResist",
-        "EarthWolf": "MusketResist",
-        "Lost": "MusketResist",
-        "Withered": "MusketResist",
-        "Dynasty": "MusketResist",
-        "DunePhantom": "MusketResist",
-        "AnubianGuardianBrute": "MusketResist",
-        "AENaga": "MusketResist",
-        "AnubianLocustScarab": "MusketResist",
-        "Sun": "MusketResist",
+        "CorruptedEntity": "BlunderbussResist",
+        "BlightFiend": "BlunderbussResist",
+        "FrostWolf": "BlunderbussResist",
+        "EarthWolf": "BlunderbussResist",
+        "Lost": "BlunderbussResist",
+        "Withered": "BlunderbussResist",
+        "Dynasty": "BlunderbussResist",
+        "DunePhantom": "BlunderbussResist",
+        "AnubianGuardianBrute": "BlunderbussResist",
+        "AENaga": "BlunderbussResist",
+        "AnubianLocustScarab": "BlunderbussResist",
+        "Sun": "BlunderbussResist",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "MusketResist"
+        "RockNPC": "BlunderbussResist",
+        "Upyr": ""
+    },
+    {
+        "Name": "Blunderbuss_Claw+Resist",
+        "Default": "BlunderbussResist",
+        "Player": "BlunderbussResist",
+        "Flesh": "BlunderbussResist",
+        "FleshHead": "BlunderbussResist",
+        "Armor": "BlunderbussResist",
+        "ArmorHead": "BlunderbussResist",
+        "Damned": "BlunderbussResist",
+        "Dryad": "BlunderbussResist",
+        "Ghost": "BlunderbussResist",
+        "Turkey": "BlunderbussResist",
+        "Skeleton": "BlunderbussResist",
+        "AncientGuardian": "BlunderbussResist",
+        "GhostCharred": "BlunderbussResist",
+        "GhostFrozen": "BlunderbussResist",
+        "GhostShipwrecked": "BlunderbussResist",
+        "GhostHanged": "BlunderbussResist",
+        "GhostPlagued": "BlunderbussResist",
+        "BearElemental": "BlunderbussResist",
+        "Bear": "BlunderbussResist",
+        "Regurgitator": "BlunderbussResist",
+        "SprigganForest": "StickyBombDefault",
+        "CorruptedEntity": "BlunderbussResist",
+        "BlightFiend": "BlunderbussResist",
+        "FrostWolf": "BlunderbussResist",
+        "EarthWolf": "BlunderbussResist",
+        "Lost": "BlunderbussResist",
+        "Withered": "BlunderbussResist",
+        "Dynasty": "BlunderbussResist",
+        "DunePhantom": "BlunderbussResist",
+        "AnubianGuardianBrute": "BlunderbussResist",
+        "AENaga": "BlunderbussResist",
+        "AnubianLocustScarab": "BlunderbussResist",
+        "Sun": "BlunderbussResist",
+        "MageArcaneShield": "HolyShield_Proj",
+        "RockNPC": "BlunderbussResist",
+        "Upyr": ""
+    },
+    {
+        "Name": "Blunderbuss_Net+Resist",
+        "Default": "BlunderbussResist",
+        "Player": "BlunderbussResist",
+        "Flesh": "BlunderbussResist",
+        "FleshHead": "BlunderbussResist",
+        "Armor": "BlunderbussResist",
+        "ArmorHead": "BlunderbussResist",
+        "Damned": "BlunderbussResist",
+        "Dryad": "BlunderbussResist",
+        "Ghost": "BlunderbussResist",
+        "Turkey": "BlunderbussResist",
+        "Skeleton": "BlunderbussResist",
+        "AncientGuardian": "BlunderbussResist",
+        "GhostCharred": "BlunderbussResist",
+        "GhostFrozen": "BlunderbussResist",
+        "GhostShipwrecked": "BlunderbussResist",
+        "GhostHanged": "BlunderbussResist",
+        "GhostPlagued": "BlunderbussResist",
+        "BearElemental": "BlunderbussResist",
+        "Bear": "BlunderbussResist",
+        "Regurgitator": "BlunderbussResist",
+        "SprigganForest": "StickyBombDefault",
+        "CorruptedEntity": "BlunderbussResist",
+        "BlightFiend": "BlunderbussResist",
+        "FrostWolf": "BlunderbussResist",
+        "EarthWolf": "BlunderbussResist",
+        "Lost": "BlunderbussResist",
+        "Withered": "BlunderbussResist",
+        "Dynasty": "BlunderbussResist",
+        "DunePhantom": "BlunderbussResist",
+        "AnubianGuardianBrute": "BlunderbussResist",
+        "AENaga": "BlunderbussResist",
+        "AnubianLocustScarab": "BlunderbussResist",
+        "Sun": "BlunderbussResist",
+        "MageArcaneShield": "HolyShield_Proj",
+        "RockNPC": "BlunderbussResist",
+        "Upyr": ""
+    },
+    {
+        "Name": "Blunderbuss_Shrapnel+Resist",
+        "Default": "BlunderbussResist",
+        "Player": "BlunderbussResist",
+        "Flesh": "BlunderbussResist",
+        "FleshHead": "BlunderbussResist",
+        "Armor": "BlunderbussResist",
+        "ArmorHead": "BlunderbussResist",
+        "Damned": "BlunderbussResist",
+        "Dryad": "BlunderbussResist",
+        "Ghost": "BlunderbussResist",
+        "Turkey": "BlunderbussResist",
+        "Skeleton": "BlunderbussResist",
+        "AncientGuardian": "BlunderbussResist",
+        "GhostCharred": "BlunderbussResist",
+        "GhostFrozen": "BlunderbussResist",
+        "GhostShipwrecked": "BlunderbussResist",
+        "GhostHanged": "BlunderbussResist",
+        "GhostPlagued": "BlunderbussResist",
+        "BearElemental": "BlunderbussResist",
+        "Bear": "BlunderbussResist",
+        "Regurgitator": "BlunderbussResist",
+        "SprigganForest": "StickyBombDefault",
+        "CorruptedEntity": "BlunderbussResist",
+        "BlightFiend": "BlunderbussResist",
+        "FrostWolf": "BlunderbussResist",
+        "EarthWolf": "BlunderbussResist",
+        "Lost": "BlunderbussResist",
+        "Withered": "BlunderbussResist",
+        "Dynasty": "BlunderbussResist",
+        "DunePhantom": "BlunderbussResist",
+        "AnubianGuardianBrute": "BlunderbussResist",
+        "AENaga": "BlunderbussResist",
+        "AnubianLocustScarab": "BlunderbussResist",
+        "Sun": "BlunderbussResist",
+        "MageArcaneShield": "HolyShield_Proj",
+        "RockNPC": "BlunderbussResist",
+        "Upyr": ""
     },
     {
         "Name": "Blunderbuss+Crit",
-        "Default": "MusketDefaultCrit",
-        "Player": "MusketDefaultCrit",
-        "Flesh": "MusketFleshCrit",
-        "FleshHead": "MusketFleshCrit",
-        "Armor": "MusketFleshCrit",
-        "ArmorHead": "MusketFleshCrit",
-        "Damned": "MusketDamnedCrit",
-        "Dryad": "MusketDryadCrit",
-        "Ghost": "MusketGhostCrit",
-        "Turkey": "MusketTurkeyCrit",
-        "Skeleton": "MusketSkeletonCrit",
-        "AncientGuardian": "MusketAncientGuardianCrit",
-        "GhostCharred": "MusketGhostCharredCrit",
-        "GhostFrozen": "MusketGhostFrozenCrit",
-        "GhostShipwrecked": "MusketGhostShipwreckedCrit",
-        "GhostHanged": "MusketGhostHangedCrit",
-        "GhostPlagued": "MusketGhostPlaguedCrit",
-        "BearElemental": "MusketBearElementalCrit",
-        "Bear": "MusketBearCrit",
-        "Regurgitator": "MusketRegurgitatorCrit",
-        "SprigganForest": "MusketSprigganForestCrit",
-        "CorruptedEntity": "MusketCorruptedEntityCrit",
-        "BlightFiend": "MusketBlightFiendCrit",
-        "FrostWolf": "MusketFrostWolfCrit",
-        "EarthWolf": "MusketEarthWolfCrit",
-        "Lost": "MusketLostCrit",
-        "Withered": "MusketWitheredCrit",
-        "Dynasty": "MusketDynastyCrit",
-        "DunePhantom": "MusketDunePhantomCrit",
-        "AnubianGuardianBrute": "MusketDefaultCrit",
-        "AENaga": "MusketAENagaCrit",
-        "AnubianLocustScarab": "MusketAENagaCrit",
-        "Sun": "MusketSunCrit",
+        "Default": "BlunderbussDefaultCrit",
+        "Player": "BlunderbussDefaultCrit",
+        "Flesh": "BlunderbussFleshCrit",
+        "FleshHead": "BlunderbussFleshCrit",
+        "Armor": "BlunderbussFleshCrit",
+        "ArmorHead": "BlunderbussFleshCrit",
+        "Damned": "BlunderbussDamnedCrit",
+        "Dryad": "BlunderbussDryadCrit",
+        "Ghost": "BlunderbussGhostCrit",
+        "Turkey": "BlunderbussTurkeyCrit",
+        "Skeleton": "BlunderbussSkeletonCrit",
+        "AncientGuardian": "BlunderbussAncientGuardianCrit",
+        "GhostCharred": "BlunderbussGhostCharredCrit",
+        "GhostFrozen": "BlunderbussGhostFrozenCrit",
+        "GhostShipwrecked": "BlunderbussGhostShipwreckedCrit",
+        "GhostHanged": "BlunderbussGhostHangedCrit",
+        "GhostPlagued": "BlunderbussGhostPlaguedCrit",
+        "BearElemental": "BlunderbussBearElementalCrit",
+        "Bear": "BlunderbussBearCrit",
+        "Regurgitator": "BlunderbussRegurgitatorCrit",
+        "SprigganForest": "BlunderbussSprigganForestCrit",
+        "CorruptedEntity": "BlunderbussCorruptedEntityCrit",
+        "BlightFiend": "BlunderbussBlightFiendCrit",
+        "FrostWolf": "BlunderbussFrostWolfCrit",
+        "EarthWolf": "BlunderbussEarthWolfCrit",
+        "Lost": "BlunderbussLostCrit",
+        "Withered": "BlunderbussWitheredCrit",
+        "Dynasty": "BlunderbussDynastyCrit",
+        "DunePhantom": "BlunderbussDunePhantomCrit",
+        "AnubianGuardianBrute": "BlunderbussDefaultCrit",
+        "AENaga": "BlunderbussAENagaCrit",
+        "AnubianLocustScarab": "BlunderbussAENagaCrit",
+        "Sun": "BlunderbussSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
-        "RockNPC": "MusketRockNPCCrit"
+        "RockNPC": "BlunderbussRockNPCCrit",
+        "Upyr": ""
+    },
+    {
+        "Name": "Blunderbuss_Claw+Crit",
+        "Default": "Blunderbuss_Claw_Crit",
+        "Player": "Blunderbuss_Claw_Crit",
+        "Flesh": "Blunderbuss_Claw_Crit",
+        "FleshHead": "Blunderbuss_Claw_Crit",
+        "Armor": "Blunderbuss_Claw_Crit",
+        "ArmorHead": "Blunderbuss_Claw_Crit",
+        "Damned": "Blunderbuss_Claw_Crit",
+        "Dryad": "Blunderbuss_Claw_Crit",
+        "Ghost": "Blunderbuss_Claw_Crit",
+        "Turkey": "Blunderbuss_Claw_Crit",
+        "Skeleton": "Blunderbuss_Claw_Crit",
+        "AncientGuardian": "Blunderbuss_Claw_Crit",
+        "GhostCharred": "Blunderbuss_Claw_Crit",
+        "GhostFrozen": "Blunderbuss_Claw_Crit",
+        "GhostShipwrecked": "Blunderbuss_Claw_Crit",
+        "GhostHanged": "Blunderbuss_Claw_Crit",
+        "GhostPlagued": "Blunderbuss_Claw_Crit",
+        "BearElemental": "Blunderbuss_Claw_Crit",
+        "Bear": "Blunderbuss_Claw_Crit",
+        "Regurgitator": "Blunderbuss_Claw_Crit",
+        "SprigganForest": "Blunderbuss_Claw_Crit",
+        "CorruptedEntity": "Blunderbuss_Claw_Crit",
+        "BlightFiend": "Blunderbuss_Claw_Crit",
+        "FrostWolf": "Blunderbuss_Claw_Crit",
+        "EarthWolf": "Blunderbuss_Claw_Crit",
+        "Lost": "Blunderbuss_Claw_Crit",
+        "Withered": "Blunderbuss_Claw_Crit",
+        "Dynasty": "Blunderbuss_Claw_Crit",
+        "DunePhantom": "Blunderbuss_Claw_Crit",
+        "AnubianGuardianBrute": "Blunderbuss_Claw_Crit",
+        "AENaga": "Blunderbuss_Claw_Crit",
+        "AnubianLocustScarab": "Blunderbuss_Claw_Crit",
+        "Sun": "Blunderbuss_Claw_Crit",
+        "MageArcaneShield": "HolyShield_Proj",
+        "RockNPC": "Blunderbuss_Claw_Crit",
+        "Upyr": ""
+    },
+    {
+        "Name": "Blunderbuss_Net+Crit",
+        "Default": "BlunderbussDefaultCrit",
+        "Player": "BlunderbussDefaultCrit",
+        "Flesh": "BlunderbussFleshCrit",
+        "FleshHead": "BlunderbussFleshCrit",
+        "Armor": "BlunderbussFleshCrit",
+        "ArmorHead": "BlunderbussFleshCrit",
+        "Damned": "BlunderbussDamnedCrit",
+        "Dryad": "BlunderbussDryadCrit",
+        "Ghost": "BlunderbussGhostCrit",
+        "Turkey": "BlunderbussTurkeyCrit",
+        "Skeleton": "BlunderbussSkeletonCrit",
+        "AncientGuardian": "BlunderbussAncientGuardianCrit",
+        "GhostCharred": "BlunderbussGhostCharredCrit",
+        "GhostFrozen": "BlunderbussGhostFrozenCrit",
+        "GhostShipwrecked": "BlunderbussGhostShipwreckedCrit",
+        "GhostHanged": "BlunderbussGhostHangedCrit",
+        "GhostPlagued": "BlunderbussGhostPlaguedCrit",
+        "BearElemental": "BlunderbussBearElementalCrit",
+        "Bear": "BlunderbussBearCrit",
+        "Regurgitator": "BlunderbussRegurgitatorCrit",
+        "SprigganForest": "BlunderbussSprigganForestCrit",
+        "CorruptedEntity": "BlunderbussCorruptedEntityCrit",
+        "BlightFiend": "BlunderbussBlightFiendCrit",
+        "FrostWolf": "BlunderbussFrostWolfCrit",
+        "EarthWolf": "BlunderbussEarthWolfCrit",
+        "Lost": "BlunderbussLostCrit",
+        "Withered": "BlunderbussWitheredCrit",
+        "Dynasty": "BlunderbussDynastyCrit",
+        "DunePhantom": "BlunderbussDunePhantomCrit",
+        "AnubianGuardianBrute": "BlunderbussDefaultCrit",
+        "AENaga": "BlunderbussAENagaCrit",
+        "AnubianLocustScarab": "BlunderbussAENagaCrit",
+        "Sun": "BlunderbussSunCrit",
+        "MageArcaneShield": "HolyShield_Proj",
+        "RockNPC": "BlunderbussRockNPCCrit",
+        "Upyr": ""
+    },
+    {
+        "Name": "Blunderbuss_Shrapnel+Crit",
+        "Default": "BlunderbussDefaultCrit",
+        "Player": "BlunderbussDefaultCrit",
+        "Flesh": "BlunderbussFleshCrit",
+        "FleshHead": "BlunderbussFleshCrit",
+        "Armor": "BlunderbussFleshCrit",
+        "ArmorHead": "BlunderbussFleshCrit",
+        "Damned": "BlunderbussDamnedCrit",
+        "Dryad": "BlunderbussDryadCrit",
+        "Ghost": "BlunderbussGhostCrit",
+        "Turkey": "BlunderbussTurkeyCrit",
+        "Skeleton": "BlunderbussSkeletonCrit",
+        "AncientGuardian": "BlunderbussAncientGuardianCrit",
+        "GhostCharred": "BlunderbussGhostCharredCrit",
+        "GhostFrozen": "BlunderbussGhostFrozenCrit",
+        "GhostShipwrecked": "BlunderbussGhostShipwreckedCrit",
+        "GhostHanged": "BlunderbussGhostHangedCrit",
+        "GhostPlagued": "BlunderbussGhostPlaguedCrit",
+        "BearElemental": "BlunderbussBearElementalCrit",
+        "Bear": "BlunderbussBearCrit",
+        "Regurgitator": "BlunderbussRegurgitatorCrit",
+        "SprigganForest": "BlunderbussSprigganForestCrit",
+        "CorruptedEntity": "BlunderbussCorruptedEntityCrit",
+        "BlightFiend": "BlunderbussBlightFiendCrit",
+        "FrostWolf": "BlunderbussFrostWolfCrit",
+        "EarthWolf": "BlunderbussEarthWolfCrit",
+        "Lost": "BlunderbussLostCrit",
+        "Withered": "BlunderbussWitheredCrit",
+        "Dynasty": "BlunderbussDynastyCrit",
+        "DunePhantom": "BlunderbussDunePhantomCrit",
+        "AnubianGuardianBrute": "BlunderbussDefaultCrit",
+        "AENaga": "BlunderbussAENagaCrit",
+        "AnubianLocustScarab": "BlunderbussAENagaCrit",
+        "Sun": "BlunderbussSunCrit",
+        "MageArcaneShield": "HolyShield_Proj",
+        "RockNPC": "BlunderbussRockNPCCrit",
+        "Upyr": ""
+    },
+    {
+        "Name": "NecroPhlegm",
+        "Default": "NecroPhlegm",
+        "Player": "NecroPhlegm",
+        "Flesh": "NecroPhlegm",
+        "FleshHead": "NecroPhlegm",
+        "Armor": "NecroPhlegm",
+        "ArmorHead": "NecroPhlegm",
+        "Damned": "NecroPhlegm",
+        "Dryad": "NecroPhlegm",
+        "Ghost": "NecroPhlegm",
+        "Turkey": "NecroPhlegm",
+        "Skeleton": "NecroPhlegm",
+        "AncientGuardian": "NecroPhlegm",
+        "GhostCharred": "NecroPhlegm",
+        "GhostFrozen": "NecroPhlegm",
+        "GhostShipwrecked": "NecroPhlegm",
+        "GhostHanged": "NecroPhlegm",
+        "GhostPlagued": "NecroPhlegm",
+        "BearElemental": "NecroPhlegm",
+        "Bear": "NecroPhlegm",
+        "Regurgitator": "NecroPhlegm",
+        "SprigganForest": "NecroPhlegm",
+        "CorruptedEntity": "NecroPhlegm",
+        "BlightFiend": "NecroPhlegm",
+        "FrostWolf": "NecroPhlegm",
+        "EarthWolf": "NecroPhlegm",
+        "Lost": "NecroPhlegm",
+        "Withered": "NecroPhlegm",
+        "Dynasty": "NecroPhlegm",
+        "DunePhantom": "NecroPhlegm",
+        "AnubianGuardianBrute": "NecroPhlegm",
+        "AENaga": "NecroPhlegm",
+        "AnubianLocustScarab": "NecroPhlegm",
+        "Sun": "NecroPhlegm",
+        "MageArcaneShield": "NecroPhlegm",
+        "RockNPC": "NecroPhlegm",
+        "Upyr": ""
+    },
+    {
+        "Name": "BattleScreech",
+        "Default": "BattleScreech",
+        "Player": "BattleScreech",
+        "Flesh": "BattleScreech",
+        "FleshHead": "BattleScreech",
+        "Armor": "BattleScreech",
+        "ArmorHead": "BattleScreech",
+        "Damned": "BattleScreech",
+        "Dryad": "BattleScreech",
+        "Ghost": "BattleScreech",
+        "Turkey": "BattleScreech",
+        "Skeleton": "BattleScreech",
+        "AncientGuardian": "BattleScreech",
+        "GhostCharred": "BattleScreech",
+        "GhostFrozen": "BattleScreech",
+        "GhostShipwrecked": "BattleScreech",
+        "GhostHanged": "BattleScreech",
+        "GhostPlagued": "BattleScreech",
+        "BearElemental": "BattleScreech",
+        "Bear": "BattleScreech",
+        "Regurgitator": "BattleScreech",
+        "SprigganForest": "BattleScreech",
+        "CorruptedEntity": "BattleScreech",
+        "BlightFiend": "BattleScreech",
+        "FrostWolf": "BattleScreech",
+        "EarthWolf": "BattleScreech",
+        "Lost": "BattleScreech",
+        "Withered": "BattleScreech",
+        "Dynasty": "BattleScreech",
+        "DunePhantom": "BattleScreech",
+        "AnubianGuardianBrute": "BattleScreech",
+        "AENaga": "BattleScreech",
+        "AnubianLocustScarab": "BattleScreech",
+        "Sun": "BattleScreech",
+        "MageArcaneShield": "BattleScreech",
+        "RockNPC": "BattleScreech",
+        "Upyr": ""
+    },
+    {
+        "Name": "Lunge",
+        "Default": "Lunge",
+        "Player": "Lunge",
+        "Flesh": "Lunge",
+        "FleshHead": "Lunge",
+        "Armor": "Lunge",
+        "ArmorHead": "Lunge",
+        "Damned": "Lunge",
+        "Dryad": "Lunge",
+        "Ghost": "Lunge",
+        "Turkey": "Lunge",
+        "Skeleton": "Lunge",
+        "AncientGuardian": "Lunge",
+        "GhostCharred": "Lunge",
+        "GhostFrozen": "Lunge",
+        "GhostShipwrecked": "Lunge",
+        "GhostHanged": "Lunge",
+        "GhostPlagued": "Lunge",
+        "BearElemental": "Lunge",
+        "Bear": "Lunge",
+        "Regurgitator": "Lunge",
+        "SprigganForest": "Lunge",
+        "CorruptedEntity": "Lunge",
+        "BlightFiend": "Lunge",
+        "FrostWolf": "Lunge",
+        "EarthWolf": "Lunge",
+        "Lost": "Lunge",
+        "Withered": "Lunge",
+        "Dynasty": "Lunge",
+        "DunePhantom": "Lunge",
+        "AnubianGuardianBrute": "Lunge",
+        "AENaga": "Lunge",
+        "AnubianLocustScarab": "Lunge",
+        "Sun": "Lunge",
+        "MageArcaneShield": "Lunge",
+        "RockNPC": "Lunge",
+        "Upyr": ""
     }
 ]
