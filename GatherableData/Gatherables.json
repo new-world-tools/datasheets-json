@@ -10089,7 +10089,7 @@
         "BaseGatherTime": 2.5,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
-        "AlignGatherer": true,
+        "AlignGatherer": false,
         "GameEventID": "Gather_WinterConv_LostPresent_Standard",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": "",

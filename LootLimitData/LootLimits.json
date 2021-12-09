@@ -7,7 +7,7 @@
         "CountLimit": 2,
         "MinLimitMult": 100,
         "MaxLimitMult": 100,
-        "LimitExpireSeconds": 72000
+        "LimitExpireSeconds": 64800
     },
     {
         "LootLimitID": "GypsumBlue",
@@ -17,7 +17,7 @@
         "CountLimit": 2,
         "MinLimitMult": 400,
         "MaxLimitMult": 400,
-        "LimitExpireSeconds": 72000
+        "LimitExpireSeconds": 64800
     },
     {
         "LootLimitID": "PostCapGypsum",
@@ -27,7 +27,7 @@
         "CountLimit": 1,
         "MinLimitMult": 20,
         "MaxLimitMult": 20,
-        "LimitExpireSeconds": 72000
+        "LimitExpireSeconds": 64800
     },
     {
         "LootLimitID": "GypsumBlack",
@@ -37,7 +37,7 @@
         "CountLimit": 3,
         "MinLimitMult": 60,
         "MaxLimitMult": 60,
-        "LimitExpireSeconds": 72000
+        "LimitExpireSeconds": 64800
     },
     {
         "LootLimitID": "GypsumYellow",
@@ -47,7 +47,7 @@
         "CountLimit": 10,
         "MinLimitMult": 240,
         "MaxLimitMult": 240,
-        "LimitExpireSeconds": 72000
+        "LimitExpireSeconds": 64800
     },
     {
         "LootLimitID": "ArenaGypsum",
@@ -57,7 +57,7 @@
         "CountLimit": 1,
         "MinLimitMult": 20,
         "MaxLimitMult": 20,
-        "LimitExpireSeconds": 72000
+        "LimitExpireSeconds": 64800
     },
     {
         "LootLimitID": "BreachGypsum",
@@ -67,6 +67,66 @@
         "CountLimit": 7,
         "MinLimitMult": 300,
         "MaxLimitMult": 300,
-        "LimitExpireSeconds": 72000
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "WCGoldLockboxT1",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "GypsumGreen",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 1,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "GypsumRed",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 2,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "GypsumPurple",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 7,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "GypsumOrange",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 1,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "GypsumWhite",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
     }
 ]
