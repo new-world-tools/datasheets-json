@@ -32,8 +32,8 @@
     {
         "LootLimitID": "GypsumBlack",
         "IsItem": "FALSE",
-        "MinLimitSeconds": 900,
-        "MaxLimitSeconds": 1200,
+        "MinLimitSeconds": 600,
+        "MaxLimitSeconds": 780,
         "CountLimit": 3,
         "MinLimitMult": 60,
         "MaxLimitMult": 60,
@@ -114,7 +114,7 @@
         "IsItem": "1",
         "MinLimitSeconds": 1,
         "MaxLimitSeconds": 1,
-        "CountLimit": 1,
+        "CountLimit": 2,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800
