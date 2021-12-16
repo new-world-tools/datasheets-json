@@ -26,7 +26,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60402,
@@ -55,7 +56,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60403,
@@ -84,7 +86,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60404,
@@ -113,7 +116,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60405,
@@ -142,7 +146,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60406,
@@ -171,7 +176,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60407,
@@ -200,7 +206,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60408,
@@ -229,7 +236,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60409,
@@ -258,7 +266,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60410,
@@ -287,7 +296,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60411,
@@ -316,7 +326,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60412,
@@ -345,7 +356,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60413,
@@ -374,7 +386,8 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60414,
@@ -386,13 +399,13 @@
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
-        "IsDiscoverable": true,
+        "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": null,
+        "DefaultAchievement": 1,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
-        "DiscoveredAchievement": "spiritshrine_02_60414_discovered",
+        "DiscoveredAchievement": "",
         "ChartedAchievement": "spiritshrine_02_60414_charted",
         "POITag": "spiritshrine_60414",
         "AudioGroup": "Music_POI",
@@ -403,6 +416,7 @@
         "LevelRange": "",
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
-        "GameMode": ""
+        "GameMode": "",
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
     }
 ]

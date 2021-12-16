@@ -308,5 +308,35 @@
         "Image": "",
         "Tooltip": "",
         "Notes": ""
+    },
+    {
+        "RewardID": "ChallengeDaily",
+        "MilestoneType": "challenge",
+        "MilestoneLevel": 25,
+        "Name": "@ChallengeUnlockDaily",
+        "Icon": "",
+        "Image": "",
+        "Tooltip": "",
+        "Notes": ""
+    },
+    {
+        "RewardID": "ChallengeWeekly",
+        "MilestoneType": "challenge",
+        "MilestoneLevel": 60,
+        "Name": "@ChallengeUnlockWeekly",
+        "Icon": "",
+        "Image": "",
+        "Tooltip": "",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Expertise",
+        "MilestoneType": "",
+        "MilestoneLevel": 60,
+        "Name": "@Expertise_Name",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/expertise.dds",
+        "Image": "",
+        "Tooltip": "@Expertise_Tooltip",
+        "Notes": ""
     }
 ]

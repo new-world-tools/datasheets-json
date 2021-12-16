@@ -1,0 +1,16 @@
+[
+    {
+        "Id": "Fishing",
+        "CountToNextLevel": 100,
+        "TimeframeSeconds": 18000,
+        "GreenDivertPercentChance": 0,
+        "YellowDivertPercentChance": 50,
+        "RedDivertPercentChance": 100,
+        "GreenXpMultiplier": 1,
+        "YellowXpMultiplier": 0.5,
+        "RedXpMultiplier": 0.1,
+        "GreenNotificationLocTag": "@ui_fishing_divert_level_green",
+        "YellowNotificationLocTag": "@ui_fishing_divert_level_yellow",
+        "RedNotificationLocTag": "@ui_fishing_divert_level_red"
+    }
+]

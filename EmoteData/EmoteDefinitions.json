@@ -13,7 +13,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Sit",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Sit.dds",
         "UiImageHiRes": ""
     },
     {
@@ -30,7 +30,7 @@
         "IsEnabled": 0,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Flex",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Flex.dds",
         "UiImageHiRes": ""
     },
     {
@@ -47,7 +47,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Flex2",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Flex2.dds",
         "UiImageHiRes": ""
     },
     {
@@ -64,7 +64,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Go",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Go.dds",
         "UiImageHiRes": ""
     },
     {
@@ -81,7 +81,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Here",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Here.dds",
         "UiImageHiRes": ""
     },
     {
@@ -98,7 +98,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Wave",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Wave.dds",
         "UiImageHiRes": ""
     },
     {
@@ -115,7 +115,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_No",
+        "UiImage": "lyshineui/images/icons/emotes/emote_No.dds",
         "UiImageHiRes": ""
     },
     {
@@ -132,7 +132,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Cheer",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Cheer.dds",
         "UiImageHiRes": ""
     },
     {
@@ -149,7 +149,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_DiceRoll",
+        "UiImage": "lyshineui/images/icons/emotes/emote_DiceRoll.dds",
         "UiImageHiRes": ""
     },
     {
@@ -166,7 +166,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Thumbs",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Thumbs.dds",
         "UiImageHiRes": ""
     },
     {
@@ -183,7 +183,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Dance01",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Dance01.dds",
         "UiImageHiRes": ""
     },
     {
@@ -200,7 +200,24 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 2,
-        "UiImage": "emote_ThroatSlit",
+        "UiImage": "lyshineui/images/icons/emotes/emote_ThroatSlit.dds",
+        "UiImageHiRes": ""
+    },
+    {
+        "UniqueTagID": "Emote_Bow",
+        "FragmentName": "Emote_Bow",
+        "DisplayName": "ui_emote_Bow",
+        "DisplayDescription": "ui_emote_Bow_description",
+        "DisplayGroup": "Friendly",
+        "ChatBoxText": "@emote_bow",
+        "SlashCommand": "bow",
+        "SecondarySlashCommand": "",
+        "IsEntitlement": 1,
+        "IsPremiumEmote": 0,
+        "IsEnabled": 1,
+        "HasCooldown": 0,
+        "DisplayPriority": 1,
+        "UiImage": "lyshineui/images/icons/emotes/emote_Bow.dds",
         "UiImageHiRes": ""
     },
     {
@@ -217,7 +234,24 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_EyesOnYou",
+        "UiImage": "lyshineui/images/icons/emotes/emote_EyesOnYou.dds",
+        "UiImageHiRes": ""
+    },
+    {
+        "UniqueTagID": "Emote_Shhh",
+        "FragmentName": "Emote_Shhh",
+        "DisplayName": "ui_emote_shhh",
+        "DisplayDescription": "ui_emote_shhh_description",
+        "DisplayGroup": "Direction",
+        "ChatBoxText": "@emote_shhh",
+        "SlashCommand": "shhh",
+        "SecondarySlashCommand": "hush",
+        "IsEntitlement": 1,
+        "IsPremiumEmote": 0,
+        "IsEnabled": 1,
+        "HasCooldown": 0,
+        "DisplayPriority": 1,
+        "UiImage": "lyshineui/images/icons/emotes/emote_Shhh.dds",
         "UiImageHiRes": ""
     },
     {
@@ -234,7 +268,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_FingerWag",
+        "UiImage": "lyshineui/images/icons/emotes/emote_FingerWag.dds",
         "UiImageHiRes": ""
     },
     {
@@ -251,7 +285,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_NoseBlow",
+        "UiImage": "lyshineui/images/icons/emotes/emote_NoseBlow.dds",
         "UiImageHiRes": ""
     },
     {
@@ -268,7 +302,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Scissors",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Scissors.dds",
         "UiImageHiRes": ""
     },
     {
@@ -285,7 +319,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 2,
-        "UiImage": "emote_FistBump",
+        "UiImage": "lyshineui/images/icons/emotes/emote_FistBump.dds",
         "UiImageHiRes": ""
     },
     {
@@ -302,7 +336,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Whistle",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Whistle.dds",
         "UiImageHiRes": ""
     },
     {
@@ -319,7 +353,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_ThumbsSide",
+        "UiImage": "lyshineui/images/icons/emotes/emote_ThumbsSide.dds",
         "UiImageHiRes": ""
     },
     {
@@ -336,7 +370,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_ThumbsUp",
+        "UiImage": "lyshineui/images/icons/emotes/emote_ThumbsUp.dds",
         "UiImageHiRes": ""
     },
     {
@@ -353,7 +387,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_ThumbsDown",
+        "UiImage": "lyshineui/images/icons/emotes/emote_ThumbsDown.dds",
         "UiImageHiRes": ""
     },
     {
@@ -370,7 +404,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Cry1",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Cry1.dds",
         "UiImageHiRes": ""
     },
     {
@@ -387,7 +421,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Impatient",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Impatient.dds",
         "UiImageHiRes": ""
     },
     {
@@ -404,7 +438,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_CoinToss",
+        "UiImage": "lyshineui/images/icons/emotes/emote_CoinToss.dds",
         "UiImageHiRes": ""
     },
     {
@@ -421,7 +455,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Chestpound",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Chestpound.dds",
         "UiImageHiRes": ""
     },
     {
@@ -438,7 +472,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_FistShake",
+        "UiImage": "lyshineui/images/icons/emotes/emote_FistShake.dds",
         "UiImageHiRes": ""
     },
     {
@@ -455,7 +489,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_Flex3",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Flex3.dds",
         "UiImageHiRes": ""
     },
     {
@@ -472,7 +506,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_GolfClap",
+        "UiImage": "lyshineui/images/icons/emotes/emote_GolfClap.dds",
         "UiImageHiRes": ""
     },
     {
@@ -489,7 +523,7 @@
         "IsEnabled": 0,
         "HasCooldown": 1,
         "DisplayPriority": 1,
-        "UiImage": "emote_Firework1",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Firework1.dds",
         "UiImageHiRes": ""
     },
     {
@@ -506,7 +540,7 @@
         "IsEnabled": 0,
         "HasCooldown": 1,
         "DisplayPriority": 1,
-        "UiImage": "emote_Firework2",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Firework2.dds",
         "UiImageHiRes": ""
     },
     {
@@ -523,7 +557,7 @@
         "IsEnabled": 0,
         "HasCooldown": 1,
         "DisplayPriority": 1,
-        "UiImage": "emote_Firework3",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Firework3.dds",
         "UiImageHiRes": ""
     },
     {
@@ -540,7 +574,7 @@
         "IsEnabled": 0,
         "HasCooldown": 1,
         "DisplayPriority": 1,
-        "UiImage": "emote_Firework4",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Firework4.dds",
         "UiImageHiRes": ""
     },
     {
@@ -557,7 +591,7 @@
         "IsEnabled": 0,
         "HasCooldown": 1,
         "DisplayPriority": 1,
-        "UiImage": "emote_Firework5",
+        "UiImage": "lyshineui/images/icons/emotes/emote_Firework5.dds",
         "UiImageHiRes": ""
     },
     {
@@ -574,7 +608,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_BlowKiss",
+        "UiImage": "lyshineui/images/icons/emotes/emote_BlowKiss.dds",
         "UiImageHiRes": ""
     },
     {
@@ -591,7 +625,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_PiratePose",
+        "UiImage": "lyshineui/images/icons/emotes/emote_PiratePose.dds",
         "UiImageHiRes": ""
     },
     {
@@ -608,7 +642,7 @@
         "IsEnabled": 1,
         "HasCooldown": 0,
         "DisplayPriority": 1,
-        "UiImage": "emote_RussianDance",
+        "UiImage": "lyshineui/images/icons/emotes/emote_RussianDance.dds",
         "UiImageHiRes": ""
     },
     {
@@ -624,8 +658,8 @@
         "IsPremiumEmote": 0,
         "IsEnabled": 1,
         "HasCooldown": 0,
-        "DisplayPriority": null,
-        "UiImage": "emote_Shiver",
+        "DisplayPriority": 1,
+        "UiImage": "lyshineui/images/icons/emotes/emote_Shiver.dds",
         "UiImageHiRes": ""
     },
     {
@@ -641,8 +675,8 @@
         "IsPremiumEmote": 0,
         "IsEnabled": 1,
         "HasCooldown": 0,
-        "DisplayPriority": null,
-        "UiImage": "emote_BellyLaugh",
+        "DisplayPriority": 1,
+        "UiImage": "lyshineui/images/icons/emotes/emote_BellyLaugh.dds",
         "UiImageHiRes": ""
     },
     {
@@ -658,8 +692,8 @@
         "IsPremiumEmote": 0,
         "IsEnabled": 1,
         "HasCooldown": 0,
-        "DisplayPriority": null,
-        "UiImage": "emote_GivePresent",
+        "DisplayPriority": 1,
+        "UiImage": "lyshineui/images/icons/emotes/emote_GivePresent.dds",
         "UiImageHiRes": ""
     }
 ]

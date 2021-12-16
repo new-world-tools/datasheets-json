@@ -28,6 +28,13 @@
         "Weight": 1
     },
     {
+        "MissionWeightId": "BREACH_slot_1",
+        "SlotNumber": 1,
+        "IsPvpSlot": null,
+        "MissionGoalType": "Craft",
+        "Weight": 6000
+    },
+    {
         "MissionWeightId": "LOOT_slot_2",
         "SlotNumber": 2,
         "IsPvpSlot": null,

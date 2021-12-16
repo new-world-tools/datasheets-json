@@ -1815,6 +1815,11 @@
         "AssetDependencyPath": "artificer_1205_0101_craftforartificer_proposalresponse.timeline"
     },
     {
+        "TimelineEntryName": "artificer_1205_0102_campingunlock_completenext",
+        "TimelineAssetPath": "charactervo/artificergomes/artificer_1205_0102_campingunlock_completenext.timeline",
+        "AssetDependencyPath": "artificer_1205_0102_campingunlock_completenext.timeline"
+    },
+    {
         "TimelineEntryName": "artificer_1205_0102_campingunlock_inprogresponse",
         "TimelineAssetPath": "charactervo/artificergomes/artificer_1205_0102_campingunlock_inprogresponse.timeline",
         "AssetDependencyPath": "artificer_1205_0102_campingunlock_inprogresponse.timeline"
@@ -3323,6 +3328,11 @@
         "TimelineEntryName": "commander_0407_0101_marauderquest1_availresponse",
         "TimelineAssetPath": "charactervo/commanderhoang/commander_0407_0101_marauderquest1_availresponse.timeline",
         "AssetDependencyPath": "commander_0407_0101_marauderquest1_availresponse.timeline"
+    },
+    {
+        "TimelineEntryName": "commander_0407_0101_marauderquest1_completenext",
+        "TimelineAssetPath": "charactervo/commanderhoang/commander_0407_0101_marauderquest1_completenext.timeline",
+        "AssetDependencyPath": "commander_0407_0101_marauderquest1_completenext.timeline"
     },
     {
         "TimelineEntryName": "commander_0407_0101_marauderquest1_completenext2",
@@ -8465,6 +8475,11 @@
         "AssetDependencyPath": "overseer_0904_0104_overseersettlement_proposalresponse.timeline"
     },
     {
+        "TimelineEntryName": "overseer_0904_01a01_warnmagistrate_completenext",
+        "TimelineAssetPath": "charactervo/overseeroakes/overseer_0904_01a01_warnmagistrate_completenext.timeline",
+        "AssetDependencyPath": "overseer_0904_01a01_warnmagistrate_completenext.timeline"
+    },
+    {
         "TimelineEntryName": "overseer_0904_01a01_warnmagistrate_inprogresponse",
         "TimelineAssetPath": "charactervo/overseeroakes/overseer_0904_01a01_warnmagistrate_inprogresponse.timeline",
         "AssetDependencyPath": "overseer_0904_01a01_warnmagistrate_inprogresponse.timeline"
@@ -8615,6 +8630,21 @@
         "AssetDependencyPath": "1204_04_overseer_default.timeline"
     },
     {
+        "TimelineEntryName": "1204_0501_encroachingcorruption_complete",
+        "TimelineAssetPath": "charactervo/overseersaville/1204_0501_encroachingcorruption_complete.timeline",
+        "AssetDependencyPath": "1204_0501_encroachingcorruption_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "1204_0501_encroachingcorruption_complete_next",
+        "TimelineAssetPath": "charactervo/overseersaville/1204_0501_encroachingcorruption_complete_next.timeline",
+        "AssetDependencyPath": "1204_0501_encroachingcorruption_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "1204_0501_encroachingcorruption_complete_next2",
+        "TimelineAssetPath": "charactervo/overseersaville/1204_0501_encroachingcorruption_complete_next2.timeline",
+        "AssetDependencyPath": "1204_0501_encroachingcorruption_complete_next2.timeline"
+    },
+    {
         "TimelineEntryName": "1204_05_overseer_default",
         "TimelineAssetPath": "charactervo/overseersaville/1204_05_overseer_default.timeline",
         "AssetDependencyPath": "1204_05_overseer_default.timeline"
@@ -8648,6 +8678,11 @@
         "TimelineEntryName": "magistrate_1203_0102_introtooverseer_availresponse",
         "TimelineAssetPath": "charactervo/overseersaville/magistrate_1203_0102_introtooverseer_availresponse.timeline",
         "AssetDependencyPath": "magistrate_1203_0102_introtooverseer_availresponse.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_1204_04a_overseer",
+        "TimelineAssetPath": "charactervo/overseersaville/npc_defaultdialogue_1204_04a_overseer.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_1204_04a_overseer.timeline"
     },
     {
         "TimelineEntryName": "overseer_1204_0101_gatherforoverseer_complete_availaible_response",
@@ -10990,9 +11025,19 @@
         "AssetDependencyPath": "1203_02_survivalist_default.timeline"
     },
     {
+        "TimelineEntryName": "1203_03_survivalist_default",
+        "TimelineAssetPath": "charactervo/survivalistthornton/1203_03_survivalist_default.timeline",
+        "AssetDependencyPath": "1203_03_survivalist_default.timeline"
+    },
+    {
         "TimelineEntryName": "1203_04_survivalist_default",
         "TimelineAssetPath": "charactervo/survivalistthornton/1203_04_survivalist_default.timeline",
         "AssetDependencyPath": "1203_04_survivalist_default.timeline"
+    },
+    {
+        "TimelineEntryName": "1203_05_survivalist_default",
+        "TimelineAssetPath": "charactervo/survivalistthornton/1203_05_survivalist_default.timeline",
+        "AssetDependencyPath": "1203_05_survivalist_default.timeline"
     },
     {
         "TimelineEntryName": "artificer_1205_0102_campingunlock_availresponse",
@@ -11043,6 +11088,11 @@
         "TimelineEntryName": "survivalist_1203_0202_returntomagistrate_proposalresponse",
         "TimelineAssetPath": "charactervo/survivalistthornton/survivalist_1203_0202_returntomagistrate_proposalresponse.timeline",
         "AssetDependencyPath": "survivalist_1203_0202_returntomagistrate_proposalresponse.timeline"
+    },
+    {
+        "TimelineEntryName": "survivalist_1203_0302_root_problem_completenext",
+        "TimelineAssetPath": "charactervo/survivalistthornton/survivalist_1203_0302_root_problem_completenext.timeline",
+        "AssetDependencyPath": "survivalist_1203_0302_root_problem_completenext.timeline"
     },
     {
         "TimelineEntryName": "survivalist_1203_0302_root_problem_inprogresponse",
@@ -11718,6 +11768,16 @@
         "TimelineEntryName": "9901_0056_thetempestsheart_incomplete",
         "TimelineAssetPath": "charactervo/wardenyseult/9901_0056_thetempestsheart_incomplete.timeline",
         "AssetDependencyPath": "9901_0056_thetempestsheart_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "9909_0044_thetempestsheart_complete_available_response_alt",
+        "TimelineAssetPath": "charactervo/wardenyseult/9909_0044_thetempestsheart_complete_available_response_alt.timeline",
+        "AssetDependencyPath": "9909_0044_thetempestsheart_complete_available_response_alt.timeline"
+    },
+    {
+        "TimelineEntryName": "9909_0044_thetempestsheart_complete_available_response_next_alt",
+        "TimelineAssetPath": "charactervo/wardenyseult/9909_0044_thetempestsheart_complete_available_response_next_alt.timeline",
+        "AssetDependencyPath": "9909_0044_thetempestsheart_complete_available_response_next_alt.timeline"
     },
     {
         "TimelineEntryName": "9910_0057_insoulinstone_complete_available_response_prompt",

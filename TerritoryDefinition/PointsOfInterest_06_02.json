@@ -11,7 +11,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -27,7 +27,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60202,
@@ -41,7 +42,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -57,7 +58,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60203,
@@ -71,7 +73,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -87,7 +89,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60204,
@@ -101,7 +104,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -117,7 +120,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_poi_graveyard.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60205,
@@ -131,7 +135,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -147,7 +151,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_rabbit_island.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60206,
@@ -161,7 +166,7 @@
         "DiscoveryRadius": 2000,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "ConsoBluffs,AngryEarth",
@@ -177,7 +182,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_Eridanus.png",
         "GameMode": "",
-        "GroupSize": 3
+        "GroupSize": 3,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60207,
@@ -191,7 +197,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -207,7 +213,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60208,
@@ -221,7 +228,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -237,7 +244,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60209,
@@ -251,7 +259,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -267,7 +275,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60210,
@@ -281,7 +290,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -297,7 +306,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60211,
@@ -311,7 +321,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -327,7 +337,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60212,
@@ -341,7 +352,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -357,7 +368,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60213,
@@ -371,7 +383,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -387,7 +399,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_station_cooking.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60214,
@@ -401,7 +414,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -417,7 +430,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60215,
@@ -431,7 +445,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -447,7 +461,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60216,
@@ -461,7 +476,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -477,7 +492,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_poi_graveyard.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60217,
@@ -491,7 +507,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -507,7 +523,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60218,
@@ -521,7 +538,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -537,7 +554,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60219,
@@ -551,7 +569,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -567,7 +585,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_outpost_default.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60220,
@@ -581,7 +600,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -597,7 +616,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_outpost_default.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60221,
@@ -611,7 +631,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -627,7 +647,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60222,
@@ -641,7 +662,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -657,7 +678,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_boar_island.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60223,
@@ -671,7 +693,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -687,7 +709,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_station_cooking.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60224,
@@ -701,7 +724,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -717,7 +740,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60225,
@@ -731,7 +755,7 @@
         "DiscoveryRadius": 200,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -747,7 +771,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60226,
@@ -761,7 +786,7 @@
         "DiscoveryRadius": 200,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -777,7 +802,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60227,
@@ -791,7 +817,7 @@
         "DiscoveryRadius": 200,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -807,7 +833,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60228,
@@ -821,7 +848,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -837,7 +864,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60229,
@@ -851,7 +879,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -867,7 +895,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60230,
@@ -881,7 +910,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -897,7 +926,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60231,
@@ -911,7 +941,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -927,7 +957,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60232,
@@ -941,7 +972,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -957,7 +988,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60233,
@@ -971,7 +1003,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -987,7 +1019,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60234,
@@ -1001,7 +1034,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -1017,7 +1050,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60235,
@@ -1031,7 +1065,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -1047,7 +1081,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60236,
@@ -1061,7 +1096,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -1077,7 +1112,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60237,
@@ -1091,7 +1127,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -1107,7 +1143,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60238,
@@ -1121,7 +1158,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
@@ -1137,7 +1174,8 @@
         "Containers": "",
         "TooltipBackground": "lyShineui/images/map/tooltipimages/mapTooltip_DungeonRestlessShores01.dds",
         "GameMode": "DungeonRestlessShores01",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": ""
     },
     {
         "TerritoryID": 60239,
@@ -1149,13 +1187,13 @@
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
-        "IsDiscoverable": true,
+        "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": "",
+        "DefaultAchievement": 1,
         "OutpostId": "",
         "Debug": "",
         "LootTags": "",
-        "DiscoveredAchievement": "spiritshrine_01_60239_discovered",
+        "DiscoveredAchievement": "",
         "ChartedAchievement": "spiritshrine_01_60239_charted",
         "POITag": "spiritshrine_01_60239",
         "AudioGroup": "Music_POI",
@@ -1167,6 +1205,7 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
-        "GroupSize": null
+        "GroupSize": null,
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
     }
 ]

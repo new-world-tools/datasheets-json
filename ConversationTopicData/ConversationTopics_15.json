@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "ConversationTopicId": "1524_Boatswain01_talk",
+        "PlayerPrompt": "@1524_Boatswain01_talk_Prompt",
+        "NPCResponse": "@1524_Boatswain01_talk_Response",
+        "AchievementUnlock": "S_talktosalazar",
+        "RequiredAchievement": "SwapActive_1524_Boatswain01_Moved",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

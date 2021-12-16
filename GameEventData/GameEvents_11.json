@@ -354,7 +354,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1126_0101_StoneColdSecrets_Success",
@@ -375,7 +375,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1126_0102_TheLastMystery_Success",
@@ -396,7 +396,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1126_0103_AmateurAdventurer_Success",
@@ -417,7 +417,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1125_0101_SongoftheSea_Success",
@@ -438,7 +438,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1128_0101_VillageChampion_Success",
@@ -459,7 +459,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_0101_MalignDominion_Success",
@@ -480,7 +480,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_0102_MakinBacon_Success",
@@ -501,7 +501,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_0102_SoulMusic_Success",
@@ -522,7 +522,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_0102_NewPerspective_Success",
@@ -543,7 +543,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_0102_CliffHanger_Success",
@@ -564,7 +564,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1126_0102_Atoast_Success",
@@ -585,7 +585,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_MalignNodeA_interact",
@@ -753,7 +753,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1110_0101_GreetTheNewcomers2_Success",
@@ -774,7 +774,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1129_0102_jaanseninthenorth_success",
@@ -795,7 +795,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1124_PierreGoHome_success",
@@ -816,7 +816,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1130_01_EdgeofTheWorld_Success",
@@ -837,7 +837,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1130_02_CallBeyondTheVoid_Success",
@@ -858,7 +858,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1130_03_StirsTheWatchful_success",
@@ -879,7 +879,7 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1130_04_TheBridge_success",
@@ -900,6 +900,342 @@
         "FactionInfluenceSrc": "",
         "EmitTelemetry": true,
         "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1130_CursedAxe_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1130_05_SensounoKo_success",
+        "GameEventType": "",
+        "Level": 50,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 2310,
+        "CurrencyReward": 10000,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1130_ArcaneFocus1_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1130_ArcaneFocus2_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1130_ArcaneFocus3_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1130_ArcaneFocus4_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1133_01_SnakeOil_Success",
+        "GameEventType": "",
+        "Level": 45,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 2110,
+        "CurrencyReward": 9375,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_01_ClaimJumper_Success",
+        "GameEventType": "",
+        "Level": 45,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_02_DiamondbackHustler_Success",
+        "GameEventType": "",
+        "Level": 45,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 2110,
+        "CurrencyReward": 9375,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_03_GrampasGun_Success",
+        "GameEventType": "",
+        "Level": 50,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_04_RoomEnough_Success",
+        "GameEventType": "",
+        "Level": 55,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 2370,
+        "CurrencyReward": 10625,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 15,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1131_01_BigThunder_Success",
+        "GameEventType": "",
+        "Level": 55,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 2370,
+        "CurrencyReward": 10625,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 15,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_05_Shootout_Success",
+        "GameEventType": "",
+        "Level": 60,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 3000,
+        "CurrencyReward": 11250,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 15,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_GrampasGun_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1132_Digby_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1132_Shootout_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": "",
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
         "AzothRewardChance": 0
     }
 ]
