@@ -34,7 +34,7 @@
     {
         "FactionControlBuffID": "Azoth_FastTravel_Distance_Reduction",
         "IsTerritoryBuff": false,
-        "Value": 4,
+        "Value": 5,
         "Name": "@ui_azoth_fasttravel_distance_reduction_name",
         "Description": "@ui_azoth_fasttravel_distance_reduction_desc",
         "Comments": "Implemented as subtracting this value from the base cost, instead of setting it to 1"

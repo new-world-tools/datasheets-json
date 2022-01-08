@@ -132,7 +132,7 @@
         "ItemDropProbability": null,
         "ChestDropProbability": null,
         "UseGlobalStorage": null,
-        "EnforceLocationRequirement": null,
+        "EnforceLocationRequirement": true,
         "TerritoryID": "",
         "POITag": "ancientcrater12",
         "GameModeID": "",

@@ -1,0 +1,20 @@
+[
+    {
+        "CurseMutationId": "Desiccated",
+        "CurseMinor": "Mut_Wildcard_Curse3_Minor_Buff",
+        "CurseMajor": "Mut_Wildcard_Curse3_Major_Buff",
+        "GlobalAffliction": "AfflictionCurse3",
+        "Name": "@DesiccatedTitle",
+        "Description": "@DesiccatedDescription",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_desiccated.dds"
+    },
+    {
+        "CurseMutationId": "Censored",
+        "CurseMinor": "Mut_Wildcard_Curse4_Minor_Buff",
+        "CurseMajor": "Mut_Curse4_Major_Buff",
+        "GlobalAffliction": "AfflictionCurse4",
+        "Name": "@CensoredTitle",
+        "Description": "@CensoredDescription",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_censored.dds"
+    }
+]

@@ -1011,7 +1011,7 @@
         "ObjectiveID": "1110_0101_GreetTheNewcomers",
         "Type": "Journey",
         "Difficulty": "",
-        "DifficultyLevel": 48,
+        "DifficultyLevel": 50,
         "MaxInfluenceLevel": "",
         "FlagPvp": null,
         "CanBeShared": null,
@@ -1053,7 +1053,7 @@
         "ObjectiveID": "1110_0101_GreetTheNewcomers2",
         "Type": "Journey",
         "Difficulty": "",
-        "DifficultyLevel": 48,
+        "DifficultyLevel": 50,
         "MaxInfluenceLevel": "",
         "FlagPvp": null,
         "CanBeShared": null,
@@ -1095,7 +1095,7 @@
         "ObjectiveID": "1124_PierreGoHome",
         "Type": "Journey",
         "Difficulty": "",
-        "DifficultyLevel": 47,
+        "DifficultyLevel": 50,
         "MaxInfluenceLevel": "",
         "FlagPvp": null,
         "CanBeShared": null,
@@ -1135,7 +1135,7 @@
     },
     {
         "ObjectiveID": "1130_01_EdgeOfTheWorld",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 10,
         "MaxInfluenceLevel": "",
@@ -1177,7 +1177,7 @@
     },
     {
         "ObjectiveID": "1130_02_CallBeyondTheVoid",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 20,
         "MaxInfluenceLevel": "",
@@ -1219,7 +1219,7 @@
     },
     {
         "ObjectiveID": "1130_03_StirsTheWatchful",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 30,
         "MaxInfluenceLevel": "",
@@ -1261,7 +1261,7 @@
     },
     {
         "ObjectiveID": "1130_04_TheBridge",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 40,
         "MaxInfluenceLevel": "",
@@ -1303,7 +1303,7 @@
     },
     {
         "ObjectiveID": "1130_05_SensounoKo",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 45,
         "MaxInfluenceLevel": "",
@@ -1345,7 +1345,7 @@
     },
     {
         "ObjectiveID": "1133_01_SnakeOil",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 45,
         "MaxInfluenceLevel": "",
@@ -1387,7 +1387,7 @@
     },
     {
         "ObjectiveID": "1132_01_ClaimJumper",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 45,
         "MaxInfluenceLevel": "",
@@ -1429,7 +1429,7 @@
     },
     {
         "ObjectiveID": "1132_02_DiamondbackHustler",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 45,
         "MaxInfluenceLevel": "",
@@ -1471,7 +1471,7 @@
     },
     {
         "ObjectiveID": "1132_03_RoomEnough",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 55,
         "MaxInfluenceLevel": "",
@@ -1513,7 +1513,7 @@
     },
     {
         "ObjectiveID": "1131_01_BigThunder",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 55,
         "MaxInfluenceLevel": "",
@@ -1555,7 +1555,7 @@
     },
     {
         "ObjectiveID": "1131_02_GrampasGun",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 50,
         "MaxInfluenceLevel": "",
@@ -1597,7 +1597,7 @@
     },
     {
         "ObjectiveID": "1132_05_Shootout",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",

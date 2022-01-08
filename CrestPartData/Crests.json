@@ -2758,6 +2758,34 @@
         "Intent": "Animal Head"
     },
     {
+        "Index": 198,
+        "OldIndex": 170,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_171",
+        "EntitlementId": "icon_crest_171",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_171.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "Leaping Tiger",
+        "Intent": "Lunar New Year"
+    },
+    {
+        "Index": 199,
+        "OldIndex": 171,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_172",
+        "EntitlementId": "icon_crest_172",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_172.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "Tiger's Head",
+        "Intent": "Lunar New Year"
+    },
+    {
         "Index": 200,
         "OldIndex": 172,
         "isForeground": true,

@@ -1,37 +1,5 @@
 [
     {
-        "VariantID": "LostPresent01",
-        "Visual_Healthy": "slices\\Holiday\\WinterConvergence\\Activities\\LostPresent\\WinterConv_Activity_LostPresent_VisualHealthy.slice",
-        "Visual_Depleted": "",
-        "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "",
-        "GatherableEntryID": "LostPresent01",
-        "InteractPromptRadius": 1,
-        "DetectableRadius": 1,
-        "MarkerRadius": 1,
-        "AudioPreload_depleted": "RarePresent",
-        "SFX_depleted": "Play_SFX_RarePresent_Depleted",
-        "AudioPreload_idle": "RarePresent",
-        "SFX_Idle": "Play_SFX_RarePresent_Lp",
-        "VFX_Idle": "Event_Winter_Convergence.Present.Idle_Rare",
-        "IdleVFX_Offset_Z": 10,
-        "DepletedVFX": "Event_Winter_Convergence.Present.End_Rare",
-        "depletedVFX_Offset_Z": 10,
-        "GatheringFX": "",
-        "gatheringVFX_Offzet_Z": 10,
-        "interactionMarker_Offset_Z": 10,
-        "InteractionEvent": "",
-        "InteractTag": "",
-        "InteractOnlyOnQuest": false,
-        "AchievementID": "",
-        "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\basesphere.cgf",
-        "ShouldHaveStaticCollision": "",
-        "Collision_Offset_Z": 10,
-        "VisualHealthy_Offset_Z": 10,
-        "IsStateControlledBySlayerScript": ""
-    },
-    {
         "VariantID": "0404_CorruptedNoduleA",
         "Visual_Healthy": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Healthy.dynamicslice",
         "Visual_Depleted": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Depleted.dynamicslice",
@@ -61,7 +29,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0404_CorruptedNoduleB",
@@ -93,7 +61,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0404_CorruptedNoduleC",
@@ -125,7 +93,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0404_CorruptedNoduleD",
@@ -157,7 +125,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0511_PowderkegA",
@@ -189,7 +157,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0604_CorruptedNoduleA",
@@ -221,7 +189,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0604_CorruptedNoduleB",
@@ -253,7 +221,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0604_CorruptedNoduleC",
@@ -285,7 +253,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0604_CorruptedNoduleD",
@@ -317,7 +285,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0804_CorruptedNodule",
@@ -349,7 +317,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0901_Barley",
@@ -381,7 +349,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0904_CorruptedNoduleA",
@@ -413,7 +381,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0904_CorruptedNoduleB",
@@ -445,7 +413,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0904_CorruptedNoduleC",
@@ -477,7 +445,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "0904_CorruptedNoduleD",
@@ -509,7 +477,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1204_CorruptedNoduleA",
@@ -541,7 +509,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1204_CorruptedNoduleB",
@@ -573,7 +541,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1204_CorruptedNoduleC",
@@ -605,7 +573,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1204_CorruptedNoduleD",
@@ -637,7 +605,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1127_MalignNodeA",
@@ -669,7 +637,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1127_MalignNodeB",
@@ -701,7 +669,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1127_MalignNodeC",
@@ -733,13 +701,13 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_A",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_A.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
-        "Visual_NotOnRequiredQuest": "",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_A.dynamicslice",
         "Visual_Basemesh": "",
         "GatherableEntryID": "MSQ_0008_ClearingVines_A",
         "InteractPromptRadius": 3,
@@ -765,13 +733,13 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": -0.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_B",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
-        "Visual_NotOnRequiredQuest": "",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "Visual_Basemesh": "",
         "GatherableEntryID": "MSQ_0008_ClearingVines_B",
         "InteractPromptRadius": 3,
@@ -797,13 +765,13 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_C",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_C.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
-        "Visual_NotOnRequiredQuest": "",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_C.dynamicslice",
         "Visual_Basemesh": "",
         "GatherableEntryID": "MSQ_0008_ClearingVines_C",
         "InteractPromptRadius": 3,
@@ -829,13 +797,13 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": -0.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_D",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
-        "Visual_NotOnRequiredQuest": "",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "Visual_Basemesh": "",
         "GatherableEntryID": "MSQ_0008_ClearingVines_D",
         "InteractPromptRadius": 3,
@@ -861,13 +829,13 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_E",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_E.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
-        "Visual_NotOnRequiredQuest": "",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_E.dynamicslice",
         "Visual_Basemesh": "",
         "GatherableEntryID": "MSQ_0008_ClearingVines_E",
         "InteractPromptRadius": 3,
@@ -893,13 +861,13 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": -0.5,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_F",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
-        "Visual_NotOnRequiredQuest": "",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "Visual_Basemesh": "",
         "GatherableEntryID": "MSQ_0008_ClearingVines_F",
         "InteractPromptRadius": 3,
@@ -925,7 +893,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1130_ArcaneFocus1",
@@ -957,7 +925,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1130_ArcaneFocus2",
@@ -989,7 +957,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1130_ArcaneFocus3",
@@ -1021,7 +989,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "1130_ArcaneFocus4",
@@ -1053,7 +1021,7 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
     },
     {
         "VariantID": "Dynasty_Gong",
@@ -1085,6 +1053,198 @@
         "ShouldHaveStaticCollision": "",
         "Collision_Offset_Z": 6.34,
         "VisualHealthy_Offset_Z": null,
-        "IsStateControlledBySlayerScript": ""
+        "IsStateControlledBySlayerScript": null
+    },
+    {
+        "VariantID": "1132_Shootout",
+        "Visual_Healthy": "slices\\POIs\\Assembly\\Crafting\\Props\\Doors_Windows\\PRP_Door_Barricade_A.dynamicslice",
+        "Visual_Depleted": "slices\\Debris\\Wood\\debris_wood_group_01a.dynamicslice",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "1132_Shootout",
+        "InteractPromptRadius": 5,
+        "DetectableRadius": 7,
+        "MarkerRadius": 10,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "AudioPreload_idle": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": -0.25,
+        "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
+        "depletedVFX_Offset_Z": -0.25,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "IO_1132_Shootout",
+        "InteractOnlyOnQuest": true,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "ShouldHaveStaticCollision": "",
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": null
+    },
+    {
+        "VariantID": "CyclicExample_Purple_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Purple.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractPromptRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "AudioPreload_idle": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": null,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "ShouldHaveStaticCollision": "",
+        "Collision_Offset_Z": null,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_Blue_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Blue.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractPromptRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "AudioPreload_idle": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": null,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "ShouldHaveStaticCollision": "",
+        "Collision_Offset_Z": null,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_Turquoise_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Cyan.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractPromptRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "AudioPreload_idle": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": null,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "ShouldHaveStaticCollision": "",
+        "Collision_Offset_Z": null,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_Yellow_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Yellow.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractPromptRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "AudioPreload_idle": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": null,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "ShouldHaveStaticCollision": "",
+        "Collision_Offset_Z": null,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "DamageableExample_Purple_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Purple.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractPromptRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "AudioPreload_idle": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": null,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "ShouldHaveStaticCollision": "",
+        "Collision_Offset_Z": null,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": null
     }
 ]

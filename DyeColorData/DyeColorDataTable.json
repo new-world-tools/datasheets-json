@@ -48,6 +48,30 @@
         "MaskGlossShift": 0.5
     },
     {
+        "Index": 28,
+        "Name": "Soft Coal",
+        "Color": "#474547",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.5,
+        "SpecColor": "#141214",
+        "SpecAmount": 1,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 29,
+        "Name": "Blemished pearl",
+        "Color": "#858b93",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.1,
+        "SpecColor": "#464f5b",
+        "SpecAmount": 0.5,
+        "MaskGlossShift": 0.5
+    },
+    {
         "Index": 30,
         "Name": "Sublime Bone",
         "Color": "#b1b6be",
@@ -57,6 +81,18 @@
         "ColorOverride": 0.05,
         "SpecColor": "#7d7f85",
         "SpecAmount": 0.7,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 31,
+        "Name": "Sandalwood",
+        "Color": "#7e6041",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.2,
+        "SpecColor": "#322110",
+        "SpecAmount": 1,
         "MaskGlossShift": 0.5
     },
     {
@@ -120,6 +156,18 @@
         "MaskGlossShift": 0.5
     },
     {
+        "Index": 37,
+        "Name": "Ageless Bronze",
+        "Color": "#a34917",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.2,
+        "SpecColor": "#a34917",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
         "Index": 38,
         "Name": "Burnt Sienna",
         "Color": "#e5824b",
@@ -142,6 +190,30 @@
         "SpecColor": "#b1a63d",
         "SpecAmount": 0.3,
         "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 40,
+        "Name": "Blond",
+        "Color": "#dabc64",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.05,
+        "SpecColor": "#dabc64",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 41,
+        "Name": "Sushi Green",
+        "Color": "#97b632",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.07,
+        "SpecColor": "#425714",
+        "SpecAmount": 1,
+        "MaskGlossShift": 0.45
     },
     {
         "Index": 42,
@@ -176,6 +248,18 @@
         "ColorAmount": 1,
         "ColorOverride": 0.5,
         "SpecColor": "#082003",
+        "SpecAmount": 1,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 45,
+        "Name": "Mantis",
+        "Color": "#71bd64",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.1,
+        "SpecColor": "#2a5427",
         "SpecAmount": 1,
         "MaskGlossShift": 0.5
     },
@@ -228,6 +312,18 @@
         "MaskGlossShift": 0.5
     },
     {
+        "Index": 50,
+        "Name": "Supreme Saphire",
+        "Color": "#3f71a6",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.2,
+        "SpecColor": "#3f71a6",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
         "Index": 51,
         "Name": "Fierce Cobalt",
         "Color": "#7895cf",
@@ -248,6 +344,30 @@
         "ColorAmount": 1,
         "ColorOverride": 0.2,
         "SpecColor": "#5c4686",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 53,
+        "Name": "Butterfly Wing",
+        "Color": "#6b548c",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.2,
+        "SpecColor": "#6b548c",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 54,
+        "Name": "Tranquil Blossom",
+        "Color": "#aa93c7",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.05,
+        "SpecColor": "#aa93c7",
         "SpecAmount": 0.3,
         "MaskGlossShift": 0.5
     },
