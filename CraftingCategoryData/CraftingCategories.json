@@ -2526,9 +2526,33 @@
         "Description": ""
     },
     {
+        "CategoryID": "Meat1",
+        "ImagePath": "Icons/Items/Drawing/meat",
+        "DisplayText": "@Meat_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Fruit1",
+        "ImagePath": "Icons/Items/Drawing/fruit",
+        "DisplayText": "@Fruit_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Vegetable1",
+        "ImagePath": "Icons/Items/Drawing/vegetable",
+        "DisplayText": "@Vegetable_CategoryName",
+        "Description": ""
+    },
+    {
         "CategoryID": "Seasoning",
         "ImagePath": "Icons/Items/Drawing/seasoningpouch",
         "DisplayText": "@Seasoning_CategoryName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Grain1",
+        "ImagePath": "Icons/Items/Drawing/grain",
+        "DisplayText": "@Grain_CategoryName",
         "Description": ""
     },
     {
@@ -2562,6 +2586,12 @@
         "Description": ""
     },
     {
+        "CategoryID": "ArcanaLife1",
+        "ImagePath": "Icons/Items/Drawing/alchemylife",
+        "DisplayText": "@ArcanaLife_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "ArcanaDeath",
         "ImagePath": "Icons/Items/Drawing/alchemydeath",
         "DisplayText": "@ArcanaDeath_GroupName",
@@ -2577,6 +2607,18 @@
         "CategoryID": "ArcanaAir",
         "ImagePath": "Icons/Items/Drawing/alchemyair",
         "DisplayText": "@ArcanaAir_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaWater1",
+        "ImagePath": "Icons/Items/Drawing/alchemywater",
+        "DisplayText": "@ArcanaWater_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArcanaFire1",
+        "ImagePath": "Icons/Items/Drawing/alchemyfire",
+        "DisplayText": "@ArcanaFire_GroupName",
         "Description": ""
     },
     {
@@ -2766,6 +2808,18 @@
         "Description": "@Ingot_GroupDesc"
     },
     {
+        "CategoryID": "Leather1",
+        "ImagePath": "Icons/Items/Drawing/leather",
+        "DisplayText": "@CategoryData_Leather",
+        "Description": "@Leather_GroupDesc"
+    },
+    {
+        "CategoryID": "Cloth1",
+        "ImagePath": "Icons/Items/Drawing/cloth",
+        "DisplayText": "@CategoryData_Cloth",
+        "Description": "@Cloth_GroupDesc"
+    },
+    {
         "CategoryID": "IngotPrecious",
         "ImagePath": "Icons/Items/Drawing/ingotPrecious",
         "DisplayText": "@CategoryData_IngotPrecious",
@@ -2776,6 +2830,12 @@
         "ImagePath": "Icons/Items/Drawing/charcoal",
         "DisplayText": "@CategoryData_Charcoal",
         "Description": "@Charcoal_GroupDesc"
+    },
+    {
+        "CategoryID": "Metal1",
+        "ImagePath": "Icons/Items/Drawing/ingot",
+        "DisplayText": "@Metal_CategoryName",
+        "Description": "@Metal_CategoryName"
     },
     {
         "CategoryID": "Planks",
@@ -3258,6 +3318,24 @@
         "Description": ""
     },
     {
+        "CategoryID": "PotionEndurance1",
+        "ImagePath": "",
+        "DisplayText": "@PotionEndurance_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PotionFocus1",
+        "ImagePath": "",
+        "DisplayText": "@PotionFocus_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PotionEncumbrance1",
+        "ImagePath": "",
+        "DisplayText": "@PotionEncumbrance_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "CoatingBeast",
         "ImagePath": "Icons/Items/Drawing/imbueBleed",
         "DisplayText": "@CoatingBeast_GroupName",
@@ -3588,6 +3666,12 @@
         "Description": ""
     },
     {
+        "CategoryID": "Storage1",
+        "ImagePath": "",
+        "DisplayText": "@Storage_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "RepairKits",
         "ImagePath": "",
         "DisplayText": "@RepairKits_GroupName",
@@ -3615,6 +3699,12 @@
         "CategoryID": "T1Meat",
         "ImagePath": "",
         "DisplayText": "@T1Meat_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "BasicCooking1",
+        "ImagePath": "",
+        "DisplayText": "@BasicCooking_GroupName",
         "Description": ""
     },
     {
@@ -4869,6 +4959,12 @@
         "CategoryID": "FoodComponents",
         "ImagePath": "",
         "DisplayText": "@FoodComponents_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Components1",
+        "ImagePath": "",
+        "DisplayText": "@Components_GroupName",
         "Description": ""
     },
     {

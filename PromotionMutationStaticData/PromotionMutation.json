@@ -1,0 +1,24 @@
+[
+    {
+        "PromotionMutationId": "Savage",
+        "Promotion1": "Mut_Disease_1_Buff",
+        "Promotion2": "Mut_Disease_2_Buff",
+        "Promotion3": "Mut_RotatingBeam_Buff",
+        "Name": "@SavageTitle",
+        "Description": "@SavageDescription",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_savage.dds",
+        "TextColor": "120,125,85",
+        "BackgroundColor": "68,86,60"
+    },
+    {
+        "PromotionMutationId": "Indomitable",
+        "Promotion1": "Mut_LifeSteal_1_Buff",
+        "Promotion2": "Mut_LifeSteal_2_Buff",
+        "Promotion3": "Mut_ProjectileShield_Buff",
+        "Name": "@IndomitableTitle",
+        "Description": "@IndomitableDescription",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_indomitable.dds",
+        "TextColor": "169,136,72",
+        "BackgroundColor": "95,69,44"
+    }
+]

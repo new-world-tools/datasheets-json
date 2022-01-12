@@ -583,5 +583,20 @@
         "Keybind": "",
         "KeybindActionmap": "",
         "NumberFields": ""
+    },
+    {
+        "NotificationId": "Red_Button_Open_Loot_Disabled",
+        "DisplayTitle": "@ui_feature_disabled",
+        "DisplayText": "@ui_red_button_open_loot_disabled",
+        "SecondaryText": "",
+        "IconPath": "",
+        "MaxDisplayCount": null,
+        "NotificationType": "Minor",
+        "TrackDisplayCount": null,
+        "DurationOverride": null,
+        "CooldownSeconds": null,
+        "Keybind": "",
+        "KeybindActionmap": "",
+        "NumberFields": ""
     }
 ]

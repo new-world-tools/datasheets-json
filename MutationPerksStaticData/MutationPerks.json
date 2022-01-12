@@ -1,0 +1,28 @@
+[
+    {
+        "ElementalMutationTypeId": "Fir",
+        "InjectedPerkBucket1": "",
+        "InjectedPerkBucket2": "PerkBucket_MutatorFire",
+        "InjectedPerkBucket3": "",
+        "InjectedPerkBucket4": "",
+        "InjectedPerkBucket5": "",
+        "InjectedCreatureLoot": "MutatorLoot_Fire",
+        "InjectedContainerLoot": "MutatorLoot_Fire",
+        "InjectedLootTags": "Fire",
+        "Name": "@FirTitle",
+        "Description": "@FirDescription"
+    },
+    {
+        "ElementalMutationTypeId": "Voi",
+        "InjectedPerkBucket1": "",
+        "InjectedPerkBucket2": "PerkBucket_MutatorVoid",
+        "InjectedPerkBucket3": "",
+        "InjectedPerkBucket4": "",
+        "InjectedPerkBucket5": "",
+        "InjectedCreatureLoot": "MutatorLoot_Void",
+        "InjectedContainerLoot": "MutatorLoot_Void",
+        "InjectedLootTags": "Void",
+        "Name": "@VoiTitle",
+        "Description": "@VoiDescription"
+    }
+]
