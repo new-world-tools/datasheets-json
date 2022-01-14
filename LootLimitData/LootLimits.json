@@ -128,5 +128,15 @@
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofJuniperBerries",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
     }
 ]

@@ -68,5 +68,10 @@
         "FromItemId": "WyrdwoodSapT3",
         "ToItemId": "SapT3",
         "KeepPerks": false
+    },
+    {
+        "FromItemId": "Schematic_House_HousingItem_Table_StoneMasonTable_B",
+        "ToItemId": "Schematic_House_HousingItem_Table_DinTable_Lg_A",
+        "KeepPerks": false
     }
 ]
