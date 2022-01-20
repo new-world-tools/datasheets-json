@@ -138,5 +138,15 @@
         "PotencyModMin": null,
         "PotencyModMax": null,
         "ValueLimits": "MaxHealthMod:5.0"
+    },
+    {
+        "StatusEffectCategoryID": "MutatorDisease",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "HealMod:-1.0"
     }
 ]
