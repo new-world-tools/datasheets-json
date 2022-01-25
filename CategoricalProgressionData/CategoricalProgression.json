@@ -1292,26 +1292,9 @@
         "IconPath": ""
     },
     {
-        "CategoricalProgressionId": "HWMLootBag",
-        "DisplayName": "",
-        "MaxLevel": 590,
-        "AutoRankUp": false,
-        "InfiniteLevels": false,
-        "RankTableId": "HWMLoot",
-        "ProgressionPointPool": "",
-        "PreSkillCapSkill": "",
-        "PostSkillCapSkill": "",
-        "EconomyTrackerType": "",
-        "GameEventId": "",
-        "AchievementIdOnMaxRank": "",
-        "MinTrackedLevel": 500,
-        "ShowAsObjectiveReward": null,
-        "IconPath": ""
-    },
-    {
         "CategoricalProgressionId": "HWMLootHead",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1328,7 +1311,7 @@
     {
         "CategoricalProgressionId": "HWMLootChest",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1345,7 +1328,7 @@
     {
         "CategoricalProgressionId": "HWMLootHands",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1362,7 +1345,7 @@
     {
         "CategoricalProgressionId": "HWMLootLegs",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1379,7 +1362,7 @@
     {
         "CategoricalProgressionId": "HWMLootFeet",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1396,7 +1379,7 @@
     {
         "CategoricalProgressionId": "HWMLootAmulet",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1413,7 +1396,7 @@
     {
         "CategoricalProgressionId": "HWMLootRing",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1430,7 +1413,7 @@
     {
         "CategoricalProgressionId": "HWMLootToken",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1447,7 +1430,7 @@
     {
         "CategoricalProgressionId": "HWMLootSword",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1464,7 +1447,7 @@
     {
         "CategoricalProgressionId": "HWMLootHatchet",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1481,7 +1464,7 @@
     {
         "CategoricalProgressionId": "HWMLoot2HHammer",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1498,7 +1481,7 @@
     {
         "CategoricalProgressionId": "HWMLoot2HAxe",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1515,7 +1498,7 @@
     {
         "CategoricalProgressionId": "HWMLootBow",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1532,7 +1515,7 @@
     {
         "CategoricalProgressionId": "HWMLootMusket",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1549,7 +1532,7 @@
     {
         "CategoricalProgressionId": "HWMLootShield",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1566,7 +1549,7 @@
     {
         "CategoricalProgressionId": "HWMLootFireStaff",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1583,7 +1566,7 @@
     {
         "CategoricalProgressionId": "HWMLootLifeStaff",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1600,7 +1583,7 @@
     {
         "CategoricalProgressionId": "HWMLootRapier",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1617,7 +1600,7 @@
     {
         "CategoricalProgressionId": "HWMLootSpear",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1634,7 +1617,7 @@
     {
         "CategoricalProgressionId": "HWMLootIceMagic",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1651,7 +1634,7 @@
     {
         "CategoricalProgressionId": "HWMLootVoidGauntlet",
         "DisplayName": "",
-        "MaxLevel": 590,
+        "MaxLevel": 625,
         "AutoRankUp": false,
         "InfiniteLevels": false,
         "RankTableId": "HWMLoot",
@@ -1783,5 +1766,56 @@
         "MinTrackedLevel": null,
         "ShowAsObjectiveReward": true,
         "IconPath": "lyshineui/images/icons/objectives/reward_eventProgress.dds"
+    },
+    {
+        "CategoricalProgressionId": "DungeonEdengrove00Difficulty",
+        "DisplayName": "",
+        "MaxLevel": 10,
+        "AutoRankUp": true,
+        "InfiniteLevels": false,
+        "RankTableId": "MutatorRankData",
+        "ProgressionPointPool": "",
+        "PreSkillCapSkill": "",
+        "PostSkillCapSkill": "",
+        "EconomyTrackerType": "",
+        "GameEventId": "",
+        "AchievementIdOnMaxRank": "",
+        "MinTrackedLevel": null,
+        "ShowAsObjectiveReward": null,
+        "IconPath": ""
+    },
+    {
+        "CategoricalProgressionId": "DungeonReekwater00Difficulty",
+        "DisplayName": "",
+        "MaxLevel": 10,
+        "AutoRankUp": true,
+        "InfiniteLevels": false,
+        "RankTableId": "MutatorRankData",
+        "ProgressionPointPool": "",
+        "PreSkillCapSkill": "",
+        "PostSkillCapSkill": "",
+        "EconomyTrackerType": "",
+        "GameEventId": "",
+        "AchievementIdOnMaxRank": "",
+        "MinTrackedLevel": null,
+        "ShowAsObjectiveReward": null,
+        "IconPath": ""
+    },
+    {
+        "CategoricalProgressionId": "DungeonEbonscale00Difficulty",
+        "DisplayName": "",
+        "MaxLevel": 10,
+        "AutoRankUp": true,
+        "InfiniteLevels": false,
+        "RankTableId": "MutatorRankData",
+        "ProgressionPointPool": "",
+        "PreSkillCapSkill": "",
+        "PostSkillCapSkill": "",
+        "EconomyTrackerType": "",
+        "GameEventId": "",
+        "AchievementIdOnMaxRank": "",
+        "MinTrackedLevel": null,
+        "ShowAsObjectiveReward": null,
+        "IconPath": ""
     }
 ]

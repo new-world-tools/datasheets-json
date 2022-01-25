@@ -118,5 +118,35 @@
         "PotencyModMin": 0,
         "PotencyModMax": 0,
         "ValueLimits": ""
+    },
+    {
+        "StatusEffectCategoryID": "MutatorEmpower",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "DMGStandard:5.0,DMGSiege:5.0,DMGStrike:5.0,DMGSlash:5.0,DMGThrust:5.0,DMGArcane:5.0,DMGFire:5.0,DMGIce:5.0,DMGNature:5.0,DMGLightning:5.0,DMGCorruption:5.0"
+    },
+    {
+        "StatusEffectCategoryID": "MutatorHearty",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "MaxHealthMod:5.0"
+    },
+    {
+        "StatusEffectCategoryID": "MutatorDisease",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "HealMod:-1.0"
     }
 ]

@@ -315,15 +315,6 @@
         "RequiredLevel": ""
     },
     {
-        "ConversationTopicId": "9914_MSQ_Hunter_Repellent",
-        "PlayerPrompt": "@9914_MSQ_Hunter_Prompt_Repellent",
-        "NPCResponse": "@9914_MSQ_Hunter_Response_Repellent",
-        "AchievementUnlock": "99_MSQ_28_TopicA",
-        "RequiredAchievement": "99_MSQ_28_TopicUnlock",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
         "ConversationTopicId": "9915_MSQ_Researcher1_Repellent",
         "PlayerPrompt": "@9915_MSQ_Researcher1_Prompt_Repellent",
         "NPCResponse": "@9915_MSQ_Researcher1_Response_Repellent",
