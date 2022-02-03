@@ -130,7 +130,67 @@
         "LimitExpireSeconds": 64800
     },
     {
-        "LootLimitID": "BagofJuniperBerries",
+        "LootLimitID": "BagofJuniperBerriesLVL1",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofJuniperBerriesLVL10",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofJuniperBerriesLVL20",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofJuniperBerriesLVL30",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofJuniperBerriesLVL40",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofJuniperBerriesLVL50",
+        "IsItem": "1",
+        "MinLimitSeconds": 1,
+        "MaxLimitSeconds": 1,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofJuniperBerriesLVL60",
         "IsItem": "1",
         "MinLimitSeconds": 1,
         "MaxLimitSeconds": 1,
