@@ -1817,5 +1817,39 @@
         "MinTrackedLevel": null,
         "ShowAsObjectiveReward": null,
         "IconPath": ""
+    },
+    {
+        "CategoricalProgressionId": "DungeonShatterMtn00Difficulty",
+        "DisplayName": "",
+        "MaxLevel": 10,
+        "AutoRankUp": true,
+        "InfiniteLevels": false,
+        "RankTableId": "MutatorRankData",
+        "ProgressionPointPool": "",
+        "PreSkillCapSkill": "",
+        "PostSkillCapSkill": "",
+        "EconomyTrackerType": "",
+        "GameEventId": "",
+        "AchievementIdOnMaxRank": "",
+        "MinTrackedLevel": null,
+        "ShowAsObjectiveReward": null,
+        "IconPath": ""
+    },
+    {
+        "CategoricalProgressionId": "DungeonRestlessShores01Difficulty",
+        "DisplayName": "",
+        "MaxLevel": 10,
+        "AutoRankUp": true,
+        "InfiniteLevels": false,
+        "RankTableId": "MutatorRankData",
+        "ProgressionPointPool": "",
+        "PreSkillCapSkill": "",
+        "PostSkillCapSkill": "",
+        "EconomyTrackerType": "",
+        "GameEventId": "",
+        "AchievementIdOnMaxRank": "",
+        "MinTrackedLevel": null,
+        "ShowAsObjectiveReward": null,
+        "IconPath": ""
     }
 ]

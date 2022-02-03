@@ -470,7 +470,7 @@
         "OverrideTargetForAiThreat": "",
         "ShapeTypes": "Sphere",
         "DamageType": "",
-        "CheckObstructions": true,
+        "CheckObstructions": null,
         "IgnoreOverheadCollision": true,
         "IgnoreStructures": "",
         "IgnoreSelf": "",

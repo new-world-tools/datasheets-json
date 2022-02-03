@@ -27525,7 +27525,7 @@
         "TP_TargetTag": "",
         "TP_DescriptionTag": "@1100_KillQuest_Generic",
         "TargetDescriptionTaskId": "",
-        "OverrideLocation": "12827.409 6053.857 162.129",
+        "OverrideLocation": "12714.112 7385.888 233.778",
         "TP_StayComplete": "1",
         "IsHidden": "",
         "CompletedNotificationId": "",
@@ -30841,7 +30841,7 @@
     },
     {
         "TaskID": "1129_0103_HideJannsen",
-        "Type": "TaskTemporaryUnlockAchievement ",
+        "Type": "TaskLockAchievement ",
         "FailOnCondition": "",
         "StayActive": null,
         "TargetQty": "1",
@@ -31561,7 +31561,7 @@
     },
     {
         "TaskID": "1124_PierreGoHome_Achievement",
-        "Type": "TaskTemporaryUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": "",
         "StayActive": null,
         "TargetQty": "1",

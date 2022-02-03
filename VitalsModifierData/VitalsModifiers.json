@@ -21,7 +21,7 @@
         "CategoryId": "Critter",
         "CategoryDamageMod": 0.05,
         "CategoryHealthMod": 0.05,
-        "CategoryDropChanceMod": 0
+        "CategoryDropChanceMod": 0.5
     },
     {
         "CategoryId": "Dungeon",
@@ -120,15 +120,15 @@
         "CategoryDropChanceMod": 1
     },
     {
-        "CategoryId": "OutpostRushElite",
+        "CategoryId": "OutpostRushSolo+",
         "CategoryDamageMod": 1.25,
         "CategoryHealthMod": 2.75,
         "CategoryDropChanceMod": 1
     },
     {
-        "CategoryId": "OutpostRushElite+",
-        "CategoryDamageMod": 3,
-        "CategoryHealthMod": 4.5,
+        "CategoryId": "OutpostRushGroup+",
+        "CategoryDamageMod": 2.1,
+        "CategoryHealthMod": 20,
         "CategoryDropChanceMod": 1
     },
     {

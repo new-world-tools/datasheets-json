@@ -420,7 +420,7 @@
         "Found in": ""
     },
     {
-        "Modifiers": "OutpostRushElite+",
+        "Modifiers": "OutpostRushGroup+",
         "Experience": 0,
         "Currency": 0,
         "TerritoryStanding": 0,
@@ -630,8 +630,8 @@
         "TerritoryStanding": 0,
         "Azoth": 0.5,
         "LootDropModifier": 1,
-        "FactionReputationModifier": 0,
-        "FactionTokenModifier": 0,
+        "FactionReputationModifier": 1,
+        "FactionTokenModifier": 1,
         "Notes": "OR Bad Performance",
         "Found in": "OR Reward"
     },
@@ -642,8 +642,8 @@
         "TerritoryStanding": 0,
         "Azoth": 0.7,
         "LootDropModifier": 1,
-        "FactionReputationModifier": 0,
-        "FactionTokenModifier": 0,
+        "FactionReputationModifier": 1,
+        "FactionTokenModifier": 1,
         "Notes": "OR OK Performance",
         "Found in": "OR Reward"
     },
@@ -654,8 +654,8 @@
         "TerritoryStanding": 0,
         "Azoth": 0.8,
         "LootDropModifier": 1,
-        "FactionReputationModifier": 0,
-        "FactionTokenModifier": 0,
+        "FactionReputationModifier": 1,
+        "FactionTokenModifier": 1,
         "Notes": "OR Good Performance",
         "Found in": "OR Reward"
     },
@@ -666,8 +666,8 @@
         "TerritoryStanding": 0,
         "Azoth": 1,
         "LootDropModifier": 1,
-        "FactionReputationModifier": 0,
-        "FactionTokenModifier": 0,
+        "FactionReputationModifier": 1,
+        "FactionTokenModifier": 1,
         "Notes": "OR Top Tier Performance",
         "Found in": "OR Reward"
     }

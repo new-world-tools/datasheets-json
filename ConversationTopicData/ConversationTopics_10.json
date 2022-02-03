@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "ConversationTopicId": "Dungeon_CutlassKeys00_Scalleywag_01",
+        "PlayerPrompt": "@Dungeon_CutlassKeys00_Scalleywag_01_Prompt",
+        "NPCResponse": "@Dungeon_CutlassKeys00_Scalleywag_01_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Dungeon_CutlassKeys00_Scalleywag_02",
+        "PlayerPrompt": "@Dungeon_CutlassKeys00_Scalleywag_02_Prompt",
+        "NPCResponse": "@Dungeon_CutlassKeys00_Scalleywag_02_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Dungeon_CutlassKeys00_Scalleywag_03",
+        "PlayerPrompt": "@Dungeon_CutlassKeys00_Scalleywag_03_Prompt",
+        "NPCResponse": "@Dungeon_CutlassKeys00_Scalleywag_03_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Dungeon_CutlassKeys00_Mariner_01",
+        "PlayerPrompt": "@Dungeon_CutlassKeys00_Mariner_01_Prompt",
+        "NPCResponse": "@Dungeon_CutlassKeys00_Mariner_01_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1023_Fisher_ExplainHotspots",
+        "PlayerPrompt": "@0223_Fisher_ExplainHotspots_Prompt",
+        "NPCResponse": "@0223_Fisher_ExplainHotspots_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

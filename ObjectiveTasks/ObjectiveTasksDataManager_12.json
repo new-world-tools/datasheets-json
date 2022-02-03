@@ -7486,14 +7486,14 @@
         "CommunityGoalTag": "",
         "HideChildren": "",
         "TriggerAnalyticsEvent": "",
-        "SubTask1": "1202_0102_d_01_transport_npc_note",
-        "SubTask2": "1202_0102_d_02_have_npc_note",
+        "SubTask1": "1202_0202_d_01_transport_npc_note",
+        "SubTask2": "1202_0202_d_02_have_npc_note",
         "SubTask3": "",
         "SubTask4": "",
         "SubTask5": ""
     },
     {
-        "TaskID": "1202_0102_d_01_transport_npc_note",
+        "TaskID": "1202_0202_d_01_transport_npc_note",
         "Type": "TaskGiveAndTakeItem",
         "FailOnCondition": null,
         "StayActive": "",
@@ -7552,7 +7552,7 @@
         "SubTask5": ""
     },
     {
-        "TaskID": "1202_0102_d_02_have_npc_note",
+        "TaskID": "1202_0202_d_02_have_npc_note",
         "Type": "TaskHaveAndReturnItems",
         "FailOnCondition": null,
         "StayActive": "1",
@@ -20990,7 +20990,7 @@
         "TP_TargetTag": "",
         "TP_DescriptionTag": "@1225_0302_insuringinvestmentB_gather_item",
         "TargetDescriptionTaskId": "",
-        "OverrideLocation": "",
+        "OverrideLocation": "9996.509 3261.405 159.409",
         "IsHidden": "",
         "CompletedNotificationId": "",
         "GridLayout": "",
@@ -22480,7 +22480,7 @@
     },
     {
         "TaskID": "1225_0501_d_00a_SliceSwap_1225_GiacomoTravelersA_Off",
-        "Type": "TaskTemporaryUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": null,
         "StayActive": "",
         "TargetQty": 1,

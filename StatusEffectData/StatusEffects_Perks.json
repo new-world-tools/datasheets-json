@@ -41730,8 +41730,8 @@
         "StackDuration": "0",
         "DurationMax": 10,
         "InheritDuration": "",
-        "InheritTotalDuration": "",
-        "RefreshDuration": "",
+        "InheritTotalDuration": "1",
+        "RefreshDuration": "1",
         "StackMax": 1,
         "InitialStackSize": "",
         "RemoveUnappliedStacks": "1",
@@ -55922,7 +55922,7 @@
     {
         "StatusID": "Status_Perk_Amulet_ManaOnLow_Timer",
         "DisplayName": "@Status_Timer",
-        "Description": "@Status_Perk_Amulet_StamOnLow_Timer_Description",
+        "Description": "@Status_Perk_Amulet_ManaOnLow_Timer_Description",
         "EffectCategories": "Timer",
         "PlaceholderIcon": "lyshineui/images/status/SE_PlaceholderTimer.png",
         "ShowInUITray": "1",
@@ -56162,7 +56162,7 @@
     {
         "StatusID": "Status_Perk_Amulet_RemoveOnLow_Timer",
         "DisplayName": "@Status_Timer",
-        "Description": "@Status_Perk_Amulet_StamOnLow_Timer_Description",
+        "Description": "@Status_Perk_Amulet_RemoveOnLow_Timer_Description",
         "EffectCategories": "Timer",
         "PlaceholderIcon": "lyshineui/images/status/SE_PlaceholderTimer.png",
         "ShowInUITray": "1",
@@ -56642,7 +56642,7 @@
     {
         "StatusID": "Status_Perk_Amulet_FortifyOnLow_Timer",
         "DisplayName": "@Status_Timer",
-        "Description": "@Status_Perk_Amulet_StamOnLow_Timer_Description",
+        "Description": "@Status_Perk_Amulet_FortifyOnLow_Timer_Description",
         "EffectCategories": "Timer",
         "PlaceholderIcon": "lyshineui/images/status/SE_PlaceholderTimer.png",
         "ShowInUITray": "1",
@@ -58082,7 +58082,7 @@
     {
         "StatusID": "Status_Perk_Ring_ManaonHit_Timer",
         "DisplayName": "@Status_Timer",
-        "Description": "@Status_Perk_Amulet_StamOnLow_Timer_Description",
+        "Description": "@Status_Perk_Ring_ManaonHit_Timer_Description",
         "EffectCategories": "Timer",
         "PlaceholderIcon": "lyshineui/images/status/SE_PlaceholderTimer.png",
         "ShowInUITray": "1",

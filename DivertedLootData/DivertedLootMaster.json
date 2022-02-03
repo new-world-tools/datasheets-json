@@ -1,7 +1,7 @@
 [
     {
-        "Id": "Fishing",
-        "CountToNextLevel": 100,
+        "Id": "FishingLoot",
+        "CountToNextLevel": 300,
         "TimeframeSeconds": 18000,
         "YellowDivertedLootModifier": 5,
         "RedDivertedLootModifier": 10,
