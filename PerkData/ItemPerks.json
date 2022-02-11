@@ -19479,7 +19479,7 @@
         "PerkType": "Generated",
         "ConditionEvent": "OnActive",
         "ItemClass": "EquippableMainHand+EquippableTwoHand",
-        "ExcludeItemClass": "Shield+Bow+Musket+LifeStaff",
+        "ExcludeItemClass": "Shield+Bow+Musket+LifeStaff+IceMagic+VoidGauntlet",
         "Channel": 1,
         "ExclusiveLabels": "DmgCon",
         "DeprecatedPerkId": "",
