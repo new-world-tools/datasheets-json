@@ -642,8 +642,8 @@
         "TerritoryStanding": 0,
         "Azoth": 0.7,
         "LootDropModifier": 1,
-        "FactionReputationModifier": 1,
-        "FactionTokenModifier": 1,
+        "FactionReputationModifier": 1.125,
+        "FactionTokenModifier": 1.125,
         "Notes": "OR OK Performance",
         "Found in": "OR Reward"
     },
@@ -654,8 +654,8 @@
         "TerritoryStanding": 0,
         "Azoth": 0.7,
         "LootDropModifier": 1,
-        "FactionReputationModifier": 1,
-        "FactionTokenModifier": 1,
+        "FactionReputationModifier": 1.125,
+        "FactionTokenModifier": 1.125,
         "Notes": "OR OK Performance",
         "Found in": "OR Reward"
     },
@@ -666,8 +666,8 @@
         "TerritoryStanding": 0,
         "Azoth": 0.8,
         "LootDropModifier": 1,
-        "FactionReputationModifier": 1,
-        "FactionTokenModifier": 1,
+        "FactionReputationModifier": 1.4,
+        "FactionTokenModifier": 1.4,
         "Notes": "OR Good Performance",
         "Found in": "OR Reward"
     },
@@ -678,8 +678,8 @@
         "TerritoryStanding": 0,
         "Azoth": 1,
         "LootDropModifier": 1,
-        "FactionReputationModifier": 1,
-        "FactionTokenModifier": 1,
+        "FactionReputationModifier": 1.6,
+        "FactionTokenModifier": 1.6,
         "Notes": "OR Top Tier Performance",
         "Found in": "OR Reward"
     }
