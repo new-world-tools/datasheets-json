@@ -7029,6 +7029,24 @@
         "MeshOverride": ""
     },
     {
+        "AmmoID": "Playtest_Spear_DMG_T5_600",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Playtest_Spear_DMG_T5_625",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
         "AmmoID": "Playtest_Spear_TNK_T1",
         "AmmoType": "Thrown",
         "DamageModifier": 1,
@@ -7066,6 +7084,24 @@
     },
     {
         "AmmoID": "Playtest_Spear_TNK_T5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Playtest_Spear_TNK_T5_600",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Playtest_Spear_TNK_T5_625",
         "AmmoType": "Thrown",
         "DamageModifier": 1,
         "StaggerDamageModifier": 1,
@@ -7119,6 +7155,24 @@
         "MeshOverride": ""
     },
     {
+        "AmmoID": "Playtest_Hatchet_DMG_T5_600",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Playtest_Hatchet_DMG_T5_625",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
         "AmmoID": "Playtest_Hatchet_TNK_T1",
         "AmmoType": "Thrown",
         "DamageModifier": 1,
@@ -7156,6 +7210,24 @@
     },
     {
         "AmmoID": "Playtest_Hatchet_TNK_T5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Playtest_Hatchet_TNK_T5_600",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Playtest_Hatchet_TNK_T5_625",
         "AmmoType": "Thrown",
         "DamageModifier": 1,
         "StaggerDamageModifier": 1,

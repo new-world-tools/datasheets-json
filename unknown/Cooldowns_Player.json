@@ -170,7 +170,7 @@
     {
         "ID": 29,
         "AbilityID": "Ability_Musket_StoppingPower",
-        "Time": 15,
+        "Time": 20,
         "WeaponTag": "Rifle"
     },
     {
@@ -344,7 +344,7 @@
     {
         "ID": 58,
         "AbilityID": "Ability_Rapier_Riposte",
-        "Time": 12,
+        "Time": 18,
         "WeaponTag": "Rapier"
     },
     {
@@ -356,13 +356,13 @@
     {
         "ID": 60,
         "AbilityID": "Ability_Rapier_Evasion",
-        "Time": 6,
+        "Time": 12,
         "WeaponTag": "Rapier"
     },
     {
         "ID": 61,
         "AbilityID": "Ability_Rapier_Aerial_Lunge_Intro",
-        "Time": 17,
+        "Time": 20,
         "WeaponTag": "Rapier"
     },
     {
@@ -416,7 +416,7 @@
     {
         "ID": 70,
         "AbilityID": "Ability_VoidGauntlet_Scream",
-        "Time": 15,
+        "Time": 25,
         "WeaponTag": "VoidGauntlet"
     },
     {

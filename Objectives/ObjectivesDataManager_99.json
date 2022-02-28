@@ -14,7 +14,7 @@
         "AchievementId": "99_MSQ_8",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0008_oldstoneremembers_v2_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -36,10 +36,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0009_thetower",
@@ -56,7 +56,7 @@
         "AchievementId": "99_MSQ_9",
         "RequiredAchievementId": "99_MSQ_8",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0009_thetower_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -78,10 +78,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0010_inthequiet",
@@ -98,7 +98,7 @@
         "AchievementId": "99_MSQ_10",
         "RequiredAchievementId": "99_MSQ_9",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0010_inthequiet_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -120,10 +120,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0011_afreshsoul_V2",
@@ -140,7 +140,7 @@
         "AchievementId": "99_MSQ_11",
         "RequiredAchievementId": "99_MSQ_10",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0011_afreshsoul_V2_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -162,10 +162,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0012_overseaunderstone",
@@ -182,7 +182,7 @@
         "AchievementId": "99_MSQ_12",
         "RequiredAchievementId": "99_MSQ_11",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0012_overseaunderstone_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -204,10 +204,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0013_argentandaether",
@@ -224,7 +224,7 @@
         "AchievementId": "99_MSQ_13",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0013_argentandaether_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -246,10 +246,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0014_oldfoesoldfavors",
@@ -266,7 +266,7 @@
         "AchievementId": "99_MSQ_14",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0014_oldfoesoldfavors_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -288,10 +288,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9902_0015_itmustflow",
@@ -308,7 +308,7 @@
         "AchievementId": "99_MSQ_15",
         "RequiredAchievementId": "99_MSQ_14",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9902_0015_itmustflow_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -330,10 +330,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9902_0016_corruptiontincture",
@@ -350,7 +350,7 @@
         "AchievementId": "99_MSQ_16",
         "RequiredAchievementId": "99_MSQ_15",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9902_0016_corruptiontincture_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -372,10 +372,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9902_0017_landcriesout",
@@ -392,7 +392,7 @@
         "AchievementId": "99_MSQ_17",
         "RequiredAchievementId": "99_MSQ_16",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9902_0017_landcriesout_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -414,10 +414,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9902_0018_returntoyonas",
@@ -434,7 +434,7 @@
         "AchievementId": "99_MSQ_18",
         "RequiredAchievementId": "99_MSQ_17",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9902_0018_returntoyonas_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -456,10 +456,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0019_forgethestaff",
@@ -476,7 +476,7 @@
         "AchievementId": "99_MSQ_19",
         "RequiredAchievementId": "99_MSQ_18",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0019_forgethestaff_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -498,10 +498,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0019_forgethestaffreturn",
@@ -518,7 +518,7 @@
         "AchievementId": "99_MSQ_19a",
         "RequiredAchievementId": "99_MSQ_19",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0019_forgethestaffreturn_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -540,10 +540,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0020_healtherift",
@@ -560,7 +560,7 @@
         "AchievementId": "99_MSQ_20",
         "RequiredAchievementId": "99_MSQ_19a",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0020_healtherift_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -582,10 +582,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0021_destinyunearthed_v2",
@@ -602,7 +602,7 @@
         "AchievementId": "99_MSQ_21",
         "RequiredAchievementId": "99_MSQ_20",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": 20,
         "SuccessGameEventId": "9901_0021_destinyunearthed_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -624,10 +624,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0021_destinyunearthed_solo",
@@ -644,7 +644,7 @@
         "AchievementId": "99_MSQ_21_B",
         "RequiredAchievementId": "99_MSQ_21_B_Unlock",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": 20,
         "SuccessGameEventId": "9901_0021_destinyunearthed_solo_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -666,10 +666,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0022_theritual",
@@ -686,7 +686,7 @@
         "AchievementId": "99_MSQ_22",
         "RequiredAchievementId": "99_MSQ_21",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0022_theritual_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -708,10 +708,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0023_agreatmovement",
@@ -728,7 +728,7 @@
         "AchievementId": "99_MSQ_23",
         "RequiredAchievementId": "99_MSQ_22",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0023_agreatmovement_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -750,10 +750,10 @@
         "HideIncompleteTurninMarker": true,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9903_0024_alostcause",
@@ -770,7 +770,7 @@
         "AchievementId": "99_MSQ_24",
         "RequiredAchievementId": "99_MSQ_23",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9903_0024_alostcause_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -792,10 +792,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9903_0025_chainofcommand",
@@ -812,7 +812,7 @@
         "AchievementId": "99_MSQ_25",
         "RequiredAchievementId": "99_MSQ_24",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9903_0025_chainofcommand_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -834,10 +834,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9903_0026_heartsandsouls",
@@ -854,7 +854,7 @@
         "AchievementId": "99_MSQ_26",
         "RequiredAchievementId": "99_MSQ_25",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9903_0026_heartsandsouls_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -876,10 +876,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0027_thesyndicatesupport",
@@ -896,7 +896,7 @@
         "AchievementId": "99_MSQ_27",
         "RequiredAchievementId": "99_MSQ_26",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0027_thesyndicatesupport_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -918,10 +918,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9904_0028_thenoseknows_V2",
@@ -938,7 +938,7 @@
         "AchievementId": "99_MSQ_27b",
         "RequiredAchievementId": "99_MSQ_27",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9904_0028_thenoseknows_V2_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -960,10 +960,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9904_0028_thenoseknowsa_V2",
@@ -980,7 +980,7 @@
         "AchievementId": "99_MSQ_27c",
         "RequiredAchievementId": "99_MSQ_27b",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9904_0028_thenoseknowsa_V2_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1002,10 +1002,10 @@
         "HideIncompleteTurninMarker": true,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9904_0028_thenoseknowsb",
@@ -1022,7 +1022,7 @@
         "AchievementId": "99_MSQ_27d",
         "RequiredAchievementId": "99_MSQ_27c",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9904_0028_thenoseknowsb_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1044,10 +1044,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9904_0028_thenoseknowsc",
@@ -1064,7 +1064,7 @@
         "AchievementId": "99_MSQ_27e",
         "RequiredAchievementId": "99_MSQ_27d",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9904_0028_thenoseknowsc_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1086,10 +1086,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9904_0028_thenoseknowsd",
@@ -1106,7 +1106,7 @@
         "AchievementId": "99_MSQ_27f",
         "RequiredAchievementId": "99_MSQ_27e",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9904_0028_thenoseknowsd_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1128,10 +1128,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9904_0028_thenoseknowse",
@@ -1148,7 +1148,7 @@
         "AchievementId": "99_MSQ_28",
         "RequiredAchievementId": "99_MSQ_27f",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9904_0028_thenoseknowse_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1170,10 +1170,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9904_0029_thestormwall",
@@ -1190,7 +1190,7 @@
         "AchievementId": "99_MSQ_29",
         "RequiredAchievementId": "99_MSQ_28",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9904_0029_thestormwall_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1212,10 +1212,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9904_0030_twodown",
@@ -1232,7 +1232,7 @@
         "AchievementId": "99_MSQ_30",
         "RequiredAchievementId": "99_MSQ_29",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9904_0030_twodown_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1254,10 +1254,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0031_themaraudersupport",
@@ -1274,7 +1274,7 @@
         "AchievementId": "99_MSQ_31",
         "RequiredAchievementId": "99_MSQ_30",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0031_themaraudersupport_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1296,10 +1296,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9905_0032_invalhalla",
@@ -1316,7 +1316,7 @@
         "AchievementId": "99_MSQ_32",
         "RequiredAchievementId": "99_MSQ_31",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9905_0032_invalhalla_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1338,10 +1338,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9905_0033_stillwerise",
@@ -1358,7 +1358,7 @@
         "AchievementId": "99_MSQ_33",
         "RequiredAchievementId": "99_MSQ_32",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9905_0033_stillwerise_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1380,10 +1380,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9905_0034_thealliance",
@@ -1400,7 +1400,7 @@
         "AchievementId": "99_MSQ_34",
         "RequiredAchievementId": "99_MSQ_33",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9905_0034_thealliance_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1422,10 +1422,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0035_herewestand",
@@ -1442,7 +1442,7 @@
         "AchievementId": "99_MSQ_35",
         "RequiredAchievementId": "99_MSQ_34",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0035_herewestand_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1464,10 +1464,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9901_0036_masterofthetempest",
@@ -1484,7 +1484,7 @@
         "AchievementId": "99_MSQ_36",
         "RequiredAchievementId": "99_MSQ_35",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9901_0036_masterofthetempest_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1506,10 +1506,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9919_0037_planb",
@@ -1526,7 +1526,7 @@
         "AchievementId": "99_MSQ_37",
         "RequiredAchievementId": "99_MSQ_36",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9919_0037_planb_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1548,10 +1548,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9905_0038_itstrueface",
@@ -1568,7 +1568,7 @@
         "AchievementId": "99_MSQ_38",
         "RequiredAchievementId": "99_MSQ_37",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9905_0038_itstrueface_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1590,10 +1590,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9903_0039_aherosduty",
@@ -1610,7 +1610,7 @@
         "AchievementId": "99_MSQ_39",
         "RequiredAchievementId": "99_MSQ_38",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9903_0039_aherosduty_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1632,10 +1632,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9903_0040_emilesrequest",
@@ -1652,7 +1652,7 @@
         "AchievementId": "99_MSQ_40",
         "RequiredAchievementId": "99_MSQ_39",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9903_0040_emilesrequest_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1674,10 +1674,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9903_0041_somethinglefttosave",
@@ -1694,7 +1694,7 @@
         "AchievementId": "99_MSQ_41",
         "RequiredAchievementId": "99_MSQ_40",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9903_0041_somethinglefttosave_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1716,10 +1716,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9905_0042_shecameback",
@@ -1736,7 +1736,7 @@
         "AchievementId": "99_MSQ_42",
         "RequiredAchievementId": "99_MSQ_41",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9905_0042_shecameback_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1758,10 +1758,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9905_0043_foragoodcause",
@@ -1778,7 +1778,7 @@
         "AchievementId": "99_MSQ_43",
         "RequiredAchievementId": "99_MSQ_42",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9905_0043_foragoodcause_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1800,10 +1800,10 @@
         "HideIncompleteTurninMarker": true,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9909_0044_mothertongue",
@@ -1820,7 +1820,7 @@
         "AchievementId": "99_MSQ_44",
         "RequiredAchievementId": "99_MSQ_43",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9909_0044_mothertongue_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1842,10 +1842,10 @@
         "HideIncompleteTurninMarker": true,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9905_0045_thebox",
@@ -1862,7 +1862,7 @@
         "AchievementId": "99_MSQ_45",
         "RequiredAchievementId": "99_MSQ_44",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9905_0045_thebox_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1884,10 +1884,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9902_0046_stemthetide",
@@ -1904,7 +1904,7 @@
         "AchievementId": "99_MSQ_46",
         "RequiredAchievementId": "99_MSQ_45",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9902_0046_stemthetide_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1926,10 +1926,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9904_0047_greatminds",
@@ -1946,7 +1946,7 @@
         "AchievementId": "99_MSQ_47",
         "RequiredAchievementId": "99_MSQ_46",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9904_0047_greatminds_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -1968,10 +1968,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9904_0048_enemyofmyenemy",
@@ -1988,7 +1988,7 @@
         "AchievementId": "99_MSQ_48",
         "RequiredAchievementId": "99_MSQ_47",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9904_0048_enemyofmyenemy_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2010,10 +2010,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9902_0049_recipeforfailure",
@@ -2030,7 +2030,7 @@
         "AchievementId": "99_MSQ_49",
         "RequiredAchievementId": "99_MSQ_48",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9902_0049_recipeforfailure_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2052,10 +2052,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9906_0050_thescenicroute",
@@ -2072,7 +2072,7 @@
         "AchievementId": "99_MSQ_50",
         "RequiredAchievementId": "99_MSQ_49",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9906_0050_thescenicroute_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2094,10 +2094,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9906_0051_ararespice",
@@ -2114,7 +2114,7 @@
         "AchievementId": "99_MSQ_50b",
         "RequiredAchievementId": "99_MSQ_50",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9906_0051_ararespice_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2136,10 +2136,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9906_0050_thescenicrouteb",
@@ -2156,7 +2156,7 @@
         "AchievementId": "99_MSQ_51",
         "RequiredAchievementId": "99_MSQ_50b",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9906_0050_thescenicrouteb_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2178,10 +2178,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9902_0052_saboteur",
@@ -2198,7 +2198,7 @@
         "AchievementId": "99_MSQ_52",
         "RequiredAchievementId": "99_MSQ_51",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9902_0052_saboteur_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2220,10 +2220,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9907_0053_blessingofearth",
@@ -2240,7 +2240,7 @@
         "AchievementId": "99_MSQ_52a",
         "RequiredAchievementId": "99_MSQ_52",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9907_0053_blessingofearth_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2262,10 +2262,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9907_0053_blessingofearth_Juice",
@@ -2282,7 +2282,7 @@
         "AchievementId": "99_MSQ_52b",
         "RequiredAchievementId": "99_MSQ_52",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9907_0053_blessingofearth_Juice_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2304,10 +2304,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9907_0053_blessingofearth_Snap",
@@ -2324,7 +2324,7 @@
         "AchievementId": "99_MSQ_52c",
         "RequiredAchievementId": "99_MSQ_52",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9907_0053_blessingofearth_Snap_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2346,10 +2346,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9907_0053_blessingofearth_Ixia",
@@ -2366,7 +2366,7 @@
         "AchievementId": "99_MSQ_53",
         "RequiredAchievementId": "99_MSQ_52",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9907_0053_blessingofearth_Ixia_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2388,10 +2388,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9902_0054_ASelflessNature",
@@ -2408,7 +2408,7 @@
         "AchievementId": "99_MSQ_54",
         "RequiredAchievementId": "99_MSQ_52a",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9902_0054_ASelflessNature_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2430,10 +2430,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9902_0055_shatteredmountain",
@@ -2450,7 +2450,7 @@
         "AchievementId": "99_MSQ_55",
         "RequiredAchievementId": "99_MSQ_54",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9902_0055_shatteredmountain_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2472,10 +2472,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9910_0056_thetempestsheart",
@@ -2492,7 +2492,7 @@
         "AchievementId": "99_MSQ_56",
         "RequiredAchievementId": "99_MSQ_55",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9910_0056_thetempestsheart_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2514,10 +2514,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9926_0101_TenaciousRose",
@@ -2534,7 +2534,7 @@
         "AchievementId": "VarangianKnights_0101",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9926_0101_TenaciousRose_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2556,10 +2556,10 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     },
     {
         "ObjectiveID": "9927_0102_VisionsOfInvaders",
@@ -2576,7 +2576,7 @@
         "AchievementId": "VarangianKnights_0102",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
-        "RequiredLevel": "",
+        "RequiredLevel": null,
         "SuccessGameEventId": "9927_0102_VisionsOfInvaders_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
@@ -2598,9 +2598,9 @@
         "HideIncompleteTurninMarker": null,
         "ORMReleaseEventTags": "",
         "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
+        "SkipReqAchievmentWhenInvalid": null,
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": null
     }
 ]

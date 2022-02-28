@@ -155,8 +155,16 @@
         "ItemSoundID": "2H_Rifle",
         "Sheathe": "Play_Sheathe_2H_Musket_T1",
         "Unsheathe": "Play_Unsheathe_2H_Musket_T1",
-        "SheatheFLY": "",
-        "UnsheatheFLY": "",
+        "SheatheFLY": "Play_2HRifle_FLY_Sheathed",
+        "UnsheatheFLY": "Play_2HRifle_FLY_Unsheathed",
+        "Defense": ""
+    },
+    {
+        "ItemSoundID": "2H_Blunderbuss",
+        "Sheathe": "Play_Sheathe_Blunderbuss",
+        "Unsheathe": "Play_Unsheathe_Blunderbuss",
+        "SheatheFLY": "Play_Blunderbuss_FLY_Sheathed",
+        "UnsheatheFLY": "Play_Blunderbuss_FLY_Unsheathed",
         "Defense": ""
     },
     {

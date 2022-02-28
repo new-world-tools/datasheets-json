@@ -3050,5 +3050,19 @@
         "CategoricalProgressionId": "",
         "RequiredCategoricalProgressionLevel": null,
         "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_BugHunter",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Special_Achievements",
+        "TitleMale": "@ui_playertitle_special_BugHunter",
+        "TitleFemale": "@ui_playertitle_special_BugHunter_SHE",
+        "TitleNeutral": "@ui_playertitle_special_BugHunter_THEY",
+        "Description": "@ui_playertitle_BugHunter_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
     }
 ]

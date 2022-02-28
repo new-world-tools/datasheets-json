@@ -198,5 +198,25 @@
         "Gatherable_3_Variant": "CyclicExample_Yellow_Prisma",
         "Gatherable_4": "",
         "Gatherable_4_Variant": ""
+    },
+    {
+        "VariantID": "Cyclic_9926_VKCannon",
+        "ResetTime": 240,
+        "ForgetInstancedStateTime": "",
+        "NumCyclicStates": 2,
+        "InteractTag": "IO_Cyclic_9926_VKCannon",
+        "Visual_BaseMesh": "",
+        "Visual_WaitingForReset": "slices\\WorldEvents\\Varangian\\WorldEvent_Object_9926_VKCannonB_00.dynamicslice",
+        "Visual_NotOnRequiredQuest": "slices\\WorldEvents\\Varangian\\WorldEvent_Object_9926_VKCannonB_00.dynamicslice",
+        "Gatherable_0": "slices\\WorldEvents\\Varangian\\CustomMQI_9926_VKCannon_A_00.slice",
+        "Gatherable_0_Variant": "9926_0103_VKCannonA",
+        "Gatherable_1": "slices\\WorldEvents\\Varangian\\CustomMQI_9926_VKCannon_B_00.slice",
+        "Gatherable_1_Variant": "9926_0103_VKCannonB",
+        "Gatherable_2": "",
+        "Gatherable_2_Variant": "",
+        "Gatherable_3": "",
+        "Gatherable_3_Variant": "",
+        "Gatherable_4": "",
+        "Gatherable_4_Variant": ""
     }
 ]

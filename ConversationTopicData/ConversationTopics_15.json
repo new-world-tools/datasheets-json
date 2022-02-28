@@ -3,8 +3,17 @@
         "ConversationTopicId": "1524_Boatswain01_talk",
         "PlayerPrompt": "@1524_Boatswain01_talk_Prompt",
         "NPCResponse": "@1524_Boatswain01_talk_Response",
-        "AchievementUnlock": "S_talktosalazar",
+        "AchievementUnlock": "",
         "RequiredAchievement": "SwapActive_1524_Boatswain01_Moved",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1523_Fisher_ExplainHotspots",
+        "PlayerPrompt": "@0223_Fisher_ExplainHotspots_Prompt",
+        "NPCResponse": "@0223_Fisher_ExplainHotspots_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
     }

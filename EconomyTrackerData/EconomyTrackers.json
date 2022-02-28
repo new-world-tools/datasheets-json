@@ -71,7 +71,7 @@
     },
     {
         "EconomyTrackerID": "CoinTransferred",
-        "AlarmType": "OneTime",
+        "AlarmType": "PerHour",
         "ThresholdConfig1": "javelin-server.economy-alarm-coin-transferred-threshold-1",
         "MetricName1": "CoinTransferredSuspicious",
         "EnableMetric1": true,

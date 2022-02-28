@@ -1,6 +1,26 @@
 [
     {
-        "WarboardStatID": "DamageWithWeapons",
+        "WarboardStatID": "DamageToPlayers",
+        "InGameStat": false,
+        "EndGameStat": true,
+        "AG_TotalDamageDealt": 1,
+        "AG_Kills": 0,
+        "AG_HealingDone": 0,
+        "AG_DamageTaken": 0,
+        "AG_Score": 0.02
+    },
+    {
+        "WarboardStatID": "DamageToAI",
+        "InGameStat": false,
+        "EndGameStat": true,
+        "AG_TotalDamageDealt": 1,
+        "AG_Kills": 0,
+        "AG_HealingDone": 0,
+        "AG_DamageTaken": 0,
+        "AG_Score": 0.02
+    },
+    {
+        "WarboardStatID": "DamageToOther",
         "InGameStat": false,
         "EndGameStat": true,
         "AG_TotalDamageDealt": 1,

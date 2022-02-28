@@ -394,5 +394,23 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9919_MSQ_DepthsSkip",
+        "PlayerPrompt": "@9919_MSQ_DepthsSkip_Prompt",
+        "NPCResponse": "@9919_MSQ_DepthsSkip_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9902_MSQ_ExpeditionSkip",
+        "PlayerPrompt": "@9902_MSQ_ExpeditionSkip_Prompt",
+        "NPCResponse": "@9902_MSQ_ExpeditionSkip_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
     }
 ]
