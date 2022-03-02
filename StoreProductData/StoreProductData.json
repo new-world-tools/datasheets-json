@@ -1045,6 +1045,17 @@
         "TypeDescription": "@reward_type_Apparelskin_Set"
     },
     {
+        "UniqueTagID": "Apparel_ClassicRPGBard",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_ClassicRPGBard_name",
+        "Description": "@Apparel_ClassicRPGBard_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_ClassicRPGBard.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_ClassicRPGBard.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_ClassicRPGBard.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_ClassicRPGBard.png",
+        "TypeDescription": "@reward_type_Apparelskin_Set"
+    },
+    {
         "UniqueTagID": "Apparel_ClassicRPGRogue",
         "IsEnabled": 1,
         "DisplayName": "@Apparel_ClassicRPGRogue_name",
@@ -1584,6 +1595,17 @@
         "TypeDescription": "@reward_type_Weaponskin_VoidGauntlet"
     },
     {
+        "UniqueTagID": "Weapon_Blunderbuss_Lunar",
+        "IsEnabled": 1,
+        "DisplayName": "@Weapon_Blunderbuss_Lunar_name",
+        "Description": "@Weapon_Blunderbuss_Lunar_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_LunarNewYear2021_Blunderbuss.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_LunarNewYear2021_Blunderbuss.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_LunarNewYear2021_Blunderbuss.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_LunarNewYear2021_Blunderbuss.png",
+        "TypeDescription": "@reward_type_Weaponskin_Blunderbuss"
+    },
+    {
         "UniqueTagID": "Apparel_Lunar_1",
         "IsEnabled": 1,
         "DisplayName": "@Apparel_Lunar_1_name",
@@ -1995,10 +2017,10 @@
         "IsEnabled": 1,
         "DisplayName": "@Bundle_PR_Weapon_RoyalCourt_name",
         "Description": "@Bundle_PR_Weapon_RoyalCourt_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Portrait_ButterflyWing.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Rectangle_ButterflyWing.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Square_ButterflyWing.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Thumbnail_ButterflyWing.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Weapon_RoyalCourt.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_RoyalCourt.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_RoyalCourt.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_RoyalCourt.png",
         "TypeDescription": "@ui_bundle"
     },
     {
@@ -2006,10 +2028,10 @@
         "IsEnabled": 1,
         "DisplayName": "@Bundle_PR_Apparel_RoyalCourt_name",
         "Description": "@Bundle_PR_Apparel_RoyalCourt_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Portrait_ButterflyWing.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Rectangle_ButterflyWing.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Square_ButterflyWing.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye118_Thumbnail_ButterflyWing.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Armor_Royal_Court.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Armor_Royal_Court.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Armor_Royal_Court.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Armor_Royal_Court.png",
         "TypeDescription": "@ui_bundle"
     },
     {
@@ -2429,5 +2451,203 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_Valentine2022.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_Valentine2022.png",
         "TypeDescription": "@reward_type_Housing_Set"
+    },
+    {
+        "UniqueTagID": "CampSkin_Floral01_A",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Floral01_A_MasterName",
+        "Description": "@CampSkin_Floral01_A_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Floral.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Floral.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Floral.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Floral.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "CampSkin_Love01_A",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Love01_A_MasterName",
+        "Description": "@CampSkin_Love01_A_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Love2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Love2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Love2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Love2022.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "Bundle_Decor_Floral",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Decor_Floral_name",
+        "Description": "@Bundle_Decor_Floral_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_Spring2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_Spring2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_Spring2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_Spring2022.png",
+        "TypeDescription": "@reward_type_Housing_Set"
+    },
+    {
+        "UniqueTagID": "Pet_SpringRabbit",
+        "IsEnabled": 1,
+        "DisplayName": "@House_HousingItem_Pet_Entitlement_Rabbit_Spring_mastername",
+        "Description": "@House_HousingItem_Pet_Entitlement_Rabbit_Spring_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_SpringHare2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Rectangle_SpringHare2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_SpringHare2022",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Thumbnail_SpringHare2022.png",
+        "TypeDescription": "@reward_type_house_pet"
+    },
+    {
+        "UniqueTagID": "Emote_Curtsy",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Curtsy_name",
+        "Description": "@ui_emote_Curtsy_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Curtsy.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Curtsy.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Curtsy.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Curtsy.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_YogaPoses",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Yoga_TreePose_name",
+        "Description": "@ui_emote_Yoga_TreePose_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_YogaTreePose.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_YogaTreePose.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_YogaTreePose.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_YogaTreePose.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_DiscoDance",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Disco_name",
+        "Description": "@ui_emote_Disco_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_DiscoDance.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_DiscoDance.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_DiscoDance.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_DiscoDance.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Weapon_Rapier_Floral",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Rapier_Floral_MasterName",
+        "Description": "@Skin_Rapier_Floral_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Floral_Rapier.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Floral_Rapier.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Floral_Rapier.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Floral_Rapier.png",
+        "TypeDescription": "@reward_type_Weaponskin_Rapier"
+    },
+    {
+        "UniqueTagID": "Weapon_ShieldR_Floral",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_ShieldR_Floral_MasterName",
+        "Description": "@Skin_ShieldR_Floral_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Floral_RoundShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Floral_RoundShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Floral_RoundShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Floral_RoundShield.png",
+        "TypeDescription": "@reward_type_Weaponskin_Shield"
+    },
+    {
+        "UniqueTagID": "Weapon_LifeStaff_Floral",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Lifestaff_Floral_MasterName",
+        "Description": "@Skin_Lifestaff_Floral_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Floral_LifeStaff.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Floral_LifeStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Floral_LifeStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Floral_LifeStaff.png",
+        "TypeDescription": "@reward_type_Weaponskin_LifeStaff"
+    },
+    {
+        "UniqueTagID": "Weapon_Blunderbuss_Floral",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Blunderbuss_Floral_MasterName",
+        "Description": "@Skin_Blunderbuss_Floral_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Floral_Blunderbuss.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Floral_Blunderbuss.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Floral_Blunderbuss.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Floral_Blunderbuss.png",
+        "TypeDescription": "@reward_type_Weaponskin_Blunderbuss"
+    },
+    {
+        "UniqueTagID": "Weapon_Musket_Floral",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Musket_Floral_MasterName",
+        "Description": "@Skin_Musket_Floral_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Floral_Musket.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Floral_Musket.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Floral_Musket.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Floral_Musket.png",
+        "TypeDescription": "@reward_type_Weaponskin_Musket"
+    },
+    {
+        "UniqueTagID": "Weapon_IceGauntlet_Floral",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_IceGaunt_Floral_MasterName",
+        "Description": "@Skin_IceGaunt_Floral_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Floral_IceGauntlet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Floral_IceGauntlet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Floral_IceGauntlet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Floral_IceGauntlet.png",
+        "TypeDescription": "@reward_type_Weaponskin_IceGauntlet"
+    },
+    {
+        "UniqueTagID": "Apparel_Malachite_L",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Malachite_L_name",
+        "Description": "@Apparel_Malachite_L_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_VinespunMalachiteLight.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_VinespunMalachiteLight.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_VinespunMalachiteLight.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_VinespunMalachiteLight.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Malachite_M",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Malachite_M_name",
+        "Description": "@Apparel_Malachite_M_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_VinespunMalachiteMedium.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_VinespunMalachiteMedium.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_VinespunMalachiteMedium.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_VinespunMalachiteMedium.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Malachite_H",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Malachite_H_name",
+        "Description": "@Apparel_Malachite_H_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_VinespunMalachiteHeavy.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_VinespunMalachiteHeavy.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_VinespunMalachiteHeavy.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_VinespunMalachiteHeavy.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Wicked",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Wicked_name",
+        "Description": "@Apparel_Wicked_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Wicked.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Wicked.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Wicked.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Wicked.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Housing_Love_BearRug",
+        "IsEnabled": 1,
+        "DisplayName": "@House_HousingItem_Entitlement_Rug_Love2022_Rug01_mastername",
+        "Description": "@House_HousingItem_Entitlement_Rug_Love2022_Rug01_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Love2022_BearRug.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Love2022_BearRug.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Love2022_BearRug.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Love2022_BearRug.png",
+        "TypeDescription": "@reward_type_housing_item"
     }
 ]

@@ -120,6 +120,16 @@
         "ValueLimits": ""
     },
     {
+        "StatusEffectCategoryID": "BossDebuff",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": ""
+    },
+    {
         "StatusEffectCategoryID": "MutatorEmpower",
         "DurationDiminishingMod": null,
         "DurationModMin": null,
@@ -148,5 +158,95 @@
         "PotencyModMin": null,
         "PotencyModMax": null,
         "ValueLimits": "HealMod:-1.0"
+    },
+    {
+        "StatusEffectCategoryID": "MutatorCurse",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": ""
+    },
+    {
+        "StatusEffectCategoryID": "Anointed",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "HealMod:1.0"
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedSlow",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": ""
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedRend",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": ""
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedFortify",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": ""
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedWeaken",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": ""
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedEmpower",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": ""
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedDisease",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": ""
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedHaste",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": ""
     }
 ]

@@ -91,7 +91,7 @@
         "ItemSoundID": "1H_Sword",
         "Sheathe": "Play_Sheathe_1H_Sword_T1",
         "Unsheathe": "Play_Unsheathe_1H_Sword_T1",
-        "SheatheFLY": "",
+        "SheatheFLY": "Play_1HSword_FLY_Sheathed",
         "UnsheatheFLY": "",
         "Defense": "Play_1H_Melee_Block"
     },
@@ -115,7 +115,7 @@
         "ItemSoundID": "2H_Bow",
         "Sheathe": "Play_Sheathe_2H_Bow_T1",
         "Unsheathe": "Play_Unsheathe_2H_Bow_T1",
-        "SheatheFLY": "",
+        "SheatheFLY": "Play_BowQuiver_FLY",
         "UnsheatheFLY": "",
         "Defense": ""
     },

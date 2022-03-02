@@ -12344,7 +12344,7 @@
     {
         "StatusID": "EatRawFood",
         "DisplayName": "@FoodInitialRecoveryT1_Mastername",
-        "Description": "",
+        "Description": "@EatRawFood_Description",
         "EffectCategories": "FoodInitialRecovery",
         "PlaceholderIcon": "lyshineui/images/status/SE_HealT3.png",
         "ShowInUITray": true,
@@ -12586,7 +12586,7 @@
     {
         "StatusID": "FoodInitialRecoveryT1",
         "DisplayName": "@FoodInitialRecoveryT1_Mastername",
-        "Description": "",
+        "Description": "@FoodInitialRecoveryT1_Description",
         "EffectCategories": "FoodInitialRecovery",
         "PlaceholderIcon": "lyshineui/images/status/SE_HealT3.png",
         "ShowInUITray": true,
@@ -12828,7 +12828,7 @@
     {
         "StatusID": "FoodInitialRecoveryT2",
         "DisplayName": "@FoodInitialRecoveryT2_Mastername",
-        "Description": "",
+        "Description": "@FoodInitialRecoveryT2_Description",
         "EffectCategories": "FoodInitialRecovery",
         "PlaceholderIcon": "lyshineui/images/status/SE_HealT3.png",
         "ShowInUITray": true,
@@ -13070,7 +13070,7 @@
     {
         "StatusID": "FoodInitialRecoveryT3",
         "DisplayName": "@FoodInitialRecoveryT3_Mastername",
-        "Description": "",
+        "Description": "@FoodInitialRecoveryT3_Description",
         "EffectCategories": "FoodInitialRecovery",
         "PlaceholderIcon": "lyshineui/images/status/SE_HealT3.png",
         "ShowInUITray": true,
@@ -13312,7 +13312,7 @@
     {
         "StatusID": "FoodInitialRecoveryT4",
         "DisplayName": "@FoodInitialRecoveryT4_Mastername",
-        "Description": "",
+        "Description": "@FoodInitialRecoveryT4_Description",
         "EffectCategories": "FoodInitialRecovery",
         "PlaceholderIcon": "lyshineui/images/status/SE_HealT3.png",
         "ShowInUITray": true,
@@ -13554,7 +13554,7 @@
     {
         "StatusID": "FoodInitialRecoveryT5",
         "DisplayName": "@FoodInitialRecoveryT5_Mastername",
-        "Description": "",
+        "Description": "@FoodInitialRecoveryT5_Description",
         "EffectCategories": "FoodInitialRecovery",
         "PlaceholderIcon": "lyshineui/images/status/SE_HealT3.png",
         "ShowInUITray": true,

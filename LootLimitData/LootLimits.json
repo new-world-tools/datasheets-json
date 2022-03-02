@@ -32,21 +32,21 @@
     {
         "LootLimitID": "GypsumBlack",
         "IsItem": "FALSE",
-        "MinLimitSeconds": 600,
-        "MaxLimitSeconds": 780,
+        "MinLimitSeconds": 300,
+        "MaxLimitSeconds": 390,
         "CountLimit": 3,
-        "MinLimitMult": 60,
-        "MaxLimitMult": 60,
+        "MinLimitMult": 120,
+        "MaxLimitMult": 120,
         "LimitExpireSeconds": 64800
     },
     {
         "LootLimitID": "GypsumYellow",
         "IsItem": "FALSE",
-        "MinLimitSeconds": 60,
-        "MaxLimitSeconds": 180,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
         "CountLimit": 10,
-        "MinLimitMult": 240,
-        "MaxLimitMult": 240,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800
     },
     {
@@ -62,11 +62,11 @@
     {
         "LootLimitID": "BreachGypsum",
         "IsItem": "FALSE",
-        "MinLimitSeconds": 120,
-        "MaxLimitSeconds": 240,
+        "MinLimitSeconds": 30,
+        "MaxLimitSeconds": 30,
         "CountLimit": 7,
-        "MinLimitMult": 300,
-        "MaxLimitMult": 300,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800
     },
     {
@@ -205,6 +205,86 @@
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 5,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "House_HousingItem_Storage_T4_ChestRabbit",
+        "IsItem": "1",
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 2678400,
+        "MaxLimitMult": 2678400,
+        "LimitExpireSeconds": 2678400
+    },
+    {
+        "LootLimitID": "BagofEarthGiftsLVL1",
+        "IsItem": "1",
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofEarthGiftsLVL10",
+        "IsItem": "1",
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofEarthGiftsLVL20",
+        "IsItem": "1",
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofEarthGiftsLVL30",
+        "IsItem": "1",
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofEarthGiftsLVL40",
+        "IsItem": "1",
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofEarthGiftsLVL50",
+        "IsItem": "1",
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800
+    },
+    {
+        "LootLimitID": "BagofEarthGiftsLVL60",
+        "IsItem": "1",
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800

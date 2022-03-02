@@ -436,5 +436,47 @@
         "AbilityID": "Ability_VoidGauntlet_EssenceRupture",
         "Time": 20,
         "WeaponTag": "VoidGauntlet"
+    },
+    {
+        "ID": 74,
+        "AbilityID": "Ability_Blunderbuss_ClawShot",
+        "Time": 20,
+        "WeaponTag": "Blunderbuss"
+    },
+    {
+        "ID": 75,
+        "AbilityID": "Ability_Blunderbuss_NetShot",
+        "Time": 20,
+        "WeaponTag": "Blunderbuss"
+    },
+    {
+        "ID": 76,
+        "AbilityID": "Ability_Blunderbuss_VortexShot",
+        "Time": 30,
+        "WeaponTag": "Blunderbuss"
+    },
+    {
+        "ID": 77,
+        "AbilityID": "Ability_Blunderbuss_SplittingGrenade",
+        "Time": 30,
+        "WeaponTag": "Blunderbuss"
+    },
+    {
+        "ID": 78,
+        "AbilityID": "Ability_Blunderbuss_AzothShrapnelBlast",
+        "Time": 14,
+        "WeaponTag": "Blunderbuss"
+    },
+    {
+        "ID": 79,
+        "AbilityID": "Ability_Blunderbuss_MortarShot",
+        "Time": 18,
+        "WeaponTag": "Blunderbuss"
+    },
+    {
+        "ID": 80,
+        "AbilityID": "Ability_Blunderbuss_Charge",
+        "Time": 2,
+        "WeaponTag": "Blunderbuss"
     }
 ]

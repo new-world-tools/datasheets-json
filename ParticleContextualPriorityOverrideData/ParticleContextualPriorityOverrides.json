@@ -82,5 +82,9 @@
     {
         "EffectName": "wFX_Default_Range.Aim_Post",
         "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "ENV_Dungeon_Ancient_Gate.Seal_break_large",
+        "PriorityOverride": "Required"
     }
 ]

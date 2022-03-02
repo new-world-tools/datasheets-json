@@ -96,6 +96,12 @@
         "PerkBucket": "PerkBucket_ArmorerCharmT1"
     },
     {
+        "ResourceID": "ArmorerCharmT2",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_ArmorerCharmT2"
+    },
+    {
         "ResourceID": "ArmorerCharmT3",
         "IsGem": false,
         "GemPerk": "",
@@ -1068,6 +1074,12 @@
         "PerkBucket": "PerkBucket_WolfPawT2"
     },
     {
+        "ResourceID": "WolfPawT3",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_WolfPawT3"
+    },
+    {
         "ResourceID": "WrithingBriarT1",
         "IsGem": false,
         "GemPerk": "",
@@ -1084,6 +1096,24 @@
         "IsGem": false,
         "GemPerk": "",
         "PerkBucket": "PerkBucket_WrithingBriarT3"
+    },
+    {
+        "ResourceID": "WrithingVinesT1",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_WrithingVinesT1"
+    },
+    {
+        "ResourceID": "WrithingVinesT2",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_WrithingVinesT2"
+    },
+    {
+        "ResourceID": "WrithingVinesT3",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_WrithingVinesT3"
     },
     {
         "ResourceID": "WyrdwoodResinT1",
@@ -1108,6 +1138,18 @@
         "IsGem": false,
         "GemPerk": "",
         "PerkBucket": "PerkBucket_WyrdwoodSapT1"
+    },
+    {
+        "ResourceID": "WyrdwoodSapT2",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_WyrdwoodSapT2"
+    },
+    {
+        "ResourceID": "WyrdwoodSapT3",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_WyrdwoodSapT3"
     },
     {
         "ResourceID": "SwordCharmT1",
@@ -1506,6 +1548,42 @@
         "PerkBucket": "PerkBucket_SpearCharmT6"
     },
     {
+        "ResourceID": "BlunderbussCharmT1",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_BlunderbussCharmT1"
+    },
+    {
+        "ResourceID": "BlunderbussCharmT2",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_BlunderbussCharmT2"
+    },
+    {
+        "ResourceID": "BlunderbussCharmT3",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_BlunderbussCharmT3"
+    },
+    {
+        "ResourceID": "BlunderbussCharmT4",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_BlunderbussCharmT4"
+    },
+    {
+        "ResourceID": "BlunderbussCharmT5",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_BlunderbussCharmT5"
+    },
+    {
+        "ResourceID": "BlunderbussCharmT6",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_BlunderbussCharmT6"
+    },
+    {
         "ResourceID": "VoidGauntletCharmT1",
         "IsGem": false,
         "GemPerk": "",
@@ -1588,6 +1666,42 @@
         "IsGem": false,
         "GemPerk": "",
         "PerkBucket": "PerkBucket_HollowArmorShardT5"
+    },
+    {
+        "ResourceID": "AshResinT1",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_AshResinT1"
+    },
+    {
+        "ResourceID": "EvergreenResinT1",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_EvergreenResinT1"
+    },
+    {
+        "ResourceID": "GlacierResinT1",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_GlacierResinT1"
+    },
+    {
+        "ResourceID": "FulguriteResinT1",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_FulguriteResinT1"
+    },
+    {
+        "ResourceID": "ReaperResinT1",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_ReaperResinT1"
+    },
+    {
+        "ResourceID": "CrystallineResinT1",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_CrystallineResinT1"
     },
     {
         "ResourceID": "GemSocketPinsT1",

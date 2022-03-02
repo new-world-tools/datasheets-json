@@ -1,5 +1,10 @@
 [
     {
+        "TimelineEntryName": "mictest_guitar02_98_bpm",
+        "TimelineAssetPath": "charactervo/mictest_guitar02_98_bpm.timeline",
+        "AssetDependencyPath": "mictest_guitar02_98_bpm.timeline"
+    },
+    {
         "TimelineEntryName": "9902_0046_stemthetide_complete_available_response_prompt",
         "TimelineAssetPath": "charactervo/adianatheron/9902_0046_stemthetide_complete_available_response_prompt.timeline",
         "AssetDependencyPath": "9902_0046_stemthetide_complete_available_response_prompt.timeline"
@@ -4340,6 +4345,21 @@
         "AssetDependencyPath": "adjudicator_98_c_02_soulsalvation_proposalresponse.timeline"
     },
     {
+        "TimelineEntryName": "npc_defaultdialogue_00_fatherrusso",
+        "TimelineAssetPath": "charactervo/fatherrusso/npc_defaultdialogue_00_fatherrusso.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_00_fatherrusso.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01_fatherrusso",
+        "TimelineAssetPath": "charactervo/fatherrusso/npc_defaultdialogue_01_fatherrusso.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01_fatherrusso.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02_fatherrusso",
+        "TimelineAssetPath": "charactervo/fatherrusso/npc_defaultdialogue_02_fatherrusso.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02_fatherrusso.timeline"
+    },
+    {
         "TimelineEntryName": "1111_01_stranger_default",
         "TimelineAssetPath": "charactervo/gildon/1111_01_stranger_default.timeline",
         "AssetDependencyPath": "1111_01_stranger_default.timeline"
@@ -4488,6 +4508,21 @@
         "TimelineEntryName": "fisher_0823_0101_fq14_availresponse",
         "TimelineAssetPath": "charactervo/grandmasterfishermachera/fisher_0823_0101_fq14_availresponse.timeline",
         "AssetDependencyPath": "fisher_0823_0101_fq14_availresponse.timeline"
+    },
+    {
+        "TimelineEntryName": "9901_0056_thetempestsheart_proposal_next",
+        "TimelineAssetPath": "charactervo/gristlethebear/9901_0056_thetempestsheart_proposal_next.timeline",
+        "AssetDependencyPath": "9901_0056_thetempestsheart_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "9901_0056_thetempestsheart_proposal_prompt",
+        "TimelineAssetPath": "charactervo/gristlethebear/9901_0056_thetempestsheart_proposal_prompt.timeline",
+        "AssetDependencyPath": "9901_0056_thetempestsheart_proposal_prompt.timeline"
+    },
+    {
+        "TimelineEntryName": "9901_0056_thetempestsheart_start_prompt",
+        "TimelineAssetPath": "charactervo/gristlethebear/9901_0056_thetempestsheart_start_prompt.timeline",
+        "AssetDependencyPath": "9901_0056_thetempestsheart_start_prompt.timeline"
     },
     {
         "TimelineEntryName": "9902_0055_shatteredmountain_complete_available_response_prompt",
@@ -4970,6 +5005,21 @@
         "AssetDependencyPath": "overseer_0204_0101_undyingappetite_completenext2.timeline"
     },
     {
+        "TimelineEntryName": "npc_defaultdialogue_00_heretic",
+        "TimelineAssetPath": "charactervo/heretic/npc_defaultdialogue_00_heretic.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_00_heretic.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01_heretic",
+        "TimelineAssetPath": "charactervo/heretic/npc_defaultdialogue_01_heretic.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01_heretic.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02_heretic",
+        "TimelineAssetPath": "charactervo/heretic/npc_defaultdialogue_02_heretic.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02_heretic.timeline"
+    },
+    {
         "TimelineEntryName": "9904_0028_thenoseknows_complete_available_response",
         "TimelineAssetPath": "charactervo/hunterjulio/9904_0028_thenoseknows_complete_available_response.timeline",
         "AssetDependencyPath": "9904_0028_thenoseknows_complete_available_response.timeline"
@@ -5375,6 +5425,76 @@
         "AssetDependencyPath": "1422_00_innkeep_default.timeline"
     },
     {
+        "TimelineEntryName": "97_alterencounter_isabella_02",
+        "TimelineAssetPath": "charactervo/isabella/97_alterencounter_isabella_02.timeline",
+        "AssetDependencyPath": "97_alterencounter_isabella_02.timeline"
+    },
+    {
+        "TimelineEntryName": "97_bossdeath_isabella_01",
+        "TimelineAssetPath": "charactervo/isabella/97_bossdeath_isabella_01.timeline",
+        "AssetDependencyPath": "97_bossdeath_isabella_01.timeline"
+    },
+    {
+        "TimelineEntryName": "97_bossdeath_isabella_02",
+        "TimelineAssetPath": "charactervo/isabella/97_bossdeath_isabella_02.timeline",
+        "AssetDependencyPath": "97_bossdeath_isabella_02.timeline"
+    },
+    {
+        "TimelineEntryName": "97_bossdeath_isabella_03",
+        "TimelineAssetPath": "charactervo/isabella/97_bossdeath_isabella_03.timeline",
+        "AssetDependencyPath": "97_bossdeath_isabella_03.timeline"
+    },
+    {
+        "TimelineEntryName": "97_bossintrobasilica_isabella_01",
+        "TimelineAssetPath": "charactervo/isabella/97_bossintrobasilica_isabella_01.timeline",
+        "AssetDependencyPath": "97_bossintrobasilica_isabella_01.timeline"
+    },
+    {
+        "TimelineEntryName": "97_bossintrochandelier_isabella_01",
+        "TimelineAssetPath": "charactervo/isabella/97_bossintrochandelier_isabella_01.timeline",
+        "AssetDependencyPath": "97_bossintrochandelier_isabella_01.timeline"
+    },
+    {
+        "TimelineEntryName": "97_bossintrothrone_isabella_01",
+        "TimelineAssetPath": "charactervo/isabella/97_bossintrothrone_isabella_01.timeline",
+        "AssetDependencyPath": "97_bossintrothrone_isabella_01.timeline"
+    },
+    {
+        "TimelineEntryName": "97_bossoutrobasilica_isabella_01",
+        "TimelineAssetPath": "charactervo/isabella/97_bossoutrobasilica_isabella_01.timeline",
+        "AssetDependencyPath": "97_bossoutrobasilica_isabella_01.timeline"
+    },
+    {
+        "TimelineEntryName": "97_bossoutrochandelier_isabella_01",
+        "TimelineAssetPath": "charactervo/isabella/97_bossoutrochandelier_isabella_01.timeline",
+        "AssetDependencyPath": "97_bossoutrochandelier_isabella_01.timeline"
+    },
+    {
+        "TimelineEntryName": "97_callout_isabella_01",
+        "TimelineAssetPath": "charactervo/isabella/97_callout_isabella_01.timeline",
+        "AssetDependencyPath": "97_callout_isabella_01.timeline"
+    },
+    {
+        "TimelineEntryName": "97_callout_isabella_02",
+        "TimelineAssetPath": "charactervo/isabella/97_callout_isabella_02.timeline",
+        "AssetDependencyPath": "97_callout_isabella_02.timeline"
+    },
+    {
+        "TimelineEntryName": "97_callout_isabella_03",
+        "TimelineAssetPath": "charactervo/isabella/97_callout_isabella_03.timeline",
+        "AssetDependencyPath": "97_callout_isabella_03.timeline"
+    },
+    {
+        "TimelineEntryName": "97_callout_isabella_04",
+        "TimelineAssetPath": "charactervo/isabella/97_callout_isabella_04.timeline",
+        "AssetDependencyPath": "97_callout_isabella_04.timeline"
+    },
+    {
+        "TimelineEntryName": "97_callout_isabella_05",
+        "TimelineAssetPath": "charactervo/isabella/97_callout_isabella_05.timeline",
+        "AssetDependencyPath": "97_callout_isabella_05.timeline"
+    },
+    {
         "TimelineEntryName": "97_combattaunt_isabella_01",
         "TimelineAssetPath": "charactervo/isabella/97_combattaunt_isabella_01.timeline",
         "AssetDependencyPath": "97_combattaunt_isabella_01.timeline"
@@ -5553,6 +5673,26 @@
         "TimelineEntryName": "97_combattaunt_isabella_36",
         "TimelineAssetPath": "charactervo/isabella/97_combattaunt_isabella_36.timeline",
         "AssetDependencyPath": "97_combattaunt_isabella_36.timeline"
+    },
+    {
+        "TimelineEntryName": "97_entryencounter_isabella_01",
+        "TimelineAssetPath": "charactervo/isabella/97_entryencounter_isabella_01.timeline",
+        "AssetDependencyPath": "97_entryencounter_isabella_01.timeline"
+    },
+    {
+        "TimelineEntryName": "97_entryencounter_isabella_02",
+        "TimelineAssetPath": "charactervo/isabella/97_entryencounter_isabella_02.timeline",
+        "AssetDependencyPath": "97_entryencounter_isabella_02.timeline"
+    },
+    {
+        "TimelineEntryName": "97_relicreturned_isabella_02",
+        "TimelineAssetPath": "charactervo/isabella/97_relicreturned_isabella_02.timeline",
+        "AssetDependencyPath": "97_relicreturned_isabella_02.timeline"
+    },
+    {
+        "TimelineEntryName": "97_relicsighted_isabella_01",
+        "TimelineAssetPath": "charactervo/isabella/97_relicsighted_isabella_01.timeline",
+        "AssetDependencyPath": "97_relicsighted_isabella_01.timeline"
     },
     {
         "TimelineEntryName": "9907_0053_blessingofearth_juice_complete_available_response_next",
@@ -6455,11 +6595,6 @@
         "AssetDependencyPath": "survivalist_0903_0202_returntomagistrate_availresponse.timeline"
     },
     {
-        "TimelineEntryName": "survivalist_0903_0202_returntomagistrate_completenext",
-        "TimelineAssetPath": "charactervo/magistratebond/survivalist_0903_0202_returntomagistrate_completenext.timeline",
-        "AssetDependencyPath": "survivalist_0903_0202_returntomagistrate_completenext.timeline"
-    },
-    {
         "TimelineEntryName": "0902_08_magistrate_default",
         "TimelineAssetPath": "charactervo/magistratebond/magistratebond_sallisaffioti_2021_0317/0902_08_magistrate_default.timeline",
         "AssetDependencyPath": "0902_08_magistrate_default.timeline"
@@ -6468,11 +6603,6 @@
         "TimelineEntryName": "0902_09_magistrate_default",
         "TimelineAssetPath": "charactervo/magistratebond/magistratebond_sallisaffioti_2021_0317/0902_09_magistrate_default.timeline",
         "AssetDependencyPath": "0902_09_magistrate_default.timeline"
-    },
-    {
-        "TimelineEntryName": "magistrate_0902_0101_hearthandhome_completenext2",
-        "TimelineAssetPath": "charactervo/magistratebond/magistratebond_sallisaffioti_2021_0317/magistrate_0902_0101_hearthandhome_completenext2.timeline",
-        "AssetDependencyPath": "magistrate_0902_0101_hearthandhome_completenext2.timeline"
     },
     {
         "TimelineEntryName": "magistrate_0902_0103_introtooverseer_inprogresponse",

@@ -544,6 +544,23 @@
         "IconPath": ""
     },
     {
+        "CategoricalProgressionId": "BlunderbussAbilityTable",
+        "DisplayName": "@ui_blunderbuss_mastery",
+        "MaxLevel": 19,
+        "AutoRankUp": true,
+        "InfiniteLevels": false,
+        "RankTableId": "WeaponMastery",
+        "ProgressionPointPool": "BlunderbussAbilityTable",
+        "PreSkillCapSkill": "",
+        "PostSkillCapSkill": "",
+        "EconomyTrackerType": "",
+        "GameEventId": "",
+        "AchievementIdOnMaxRank": "",
+        "MinTrackedLevel": null,
+        "ShowAsObjectiveReward": null,
+        "IconPath": ""
+    },
+    {
         "CategoricalProgressionId": "LifeMagicAbilityTable",
         "DisplayName": "@ui_lifemagic_mastery",
         "MaxLevel": 19,
@@ -1633,6 +1650,23 @@
     },
     {
         "CategoricalProgressionId": "HWMLootVoidGauntlet",
+        "DisplayName": "",
+        "MaxLevel": 625,
+        "AutoRankUp": false,
+        "InfiniteLevels": false,
+        "RankTableId": "HWMLoot",
+        "ProgressionPointPool": "",
+        "PreSkillCapSkill": "",
+        "PostSkillCapSkill": "",
+        "EconomyTrackerType": "",
+        "GameEventId": "",
+        "AchievementIdOnMaxRank": "",
+        "MinTrackedLevel": 500,
+        "ShowAsObjectiveReward": null,
+        "IconPath": ""
+    },
+    {
+        "CategoricalProgressionId": "HWMBlunderbuss",
         "DisplayName": "",
         "MaxLevel": 625,
         "AutoRankUp": false,

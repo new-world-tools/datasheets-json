@@ -76,7 +76,7 @@
         "PlayerPrompt": "@0602_Marauder_talk_Prompt",
         "NPCResponse": "@0602_Marauder_talk_Response",
         "AchievementUnlock": "S_introtomarauders",
-        "RequiredAchievement": "S_introtoallfactions_accepted",
+        "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
     },
@@ -85,7 +85,7 @@
         "PlayerPrompt": "@0602_Syndicate_talk_Prompt",
         "NPCResponse": "@0602_Syndicate_talk_Response",
         "AchievementUnlock": "S_introtosyndicate",
-        "RequiredAchievement": "S_introtoallfactions_accepted",
+        "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
     },
@@ -94,7 +94,7 @@
         "PlayerPrompt": "@0602_Covenant_talk_Prompt",
         "NPCResponse": "@0602_Covenant_talk_Response",
         "AchievementUnlock": "S_introtocovenant",
-        "RequiredAchievement": "S_introtoallfactions_accepted",
+        "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
     },

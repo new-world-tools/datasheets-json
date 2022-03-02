@@ -1656,6 +1656,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Ancient_Guardian_Reaver_13WF02",
+        "DisplayName": "@VC_Ancient_Guardian_Reaver_13WF02",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Ancient_Guardian_Reaver_13WF02\"\u003eAncient_Guardian_Reaver_13WF02\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Starbound",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Ancient_Javelineer",
         "DisplayName": "@VC_Ancient_Javelineer",
         "Icon": "",
@@ -2964,6 +2976,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "AncientGuardian_Mage_Named_01",
+        "DisplayName": "@VC_AncientGuardian_Mage_Named_01",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_AncientGuardian_Mage_Named_01\"\u003eAncientGuardian_Mage_Named_01\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Starbound",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeleton_ancient_mage\\ancient_mage_matGroup.mtl",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "AncientGuardian_Mage_Named_05WC09",
         "DisplayName": "@VC_AncientGuardian_Mage_Named_05WC09",
         "Icon": "",
@@ -3672,6 +3696,30 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "AncientGuardian_Reaver_Named_04",
+        "DisplayName": "@VC_AncientGuardian_Reaver_Named_04",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_AncientGuardian_Reaver_Named_04\"\u003eAncientGuardian_Reaver_Named_04\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Starbound",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeletonGuardian\\skeletonGuardian_var03_matGroup.mtl",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "AncientGuardian_Reaver_Named_05",
+        "DisplayName": "@VC_AncientGuardian_Reaver_Named_05",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_AncientGuardian_Reaver_Named_05\"\u003eAncientGuardian_Reaver_Named_05\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Starbound",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeletonGuardian\\skeletonGuardian_var03_matGroup.mtl",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "AncientGuardian_Reaver_Named_DG_Everfall_00",
         "DisplayName": "@VC_AncientGuardian_Reaver_Named_DG_Everfall_00",
         "Icon": "",
@@ -3882,6 +3930,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_AncientGuardian_Spearman_13WF02a\"\u003eAncientGuardian_Spearman_13WF02a\u003c/string\u003e",
         "GroupVitalsCategoryId": "Northstar",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeletonGuardian\\skeletonGuardian_matGroup.mtl",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "AncientGuardian_Spearman_13WF02b",
+        "DisplayName": "@VC_AncientGuardian_Spearman_13WF02b",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_AncientGuardian_Spearman_13WF02b\"\u003eAncientGuardian_Spearman_13WF02b\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Starbound",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeletonGuardian\\skeletonGuardian_matGroup.mtl",
@@ -6234,6 +6294,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Blight_Fiend_13WF02a\"\u003eBlight_Fiend_13WF02a\u003c/string\u003e",
         "GroupVitalsCategoryId": "Invasive",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Blight_Fiend_13WF02b",
+        "DisplayName": "@VC_Blight_Fiend_13WF02b",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Blight_Fiend_13WF02b\"\u003eBlight_Fiend_13WF02b\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Proliferating",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -9348,6 +9420,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Corrupted_Ogre_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Corrupted_Ogre_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Corrupted_Ogre_DG_ShatterMtn_00\"\u003eCorrupted_Ogre_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Corrupted_Ogre_Named_03GC03_ELITE",
         "DisplayName": "@VC_Corrupted_Ogre_Named_03GC03_ELITE",
         "Icon": "",
@@ -9402,6 +9486,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Corrupted_Ogre_Named_DG_Restless_00\"\u003eCorrupted_Ogre_Named_DG_Restless_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Corrupted_Ogre_Named_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Corrupted_Ogre_Named_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Corrupted_Ogre_Named_DG_ShatterMtn_00\"\u003eCorrupted_Ogre_Named_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": true,
         "IsDynamicPoiTarget": true,
         "MtlOverride": "",
@@ -9852,6 +9948,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Corruption_Heavy_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Corruption_Heavy_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Corruption_Heavy_DG_ShatterMtn_00\"\u003eCorruption_Heavy_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Corruption_Heavy_MSQ",
         "DisplayName": "@VC_Corruption_Heavy_MSQ",
         "Icon": "",
@@ -9918,6 +10026,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Corruption_Heavy_Named_DG_Restless_01\"\u003eCorruption_Heavy_Named_DG_Restless_01\u003c/string\u003e",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Corruption_Heavy_Named_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Corruption_Heavy_Named_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Corruption_Heavy_Named_DG_ShatterMtn_00\"\u003eCorruption_Heavy_Named_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Myrkgard",
         "IsNamed": true,
         "IsDynamicPoiTarget": true,
         "MtlOverride": "",
@@ -10374,6 +10494,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Corruption_Swarmer_DG_Restless_00\"\u003eCorruption_Swarmer_DG_Restless_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Corruption_Swarmer_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Corruption_Swarmer_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Corruption_Swarmer_DG_ShatterMtn_00\"\u003eCorruption_Swarmer_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -11652,6 +11784,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Damned_1H_Swordsman_M-F_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_1H_Swordsman_M-F_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_1H_Swordsman_M-F_DG_ShatterMtn_00\"\u003eDamned_1H_Swordsman_M-F_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Damned_1H_Swordsman_M-F_MSQ_35",
         "DisplayName": "@VC_Damned_1H_Swordsman_M-F_MSQ_35",
         "Icon": "",
@@ -11734,6 +11878,18 @@
         "IsDynamicPoiTarget": null,
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\hard\\male_damnedHard_var02_matGroup.mtl",
         "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\hard\\female_damnedHard_var02_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Damned_2H_Spearman_M-F_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_2H_Spearman_M-F_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_2H_Spearman_M-F_DG_ShatterMtn_00\"\u003eDamned_2H_Spearman_M-F_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Damned_2H_Spearman_M-F_Named_DG_Restless_00",
@@ -11988,6 +12144,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Damned_Acolyte_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Acolyte_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Acolyte_DG_ShatterMtn_00\"\u003eDamned_Acolyte_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Damned_Acolyte_DT1",
         "DisplayName": "@VC_Damned_Acolyte_DT1",
         "Icon": "",
@@ -12102,6 +12270,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Acolyte_Named_FR_Cov_01\"\u003eDamned_Acolyte_Named_FR_Cov_01\u003c/string\u003e",
         "GroupVitalsCategoryId": "",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Acolyte_Named_03GC06_MSQ",
+        "DisplayName": "@VC_Damned_Acolyte_Named_03GC06_MSQ",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Acolyte_Named_03GC06_MSQ\"\u003eDamned_Acolyte_Named_03GC06_MSQ\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Frontwatch",
         "IsNamed": true,
         "IsDynamicPoiTarget": true,
         "MtlOverride": "",
@@ -12366,6 +12546,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Axeman_M-F_DG_Restless_00\"\u003eDamned_Axeman_M-F_DG_Restless_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Axeman_M-F_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Axeman_M-F_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Axeman_M-F_DG_ShatterMtn_00\"\u003eDamned_Axeman_M-F_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -12744,6 +12936,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Damned_Bowman_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Bowman_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Bowman_DG_ShatterMtn_00\"\u003eDamned_Bowman_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Damned_Bowman_M-F_03GC07",
         "DisplayName": "@VC_Damned_Bowman_M-F_03GC07",
         "Icon": "",
@@ -13104,6 +13308,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Damned_Cultist_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Cultist_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Cultist_DG_ShatterMtn_00\"\u003eDamned_Cultist_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Damned_Cultist_DT1",
         "DisplayName": "@VC_Damned_Cultist_DT1",
         "Icon": "",
@@ -13169,18 +13385,6 @@
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Cultist_DT6\"\u003eDamned_Cultist_DT6\u003c/string\u003e",
-        "GroupVitalsCategoryId": "",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "",
-        "FemaleMtlOverride": ""
-    },
-    {
-        "VitalsCategoryID": "Damned_Cultist_GC_1132_Coy",
-        "DisplayName": "@VC_Damned_Cultist_GC_1132_Coy",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Cultist_GC_1132_Coy\"\u003eDamned_Cultist_GC_1132_Coy\u003c/string\u003e",
         "GroupVitalsCategoryId": "",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
@@ -13368,6 +13572,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Damned_GreatAxeman_M-F_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_GreatAxeman_M-F_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_GreatAxeman_M-F_DG_ShatterMtn_00\"\u003eDamned_GreatAxeman_M-F_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Damned_GreatAxeman_M-F_Named_01",
         "DisplayName": "@VC_Damned_GreatAxeman_M-F_Named_01",
         "Icon": "",
@@ -13378,6 +13594,30 @@
         "IsDynamicPoiTarget": true,
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\hard\\male_damnedHard_var03_matGroup.mtl",
         "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\hard\\female_damnedHard_var03_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Damned_GreatAxeman_M-F_Named_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_GreatAxeman_M-F_Named_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_GreatAxeman_M-F_Named_DG_ShatterMtn_00\"\u003eDamned_GreatAxeman_M-F_Named_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_GreatAxeman_M-F_Named_DG_ShatterMtn_01",
+        "DisplayName": "@VC_Damned_GreatAxeman_M-F_Named_DG_ShatterMtn_01",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_GreatAxeman_M-F_Named_DG_ShatterMtn_01\"\u003eDamned_GreatAxeman_M-F_Named_DG_ShatterMtn_01\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Damned_Greataxeman_M-F_Named_FR_Mar_01",
@@ -13422,6 +13662,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Grunt_DG_Restless_00\"\u003eDamned_Grunt_DG_Restless_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Grunt_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Grunt_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Grunt_DG_ShatterMtn_00\"\u003eDamned_Grunt_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -13824,6 +14076,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Damned_Hound_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Hound_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Hound_DG_ShatterMtn_00\"\u003eDamned_Hound_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Damned_Hound_Named_00",
         "DisplayName": "@VC_Damned_Hound_Named_00",
         "Icon": "",
@@ -13868,18 +14132,6 @@
         "GroupVitalsCategoryId": "Shipyard",
         "IsNamed": true,
         "IsDynamicPoiTarget": true,
-        "MtlOverride": "",
-        "FemaleMtlOverride": ""
-    },
-    {
-        "VitalsCategoryID": "Damned_Hound_Named_MD_Digby",
-        "DisplayName": "@VC_Damned_Hound_Named_MD_Digby",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Hound_Named_MD_Digby\"\u003eDamned_Hound_Named_MD_Digby\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Wardog",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
         "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
@@ -14088,6 +14340,18 @@
         "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\leather\\female_damnedLeather_var01_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Damned_Pistoleer_Female_Named_03GC06_MSQ",
+        "DisplayName": "@VC_Damned_Pistoleer_Female_Named_03GC06_MSQ",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Pistoleer_Female_Named_03GC06_MSQ\"\u003eDamned_Pistoleer_Female_Named_03GC06_MSQ\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Frontwatch",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\leather\\male_damnedleather_var03_matgroup.mtl",
+        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\leather\\female_damnedLeather_var03_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "Damned_Pistoleer_M-F_03GC07",
         "DisplayName": "@VC_Damned_Pistoleer_M-F_03GC07",
         "Icon": "",
@@ -14160,12 +14424,48 @@
         "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\leather\\female_damnedLeather_var01_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Damned_Pistoleer_M-F_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Pistoleer_M-F_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Pistoleer_M-F_DG_ShatterMtn_00\"\u003eDamned_Pistoleer_M-F_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Pistoleer_M-F_Named_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Pistoleer_M-F_Named_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Pistoleer_M-F_Named_DG_ShatterMtn_00\"\u003eDamned_Pistoleer_M-F_Named_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Damned_Priest",
         "DisplayName": "@VC_Damned_Priest",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Priest\"\u003eDamned_Priest\u003c/string\u003e",
         "GroupVitalsCategoryId": "BASE",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Priest_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Priest_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Priest_DG_ShatterMtn_00\"\u003eDamned_Priest_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -14226,6 +14526,30 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Priest_Named_DG_Restless_00\"\u003eDamned_Priest_Named_DG_Restless_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Priest_Named_DG_ShatterMtn_00_01",
+        "DisplayName": "@VC_Damned_Priest_Named_DG_ShatterMtn_00_01",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Priest_Named_DG_ShatterMtn_00_01\"\u003eDamned_Priest_Named_DG_ShatterMtn_00_01\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Priest_Named_DG_ShatterMtn_00_02",
+        "DisplayName": "@VC_Damned_Priest_Named_DG_ShatterMtn_00_02",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Priest_Named_DG_ShatterMtn_00_02\"\u003eDamned_Priest_Named_DG_ShatterMtn_00_02\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": true,
         "IsDynamicPoiTarget": true,
         "MtlOverride": "",
@@ -14340,28 +14664,16 @@
         "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var01_matGroup.mtl"
     },
     {
-        "VitalsCategoryID": "Damned_Rifleman_MD_Named_Coy",
-        "DisplayName": "@VC_Damned_Rifleman_MD_Named_Coy",
+        "VitalsCategoryID": "Damned_Rifleman_Male_Named_03GC06_MSQ",
+        "DisplayName": "@VC_Damned_Rifleman_Male_Named_03GC06_MSQ",
         "Icon": "",
         "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Rifleman_MD_Named_Coy\"\u003eDamned_Rifleman_MD_Named_Coy\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Wardog",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var01_matGroup.mtl",
-        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var01_matGroup.mtl"
-    },
-    {
-        "VitalsCategoryID": "Damned_Rifleman_MD_Named_Digby",
-        "DisplayName": "@VC_Damned_Rifleman_MD_Named_Digby",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Rifleman_MD_Named_Digby\"\u003eDamned_Rifleman_MD_Named_Digby\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Wardog",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var01_matGroup.mtl",
-        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var01_matGroup.mtl"
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Rifleman_Male_Named_03GC06_MSQ\"\u003eDamned_Rifleman_Male_Named_03GC06_MSQ\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Frontwatch",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var03_matGroup.mtl",
+        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var03_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Damned_Rifleman_M-F_03GC08",
@@ -14580,6 +14892,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Damned_Rifleman_M-F_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Rifleman_M-F_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Rifleman_M-F_DG_ShatterMtn_00\"\u003eDamned_Rifleman_M-F_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Damned_Spearman",
         "DisplayName": "@VC_Damned_Spearman",
         "Icon": "",
@@ -14705,6 +15029,18 @@
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_AxeThrower_F_Named_00\"\u003eDamned_Villager_AxeThrower_F_Named_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Villager_AxeThrower_F_Named_06SW08",
+        "DisplayName": "@VC_Damned_Villager_AxeThrower_F_Named_06SW08",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_AxeThrower_F_Named_06SW08\"\u003eDamned_Villager_AxeThrower_F_Named_06SW08\u003c/string\u003e",
         "GroupVitalsCategoryId": "",
         "IsNamed": true,
         "IsDynamicPoiTarget": true,
@@ -15096,6 +15432,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Damned_Villager_AxeThrower_M-F_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Villager_AxeThrower_M-F_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_AxeThrower_M-F_DG_ShatterMtn_00\"\u003eDamned_Villager_AxeThrower_M-F_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Damned_Villager_Cleaver_02BW05",
         "DisplayName": "@VC_Damned_Villager_Cleaver_02BW05",
         "Icon": "",
@@ -15324,6 +15672,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Damned_Villager_Cleaver_11MD10a",
+        "DisplayName": "@VC_Damned_Villager_Cleaver_11MD10a",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Cleaver_11MD10a\"\u003eDamned_Villager_Cleaver_11MD10a\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Rite",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Damned_Villager_Cleaver_13WF05",
         "DisplayName": "@VC_Damned_Villager_Cleaver_13WF05",
         "Icon": "",
@@ -15414,6 +15774,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Cleaver_DG_Restless_00\"\u003eDamned_Villager_Cleaver_DG_Restless_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Villager_Cleaver_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Villager_Cleaver_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Cleaver_DG_ShatterMtn_00\"\u003eDamned_Villager_Cleaver_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -15701,7 +16073,7 @@
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Hammer_11MD10a\"\u003eDamned_Villager_Hammer_11MD10a\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Wardog",
+        "GroupVitalsCategoryId": "Rite",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -15948,24 +16320,24 @@
         "FemaleMtlOverride": ""
     },
     {
-        "VitalsCategoryID": "Damned_Villager_Hammer_Named_00",
-        "DisplayName": "@VC_Damned_Villager_Hammer_Named_00",
+        "VitalsCategoryID": "Damned_Villager_Hammer_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Villager_Hammer_DG_ShatterMtn_00",
         "Icon": "",
         "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Hammer_Named_00\"\u003eDamned_Villager_Hammer_Named_00\u003c/string\u003e",
-        "GroupVitalsCategoryId": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Hammer_DG_ShatterMtn_00\"\u003eDamned_Villager_Hammer_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
-        "VitalsCategoryID": "Damned_Villager_Hammer_Named_Digby",
-        "DisplayName": "@VC_Damned_Villager_Hammer_Named_Digby",
+        "VitalsCategoryID": "Damned_Villager_Hammer_Named_00",
+        "DisplayName": "@VC_Damned_Villager_Hammer_Named_00",
         "Icon": "",
         "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Hammer_Named_Digby\"\u003eDamned_Villager_Hammer_Named_Digby\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Wardog",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Hammer_Named_00\"\u003eDamned_Villager_Hammer_Named_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -17153,7 +17525,7 @@
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Pickaxe_11MD10a\"\u003eDamned_Villager_Pickaxe_11MD10a\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Wardog",
+        "GroupVitalsCategoryId": "Rite",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -17454,6 +17826,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Pickaxe_DG_Restless_00\"\u003eDamned_Villager_Pickaxe_DG_Restless_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Villager_Pickaxe_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Villager_Pickaxe_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Pickaxe_DG_ShatterMtn_00\"\u003eDamned_Villager_Pickaxe_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -18258,6 +18642,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Skinning_Knife_DG_Restless_00\"\u003eDamned_Villager_Skinning_Knife_DG_Restless_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Damned_Villager_Skinning_Knife_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Damned_Villager_Skinning_Knife_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Skinning_Knife_DG_ShatterMtn_00\"\u003eDamned_Villager_Skinning_Knife_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -24780,6 +25176,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Dynasty_Heavy_08QP08_MSQ",
+        "DisplayName": "@VC_Dynasty_Heavy_08QP08_MSQ",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Heavy_08QP08_MSQ\"\u003eDynasty_Heavy_08QP08_MSQ\u003c/string\u003e",
+        "GroupVitalsCategoryId": "DynastyLanding",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Dynasty_Heavy_08QP08_ELITE",
         "DisplayName": "@VC_Dynasty_Heavy_08QP08_ELITE",
         "Icon": "",
@@ -24798,6 +25206,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Heavy_DG_Ebonscale_00\"\u003eDynasty_Heavy_DG_Ebonscale_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Shipyard",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Dynasty_Heavy_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Dynasty_Heavy_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Heavy_DG_ShatterMtn_00\"\u003eDynasty_Heavy_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -24864,6 +25284,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Dynasty_Heavy_Named_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Dynasty_Heavy_Named_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Heavy_Named_DG_ShatterMtn_00\"\u003eDynasty_Heavy_Named_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Dynasty_Maiden_08QP08",
         "DisplayName": "@VC_Dynasty_Maiden_08QP08",
         "Icon": "",
@@ -24882,6 +25314,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Maiden_DG_Ebonscale_00\"\u003eDynasty_Maiden_DG_Ebonscale_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "DynastyLanding",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Dynasty_Maiden_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Dynasty_Maiden_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Maiden_DG_ShatterMtn_00\"\u003eDynasty_Maiden_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -24954,6 +25398,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Maiden_Named_DG_Ebonscale_02\"\u003eDynasty_Maiden_Named_DG_Ebonscale_02\u003c/string\u003e",
         "GroupVitalsCategoryId": "Shipyard",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Dynasty_Maiden_Named_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Dynasty_Maiden_Named_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Maiden_Named_DG_ShatterMtn_00\"\u003eDynasty_Maiden_Named_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": true,
         "IsDynamicPoiTarget": true,
         "MtlOverride": "",
@@ -25128,6 +25584,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Dynasty_Musketeer_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Dynasty_Musketeer_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Musketeer_DG_ShatterMtn_00\"\u003eDynasty_Musketeer_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Dynasty_Musketeer_Named_08QP02",
         "DisplayName": "@VC_Dynasty_Musketeer_Named_08QP02",
         "Icon": "",
@@ -25242,6 +25710,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Spearman_DG_Ebonscale_00\"\u003eDynasty_Spearman_DG_Ebonscale_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Shipyard",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Dynasty_Spearman_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Dynasty_Spearman_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Spearman_DG_ShatterMtn_00\"\u003eDynasty_Spearman_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -25422,6 +25902,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Summoner_DG_Ebonscale_00\"\u003eDynasty_Summoner_DG_Ebonscale_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Shipyard",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Dynasty_Summoner_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Dynasty_Summoner_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Summoner_DG_ShatterMtn_00\"\u003eDynasty_Summoner_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -25698,6 +26190,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Warrior_DG_Ebonscale_00\"\u003eDynasty_Warrior_DG_Ebonscale_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Shipyard",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Dynasty_Warrior_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Dynasty_Warrior_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Warrior_DG_ShatterMtn_00\"\u003eDynasty_Warrior_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -28404,6 +28908,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Evil_Knight_Longsword_Named_02BW02",
+        "DisplayName": "@VC_Evil_Knight_Longsword_Named_02BW02",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Evil_Knight_Longsword_Named_02BW02\"\u003eEvil_Knight_Longsword_Named_02BW02\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Evil_Knight_Mace",
         "DisplayName": "@VC_Evil_Knight_Mace",
         "Icon": "",
@@ -28854,6 +29370,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Ghost_Charred_08QP07\"\u003eGhost_Charred_08QP07\u003c/string\u003e",
         "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Ghost_Charred_10WS07",
+        "DisplayName": "@VC_Ghost_Charred_10WS07",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Ghost_Charred_10WS07\"\u003eGhost_Charred_10WS07\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Anguished Warrior ",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -30258,6 +30786,30 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Ghost_Starved_10WS07\"\u003eGhost_Starved_10WS07\u003c/string\u003e",
         "GroupVitalsCategoryId": "Waterlogged Spirit",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Ghost_Starved_10WS07a",
+        "DisplayName": "@VC_Ghost_Starved_10WS07a",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Ghost_Starved_10WS07a\"\u003eGhost_Starved_10WS07a\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Soulcrushed Adventurer",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Ghost_Starved_10WS07b",
+        "DisplayName": "@VC_Ghost_Starved_10WS07b",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Ghost_Starved_10WS07b\"\u003eGhost_Starved_10WS07b\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Greed Stricken Adventurer",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -31817,6 +32369,18 @@
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Longshadow\"\u003eLongshadow\u003c/string\u003e",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Loot_Goblin",
+        "DisplayName": "@VC_Loot_Goblin",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Loot_Goblin\"\u003eLoot_Goblin\u003c/string\u003e",
         "GroupVitalsCategoryId": "BASE",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
@@ -35550,6 +36114,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Risen_Corruption_Entity_50_ELITE\"\u003eRisen_Corruption_Entity_50_ELITE\u003c/string\u003e",
         "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Risen_Corruption_Entity_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Risen_Corruption_Entity_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Risen_Corruption_Entity_DG_ShatterMtn_00\"\u003eRisen_Corruption_Entity_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -39948,6 +40524,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Skeleton_1H_Sword_13WF02c",
+        "DisplayName": "@VC_Skeleton_1H_Sword_13WF02c",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Skeleton_1H_Sword_13WF02c\"\u003eSkeleton_1H_Sword_13WF02c\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Starbound",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Skeleton_1H_Sword_13WF04",
         "DisplayName": "@VC_Skeleton_1H_Sword_13WF04",
         "Icon": "",
@@ -41640,6 +42228,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Skeleton_Archer_13WF02c",
+        "DisplayName": "@VC_Skeleton_Archer_13WF02c",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Skeleton_Archer_13WF02c\"\u003eSkeleton_Archer_13WF02c\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Starbound",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Skeleton_Archer_13WF04",
         "DisplayName": "@VC_Skeleton_Archer_13WF04",
         "Icon": "",
@@ -43152,6 +43752,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Skeleton_Crawler_13WF02c",
+        "DisplayName": "@VC_Skeleton_Crawler_13WF02c",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Skeleton_Crawler_13WF02c\"\u003eSkeleton_Crawler_13WF02c\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Starbound",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Skeleton_Crawler_13WF04",
         "DisplayName": "@VC_Skeleton_Crawler_13WF04",
         "Icon": "",
@@ -44010,6 +44622,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Skeleton_Mage_13WF02b\"\u003eSkeleton_Mage_13WF02b\u003c/string\u003e",
         "GroupVitalsCategoryId": "Greymist",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Skeleton_Mage_13WF02c",
+        "DisplayName": "@VC_Skeleton_Mage_13WF02c",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Skeleton_Mage_13WF02c\"\u003eSkeleton_Mage_13WF02c\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Starbound",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -44924,6 +45548,30 @@
         "GroupVitalsCategoryId": "BASE",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Spriggan_Corrupted_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Spriggan_Corrupted_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Spriggan_Corrupted_DG_ShatterMtn_00\"\u003eSpriggan_Corrupted_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Spriggan_Corrupted_Named_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Spriggan_Corrupted_Named_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Spriggan_Corrupted_Named_DG_ShatterMtn_00\"\u003eSpriggan_Corrupted_Named_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
         "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
@@ -46458,6 +47106,18 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Tendril_Corruption_DG_Restless_00\"\u003eTendril_Corruption_DG_Restless_00\u003c/string\u003e",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Tendril_Corruption_DG_ShatterMtn_00",
+        "DisplayName": "@VC_Tendril_Corruption_DG_ShatterMtn_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Tendril_Corruption_DG_ShatterMtn_00\"\u003eTendril_Corruption_DG_ShatterMtn_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaLair",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -54288,6 +54948,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Undead_Officer_Named_11MW06",
+        "DisplayName": "@VC_Undead_Officer_Named_11MW06",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Undead_Officer_Named_11MW06\"\u003eUndead_Officer_Named_11MW06\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Undead_Officer_Named_1524_1517_WaveEventBoss",
         "DisplayName": "@VC_Undead_Officer_Named_1524_1517_WaveEventBoss",
         "Icon": "",
@@ -54797,6 +55469,18 @@
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Undead_Pistoleer_12MB05\"\u003eUndead_Pistoleer_12MB05\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Siltboot",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\undead_pistoleer\\undead_pistoleer_matGroup.mtl",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Undead_Pistoleer_Named_12MB05",
+        "DisplayName": "@VC_Undead_Pistoleer_Named_12MB05",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Undead_Pistoleer_Named_12MB05\"\u003eUndead_Pistoleer_Named_12MB05\u003c/string\u003e",
         "GroupVitalsCategoryId": "Siltboot",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
@@ -57584,6 +58268,18 @@
         "GroupVitalsCategoryId": "",
         "IsNamed": true,
         "IsDynamicPoiTarget": true,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Withered_Brute_Named_13WF01",
+        "DisplayName": "@VC_Withered_Brute_Named_13WF01",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Withered_Brute_Named_13WF01\"\u003eWithered_Brute_Named_13WF01\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
         "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
@@ -60384,6 +61080,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Wolf_Grey_10WS07",
+        "DisplayName": "@VC_Wolf_Grey_10WS07",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Wolf_Grey_10WS07\"\u003eWolf_Grey_10WS07\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Atlantic Wolf",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Wolf_Grey_11",
         "DisplayName": "@VC_Wolf_Grey_11",
         "Icon": "",
@@ -61440,6 +62148,18 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Yeti_03GC00_Elite",
+        "DisplayName": "@VC_Yeti_03GC00_Elite",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Yeti_03GC00_Elite\"\u003eYeti_03GC00_Elite\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Yeti_Named_04NW08",
         "DisplayName": "@VC_Yeti_Named_04NW08",
         "Icon": "",
@@ -61554,6 +62274,90 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Yonas_MSQ\"\u003eYonas_MSQ\u003c/string\u003e",
         "GroupVitalsCategoryId": "BASE",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Loot_Goblin_60",
+        "DisplayName": "@VC_Loot_Goblin_60",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Loot_Goblin_60\"\u003eLoot_Goblin_60\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Withered_Swarmancer_Named_06SW08",
+        "DisplayName": "@VC_Withered_Swarmancer_Named_06SW08",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Withered_Swarmancer_Named_06SW08\"\u003eWithered_Swarmancer_Named_06SW08\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Withered_Swarmancer_Named_06SW05",
+        "DisplayName": "@VC_Withered_Swarmancer_Named_06SW05",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Withered_Swarmancer_Named_06SW05\"\u003eWithered_Swarmancer_Named_06SW05\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Withered_Swarmancer_Named_06SW01",
+        "DisplayName": "@VC_Withered_Swarmancer_Named_06SW01",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Withered_Swarmancer_Named_06SW01\"\u003eWithered_Swarmancer_Named_06SW01\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Withered_Swarmancer_Named_12MB05",
+        "DisplayName": "@VC_Withered_Swarmancer_Named_12MB05",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Withered_Swarmancer_Named_12MB05\"\u003eWithered_Swarmancer_Named_12MB05\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Withered_Swarmancer_Named_12MB05_02",
+        "DisplayName": "@VC_Withered_Swarmancer_Named_12MB05_02",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Withered_Swarmancer_Named_12MB05_02\"\u003eWithered_Swarmancer_Named_12MB05_02\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Withered_Swarmancer_Named_12MB10",
+        "DisplayName": "@VC_Withered_Swarmancer_Named_12MB10",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Withered_Swarmancer_Named_12MB10\"\u003eWithered_Swarmancer_Named_12MB10\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
