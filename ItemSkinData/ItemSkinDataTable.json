@@ -3718,5 +3718,17 @@
         "ToItemID": "Skin_Longsword_WoT",
         "Outfit": "",
         "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Head_PrimeEyes",
+        "IndexID": 365,
+        "IsEntitlement": 1,
+        "FromItemIDs": "",
+        "NeedsOneClasses": "EquippableHead",
+        "RequiredClasses": "",
+        "ExcludedClasses": "",
+        "ToItemID": "Skin_Head_PrimeEyes",
+        "Outfit": "",
+        "IsEnabled": true
     }
 ]

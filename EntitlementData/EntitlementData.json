@@ -6312,5 +6312,19 @@
         "EntitlementInfo": "",
         "SourceType": "",
         "Notes": ""
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_PurpleEyes_Twitch",
+        "EntitlementIndex": 625,
+        "IsEnabled": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsConsumable": null,
+        "Icon": "",
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Head_PrimeEyes",
+        "EntitlementInfo": "",
+        "SourceType": "Twitch",
+        "Notes": ""
     }
 ]
