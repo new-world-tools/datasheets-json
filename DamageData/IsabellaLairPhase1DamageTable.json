@@ -42,7 +42,7 @@
         "ImpactRating": 2,
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 0
     },
     {
         "DamageID": "Rapid_Stab2",
@@ -87,7 +87,7 @@
         "ImpactRating": 2,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 0
     },
     {
         "DamageID": "Rapid_Stab3",
@@ -582,7 +582,7 @@
         "ImpactRating": 2,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 0
     },
     {
         "DamageID": "SlashStab_02",
@@ -627,7 +627,7 @@
         "ImpactRating": 2,
         "BlockStaminaDmgMod": 0.35,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 0
     },
     {
         "DamageID": "SlashStab_03",
@@ -806,6 +806,51 @@
         "CritTargetCameraShakeID": "",
         "ImpactRating": 2,
         "BlockStaminaDmgMod": 1.3,
+        "BlockAbsorptionModifier": 1,
+        "StunBreakoutIncrement": 1
+    },
+    {
+        "DamageID": "Kill_Self",
+        "WeaponCategory": "Fall",
+        "IgnoreInvulnerable": 1,
+        "NoReaction": 1,
+        "SurfaceImpactEffect": "Bullet",
+        "AttackType": "",
+        "DamageType": "Falling",
+        "Affixes": "",
+        "StatusEffect": "",
+        "EffectOnlyOnDamage": "",
+        "CanCrit": null,
+        "DmgCoef": 100,
+        "DmgCoefHead": 1,
+        "DmgCoefCrit": null,
+        "PowerLevel": 2,
+        "BlockPowerLevel": 2,
+        "CritPowerLevel": "",
+        "HitStun": 0,
+        "BlockHitStun": 0,
+        "CritHitStun": "",
+        "ImpactDistanceX": 0,
+        "ImpactDistanceY": 0,
+        "ImpactDistanceZ": 0,
+        "ImpactDecayRate": 0,
+        "BlockImpactDistanceX": 0,
+        "BlockImpactDistanceY": 0,
+        "BlockImpactDistanceZ": 0,
+        "BlockImpactDecayRate": 0,
+        "CritImpactDistanceX": "",
+        "CritImpactDistanceY": "",
+        "CritImpactDistanceZ": "",
+        "CritImpactDecayRate": "",
+        "AddDmg": 10000000000000,
+        "StaggerDmgModifier": null,
+        "CritStaggerDmgModifier": "",
+        "StaggerResistModifier": null,
+        "TargetCameraShakeID": "",
+        "BlockTargetCameraShakeID": "",
+        "CritTargetCameraShakeID": "",
+        "ImpactRating": 0,
+        "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1
     },

@@ -5533,7 +5533,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": 1,
         "PotencyPerLevel": "",
         "BaseDuration": 6,
         "TickRate": 1.01,
