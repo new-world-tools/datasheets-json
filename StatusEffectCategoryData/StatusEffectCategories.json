@@ -248,5 +248,25 @@
         "PotencyModMin": null,
         "PotencyModMax": null,
         "ValueLimits": ""
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedFactionResourceMod",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "FactionReputationMod:3.0,FactionTokensMod:3.0 "
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedAzothMod",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "AzothMod:3.0"
     }
 ]

@@ -6662,5 +6662,61 @@
         "EntitlementInfo": "",
         "SourceType": "Twitch",
         "Notes": ""
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_CrimsonPlague",
+        "EntitlementIndex": 646,
+        "IsEnabled": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsConsumable": null,
+        "Icon": "",
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Adobe+Skin_Head_Adobe+Skin_Legs_Adobe+Skin_Feet_Adobe+Skin_Hands_Adobe",
+        "EntitlementInfo": "",
+        "SourceType": "Twitch",
+        "Notes": ""
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_CrimsonEdge",
+        "EntitlementIndex": 647,
+        "IsEnabled": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsConsumable": null,
+        "Icon": "",
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Longsword_CrimsonEdge",
+        "EntitlementInfo": "",
+        "SourceType": "Twitch",
+        "Notes": ""
+    },
+    {
+        "UniqueTagID": "Ent_TwitchPromo_CrimsonPlague",
+        "EntitlementIndex": 648,
+        "IsEnabled": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsConsumable": null,
+        "Icon": "",
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_CrimsonPlague",
+        "EntitlementInfo": "",
+        "SourceType": "Twitch",
+        "Notes": ""
+    },
+    {
+        "UniqueTagID": "Ent_TwitchPromo_CrimsonEdge",
+        "EntitlementIndex": 649,
+        "IsEnabled": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsConsumable": null,
+        "Icon": "",
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_CrimsonEdge",
+        "EntitlementInfo": "",
+        "SourceType": "Twitch",
+        "Notes": ""
     }
 ]
