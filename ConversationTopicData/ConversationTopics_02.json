@@ -7,5 +7,23 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0241_Prometheo_Topic1",
+        "PlayerPrompt": "@0241_Prometheo_Topic1_Prompt",
+        "NPCResponse": "@0241_Prometheo_Topic1_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0241_Prometheo_Topic2",
+        "PlayerPrompt": "@0241_Prometheo_Topic2_Prompt",
+        "NPCResponse": "@0241_Prometheo_Topic2_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
     }
 ]

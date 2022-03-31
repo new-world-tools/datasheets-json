@@ -16,5 +16,23 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Heretic_Topic1",
+        "PlayerPrompt": "@Heretic_Topic1_Prompt",
+        "NPCResponse": "@Heretic_Topic1_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "07_Quest_Isabella_04",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "FatherRusso_Topic1",
+        "PlayerPrompt": "@FatherRusso_Topic1_Prompt",
+        "NPCResponse": "@FatherRusso_Topic1_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "07_Quest_Isabella_05",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
     }
 ]

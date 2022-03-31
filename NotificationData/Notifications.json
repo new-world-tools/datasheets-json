@@ -390,6 +390,21 @@
         "NumberFields": ""
     },
     {
+        "NotificationId": "Trade_Failure_Global_Storage_Invalid_Deposit_RFI",
+        "DisplayTitle": "@ui_trade_failure",
+        "DisplayText": "@ui_trade_failure_global_storage_invalid_deposit_rfi",
+        "SecondaryText": "",
+        "IconPath": "",
+        "MaxDisplayCount": -1,
+        "NotificationType": "Minor",
+        "TrackDisplayCount": null,
+        "DurationOverride": null,
+        "CooldownSeconds": null,
+        "Keybind": "",
+        "KeybindActionmap": "",
+        "NumberFields": ""
+    },
+    {
         "NotificationId": "Enter_Warzone",
         "DisplayTitle": "@ui_notification_warzone_warning_title",
         "DisplayText": "@ui_notification_warzone_warning_description",

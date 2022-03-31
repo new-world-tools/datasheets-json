@@ -1,7 +1,7 @@
 [
     {
         "ElementalMutationId": "Hellfire_1",
-        "Name": "Hellfire",
+        "Name": "@FirTitle",
         "Description": "Fire element mutator category",
         "CategoryWildcard": "Fir",
         "ElementalDifficultyTier": 1,
@@ -15,7 +15,7 @@
     },
     {
         "ElementalMutationId": "Hellfire_2",
-        "Name": "Hellfire",
+        "Name": "@FirTitle",
         "Description": "Fire element mutator category",
         "CategoryWildcard": "Fir",
         "ElementalDifficultyTier": 2,
@@ -29,7 +29,7 @@
     },
     {
         "ElementalMutationId": "Hellfire_3",
-        "Name": "Hellfire",
+        "Name": "@FirTitle",
         "Description": "Fire element mutator category",
         "CategoryWildcard": "Fir",
         "ElementalDifficultyTier": 3,
@@ -43,7 +43,7 @@
     },
     {
         "ElementalMutationId": "Hellfire_4",
-        "Name": "Hellfire",
+        "Name": "@FirTitle",
         "Description": "Fire element mutator category",
         "CategoryWildcard": "Fir",
         "ElementalDifficultyTier": 4,
@@ -57,7 +57,7 @@
     },
     {
         "ElementalMutationId": "Eternal_1",
-        "Name": "Eternal",
+        "Name": "@VoiTitle",
         "Description": "Void element mutator category",
         "CategoryWildcard": "Voi",
         "ElementalDifficultyTier": 1,
@@ -71,7 +71,7 @@
     },
     {
         "ElementalMutationId": "Eternal_2",
-        "Name": "Eternal",
+        "Name": "@VoiTitle",
         "Description": "Void element mutator category",
         "CategoryWildcard": "Voi",
         "ElementalDifficultyTier": 2,
@@ -85,7 +85,7 @@
     },
     {
         "ElementalMutationId": "Eternal_3",
-        "Name": "Eternal",
+        "Name": "@VoiTitle",
         "Description": "Void element mutator category",
         "CategoryWildcard": "Voi",
         "ElementalDifficultyTier": 3,
@@ -99,7 +99,7 @@
     },
     {
         "ElementalMutationId": "Eternal_4",
-        "Name": "Eternal",
+        "Name": "@VoiTitle",
         "Description": "Void element mutator category",
         "CategoryWildcard": "Voi",
         "ElementalDifficultyTier": 4,

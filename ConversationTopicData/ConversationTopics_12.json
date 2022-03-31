@@ -160,5 +160,23 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1224_swordgirl_Wolf",
+        "PlayerPrompt": "@1224_swordgirl_Wolf_Prompt",
+        "NPCResponse": "@1224_swordgirl_Wolf_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "12_Quest_swordandshield_2",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1224_swordgirl_Brother",
+        "PlayerPrompt": "@1224_swordgirl_Brother_Prompt",
+        "NPCResponse": "@1224_swordgirl_Brother_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "12_Quest_swordandshield_3",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
     }
 ]

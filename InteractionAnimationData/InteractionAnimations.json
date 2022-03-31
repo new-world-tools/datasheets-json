@@ -70,6 +70,13 @@
         "Notes": "LOOPING - For Reduced Sized Bigcats"
     },
     {
+        "InteractionAnimationID": "HousingItemPetPig",
+        "PlayerMannequinFragmentStartInteraction": "Interact_Pet_Pig",
+        "InteractableTimelineStartInteraction": "Interact_Start",
+        "InteractableTimelineEndInteraction": "Interact_End",
+        "Notes": "LOOPING - Pet the Pig's Belley"
+    },
+    {
         "InteractionAnimationID": "HousingItemSitOnChair",
         "PlayerMannequinFragmentStartInteraction": "Interact_Chair",
         "InteractableTimelineStartInteraction": "Interact_Start",

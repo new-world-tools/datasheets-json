@@ -5,11 +5,6 @@
         "KeepPerks": false
     },
     {
-        "FromItemId": "ArmorerCharmT2",
-        "ToItemId": "ArmorerCharmT1",
-        "KeepPerks": false
-    },
-    {
         "FromItemId": "ChefCharmT2",
         "ToItemId": "ChefCharmT1",
         "KeepPerks": false
@@ -35,16 +30,6 @@
         "KeepPerks": false
     },
     {
-        "FromItemId": "WrithingVinesT1",
-        "ToItemId": "WrithingBriarT2",
-        "KeepPerks": false
-    },
-    {
-        "FromItemId": "WrithingVinesT2",
-        "ToItemId": "WrithingBriarT3",
-        "KeepPerks": false
-    },
-    {
         "FromItemId": "WrithingVinesT3",
         "ToItemId": "WrithingBriarT3",
         "KeepPerks": false
@@ -60,18 +45,13 @@
         "KeepPerks": false
     },
     {
-        "FromItemId": "WyrdwoodSapT2",
-        "ToItemId": "SapT2",
-        "KeepPerks": false
-    },
-    {
-        "FromItemId": "WyrdwoodSapT3",
-        "ToItemId": "SapT3",
-        "KeepPerks": false
-    },
-    {
         "FromItemId": "Schematic_House_HousingItem_Table_StoneMasonTable_B",
         "ToItemId": "Schematic_House_HousingItem_Table_DinTable_Lg_A",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "ArrowT1",
+        "ToItemId": "ArrowT2",
         "KeepPerks": false
     }
 ]

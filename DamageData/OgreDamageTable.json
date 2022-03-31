@@ -149,7 +149,7 @@
         "AttackType": "Heavy",
         "DamageType": "Strike",
         "Affixes": "",
-        "StatusEffect": "Sword_ShieldBash_Stun2",
+        "StatusEffect": "AI_Stun_2sec",
         "EffectOnlyOnDamage": true,
         "DeflectDamageID": "Deflect_Default",
         "CanCrit": false,

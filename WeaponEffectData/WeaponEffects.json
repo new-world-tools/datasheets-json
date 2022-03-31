@@ -30,6 +30,16 @@
         "Nature": "Scripts/WeaponEffects/Musket/WeaponEffect_Musket_Nature.lua"
     },
     {
+        "WeaponEffectId": "Blunderbuss",
+        "Default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+        "Fire": "Scripts/WeaponEffects/Blunderbuss/WeaponEffect_Blunderbuss_Fire.lua",
+        "Arcane": "Scripts/WeaponEffects/Blunderbuss/WeaponEffect_Blunderbuss_Magic.lua",
+        "Void": "Scripts/WeaponEffects/Blunderbuss/WeaponEffect_Blunderbuss_Void.lua",
+        "Lightning": "Scripts/WeaponEffects/Blunderbuss/WeaponEffect_Blunderbuss_Lightning.lua",
+        "Ice": "Scripts/WeaponEffects/Blunderbuss/WeaponEffect_Blunderbuss_Ice.lua",
+        "Nature": "Scripts/WeaponEffects/Blunderbuss/WeaponEffect_Blunderbuss_Nature.lua"
+    },
+    {
         "WeaponEffectId": "Spear",
         "Default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
         "Fire": "Scripts/WeaponEffects/Spear/WeaponEffect_Spear_Fire.lua",
