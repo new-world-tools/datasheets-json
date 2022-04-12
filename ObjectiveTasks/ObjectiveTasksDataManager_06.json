@@ -5281,7 +5281,7 @@
     },
     {
         "TaskID": "0605_0101_d_05_TaskHaveItems_1_1hSwordT2",
-        "Type": "TaskHaveItems",
+        "Type": "TaskHaveItemsWithWeaponFamily",
         "FailOnCondition": "",
         "StayActive": "",
         "TargetQty": 1,
@@ -5299,7 +5299,7 @@
         "ShouldCheckPoints": null,
         "GuranteedDropAttempts": null,
         "TargetThreshold": null,
-        "CraftingRecipeId": "",
+        "CraftingRecipeId": "SwordAbilityTable",
         "CraftAnyRecipe": "",
         "InteractTag": "",
         "UIScreenTag": "",
@@ -8333,8 +8333,8 @@
         "CommunityGoalTag": "",
         "HideChildren": "",
         "TriggerAnalyticsEvent": "",
-        "SubTask1": "0609_0101_d_02_01_kill_20_Corrupted",
-        "SubTask2": "0609_0101_d_02_02_TaskHaveAndReturnItems_12_CorruptedOre_corrupted_farm_2_40103",
+        "SubTask1": "0609_0101_d_02_02_TaskHaveAndReturnItems_12_CorruptedOre_corrupted_farm_2_40103",
+        "SubTask2": "0609_0101_d_02_03_TaskHaveAndReturnItems_5_ConsecratedOil_corrupted_farm_2_40103",
         "SubTask3": "0609_0101_d_02_04_kill_Named",
         "SubTask4": "",
         "SubTask5": ""

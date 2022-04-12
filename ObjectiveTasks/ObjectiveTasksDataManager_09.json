@@ -6196,7 +6196,7 @@
     },
     {
         "TaskID": "0905_0101_d_05_HaveItems_1_1hSwordT2",
-        "Type": "TaskHaveItems",
+        "Type": "TaskHaveItemsWithWeaponFamily",
         "FailOnCondition": "",
         "StayActive": "",
         "TargetQty": 1,
@@ -6213,7 +6213,7 @@
         "ShouldCheckPoints": null,
         "GuranteedDropAttempts": "",
         "TargetThreshold": "",
-        "CraftingRecipeId": "",
+        "CraftingRecipeId": "SwordAbilityTable",
         "CraftAnyRecipe": "",
         "InteractTag": "",
         "UIScreenTag": "",

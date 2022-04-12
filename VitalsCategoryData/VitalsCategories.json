@@ -10584,18 +10584,6 @@
         "FemaleMtlOverride": ""
     },
     {
-        "VitalsCategoryID": "Corruption_Swarmer_Sulfur_16BS06",
-        "DisplayName": "@VC_Corruption_Swarmer_Sulfur_16BS06",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Corruption_Swarmer_Sulfur_16BS06\"\u003eCorruption_Swarmer_Sulfur_16BS06\u003c/string\u003e",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\sulfurMan\\sulfurMan_matGroup.mtl",
-        "FemaleMtlOverride": ""
-    },
-    {
         "VitalsCategoryID": "Corsairs_Rise",
         "DisplayName": "@VC_Corsairs_Rise",
         "Icon": "",
@@ -15396,18 +15384,6 @@
         "FemaleMtlOverride": ""
     },
     {
-        "VitalsCategoryID": "Damned_Villager_AxeThrower_M-F_53_16BS08c",
-        "DisplayName": "@VC_Damned_Villager_AxeThrower_M-F_53_16BS08c",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_AxeThrower_M-F_53_16BS08c\"\u003eDamned_Villager_AxeThrower_M-F_53_16BS08c\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Skerryshiv",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "",
-        "FemaleMtlOverride": ""
-    },
-    {
         "VitalsCategoryID": "Damned_Villager_AxeThrower_M-F_59_ELITE",
         "DisplayName": "@VC_Damned_Villager_AxeThrower_M-F_59_ELITE",
         "Icon": "",
@@ -17136,18 +17112,6 @@
         "FemaleMtlOverride": ""
     },
     {
-        "VitalsCategoryID": "Damned_Villager_LumberAxe_16BS08a",
-        "DisplayName": "@VC_Damned_Villager_LumberAxe_16BS08a",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_LumberAxe_16BS08a\"\u003eDamned_Villager_LumberAxe_16BS08a\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Warrift",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "",
-        "FemaleMtlOverride": ""
-    },
-    {
         "VitalsCategoryID": "Damned_Villager_LumberAxe_25",
         "DisplayName": "@VC_Damned_Villager_LumberAxe_25",
         "Icon": "",
@@ -18216,54 +18180,6 @@
         "FemaleMtlOverride": ""
     },
     {
-        "VitalsCategoryID": "Damned_Villager_Shovel_16BS07b",
-        "DisplayName": "@VC_Damned_Villager_Shovel_16BS07b",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Shovel_16BS07b\"\u003eDamned_Villager_Shovel_16BS07b\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Redeye",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "",
-        "FemaleMtlOverride": ""
-    },
-    {
-        "VitalsCategoryID": "Damned_Villager_Shovel_16BS08a",
-        "DisplayName": "@VC_Damned_Villager_Shovel_16BS08a",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Shovel_16BS08a\"\u003eDamned_Villager_Shovel_16BS08a\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Redeye",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "",
-        "FemaleMtlOverride": ""
-    },
-    {
-        "VitalsCategoryID": "Damned_Villager_Shovel_16BS08b",
-        "DisplayName": "@VC_Damned_Villager_Shovel_16BS08b",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Shovel_16BS08b\"\u003eDamned_Villager_Shovel_16BS08b\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Highpass",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "",
-        "FemaleMtlOverride": ""
-    },
-    {
-        "VitalsCategoryID": "Damned_Villager_Shovel_16BS08c",
-        "DisplayName": "@VC_Damned_Villager_Shovel_16BS08c",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Shovel_16BS08c\"\u003eDamned_Villager_Shovel_16BS08c\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Wardog",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "",
-        "FemaleMtlOverride": ""
-    },
-    {
         "VitalsCategoryID": "Damned_Villager_Shovel_40",
         "DisplayName": "@VC_Damned_Villager_Shovel_40",
         "Icon": "",
@@ -19101,54 +19017,6 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
-        "FemaleMtlOverride": ""
-    },
-    {
-        "VitalsCategoryID": "Desert_Dryad_Beast",
-        "DisplayName": "@VC_Desert_Dryad_Beast",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Desert_Dryad_Beast\"\u003eDesert_Dryad_Beast\u003c/string\u003e",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_beast\\dryad_beast_var03_matGroup.mtl",
-        "FemaleMtlOverride": ""
-    },
-    {
-        "VitalsCategoryID": "Desert_Dryad_Shaman",
-        "DisplayName": "@VC_Desert_Dryad_Shaman",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Desert_Dryad_Shaman\"\u003eDesert_Dryad_Shaman\u003c/string\u003e",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_shaman\\shaman_main_var03_matGroup.mtl",
-        "FemaleMtlOverride": ""
-    },
-    {
-        "VitalsCategoryID": "Desert_Dryad_Soldier",
-        "DisplayName": "@VC_Desert_Dryad_Soldier",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Desert_Dryad_Soldier\"\u003eDesert_Dryad_Soldier\u003c/string\u003e",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var03_matGroup.mtl",
-        "FemaleMtlOverride": ""
-    },
-    {
-        "VitalsCategoryID": "Desert_Swamp_Dryad_Shaman",
-        "DisplayName": "@VC_Desert_Swamp_Dryad_Shaman",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Desert_Swamp_Dryad_Shaman\"\u003eDesert_Swamp_Dryad_Shaman\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Generic",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_swamp_shaman\\dryad_swamp_shamanmirror_mat_matgroup.mtl",
         "FemaleMtlOverride": ""
     },
     {
@@ -31308,12 +31176,12 @@
         "FemaleMtlOverride": ""
     },
     {
-        "VitalsCategoryID": "Ghost_Starved_DG_Cutlass_00",
-        "DisplayName": "@VC_Ghost_Starved_DG_Cutlass_00",
+        "VitalsCategoryID": "Ghost_Starved_DG_Windsward_00",
+        "DisplayName": "@VC_Ghost_Starved_DG_Windsward_00",
         "Icon": "",
         "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Ghost_Starved_DG_Cutlass_00\"\u003eGhost_Starved_DG_Cutlass_00\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Black_Flag",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Ghost_Starved_DG_Windsward_00\"\u003eGhost_Starved_DG_Windsward_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Star_Excavation",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "MtlOverride": "",
@@ -39245,18 +39113,6 @@
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Scorchvein\"\u003eScorchvein\u003c/string\u003e",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "MtlOverride": "",
-        "FemaleMtlOverride": ""
-    },
-    {
-        "VitalsCategoryID": "Scorpion",
-        "DisplayName": "@VC_Scorpion",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Scorpion\"\u003eScorpion\u003c/string\u003e",
         "GroupVitalsCategoryId": "BASE",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,

@@ -14608,6 +14608,22 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+        "#": 20316,
+        "WeaponID": "Skin_VoidGauntlet_FateFortune",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/GauntletCore/1h/voidgauntletFateFortune/wep_mag_gauntcore_1h_voidgauntletFateFortune.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/GauntletCore/1h/voidgauntletFateFortune/wep_mag_gauntcore_1h_voidgauntletFateFortune.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletFateFortune/wep_mag_gaunt_1h_voidgauntletFateFortune_matGroup.mtl",
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
         "#": 20317,
         "WeaponID": "1hGauntletVoid_BlackguardsVoidGauntletT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",

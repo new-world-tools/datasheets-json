@@ -672,18 +672,6 @@
         "Description": "@Greataxe_GroupDesc"
     },
     {
-        "CategoryID": "1hClub",
-        "ImagePath": "Icons/Items/Drawing/1hClub",
-        "DisplayText": "@1hClub_GroupName",
-        "Description": "@1hClub_GroupDesc"
-    },
-    {
-        "CategoryID": "2hClub",
-        "ImagePath": "Icons/Items/Drawing/2hClub",
-        "DisplayText": "@2hClub_GroupName",
-        "Description": "@2hClub_GroupDesc"
-    },
-    {
         "CategoryID": "SpearA",
         "ImagePath": "Icons/Items/Drawing/bowA",
         "DisplayText": "@SpearA_GroupName",
@@ -1240,12 +1228,6 @@
         "ImagePath": "Icons/Items/Drawing/placeholder_square",
         "DisplayText": "@CategoryData_MealsAbsorption",
         "Description": ""
-    },
-    {
-        "CategoryID": "CelestialGauntlet",
-        "ImagePath": "Icons/Items/Drawing/celestialGauntlet_square",
-        "DisplayText": "@CelestialGauntlet_GroupName",
-        "Description": "@CelestialGauntlet_GroupDesc"
     },
     {
         "CategoryID": "CampWeapons",
@@ -5139,6 +5121,18 @@
         "CategoryID": "TimelessShardsCon",
         "ImagePath": "",
         "DisplayText": "@TimelessShardsCon",
+        "Description": ""
+    },
+    {
+        "CategoryID": "EventConsumables",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_EventConsumables",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ConsumableLuck",
+        "ImagePath": "status/luckBonus",
+        "DisplayText": "@ConsumableLuck_GroupName",
         "Description": ""
     }
 ]
