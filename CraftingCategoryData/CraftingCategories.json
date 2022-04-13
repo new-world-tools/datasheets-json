@@ -5140,5 +5140,17 @@
         "ImagePath": "",
         "DisplayText": "@TimelessShardsCon",
         "Description": ""
+    },
+    {
+        "CategoryID": "EventConsumables",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_EventConsumables",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ConsumableLuck",
+        "ImagePath": "status/luckBonus",
+        "DisplayText": "@ConsumableLuck_GroupName",
+        "Description": ""
     }
 ]
