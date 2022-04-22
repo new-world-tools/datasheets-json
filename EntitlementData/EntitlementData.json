@@ -7166,5 +7166,19 @@
         "EntitlementInfo": "",
         "SourceType": "Twitch",
         "Notes": ""
+    },
+    {
+        "UniqueTagID": "EntitlementTitle_Warmonger",
+        "EntitlementIndex": 667,
+        "IsEnabled": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsConsumable": null,
+        "Icon": "",
+        "RewardType": "PlayerTitle",
+        "Reward(s)": "PlayerTitle_Warmonger",
+        "EntitlementInfo": "",
+        "SourceType": "",
+        "Notes": ""
     }
 ]

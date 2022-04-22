@@ -243,7 +243,7 @@
         "StatusID": "Rapier_Riposte_Timer",
         "DisplayName": "@Status_Timer",
         "Description": "",
-        "EffectCategories": "Uninterruptible",
+        "EffectCategories": "Uninterruptible+IgnoreDebuffs",
         "PlaceholderIcon": "",
         "ShowInUITray": "0",
         "ShowTextInDamageNumbers": false,

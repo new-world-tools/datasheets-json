@@ -3106,5 +3106,19 @@
         "CategoricalProgressionId": "",
         "RequiredCategoricalProgressionLevel": null,
         "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Warmonger",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Special_Achievements",
+        "TitleMale": "@ui_playertitle_special_warmonger",
+        "TitleFemale": "@ui_playertitle_special_warmonger_SHE",
+        "TitleNeutral": "@ui_playertitle_special_warmonger_THEY",
+        "Description": "@ui_playertitle_warmonger_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
     }
 ]
