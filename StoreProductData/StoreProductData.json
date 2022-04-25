@@ -2211,6 +2211,17 @@
         "TypeDescription": "@reward_type_Weaponskin_Musket"
     },
     {
+        "UniqueTagID": "Weapon_Blunderbuss_AngelsDemons",
+        "IsEnabled": 1,
+        "DisplayName": "@Weapon_Blunderbuss_AngelsDemons_name",
+        "Description": "@Weapon_Blunderbuss_AngelsDemons_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_AngelsAndDemons_Blunderbuss.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_AngelsAndDemons_Blunderbuss.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_AngelsAndDemons_Blunderbuss.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_AngelsAndDemons_Blunderbuss.png",
+        "TypeDescription": "@reward_type_Weaponskin_Blunderbuss"
+    },
+    {
         "UniqueTagID": "Weapon_TowerShield_AngelsDemons",
         "IsEnabled": 1,
         "DisplayName": "@Weapon_TowerShield_AngelsDemons_name",
@@ -2475,6 +2486,28 @@
         "TypeDescription": "@reward_type_campskin"
     },
     {
+        "UniqueTagID": "CampSkin_Fortune01_A",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Fortune01_A_MasterName",
+        "Description": "@CampSkin_Fortune01_A_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Fortune01.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Fortune01.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Fortune01.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Fortune01.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "CampSkin_Fortune02_A",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Fortune02_A_MasterName",
+        "Description": "@CampSkin_Fortune02_A_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Fortune02.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Fortune02.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Fortune02.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Fortune02.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
         "UniqueTagID": "Bundle_Decor_Floral",
         "IsEnabled": 1,
         "DisplayName": "@Bundle_Decor_Floral_name",
@@ -2649,5 +2682,159 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Love2022_BearRug.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Love2022_BearRug.png",
         "TypeDescription": "@reward_type_housing_item"
+    },
+    {
+        "UniqueTagID": "Weapon_FateFortune_ShieldT",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_ShieldT_FateFortune_MasterName",
+        "Description": "@Skin_ShieldT_FateFortune_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FortuneAndFaith_TowerShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FortuneAndFaith_TowerShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FortuneAndFaith_TowerShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FortuneAndFaith_TowerShield.png",
+        "TypeDescription": "@reward_type_Weaponskin_Shield"
+    },
+    {
+        "UniqueTagID": "Weapon_FateFortune_Spear",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Spear_FateFortune_MasterName",
+        "Description": "@Skin_Spear_FateFortune_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FortuneAndFaith_Spear.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FortuneAndFaith_Spear.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FortuneAndFaith_Spear.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FortuneAndFaith_Spear.png",
+        "TypeDescription": "@reward_type_Weaponskin_Spear"
+    },
+    {
+        "UniqueTagID": "Weapon_FateFortune_Hatchet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Hatchet_FateFortune_MasterName",
+        "Description": "@Skin_Hatchet_FateFortune_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FortuneAndFaith_ThrowingAxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FortuneAndFaith_ThrowingAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FortuneAndFaith_ThrowingAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FortuneAndFaith_ThrowingAxe.png",
+        "TypeDescription": "@reward_type_Weaponskin_Hatchet"
+    },
+    {
+        "UniqueTagID": "Weapon_FateFortune_LifeStaff",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Lifestaff_FateFortune_MasterName",
+        "Description": "@Skin_Lifestaff_FateFortune_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FortuneAndFaith_LifeStaff.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FortuneAndFaith_LifeStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FortuneAndFaith_LifeStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FortuneAndFaith_LifeStaff.png",
+        "TypeDescription": "@reward_type_Weaponskin_LifeStaff"
+    },
+    {
+        "UniqueTagID": "Weapon_FateFortune_VoidGauntlet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_VoidGauntlet_FateFortune_MasterName",
+        "Description": "@Skin_VoidGauntlet_FateFortune_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FortuneAndFaith_VoidGauntlet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FortuneAndFaith_VoidGauntlet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FortuneAndFaith_VoidGauntlet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FortuneAndFaith_VoidGauntlet.png",
+        "TypeDescription": "@reward_type_Weaponskin_VoidGauntlet"
+    },
+    {
+        "UniqueTagID": "Weapon_FateFortune_Blunderbuss",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Blunderbuss_FateFortune_MasterName",
+        "Description": "@Skin_Blunderbuss_FateFortune_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FortuneAndFaith_Blunderbuss.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FortuneAndFaith_Blunderbuss.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FortuneAndFaith_Blunderbuss.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FortuneAndFaith_Blunderbuss.png",
+        "TypeDescription": "@reward_type_Weaponskin_Blunderbuss"
+    },
+    {
+        "UniqueTagID": "Apparel_FateFortune_FortuneTellerL",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_FateFortune_FortuneTellerL_name",
+        "Description": "@Apparel_FateFortune_FortuneTellerL_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_FateFortuneteller.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_FateFortuneteller.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_FateFortuneteller.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_FateFortuneteller.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Bundle_Tool_FateFortune",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Tool_FateFortune_name",
+        "Description": "@Bundle_Tool_FateFortune_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/tool_Portrait_FortuneAndFaith.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/tool_Rectangle_FortuneAndFaith.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/tool_Square_FortuneAndFaith.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/tool_Thumbnail_FortuneAndFaith.png",
+        "TypeDescription": "@reward_type_Toolskin_Set"
+    },
+    {
+        "UniqueTagID": "Emote_RoastMarshmallow",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_RoastMarshmallow_name",
+        "Description": "@ui_emote_RoastMarshmallow_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_RoastingMarshmallow.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_RoastingMarshmallow.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_RoastingMarshmallow.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_RoastingMarshmallow.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_HotFan",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_HotFan_name",
+        "Description": "@ui_emote_HotFan_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Fan.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Fan.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Fan.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Fan.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_BackAtYa",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_RightBackAtYa_name",
+        "Description": "@ui_emote_RightBackAtYa_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_FingerGuns.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_FingerGuns.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_FingerGuns.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_FingerGuns.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Bundle_Decor_FateFortune",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Decor_FateFortune_name",
+        "Description": "@Bundle_Decor_FateFortune_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_FateFortune2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_FateFortune2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_FateFortune2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_FateFortune2022.png",
+        "TypeDescription": "@reward_type_Housing_Set"
+    },
+    {
+        "UniqueTagID": "Pet_FateFortune_Pig",
+        "IsEnabled": 1,
+        "DisplayName": "@House_HousingItem_Pet_Entitlement_Pig_Fortune_MasterName",
+        "Description": "@House_HousingItem_Pet_Entitlement_Pig_Fortune_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_Pig_Fortune.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Rectangle_Pig_Fortune.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_Pig_Fortune.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Thumbnail_Pig_Fortune.png",
+        "TypeDescription": "@reward_type_house_pet"
+    },
+    {
+        "UniqueTagID": "Apparel_FateFortune_SteampunkH",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_FateFortune_SteampunkH_name",
+        "Description": "@Apparel_FateFortune_SteampunkH_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_FateFortuneSteampunk.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_FateFortuneSteampunk.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_FateFortuneSteampunk.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_FateFortuneSteampunk.png",
+        "TypeDescription": "@reward_type_Apparelskin"
     }
 ]
