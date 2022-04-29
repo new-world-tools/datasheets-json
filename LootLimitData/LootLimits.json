@@ -1,7 +1,7 @@
 [
     {
         "LootLimitID": "ORGypsum",
-        "IsItem": "FALSE",
+        "IsReplicated": false,
         "MinLimitSeconds": 840,
         "MaxLimitSeconds": 900,
         "CountLimit": 2,
@@ -11,7 +11,7 @@
     },
     {
         "LootLimitID": "GypsumBlue",
-        "IsItem": "FALSE",
+        "IsReplicated": false,
         "MinLimitSeconds": 170,
         "MaxLimitSeconds": 180,
         "CountLimit": 2,
@@ -21,7 +21,7 @@
     },
     {
         "LootLimitID": "PostCapGypsum",
-        "IsItem": "FALSE",
+        "IsReplicated": false,
         "MinLimitSeconds": 3500,
         "MaxLimitSeconds": 3600,
         "CountLimit": 1,
@@ -31,7 +31,7 @@
     },
     {
         "LootLimitID": "GypsumBlack",
-        "IsItem": "FALSE",
+        "IsReplicated": false,
         "MinLimitSeconds": 300,
         "MaxLimitSeconds": 390,
         "CountLimit": 3,
@@ -41,17 +41,17 @@
     },
     {
         "LootLimitID": "GypsumYellow",
-        "IsItem": "FALSE",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
-        "CountLimit": 10,
+        "CountLimit": 5,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800
     },
     {
         "LootLimitID": "ArenaGypsum",
-        "IsItem": "FALSE",
+        "IsReplicated": false,
         "MinLimitSeconds": 3500,
         "MaxLimitSeconds": 3600,
         "CountLimit": 1,
@@ -61,7 +61,7 @@
     },
     {
         "LootLimitID": "BreachGypsum",
-        "IsItem": "FALSE",
+        "IsReplicated": false,
         "MinLimitSeconds": 30,
         "MaxLimitSeconds": 30,
         "CountLimit": 7,
@@ -71,7 +71,7 @@
     },
     {
         "LootLimitID": "WCGoldLockboxT1",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -81,7 +81,7 @@
     },
     {
         "LootLimitID": "GypsumGreen",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 1,
@@ -91,7 +91,7 @@
     },
     {
         "LootLimitID": "GypsumRed",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 2,
@@ -101,7 +101,7 @@
     },
     {
         "LootLimitID": "GypsumPurple",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 7,
@@ -111,7 +111,7 @@
     },
     {
         "LootLimitID": "GypsumOrange",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 2,
@@ -121,7 +121,7 @@
     },
     {
         "LootLimitID": "GypsumWhite",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -131,7 +131,7 @@
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL1",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -141,7 +141,7 @@
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL10",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -151,7 +151,7 @@
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL20",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -161,7 +161,7 @@
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL30",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -171,7 +171,7 @@
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL40",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -181,7 +181,7 @@
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL50",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -191,7 +191,7 @@
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL60",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -201,7 +201,7 @@
     },
     {
         "LootLimitID": "RabbitSeasonTotem",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 5,
@@ -211,7 +211,7 @@
     },
     {
         "LootLimitID": "House_HousingItem_Storage_T4_ChestRabbit",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 1,
@@ -221,7 +221,7 @@
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL1",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -231,7 +231,7 @@
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL10",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -241,7 +241,7 @@
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL20",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -251,7 +251,7 @@
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL30",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -261,7 +261,7 @@
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL40",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -271,7 +271,7 @@
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL50",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -281,7 +281,7 @@
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL60",
-        "IsItem": "1",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,

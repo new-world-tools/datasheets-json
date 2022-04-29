@@ -11,6 +11,17 @@
         "BackgroundColor": "68,86,60"
     },
     {
+        "PromotionMutationId": "Barbaric",
+        "Promotion1": "Mut_StaminaDamage_1_Buff",
+        "Promotion2": "Mut_StaminaDamage_2_Buff",
+        "Promotion3": "Mut_Enrage_Buff",
+        "Name": "@BarbaricTitle",
+        "Description": "@BarbaricDescription",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_barbaric.dds",
+        "TextColor": "185,133,221",
+        "BackgroundColor": "80,47,114"
+    },
+    {
         "PromotionMutationId": "Indomitable",
         "Promotion1": "Mut_LifeSteal_1_Buff",
         "Promotion2": "Mut_LifeSteal_2_Buff",

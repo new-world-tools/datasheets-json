@@ -19,7 +19,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0401_0102_campandtools_success",
@@ -41,7 +42,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0401_0103_boarproblem_success",
@@ -63,7 +65,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0401_0104_xmarksthespot_p1_success",
@@ -85,7 +88,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0401_0107_preciouscargo_success",
@@ -107,7 +111,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0401_0108_introtosettlement_success",
@@ -129,7 +134,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0425_0101_truffles_success",
@@ -151,7 +157,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 2,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0401_0108_warnmagistrate_success",
@@ -173,7 +180,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0406_0103_hearthandhome_success",
@@ -195,7 +203,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0406_0101_intrototrader_success",
@@ -217,7 +226,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0403_0102_introtooverseer_success",
@@ -239,7 +249,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0404_0104_overseersettlement_success",
@@ -261,7 +272,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0404_0103_introtoartificer_success",
@@ -283,7 +295,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0405_0101_craftforartificer_success",
@@ -305,7 +318,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0405_0102_campingunlock_success",
@@ -327,7 +341,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0403_0201_survivalistquest_success",
@@ -349,7 +364,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0403_0201_survivalistquest_V2_success",
@@ -371,7 +387,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0403_0102_returntomagistrate_success",
@@ -393,7 +410,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0402_0202_introtoallfactions_success",
@@ -415,7 +433,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0409_0103_timetochoose_success",
@@ -437,7 +456,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0407_0101_marauderquest1_success",
@@ -459,7 +479,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0408_0101_syndicatequest1_success",
@@ -481,7 +502,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0409_0101_covenantquest1_success",
@@ -503,7 +525,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0402_0401_factionhandoff_success",
@@ -525,7 +548,8 @@
         "EmitTelemetry": true,
         "AzothReward": "100",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0404_0501_encroachingcorruption_success",
@@ -547,7 +571,8 @@
         "EmitTelemetry": true,
         "AzothReward": "100",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0422_1501_intrototravel_success",
@@ -569,7 +594,8 @@
         "EmitTelemetry": true,
         "AzothReward": "500",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": true
+        "IgnoreEconomyTracker": true,
+        "PVPXP": null
     },
     {
         "EventID": "0422_1502_returntravel_success",
@@ -591,7 +617,8 @@
         "EmitTelemetry": true,
         "AzothReward": "10",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0410_0414_Rabbit_Success",
@@ -613,7 +640,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0410_0406_TopOfArcturus_Success",
@@ -635,7 +663,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0410_0407_OpeningSupply_Success",
@@ -657,7 +686,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0410_0408_Reclaiming_Success",
@@ -679,7 +709,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0405_0404_ArtificersQuarry_Success",
@@ -701,7 +732,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0405_0415_Ebenrock_Success",
@@ -723,7 +755,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0402_0413_Renee_Success",
@@ -745,7 +778,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0403_0405_AncientProblems_Success",
@@ -767,7 +801,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0404_0402_BreakingDay_Success",
@@ -789,7 +824,8 @@
         "EmitTelemetry": true,
         "AzothReward": "10",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0404_0403_WhatCameBefore_Success",
@@ -811,7 +847,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0402_0401_EnemyOfMyEnemy_Success",
@@ -833,7 +870,8 @@
         "EmitTelemetry": true,
         "AzothReward": "10",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0402_0502_Tainting_Success",
@@ -855,7 +893,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0411_0409_StarsAsOurGuide_Success",
@@ -877,7 +916,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0411_0410_UnderStars_Success",
@@ -899,7 +939,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0411_0411_LedByStars_Success",
@@ -921,7 +962,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0411_0101_Constellation_Success",
@@ -943,7 +985,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0411_0412_Center_Success",
@@ -965,7 +1008,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0411_0413_Amrine_success",
@@ -987,7 +1031,8 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0411_0414_Shattered_success",
@@ -1009,7 +1054,31 @@
         "EmitTelemetry": true,
         "AzothReward": "20",
         "AzothRewardChance": 1,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
+    },
+    {
+        "EventID": "0430_0101_Arena_success",
+        "GameEventType": "",
+        "Level": 20,
+        "CreatureType": "Quest+",
+        "UniversalExpAmount": 1800,
+        "CurrencyReward": 8750,
+        "ItemReward": "QuestRewardArmorL20",
+        "RewardNotes": "",
+        "GearScoreRange": null,
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": null,
+        "TerritoryStanding": 250,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": "20",
+        "AzothRewardChance": 1,
+        "IgnoreEconomyTracker": null,
+        "PVPXP": 2000
     },
     {
         "EventID": "0404_MSQ_AllThatRemainsGather4_success",
@@ -1031,7 +1100,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 0,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0404_MSQ_AllThatRemainsGather5_success",
@@ -1053,7 +1123,8 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 0,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0402_GruelBarrel_interact",
@@ -1075,7 +1146,8 @@
         "EmitTelemetry": true,
         "AzothReward": "",
         "AzothRewardChance": 0,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0405_GlowingOre_interact_success",
@@ -1097,7 +1169,8 @@
         "EmitTelemetry": true,
         "AzothReward": "#N/A",
         "AzothRewardChance": 0,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0411_Armillary_interact_success",
@@ -1119,7 +1192,8 @@
         "EmitTelemetry": true,
         "AzothReward": "",
         "AzothRewardChance": 0,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0404_CorruptedNoduleA_interact",
@@ -1141,7 +1215,8 @@
         "EmitTelemetry": true,
         "AzothReward": "",
         "AzothRewardChance": 0,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0404_CorruptedNoduleB_interact",
@@ -1163,7 +1238,8 @@
         "EmitTelemetry": true,
         "AzothReward": "",
         "AzothRewardChance": 0,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0404_CorruptedNoduleC_interact",
@@ -1185,7 +1261,8 @@
         "EmitTelemetry": true,
         "AzothReward": "",
         "AzothRewardChance": 0,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "0404_CorruptedNoduleD_interact",
@@ -1207,7 +1284,8 @@
         "EmitTelemetry": true,
         "AzothReward": "",
         "AzothRewardChance": 0,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     },
     {
         "EventID": "IO_0403_0201_AlphaLure_interact",
@@ -1229,6 +1307,7 @@
         "EmitTelemetry": true,
         "AzothReward": "0",
         "AzothRewardChance": 0,
-        "IgnoreEconomyTracker": null
+        "IgnoreEconomyTracker": null,
+        "PVPXP": null
     }
 ]

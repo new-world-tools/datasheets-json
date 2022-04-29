@@ -16,9 +16,17 @@
         "Comments": ""
     },
     {
+        "FactionControlBuffID": "Progression_Global_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "@ui_progression_global_modifier_name",
+        "Description": "@ui_progression_global_modifier_desc",
+        "Comments": "Percentage increase to global experience (combat, tradeskill, mastery, territory)"
+    },
+    {
         "FactionControlBuffID": "Azoth_FastTravel_GeneralCost_Reduction",
         "IsTerritoryBuff": false,
-        "Value": 0.5,
+        "Value": 1,
         "Name": "@ui_azoth_fasttravel_generalcost_reduction_name",
         "Description": "@ui_azoth_fasttravel_generalcost_reduction_desc",
         "Comments": "Implemented as a reduction of the azoth base travel cost used in calculating total cost (set by stack config 'javelin.housing.fast-travel-settlement-cost')"
@@ -80,6 +88,14 @@
         "Comments": ""
     },
     {
+        "FactionControlBuffID": "Taxes_Global_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "@ui_taxes_global_modifier_name",
+        "Description": "@ui_taxes_global_modifier_desc",
+        "Comments": "Percentage decrease to global taxes for members of that faction."
+    },
+    {
         "FactionControlBuffID": "Rewards_FactionMission_Modifier",
         "IsTerritoryBuff": false,
         "Value": 0.05,
@@ -118,5 +134,77 @@
         "Name": "@ui_gathering_volume_modifier_name",
         "Description": "@ui_gathering_volume_modifier_desc",
         "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Gathering_Luck_Roll_Bonus",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "@ui_gathering_luck_roll_bonus_name",
+        "Description": "@ui_gathering_luck_roll_bonus_desc",
+        "Comments": "Percentage bonus to gathering luck"
+    },
+    {
+        "FactionControlBuffID": "Crafting_Refining_Yield_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "@ui_crafting_refining_yield_modifier_name",
+        "Description": "@ui_crafting_refining_yield_modifier_desc",
+        "Comments": "Percentage bonus to global refining yield"
+    },
+    {
+        "FactionControlBuffID": "Crafting_Max_GS_Bonus",
+        "IsTerritoryBuff": false,
+        "Value": 5,
+        "Name": "@ui_crafting_max_gs_bonus_name",
+        "Description": "@ui_crafting_max_gs_bonus_desc",
+        "Comments": "GS bonus for crafting rolls (ceiling, not floor.)"
+    },
+    {
+        "FactionControlBuffID": "Azoth_Salt_Yield_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "@ui_azoth_salt_yield_modifier_name",
+        "Description": "@ui_azoth_salt_yield_modifier_desc",
+        "Comments": "Percentage increase to yield from Azoth Salt gains"
+    },
+    {
+        "FactionControlBuffID": "Pvp_Track_Exp_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "@ui_pvp_track_exp_modifier_name",
+        "Description": "@ui_pvp_track_exp_modifier_desc",
+        "Comments": "Percentage increase to experience gained in PvP Rewards track"
+    },
+    {
+        "FactionControlBuffID": "Chance_Consumable_Not_Used",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "@ui_chance_consumable_not_used_name",
+        "Description": "@ui_chance_consumable_not_used_desc",
+        "Comments": "Percentage chance to not consume a consumable on use."
+    },
+    {
+        "FactionControlBuffID": "Road_Movement_Speed_Bonus",
+        "IsTerritoryBuff": false,
+        "Value": 0,
+        "Name": "",
+        "Description": "",
+        "Comments": "Not approved for use, consider removing if will not be reworked"
+    },
+    {
+        "FactionControlBuffID": "Faction_Store_Discount_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "@ui_faction_store_discount_modifier_name",
+        "Description": "@ui_faction_store_discount_modifier_desc",
+        "Comments": "Percentage decrease to costs for objects in the faction store"
+    },
+    {
+        "FactionControlBuffID": "Free_Camping",
+        "IsTerritoryBuff": false,
+        "Value": 1,
+        "Name": "@ui_free_camping_name",
+        "Description": "@ui_free_camping_desc",
+        "Comments": "Enables free camping (no resource requirement)"
     }
 ]

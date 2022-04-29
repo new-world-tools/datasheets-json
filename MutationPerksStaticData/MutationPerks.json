@@ -18,6 +18,24 @@
         "Description": "@FirDescription"
     },
     {
+        "ElementalMutationTypeId": "Nat",
+        "InjectedPerkBucket1": "",
+        "InjectedPerkBucketWeight1": "",
+        "InjectedPerkBucket2": "PerkBucket_MutatorNature",
+        "InjectedPerkBucketWeight2": "",
+        "InjectedPerkBucket3": "",
+        "InjectedPerkBucketWeight3": "",
+        "InjectedPerkBucket4": "",
+        "InjectedPerkBucketWeight4": "",
+        "InjectedPerkBucket5": "",
+        "InjectedPerkBucketWeight5": "",
+        "InjectedCreatureLoot": "MutatorLoot_Nature",
+        "InjectedContainerLoot": "MutatorLoot_Nature",
+        "InjectedLootTags": "Nature",
+        "Name": "@NatTitle",
+        "Description": "@NatDescription"
+    },
+    {
         "ElementalMutationTypeId": "Voi",
         "InjectedPerkBucket1": "",
         "InjectedPerkBucketWeight1": "",

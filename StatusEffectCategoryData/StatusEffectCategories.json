@@ -1,8 +1,8 @@
 [
     {
         "StatusEffectCategoryID": "Stun",
-        "DurationDiminishingMod": -0.2,
-        "DurationModMin": -0.8,
+        "DurationDiminishingMod": -0.5,
+        "DurationModMin": -1,
         "DurationModMax": 0,
         "PotencyDiminishingMod": 0,
         "PotencyModMin": 0,
@@ -21,8 +21,8 @@
     },
     {
         "StatusEffectCategoryID": "Root",
-        "DurationDiminishingMod": -0.2,
-        "DurationModMin": -0.8,
+        "DurationDiminishingMod": -0.5,
+        "DurationModMin": -1,
         "DurationModMax": 0,
         "PotencyDiminishingMod": 0,
         "PotencyModMin": 0,
@@ -77,7 +77,7 @@
         "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": "DMGStandard:1.5,DMGSiege:1.5,DMGStrike:1.5,DMGSlash:1.5,DMGThrust:1.5,DMGArcane:1.5,DMGFire:1.5,DMGIce:1.5,DMGNature:1.5,DMGLightning:1.5,DMGCorruption:1.5"
+        "ValueLimits": "DMGStandard:5,DMGSiege:5,DMGStrike:5,DMGSlash:5,DMGThrust:5,DMGArcane:5,DMGFire:5,DMGIce:5,DMGNature:5,DMGLightning:5,DMGCorruption:5"
     },
     {
         "StatusEffectCategoryID": "Disease",
@@ -165,8 +165,8 @@
         "DurationModMin": null,
         "DurationModMax": null,
         "PotencyDiminishingMod": 0,
-        "PotencyModMin": null,
-        "PotencyModMax": null,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
         "ValueLimits": ""
     },
     {
@@ -184,60 +184,60 @@
         "DurationDiminishingMod": null,
         "DurationModMin": null,
         "DurationModMax": null,
-        "PotencyDiminishingMod": 0,
+        "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": ""
+        "ValueLimits": "MoveSpeedMod:-1,SprintSpeedMod:-1"
     },
     {
         "StatusEffectCategoryID": "UnclampedRend",
         "DurationDiminishingMod": null,
         "DurationModMin": null,
         "DurationModMax": null,
-        "PotencyDiminishingMod": 0,
+        "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": ""
+        "ValueLimits": "ABSStandard:-1.0,ABSSiege:-1.0,ABSStrike:-1.0,ABSSlash:-1.0,ABSThrust:-1.0,ABSArcane:-1.0,ABSFire:-1.0,ABSIce:-1.0,ABSNature:-1.0,ABSLightning:-1.0,ABSCorruption:-1.0"
     },
     {
         "StatusEffectCategoryID": "UnclampedFortify",
         "DurationDiminishingMod": null,
         "DurationModMin": null,
         "DurationModMax": null,
-        "PotencyDiminishingMod": 0,
+        "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": ""
+        "ValueLimits": "ABSStandard:5.0,ABSSiege:5.0,ABSStrike:5.0,ABSSlash:5.0,ABSThrust:5.0,ABSArcane:5.0,ABSFire:5.0,ABSIce:5.0,ABSNature:5.0,ABSLightning:5.0,ABSCorruption:5.0"
     },
     {
         "StatusEffectCategoryID": "UnclampedWeaken",
         "DurationDiminishingMod": null,
         "DurationModMin": null,
         "DurationModMax": null,
-        "PotencyDiminishingMod": 0,
+        "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": ""
+        "ValueLimits": "DMGStandard:0,DMGSiege:0,DMGStrike:0,DMGSlash:0,DMGThrust:0,DMGArcane:0,DMGFire:0,DMGIce:0,DMGNature:0,DMGLightning:0,DMGCorruption:0"
     },
     {
         "StatusEffectCategoryID": "UnclampedEmpower",
         "DurationDiminishingMod": null,
         "DurationModMin": null,
         "DurationModMax": null,
-        "PotencyDiminishingMod": 0,
+        "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": ""
+        "ValueLimits": "DMGStandard:5.0,DMGSiege:5.0,DMGStrike:5.0,DMGSlash:5.0,DMGThrust:5.0,DMGArcane:5.0,DMGFire:5.0,DMGIce:5.0,DMGNature:5.0,DMGLightning:5.0,DMGCorruption:5.0"
     },
     {
         "StatusEffectCategoryID": "UnclampedDisease",
         "DurationDiminishingMod": null,
         "DurationModMin": null,
         "DurationModMax": null,
-        "PotencyDiminishingMod": 0,
+        "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": ""
+        "ValueLimits": "HealMod:-1.0"
     },
     {
         "StatusEffectCategoryID": "UnclampedHaste",
@@ -245,8 +245,8 @@
         "DurationModMin": null,
         "DurationModMax": null,
         "PotencyDiminishingMod": 0,
-        "PotencyModMin": null,
-        "PotencyModMax": null,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
         "ValueLimits": ""
     },
     {
@@ -268,5 +268,15 @@
         "PotencyModMin": null,
         "PotencyModMax": null,
         "ValueLimits": "AzothMod:3.0"
+    },
+    {
+        "StatusEffectCategoryID": "FishingBuff",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "FishingLineStrength:3.0,FishSizeRollModifier:3.0,FishRarityRollModifier:3.0,SummerFishRarityRollModifier:3.0"
     }
 ]

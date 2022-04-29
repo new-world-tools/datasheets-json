@@ -304,5 +304,17 @@
         "Parent Category": "",
         "Index": 51,
         "Title": "@ui_player_titles_section_label_test_only"
+    },
+    {
+        "MetaAchievementCategoryId": "PvP_Arenas",
+        "Parent Category": "",
+        "Index": 52,
+        "Title": "@ui_meta_achievements_pvp_arenas"
+    },
+    {
+        "MetaAchievementCategoryId": "PvP_Rewards_Track",
+        "Parent Category": "",
+        "Index": 53,
+        "Title": "@ui_meta_achievements_pvp_rewards_track"
     }
 ]

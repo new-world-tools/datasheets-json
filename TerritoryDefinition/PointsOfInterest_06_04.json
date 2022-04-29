@@ -27,7 +27,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60402,
@@ -57,7 +58,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60403,
@@ -87,7 +89,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60404,
@@ -117,7 +120,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60405,
@@ -147,7 +151,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60406,
@@ -177,7 +182,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60407,
@@ -207,7 +213,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60408,
@@ -237,7 +244,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60409,
@@ -267,7 +275,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60410,
@@ -297,7 +306,8 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60411,
@@ -327,7 +337,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60412,
@@ -357,7 +368,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60413,
@@ -387,7 +399,8 @@
         "Containers": "",
         "TooltipBackground": "",
         "GameMode": "",
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 60414,
@@ -417,6 +430,7 @@
         "Containers": "",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
-        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
+        "EventId": ""
     }
 ]

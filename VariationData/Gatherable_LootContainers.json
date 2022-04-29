@@ -14,7 +14,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T1_M",
@@ -31,7 +32,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T1_S",
@@ -48,7 +50,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesSmall_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T2_L",
@@ -65,7 +68,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T2_M",
@@ -82,7 +86,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T2_S",
@@ -99,7 +104,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesSmall_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T3_L",
@@ -116,7 +122,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T3_M",
@@ -133,7 +140,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T3_S",
@@ -150,7 +158,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesSmall_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T1_L",
@@ -167,7 +176,8 @@
         "Idle_VFX": "Loot.Crate_tall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T1_M",
@@ -184,7 +194,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T2_L",
@@ -201,7 +212,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T2_M",
@@ -218,7 +230,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T3_L",
@@ -235,7 +248,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T3_M",
@@ -252,7 +266,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Ancient_T1_L",
@@ -269,7 +284,8 @@
         "Idle_VFX": "Loot.Chest_big_closed01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Ancient_T1_M",
@@ -286,7 +302,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Ancient_T1_S",
@@ -303,7 +320,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientSmall_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Ancient_T2_L",
@@ -320,7 +338,8 @@
         "Idle_VFX": "Loot.Chest_big_closed01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Ancient_T2_M",
@@ -337,7 +356,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Ancient_T2_S",
@@ -354,7 +374,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientSmall_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Ancient_T3_L",
@@ -371,7 +392,8 @@
         "Idle_VFX": "Loot.Chest_big_closed01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Ancient_T3_M",
@@ -388,7 +410,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Ancient_T3_S",
@@ -405,7 +428,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientSmall_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T1_L",
@@ -422,7 +446,8 @@
         "Idle_VFX": "Loot.Crate_tall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T1_M",
@@ -439,7 +464,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T2_L",
@@ -456,7 +482,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T2_M",
@@ -473,7 +500,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T3_L",
@@ -490,7 +518,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T3_M",
@@ -507,7 +536,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T1_L",
@@ -524,7 +554,8 @@
         "Idle_VFX": "Loot.Crate_tall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T1_M",
@@ -541,7 +572,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T2_L",
@@ -558,7 +590,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T2_M",
@@ -575,7 +608,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T3_L",
@@ -592,7 +626,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T3_M",
@@ -609,7 +644,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "ChestEliteAncientT2",
@@ -626,7 +662,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Ancient_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "ChestEliteAncientT3",
@@ -643,7 +680,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Ancient_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "ChestEliteAncientT4",
@@ -660,7 +698,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Ancient_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "ChestEliteAncientT5",
@@ -677,7 +716,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Ancient_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "ChestEliteT2",
@@ -694,7 +734,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Supplies_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "ChestEliteT3",
@@ -711,7 +752,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Supplies_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "ChestEliteT4",
@@ -728,7 +770,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Supplies_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "ChestEliteT5",
@@ -745,7 +788,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Supplies_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Darkness_StarterPack",
@@ -762,7 +806,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@Darkness_StarterPack_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Engineering_T1_L",
@@ -779,7 +824,8 @@
         "Idle_VFX": "Loot.Crate_tall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Engineering_T1_M",
@@ -796,7 +842,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Engineering_T2_L",
@@ -813,7 +860,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Engineering_T2_M",
@@ -830,7 +878,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Engineering_T3_L",
@@ -847,7 +896,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Engineering_T3_M",
@@ -864,7 +914,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Farmland_T1_L",
@@ -881,7 +932,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Farmland_T1_M",
@@ -898,7 +950,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Farmland_T2_L",
@@ -915,7 +968,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Farmland_T2_M",
@@ -932,7 +986,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Farmland_T3_L",
@@ -949,7 +1004,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Farmland_T3_M",
@@ -966,7 +1022,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "FTUE_Backstory",
@@ -983,7 +1040,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_FTUE_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "LootableAzoth",
@@ -1000,7 +1058,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_LootableAzoth_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T1_L",
@@ -1017,7 +1076,8 @@
         "Idle_VFX": "Loot.Crate_tall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T1_M",
@@ -1034,7 +1094,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T2_L",
@@ -1051,7 +1112,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T2_M",
@@ -1068,7 +1130,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T3_L",
@@ -1085,7 +1148,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T3_M",
@@ -1102,7 +1166,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T1_L",
@@ -1119,7 +1184,8 @@
         "Idle_VFX": "Loot.Crate_tall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T1_M",
@@ -1136,7 +1202,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T2_L",
@@ -1153,7 +1220,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T2_M",
@@ -1170,7 +1238,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T3_L",
@@ -1187,7 +1256,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T3_M",
@@ -1204,7 +1274,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Settlement_Flux",
@@ -1221,7 +1292,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Flux_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Settlement_Honey",
@@ -1238,7 +1310,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Honey_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Settlement_Sandpaper",
@@ -1255,7 +1328,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Sandpaper_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Settlement_Solvent",
@@ -1272,7 +1346,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Solvent_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Settlement_Tannin",
@@ -1289,7 +1364,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Tannin_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Settlement_Water",
@@ -1306,7 +1382,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Water_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Smelting_T1_L",
@@ -1323,7 +1400,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Smelting_T1_M",
@@ -1340,7 +1418,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Smelting_T2_L",
@@ -1357,7 +1436,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Smelting_T2_M",
@@ -1374,7 +1454,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Smelting_T3_L",
@@ -1391,7 +1472,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Smelting_T3_M",
@@ -1408,7 +1490,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Tanning_T1_L",
@@ -1425,7 +1508,8 @@
         "Idle_VFX": "Loot.Crate_tall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Tanning_T1_M",
@@ -1442,7 +1526,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Tanning_T2_L",
@@ -1459,7 +1544,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Tanning_T2_M",
@@ -1476,7 +1562,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Tanning_T3_L",
@@ -1493,7 +1580,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Tanning_T3_M",
@@ -1510,7 +1598,8 @@
         "Idle_VFX": "Loot.Crate_tall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Weaving_T1_L",
@@ -1527,7 +1616,8 @@
         "Idle_VFX": "Loot.Chest_xbig01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Weaving_T1_M",
@@ -1544,7 +1634,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Weaving_T2_L",
@@ -1561,7 +1652,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Weaving_T2_M",
@@ -1578,7 +1670,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Weaving_T3_L",
@@ -1595,7 +1688,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Weaving_T3_M",
@@ -1612,7 +1706,8 @@
         "Idle_VFX": "Loot.Crate_small01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "World_Water",
@@ -1629,7 +1724,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4.2,
         "Name": "@LootContainer_Settlement_Water_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T1_S_Outpost",
@@ -1646,7 +1742,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesSmall_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "DG_Amrine_Grunt",
@@ -1663,7 +1760,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 3.5,
         "Name": "@DG_Amrine_Grunt_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "DG_Amrine_ChestCandle",
@@ -1680,7 +1778,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@DG_Amrine_ChestCandle_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "DG_Reekwater_Chest",
@@ -1697,7 +1796,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "DG_RestlessShores01_Chest",
@@ -1714,7 +1814,8 @@
         "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "BeachFireStaffChest",
@@ -1731,7 +1832,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "BeachGreataxeChest",
@@ -1748,7 +1850,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "WeaponsChestBeach",
@@ -1765,7 +1868,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@LootContainer_WeaponsChestBeach_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "TownCart_Iron",
@@ -1782,7 +1886,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@TownCart_Iron_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "TownCart_Lumber",
@@ -1799,7 +1904,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@TownCart_Lumber_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "TownCart_Fiber",
@@ -1816,7 +1922,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@TownCart_Fiber_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "TownCart_Hide",
@@ -1833,7 +1940,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@TownCart_Hide_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "TownCart_Food",
@@ -1850,7 +1958,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@TownCart_Food_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "TownCart_Oil",
@@ -1867,7 +1976,8 @@
         "Idle_VFX": "Loot.Chest_big_open01",
         "MarkerRadius": 4,
         "Name": "@TownCart_Oil_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Town_Cow",
@@ -1884,7 +1994,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@Town_Cow_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Town_Cow_FL",
@@ -1901,7 +2012,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@Town_Cow_FL_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Town_Cow_MB",
@@ -1918,7 +2030,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@Town_Cow_MB_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Town_Cow_WW",
@@ -1935,7 +2048,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@Town_Cow_WW_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Town_Cow_RS",
@@ -1952,7 +2066,8 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@Town_Cow_RS_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     },
     {
         "VariantID": "Town_Cow_MD",
@@ -1969,6 +2084,7 @@
         "Idle_VFX": "Loot.Chest_big_peek01",
         "MarkerRadius": 4,
         "Name": "@Town_Cow_MD_DisplayName",
-        "LoS_Override": null
+        "LoS_Override": null,
+        "MarkerOffset_Z": null
     }
 ]

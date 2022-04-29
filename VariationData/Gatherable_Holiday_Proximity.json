@@ -1,0 +1,33 @@
+[
+    {
+        "VariantID": "TEMP",
+        "Visual_Healthy": "",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "",
+        "GatheringRadius": 1,
+        "InteractionRadius": 2.25,
+        "DetectableRadius": 1.5,
+        "MarkerRadius": 4,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "AudioPreload_idle": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "Prototype.Buff_absorb_continuous",
+        "IdleVFX_Offset_Z": "",
+        "DepletedVFX": "Prototype.Buff_pushout_oneoff",
+        "depletedVFX_Offset_Z": 0,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": "",
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "ShowOnCompass": 1,
+        "CompassIcon": "",
+        "TradeskillIconUnlockType": ""
+    }
+]

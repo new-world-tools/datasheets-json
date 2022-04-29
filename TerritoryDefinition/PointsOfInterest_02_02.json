@@ -28,7 +28,8 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_ImperialPalace.png",
         "GameMode": "",
         "GroupSize": 3,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 20202,
@@ -59,7 +60,8 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_portal.png",
         "GameMode": "",
         "GroupSize": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 20203,
@@ -90,7 +92,8 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_NorthPalaceShrine.png",
         "GameMode": "",
         "GroupSize": 3,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 20204,
@@ -121,7 +124,8 @@
         "TooltipBackground": "LyShineui/images/map/tooltipimages/mapTooltip_DungeonEbonscale00.png",
         "GameMode": "DungeonEbonscale00",
         "GroupSize": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 20205,
@@ -152,7 +156,8 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
         "GroupSize": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 20206,
@@ -183,7 +188,8 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": "",
         "GroupSize": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 20207,
@@ -214,7 +220,8 @@
         "TooltipBackground": "LyShineui/images/map/tooltipimages/mapTooltip_DungeonEbonscale00.png",
         "GameMode": "DungeonEbonscale00",
         "GroupSize": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 20208,
@@ -245,7 +252,8 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
         "GroupSize": null,
-        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
+        "EventId": ""
     },
     {
         "TerritoryID": 20209,
@@ -276,6 +284,7 @@
         "TooltipBackground": "LyShineui/images/map/tooltipimages/mapTooltip_DungeonEbonscale00.png",
         "GameMode": "",
         "GroupSize": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     }
 ]

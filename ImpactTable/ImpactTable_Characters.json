@@ -36,7 +36,7 @@
         "Sun": "DebugTest",
         "MageArcaneShield": "DebugTest",
         "RockNPC": "DebugTest",
-        "Upyr": ""
+        "Upyr": "DebugTest"
     },
     {
         "Name": "Unarmed",
@@ -75,7 +75,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
-        "Upyr": ""
+        "Upyr": "UnarmedDefault"
     },
     {
         "Name": "Unarmed+Crit",
@@ -114,7 +114,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
-        "Upyr": ""
+        "Upyr": "UnarmedDefault"
     },
     {
         "Name": "Unarmed+Resist",
@@ -153,7 +153,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "Sword",
@@ -192,7 +192,7 @@
         "Sun": "SwordSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordRockNPC",
-        "Upyr": ""
+        "Upyr": "SwordDefault"
     },
     {
         "Name": "Sword_Fleche",
@@ -231,7 +231,7 @@
         "Sun": "SwordFleche",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordFleche",
-        "Upyr": ""
+        "Upyr": "SwordFleche"
     },
     {
         "Name": "Sword+Resist",
@@ -270,7 +270,7 @@
         "Sun": "SwordResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordResist",
-        "Upyr": ""
+        "Upyr": "SwordResist"
     },
     {
         "Name": "Sword+Fire+Resist",
@@ -309,7 +309,7 @@
         "Sun": "SwordResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordResist",
-        "Upyr": ""
+        "Upyr": "SwordResist"
     },
     {
         "Name": "Sword+Fire",
@@ -348,7 +348,7 @@
         "Sun": "SwordFireGeneric",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordFireGeneric",
-        "Upyr": ""
+        "Upyr": "SwordFire"
     },
     {
         "Name": "Sword+Crit",
@@ -387,7 +387,7 @@
         "Sun": "SwordSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "SwordDefaultCrit"
     },
     {
         "Name": "Club",
@@ -426,7 +426,7 @@
         "Sun": "ClubSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubRockNPC",
-        "Upyr": ""
+        "Upyr": "ClubDefault"
     },
     {
         "Name": "ClubSpriggan",
@@ -465,7 +465,7 @@
         "Sun": "ClubSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubRockNPC",
-        "Upyr": ""
+        "Upyr": "ClubDefault"
     },
     {
         "Name": "ClubSpriggan+Resist",
@@ -504,7 +504,7 @@
         "Sun": "ClubResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubResist",
-        "Upyr": ""
+        "Upyr": "ClubResist"
     },
     {
         "Name": "Club+Resist",
@@ -543,7 +543,7 @@
         "Sun": "ClubResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubResist",
-        "Upyr": ""
+        "Upyr": "ClubResist"
     },
     {
         "Name": "Club+Crit",
@@ -582,7 +582,7 @@
         "Sun": "ClubSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "ClubDefaultCrit"
     },
     {
         "Name": "Axe",
@@ -621,7 +621,7 @@
         "Sun": "AxeSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AxeRockNPC",
-        "Upyr": ""
+        "Upyr": "AxeDefault"
     },
     {
         "Name": "Axe_Throw",
@@ -660,7 +660,7 @@
         "Sun": "AxeSunThrow",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AxeRockNPCThrow",
-        "Upyr": ""
+        "Upyr": "AxeDefaultThrow"
     },
     {
         "Name": "Axe+Resist",
@@ -699,7 +699,7 @@
         "Sun": "AxeResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AxeResist",
-        "Upyr": ""
+        "Upyr": "AxeResist"
     },
     {
         "Name": "Axe+Crit",
@@ -738,7 +738,7 @@
         "Sun": "SwordSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "AxeDefaultCrit"
     },
     {
         "Name": "Axe_Throw+Resist",
@@ -777,7 +777,7 @@
         "Sun": "AxeResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AxeResist",
-        "Upyr": ""
+        "Upyr": "AxeResist"
     },
     {
         "Name": "Axe_Throw+Crit",
@@ -816,7 +816,7 @@
         "Sun": "AxeSunThrowCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AxeRockNPCThrowCrit",
-        "Upyr": ""
+        "Upyr": "AxeDefaultThrowCrit"
     },
     {
         "Name": "GreatAxe",
@@ -855,7 +855,7 @@
         "Sun": "GreatAxeSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatAxeRockNPC",
-        "Upyr": ""
+        "Upyr": "GreatAxeDefault"
     },
     {
         "Name": "GreatAxe+Resist",
@@ -894,7 +894,7 @@
         "Sun": "GreatAxeResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatAxeResist",
-        "Upyr": ""
+        "Upyr": "GreatAxeResist"
     },
     {
         "Name": "GreatAxe+Crit",
@@ -933,7 +933,7 @@
         "Sun": "SwordSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "SwordDefaultCrit"
     },
     {
         "Name": "Musket",
@@ -972,7 +972,7 @@
         "Sun": "MusketSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "MusketRockNPC",
-        "Upyr": ""
+        "Upyr": "MusketDefault"
     },
     {
         "Name": "Musket_Heavy",
@@ -1011,7 +1011,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
-        "Upyr": ""
+        "Upyr": "MusketDefault"
     },
     {
         "Name": "StickyBomb",
@@ -1050,7 +1050,7 @@
         "Sun": "StickyBombDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "StickyBombDefault",
-        "Upyr": ""
+        "Upyr": "StickyBombDefault"
     },
     {
         "Name": "Musket+Resist",
@@ -1089,7 +1089,7 @@
         "Sun": "MusketResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "MusketResist",
-        "Upyr": ""
+        "Upyr": "MusketResist"
     },
     {
         "Name": "Musket_Heavy+Crit",
@@ -1128,7 +1128,7 @@
         "Sun": "MusketSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "MusketRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "MusketDefaultCrit"
     },
     {
         "Name": "Musket+Crit",
@@ -1167,7 +1167,7 @@
         "Sun": "MusketSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "MusketRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "MusketDefaultCrit"
     },
     {
         "Name": "Bow",
@@ -1206,7 +1206,7 @@
         "Sun": "BowSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BowRockNPC",
-        "Upyr": ""
+        "Upyr": "BowDefault"
     },
     {
         "Name": "Bow_Heavy",
@@ -1245,11 +1245,11 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
-        "Upyr": ""
+        "Upyr": "BowDefault"
     },
     {
         "Name": "Bow+Resist",
-        "Default": "aaa",
+        "Default": "BowResist",
         "Player": "BowResist",
         "Flesh": "BowResist",
         "FleshHead": "BowResist",
@@ -1284,7 +1284,7 @@
         "Sun": "BowResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BowResist",
-        "Upyr": ""
+        "Upyr": "BowResist"
     },
     {
         "Name": "Bow+Crit",
@@ -1323,7 +1323,7 @@
         "Sun": "BowSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BowRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "BowDefaultCrit"
     },
     {
         "Name": "Bow_Heavy+Crit",
@@ -1362,7 +1362,7 @@
         "Sun": "BowSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BowRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "BowDefaultCrit"
     },
     {
         "Name": "Bow+Arcane",
@@ -1440,7 +1440,7 @@
         "Sun": "ShieldSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ShieldRockNPC",
-        "Upyr": ""
+        "Upyr": "ShieldDefault"
     },
     {
         "Name": "Shield+Resist",
@@ -1479,7 +1479,7 @@
         "Sun": "ShieldResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ShieldResist",
-        "Upyr": ""
+        "Upyr": "ShieldResist"
     },
     {
         "Name": "Shield+Crit",
@@ -1518,7 +1518,7 @@
         "Sun": "ShieldSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ShieldRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "ShieldDefaultCrit"
     },
     {
         "Name": "Spear",
@@ -1557,7 +1557,7 @@
         "Sun": "SpearSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearRockNPC",
-        "Upyr": ""
+        "Upyr": "SpearDefault"
     },
     {
         "Name": "Spear+Resist",
@@ -1596,7 +1596,7 @@
         "Sun": "SpearResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearResist",
-        "Upyr": ""
+        "Upyr": "SpearResist"
     },
     {
         "Name": "Spear+Crit",
@@ -1635,7 +1635,7 @@
         "Sun": "SpearSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "SpearDefaultCrit"
     },
     {
         "Name": "Spear_Throw",
@@ -1674,7 +1674,7 @@
         "Sun": "SpearDefaultThrow",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearDefaultThrow",
-        "Upyr": ""
+        "Upyr": "SpearDefaultThrow"
     },
     {
         "Name": "Spear_Throw+Resist",
@@ -1713,7 +1713,7 @@
         "Sun": "SpearResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearResist",
-        "Upyr": ""
+        "Upyr": "SpearResist"
     },
     {
         "Name": "Spear_Throw+Crit",
@@ -1752,7 +1752,7 @@
         "Sun": "SpearDefaultThrowCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearDefaultThrowCrit",
-        "Upyr": ""
+        "Upyr": "SpearDefaultThrowCrit"
     },
     {
         "Name": "Spear_AI",
@@ -1791,7 +1791,7 @@
         "Sun": "SpearSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearRockNPC",
-        "Upyr": ""
+        "Upyr": "SpearDefault"
     },
     {
         "Name": "Spear_AI+Resist",
@@ -1830,7 +1830,7 @@
         "Sun": "SpearResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearResist",
-        "Upyr": ""
+        "Upyr": "SpearResist"
     },
     {
         "Name": "Spear_AI+Crit",
@@ -1869,7 +1869,7 @@
         "Sun": "SpearSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "SpearDefaultCrit"
     },
     {
         "Name": "Warhammer",
@@ -1908,7 +1908,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
-        "Upyr": ""
+        "Upyr": "WarHammerDefault"
     },
     {
         "Name": "Warhammer_Heavy",
@@ -1947,7 +1947,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
-        "Upyr": ""
+        "Upyr": "WarHammerDefault"
     },
     {
         "Name": "Warhammer_Mightygavel",
@@ -1986,7 +1986,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
-        "Upyr": ""
+        "Upyr": "WarHammerDefault"
     },
     {
         "Name": "Warhammer_Shockwave",
@@ -2025,7 +2025,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
-        "Upyr": ""
+        "Upyr": "WarHammerDefault"
     },
     {
         "Name": "Warhammer_Wreckingball",
@@ -2064,7 +2064,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
-        "Upyr": ""
+        "Upyr": "WarHammerDefault"
     },
     {
         "Name": "Warhammer+Resist",
@@ -2103,7 +2103,7 @@
         "Sun": "WarHammerResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerResist",
-        "Upyr": ""
+        "Upyr": "WarHammerResist"
     },
     {
         "Name": "Warhammer_Wreckingball+Resist",
@@ -2142,7 +2142,7 @@
         "Sun": "WarHammerResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerResist",
-        "Upyr": ""
+        "Upyr": "WarHammerResist"
     },
     {
         "Name": "Warhammer_Heavy+Resist",
@@ -2181,7 +2181,7 @@
         "Sun": "WarHammerResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerResist",
-        "Upyr": ""
+        "Upyr": "WarHammerResist"
     },
     {
         "Name": "Warhammer+Crit",
@@ -2220,7 +2220,7 @@
         "Sun": "WarHammerSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "WarHammerDefaultCrit"
     },
     {
         "Name": "Warhammer_Heavy+Crit",
@@ -2259,7 +2259,7 @@
         "Sun": "WarHammerSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "WarHammerDefaultCrit"
     },
     {
         "Name": "StaffSpells_No_Environment",
@@ -2298,7 +2298,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
-        "Upyr": ""
+        "Upyr": "UnarmedDefault"
     },
     {
         "Name": "StaffSpells_No_Environment+Resist",
@@ -2337,7 +2337,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Ice",
@@ -2376,7 +2376,7 @@
         "Sun": "GhostFrozen",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostFrozen",
-        "Upyr": ""
+        "Upyr": "GhostFrozen"
     },
     {
         "Name": "GhostSpell_Ice+Resist",
@@ -2415,7 +2415,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Fire",
@@ -2454,7 +2454,7 @@
         "Sun": "GhostFire",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostFire",
-        "Upyr": ""
+        "Upyr": "GhostFire"
     },
     {
         "Name": "GhostSpell_Fire+Resist",
@@ -2493,7 +2493,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Lightning",
@@ -2532,7 +2532,7 @@
         "Sun": "GhostLightning",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostLightning",
-        "Upyr": ""
+        "Upyr": "GhostLightning"
     },
     {
         "Name": "GhostSpell_Lightning+Resist",
@@ -2571,7 +2571,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Curse",
@@ -2610,7 +2610,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
-        "Upyr": ""
+        "Upyr": "UnarmedDefault"
     },
     {
         "Name": "GhostSpell_Curse+Resist",
@@ -2649,7 +2649,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Disease",
@@ -2688,7 +2688,7 @@
         "Sun": "GhostPoison",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostPoison",
-        "Upyr": ""
+        "Upyr": "GhostPoison"
     },
     {
         "Name": "GhostSpell_Disease+Resist",
@@ -2727,7 +2727,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Shackled",
@@ -2766,7 +2766,7 @@
         "Sun": "GhostShackled",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostShackled",
-        "Upyr": ""
+        "Upyr": "GhostShackled"
     },
     {
         "Name": "GhostSpell_Shackled+Resist",
@@ -2805,7 +2805,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "GhostMelee",
@@ -2844,7 +2844,7 @@
         "Sun": "GhostMelee",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostMelee",
-        "Upyr": ""
+        "Upyr": "GhostMelee"
     },
     {
         "Name": "GhostMelee+Resist",
@@ -2883,7 +2883,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "Bite_AI",
@@ -2922,7 +2922,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
-        "Upyr": ""
+        "Upyr": "UnarmedDefault"
     },
     {
         "Name": "Bite_AI+Resist",
@@ -2961,7 +2961,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "Blunt_AI",
@@ -3000,7 +3000,7 @@
         "Sun": "ClubDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubDefault",
-        "Upyr": ""
+        "Upyr": "ClubDefault"
     },
     {
         "Name": "Blunt_AI+Resist",
@@ -3039,7 +3039,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "Bear_Claw",
@@ -3078,7 +3078,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
-        "Upyr": ""
+        "Upyr": "UnarmedDefault"
     },
     {
         "Name": "Bear_Claw+Resist",
@@ -3117,7 +3117,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "Regurgitator_Vomitball",
@@ -3156,7 +3156,7 @@
         "Sun": "Regurgitator_VomitballDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Regurgitator_VomitballDefault",
-        "Upyr": ""
+        "Upyr": "Regurgitator_VomitballDefault"
     },
     {
         "Name": "Regurgitator_Vomitball+Resist",
@@ -3195,7 +3195,7 @@
         "Sun": "Regurgitator_VomitballResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Regurgitator_VomitballResist",
-        "Upyr": ""
+        "Upyr": "Regurgitator_VomitballResist"
     },
     {
         "Name": "Regurgitator_Vomitspray",
@@ -3234,7 +3234,7 @@
         "Sun": "Regurgitator_VomitsprayDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Regurgitator_VomitsprayDefault",
-        "Upyr": ""
+        "Upyr": "Regurgitator_VomitsprayDefault"
     },
     {
         "Name": "Regurgitator_Vomitspray+Resist",
@@ -3273,7 +3273,7 @@
         "Sun": "Regurgitator_VomitsprayResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Regurgitator_VomitsprayResist",
-        "Upyr": ""
+        "Upyr": "Regurgitator_VomitsprayResist"
     },
     {
         "Name": "Impaler_spike",
@@ -3312,7 +3312,7 @@
         "Sun": "Impaler_spikeDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Impaler_spikeDefault",
-        "Upyr": ""
+        "Upyr": "Impaler_spikeDefault"
     },
     {
         "Name": "Impaler_spike+Resist",
@@ -3351,7 +3351,7 @@
         "Sun": "Impaler_spikeResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Impaler_spikeResist",
-        "Upyr": ""
+        "Upyr": "Impaler_spikeResist"
     },
     {
         "Name": "LifeStaff_Proj",
@@ -3390,7 +3390,7 @@
         "Sun": "LifeStaffFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "LifeStaffDefault",
-        "Upyr": ""
+        "Upyr": "LifeStaffDefault"
     },
     {
         "Name": "LifeStaff_Proj_Protect",
@@ -3429,7 +3429,7 @@
         "Sun": "LifeStaff_Protect",
         "MageArcaneShield": "LifeStaff_Protect",
         "RockNPC": "LifeStaff_Protect",
-        "Upyr": ""
+        "Upyr": "LifeStaff_Protect"
     },
     {
         "Name": "LifeStaff_Proj+Resist",
@@ -3468,7 +3468,7 @@
         "Sun": "LifeStaffResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "LifeStaffResist",
-        "Upyr": ""
+        "Upyr": "LifeStaffResist"
     },
     {
         "Name": "LifeStaff_Proj+Crit",
@@ -3507,7 +3507,7 @@
         "Sun": "LifeStaffDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "LifeStaffDefaultCrit",
-        "Upyr": ""
+        "Upyr": "LifeStaffDefaultCrit"
     },
     {
         "Name": "FireStaff_Proj",
@@ -3546,7 +3546,7 @@
         "Sun": "FireStaffFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffDefault",
-        "Upyr": ""
+        "Upyr": "FireStaffDefault"
     },
     {
         "Name": "FireStaff_Proj+Resist",
@@ -3585,7 +3585,7 @@
         "Sun": "FireStaffResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffResist",
-        "Upyr": ""
+        "Upyr": "FireStaffResist"
     },
     {
         "Name": "FireStaff_Proj+Crit",
@@ -3624,7 +3624,7 @@
         "Sun": "FireStaffDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffDefaultCrit",
-        "Upyr": ""
+        "Upyr": "FireStaffDefaultCrit"
     },
     {
         "Name": "FlameThrower",
@@ -3663,7 +3663,7 @@
         "Sun": "FlameThrowerFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FlameThrowerDefault",
-        "Upyr": ""
+        "Upyr": "FlameThrowerDefault"
     },
     {
         "Name": "FlameThrower+Resist",
@@ -3702,7 +3702,7 @@
         "Sun": "FlameThrowerResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FlameThrowerResist",
-        "Upyr": ""
+        "Upyr": "FlameThrowerResist"
     },
     {
         "Name": "FlameThrower+Crit",
@@ -3741,7 +3741,7 @@
         "Sun": "FlameThrowerDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FlameThrowerDefaultCrit",
-        "Upyr": ""
+        "Upyr": "FlameThrowerDefaultCrit"
     },
     {
         "Name": "Burnout",
@@ -3780,7 +3780,7 @@
         "Sun": "FireStaffFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffDefault",
-        "Upyr": ""
+        "Upyr": "FireStaffDefault"
     },
     {
         "Name": "Burnout+Resist",
@@ -3819,7 +3819,7 @@
         "Sun": "FireStaffResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffResist",
-        "Upyr": ""
+        "Upyr": "FireStaffResist"
     },
     {
         "Name": "Burnout+Crit",
@@ -3858,7 +3858,7 @@
         "Sun": "FireStaffDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffDefaultCrit",
-        "Upyr": ""
+        "Upyr": "FireStaffDefaultCrit"
     },
     {
         "Name": "IceGauntlet_Proj",
@@ -3897,7 +3897,7 @@
         "Sun": "IceGauntletFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletDefault",
-        "Upyr": ""
+        "Upyr": "IceGauntletDefault"
     },
     {
         "Name": "IceGauntlet_Proj_Heavy",
@@ -3936,7 +3936,7 @@
         "Sun": "IceGauntletHeavyFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletDefault",
-        "Upyr": ""
+        "Upyr": "IceGauntletDefault"
     },
     {
         "Name": "IceGauntlet_Null",
@@ -3975,7 +3975,7 @@
         "Sun": "IceGauntletNull",
         "MageArcaneShield": "IceGauntletNull",
         "RockNPC": "IceGauntletNull",
-        "Upyr": ""
+        "Upyr": "IceGauntletNull"
     },
     {
         "Name": "IceGauntlet_Proj+Resist",
@@ -4014,7 +4014,7 @@
         "Sun": "IceGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletResist",
-        "Upyr": ""
+        "Upyr": "IceGauntletResist"
     },
     {
         "Name": "IceGauntlet_Proj_Heavy+Resist",
@@ -4053,7 +4053,7 @@
         "Sun": "IceGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletResist",
-        "Upyr": ""
+        "Upyr": "IceGauntletResist"
     },
     {
         "Name": "IceGauntlet_Proj+Crit",
@@ -4092,7 +4092,7 @@
         "Sun": "IceGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletDefaultCrit",
-        "Upyr": ""
+        "Upyr": "IceGauntletDefaultCrit"
     },
     {
         "Name": "IceGauntlet_Proj_Heavy+Crit",
@@ -4131,7 +4131,7 @@
         "Sun": "IceGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletDefaultCrit",
-        "Upyr": ""
+        "Upyr": "IceGauntletDefaultCrit"
     },
     {
         "Name": "VoidGauntlet_Proj",
@@ -4170,7 +4170,7 @@
         "Sun": "VoidGauntletFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletDefault",
-        "Upyr": ""
+        "Upyr": "VoidGauntletDefault"
     },
     {
         "Name": "VoidGauntlet_Proj_Heavy",
@@ -4209,7 +4209,7 @@
         "Sun": "VoidGauntletHeavyFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletDefault",
-        "Upyr": ""
+        "Upyr": "VoidGauntletDefault"
     },
     {
         "Name": "VoidGauntlet_Blade",
@@ -4248,7 +4248,7 @@
         "Sun": "VoidGauntletBladeDefault",
         "MageArcaneShield": "VoidGauntletBladeDefault",
         "RockNPC": "VoidGauntletBladeDefault",
-        "Upyr": ""
+        "Upyr": "VoidGauntletBladeDefault"
     },
     {
         "Name": "VoidGauntlet_Special",
@@ -4287,7 +4287,7 @@
         "Sun": "VoidGauntletSpecial",
         "MageArcaneShield": "VoidGauntletSpecial",
         "RockNPC": "VoidGauntletSpecial",
-        "Upyr": ""
+        "Upyr": "VoidGauntletSpecial"
     },
     {
         "Name": "VoidGauntlet_Rupture",
@@ -4326,7 +4326,7 @@
         "Sun": "VoidGauntletRuptureDefault",
         "MageArcaneShield": "VoidGauntletRuptureDefault",
         "RockNPC": "VoidGauntletRuptureDefault",
-        "Upyr": ""
+        "Upyr": "VoidGauntletRuptureDefault"
     },
     {
         "Name": "VoidGauntlet_Proj+Resist",
@@ -4365,7 +4365,7 @@
         "Sun": "VoidGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletResist",
-        "Upyr": ""
+        "Upyr": "VoidGauntletResist"
     },
     {
         "Name": "VoidGauntlet_Proj+Crit",
@@ -4404,7 +4404,7 @@
         "Sun": "VoidGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletDefaultCrit",
-        "Upyr": ""
+        "Upyr": "VoidGauntletDefaultCrit"
     },
     {
         "Name": "VoidGauntlet_Proj_Heavy+Crit",
@@ -4443,7 +4443,7 @@
         "Sun": "VoidGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletDefaultCrit",
-        "Upyr": ""
+        "Upyr": "VoidGauntletDefaultCrit"
     },
     {
         "Name": "VoidGauntlet_Proj_Heavy+Resist",
@@ -4482,7 +4482,7 @@
         "Sun": "VoidGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletResist",
-        "Upyr": ""
+        "Upyr": "VoidGauntletResist"
     },
     {
         "Name": "VoidGauntlet_Blade+Resist",
@@ -4521,7 +4521,7 @@
         "Sun": "VoidGauntletBladeResist",
         "MageArcaneShield": "VoidGauntletBladeResist",
         "RockNPC": "VoidGauntletBladeResist",
-        "Upyr": ""
+        "Upyr": "VoidGauntletBladeResist"
     },
     {
         "Name": "VoidGauntlet_Blade+Crit",
@@ -4560,7 +4560,7 @@
         "Sun": "VoidGauntletBladeDefault",
         "MageArcaneShield": "VoidGauntletBladeDefault",
         "RockNPC": "VoidGauntletBladeDefault",
-        "Upyr": ""
+        "Upyr": "VoidGauntletBladeDefault"
     },
     {
         "Name": "VoidGauntlet_Rupture+Crit",
@@ -4599,7 +4599,7 @@
         "Sun": "VoidGauntletRuptureDefault",
         "MageArcaneShield": "VoidGauntletRuptureDefault",
         "RockNPC": "VoidGauntletRuptureDefault",
-        "Upyr": ""
+        "Upyr": "VoidGauntletRuptureDefault"
     },
     {
         "Name": "VoidGauntlet_Rupture+Resist",
@@ -4638,7 +4638,7 @@
         "Sun": "VoidGauntletRuptureDefault",
         "MageArcaneShield": "VoidGauntletRuptureDefault",
         "RockNPC": "VoidGauntletRuptureDefault",
-        "Upyr": ""
+        "Upyr": "VoidGauntletRuptureDefault"
     },
     {
         "Name": "VoidGauntlet_Special+Crit",
@@ -4677,7 +4677,7 @@
         "Sun": "VoidGauntletSpecial",
         "MageArcaneShield": "VoidGauntletSpecial",
         "RockNPC": "VoidGauntletSpecial",
-        "Upyr": ""
+        "Upyr": "VoidGauntletSpecial"
     },
     {
         "Name": "VoidGauntlet_Special+Resist",
@@ -4716,7 +4716,7 @@
         "Sun": "VoidGauntletSpecial",
         "MageArcaneShield": "VoidGauntletSpecial",
         "RockNPC": "VoidGauntletSpecial",
-        "Upyr": ""
+        "Upyr": "VoidGauntletSpecial"
     },
     {
         "Name": "Ballista",
@@ -4755,7 +4755,7 @@
         "Sun": "SpearDefaultThrow",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearDefaultThrow",
-        "Upyr": ""
+        "Upyr": "SpearDefaultThrow"
     },
     {
         "Name": "CannonBall",
@@ -4794,7 +4794,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
-        "Upyr": ""
+        "Upyr": "WarHammerDefault"
     },
     {
         "Name": "Beam_Laser",
@@ -4833,7 +4833,7 @@
         "Sun": "BeamLaserDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BeamLaserDefault",
-        "Upyr": ""
+        "Upyr": "BeamLaserDefault"
     },
     {
         "Name": "Beam_VoidSpike",
@@ -4872,7 +4872,7 @@
         "Sun": "BeamVoidSpikeDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BeamVoidSpikeDefault",
-        "Upyr": ""
+        "Upyr": "BeamVoidSpikeDefault"
     },
     {
         "Name": "Sonic_Boom",
@@ -4911,7 +4911,7 @@
         "Sun": "Sonicboom",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Sonicboom",
-        "Upyr": ""
+        "Upyr": "Sonicboom"
     },
     {
         "Name": "Torch",
@@ -4950,7 +4950,7 @@
         "Sun": "Torch",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Torch",
-        "Upyr": ""
+        "Upyr": "Torch"
     },
     {
         "Name": "Torch+Resist",
@@ -4989,7 +4989,7 @@
         "Sun": "TorchResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "TorchResist",
-        "Upyr": ""
+        "Upyr": "SwordResist"
     },
     {
         "Name": "CorruptedMagic",
@@ -5028,7 +5028,7 @@
         "Sun": "CorruptedMagic",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "CorruptedMagic",
-        "Upyr": ""
+        "Upyr": "CorruptedMagic"
     },
     {
         "Name": "CorruptedMagic+Resist",
@@ -5067,7 +5067,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "GravediggerLifesteal",
@@ -5106,7 +5106,7 @@
         "Sun": "GravediggerLifesteal",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GravediggerLifesteal",
-        "Upyr": ""
+        "Upyr": "GravediggerLifesteal"
     },
     {
         "Name": "DryadMagic",
@@ -5145,7 +5145,7 @@
         "Sun": "DryadMagic",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "DryadMagic",
-        "Upyr": ""
+        "Upyr": "DryadMagic"
     },
     {
         "Name": "DryadMagic+Resist",
@@ -5184,7 +5184,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
-        "Upyr": ""
+        "Upyr": "UnarmedResist"
     },
     {
         "Name": "AncientMagic",
@@ -5223,7 +5223,7 @@
         "Sun": "AncientMagic",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AncientMagic",
-        "Upyr": ""
+        "Upyr": "AncientMagic"
     },
     {
         "Name": "DynastyMagic",
@@ -5262,7 +5262,7 @@
         "Sun": "DynastyMagic",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "DynastyMagic",
-        "Upyr": ""
+        "Upyr": "DynastyMagic"
     },
     {
         "Name": "SunMagic",
@@ -5301,7 +5301,7 @@
         "Sun": "SunMagic",
         "MageArcaneShield": "SunMagic",
         "RockNPC": "SunMagic",
-        "Upyr": ""
+        "Upyr": "SunMagic"
     },
     {
         "Name": "CorruptedSlash",
@@ -5340,7 +5340,7 @@
         "Sun": "CorruptedSlash",
         "MageArcaneShield": "CorruptedSlash",
         "RockNPC": "CorruptedSlash",
-        "Upyr": ""
+        "Upyr": "CorruptedSlash"
     },
     {
         "Name": "CorruptedMagic_Legion",
@@ -5379,7 +5379,7 @@
         "Sun": "CorruptedMagic_Legion",
         "MageArcaneShield": "CorruptedMagic_Legion",
         "RockNPC": "CorruptedMagic_Legion",
-        "Upyr": ""
+        "Upyr": "CorruptedMagic_Legion"
     },
     {
         "Name": "Blunderbuss",
@@ -5418,7 +5418,7 @@
         "Sun": "BlunderbussSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPC",
-        "Upyr": ""
+        "Upyr": "BlunderbussDefault"
     },
     {
         "Name": "Blunderbuss_Claw",
@@ -5457,7 +5457,7 @@
         "Sun": "BlunderbussSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPC",
-        "Upyr": ""
+        "Upyr": "Blunderbuss_Claw_Flesh"
     },
     {
         "Name": "Blunderbuss_Net",
@@ -5496,7 +5496,7 @@
         "Sun": "BlunderbussSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPC",
-        "Upyr": ""
+        "Upyr": "BlunderbussDefault"
     },
     {
         "Name": "Blunderbuss_Shrapnel",
@@ -5535,7 +5535,7 @@
         "Sun": "Blunderbuss_Chr_Shrapnel",
         "MageArcaneShield": "Blunderbuss_Chr_Shrapnel",
         "RockNPC": "Blunderbuss_Chr_Shrapnel",
-        "Upyr": ""
+        "Upyr": "BlunderbussDefault"
     },
     {
         "Name": "Blunderbuss+Resist",
@@ -5574,7 +5574,7 @@
         "Sun": "BlunderbussResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussResist",
-        "Upyr": ""
+        "Upyr": "BlunderbussResist"
     },
     {
         "Name": "Blunderbuss_Claw+Resist",
@@ -5613,7 +5613,7 @@
         "Sun": "BlunderbussResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussResist",
-        "Upyr": ""
+        "Upyr": "BlunderbussResist"
     },
     {
         "Name": "Blunderbuss_Net+Resist",
@@ -5652,7 +5652,7 @@
         "Sun": "BlunderbussResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussResist",
-        "Upyr": ""
+        "Upyr": "BlunderbussResist"
     },
     {
         "Name": "Blunderbuss_Shrapnel+Resist",
@@ -5691,7 +5691,7 @@
         "Sun": "BlunderbussResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussResist",
-        "Upyr": ""
+        "Upyr": "BlunderbussResist"
     },
     {
         "Name": "Blunderbuss+Crit",
@@ -5730,7 +5730,7 @@
         "Sun": "BlunderbussSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "BlunderbussDefaultCrit"
     },
     {
         "Name": "Blunderbuss_Claw+Crit",
@@ -5769,7 +5769,7 @@
         "Sun": "Blunderbuss_Claw_Crit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Blunderbuss_Claw_Crit",
-        "Upyr": ""
+        "Upyr": "Blunderbuss_Claw_Crit"
     },
     {
         "Name": "Blunderbuss_Net+Crit",
@@ -5808,7 +5808,7 @@
         "Sun": "BlunderbussSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "BlunderbussDefaultCrit"
     },
     {
         "Name": "Blunderbuss_Shrapnel+Crit",
@@ -5847,7 +5847,7 @@
         "Sun": "BlunderbussSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPCCrit",
-        "Upyr": ""
+        "Upyr": "BlunderbussDefaultCrit"
     },
     {
         "Name": "NecroPhlegm",
@@ -5886,7 +5886,7 @@
         "Sun": "NecroPhlegm",
         "MageArcaneShield": "NecroPhlegm",
         "RockNPC": "NecroPhlegm",
-        "Upyr": ""
+        "Upyr": "NecroPhlegm"
     },
     {
         "Name": "BattleScreech",
@@ -5925,7 +5925,7 @@
         "Sun": "BattleScreech",
         "MageArcaneShield": "BattleScreech",
         "RockNPC": "BattleScreech",
-        "Upyr": ""
+        "Upyr": "BattleScreech"
     },
     {
         "Name": "Lunge",
@@ -5964,6 +5964,6 @@
         "Sun": "Lunge",
         "MageArcaneShield": "Lunge",
         "RockNPC": "Lunge",
-        "Upyr": ""
+        "Upyr": "Lunge"
     }
 ]

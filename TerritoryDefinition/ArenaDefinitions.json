@@ -15,7 +15,7 @@
         "ChartedAchievement": "Arena_7000_charted",
         "POITag": "Arena,Arena1",
         "AudioGroup": "Music_Arena",
-        "AudioState": "ForestSpriggan",
+        "AudioState": "PvE_ForestSpriggan",
         "GroupSize": 3,
         "RecommendedLevel": 66,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_spriggan.png"
@@ -36,7 +36,7 @@
         "ChartedAchievement": "Arena_7001_charted",
         "POITag": "Arena,Arena2",
         "AudioGroup": "Music_Arena",
-        "AudioState": "ForestSpriggan",
+        "AudioState": "PvE_ForestSpriggan",
         "GroupSize": 3,
         "RecommendedLevel": 66,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_spriggan.png"
@@ -57,7 +57,7 @@
         "ChartedAchievement": "Arena_7002_charted",
         "POITag": "Arena,Arena3",
         "AudioGroup": "Music_Arena",
-        "AudioState": "ForestSpriggan",
+        "AudioState": "PvE_ForestSpriggan",
         "GroupSize": 3,
         "RecommendedLevel": 66,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_spriggan.png"
@@ -78,7 +78,7 @@
         "ChartedAchievement": "Arena_7003_charted",
         "POITag": "Arena",
         "AudioGroup": "Music_Arena",
-        "AudioState": "DryadBeast",
+        "AudioState": "PvE_DryadBeast",
         "GroupSize": 3,
         "RecommendedLevel": 66,
         "TooltipBackground": ""
@@ -99,7 +99,7 @@
         "ChartedAchievement": "Arena_7004_charted",
         "POITag": "Arena",
         "AudioGroup": "Music_Arena",
-        "AudioState": "SirenQueen",
+        "AudioState": "PvE_SirenQueen",
         "GroupSize": 3,
         "RecommendedLevel": 66,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_Elite_SpireOfMelpomene.png"
@@ -120,7 +120,7 @@
         "ChartedAchievement": "Arena_7005_charted",
         "POITag": "Arena,ArenaSwamp",
         "AudioGroup": "Music_Arena",
-        "AudioState": "DryadBeast",
+        "AudioState": "PvE_DryadBeast",
         "GroupSize": 3,
         "RecommendedLevel": 66,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_Elite_EternalPool.png"

@@ -110,5 +110,61 @@
         "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_eternal.dds",
         "TextColor": "120,125,185",
         "BackgroundColor": "30,38,67"
+    },
+    {
+        "ElementalMutationId": "Overgrown_1",
+        "Name": "@NatTitle",
+        "Description": "Nature element mutator category",
+        "CategoryWildcard": "Nat",
+        "ElementalDifficultyTier": 1,
+        "Dungeon-": "Mutation_Overgrown_DungeonMinus_Tier1",
+        "Dungeon": "Mutation_Overgrown_Dungeon_Tier1",
+        "Dungeon+": "Mutation_Overgrown_DungeonPlus_Tier1",
+        "DungeonMiniBoss": "Mutation_Overgrown_DungeonPlus_Tier1",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_overgrown.dds",
+        "TextColor": "115,129,39",
+        "BackgroundColor": "48,63,34"
+    },
+    {
+        "ElementalMutationId": "Overgrown_2",
+        "Name": "@NatTitle",
+        "Description": "Nature element mutator category",
+        "CategoryWildcard": "Nat",
+        "ElementalDifficultyTier": 2,
+        "Dungeon-": "Mutation_Overgrown_DungeonMinus_Tier2",
+        "Dungeon": "Mutation_Overgrown_Dungeon_Tier2",
+        "Dungeon+": "Mutation_Overgrown_DungeonPlus_Tier2",
+        "DungeonMiniBoss": "Mutation_Overgrown_DungeonPlus_Tier2",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_overgrown.dds",
+        "TextColor": "115,129,39",
+        "BackgroundColor": "48,63,34"
+    },
+    {
+        "ElementalMutationId": "Overgrown_3",
+        "Name": "@NatTitle",
+        "Description": "Nature element mutator category",
+        "CategoryWildcard": "Nat",
+        "ElementalDifficultyTier": 3,
+        "Dungeon-": "Mutation_Overgrown_DungeonMinus_Tier3",
+        "Dungeon": "Mutation_Overgrown_Dungeon_Tier3",
+        "Dungeon+": "Mutation_Overgrown_DungeonPlus_Tier3",
+        "DungeonMiniBoss": "Mutation_Overgrown_DungeonPlus_Tier3",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_overgrown.dds",
+        "TextColor": "115,129,39",
+        "BackgroundColor": "48,63,34"
+    },
+    {
+        "ElementalMutationId": "Overgrown_4",
+        "Name": "@NatTitle",
+        "Description": "Nature element mutator category",
+        "CategoryWildcard": "Nat",
+        "ElementalDifficultyTier": 4,
+        "Dungeon-": "Mutation_Overgrown_DungeonMinus_Tier4",
+        "Dungeon": "Mutation_Overgrown_Dungeon_Tier4",
+        "Dungeon+": "Mutation_Overgrown_DungeonPlus_Tier4",
+        "DungeonMiniBoss": "Mutation_Overgrown_DungeonPlus_Tier4",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_overgrown.dds",
+        "TextColor": "115,129,39",
+        "BackgroundColor": "48,63,34"
     }
 ]

@@ -14,7 +14,7 @@
         "AllowInWarPrep": false,
         "AllowInWar": false,
         "AllowInArena": false,
-        "DisallowInGameModes": "Dungeon,OutpostRush,Duel,",
+        "DisallowInGameModes": "Dungeon,OutpostRush,Duel,Arena3v3,",
         "DisallowedWaterDepths": "Deep,"
     },
     {
@@ -32,7 +32,7 @@
         "AllowInWarPrep": true,
         "AllowInWar": false,
         "AllowInArena": false,
-        "DisallowInGameModes": "OutpostRush,Duel,",
+        "DisallowInGameModes": "OutpostRush,Duel,Arena3v3,",
         "DisallowedWaterDepths": ""
     }
 ]

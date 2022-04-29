@@ -77,6 +77,20 @@
         "Notes": "LOOPING - Pet the Pig's Belley"
     },
     {
+        "InteractionAnimationID": "HousingItemPetWolf",
+        "PlayerMannequinFragmentStartInteraction": "Interact_Pet_Wolf",
+        "InteractableTimelineStartInteraction": "Interact_Start",
+        "InteractableTimelineEndInteraction": "Interact_End",
+        "Notes": "LOOPING - Pet the Wolf"
+    },
+    {
+        "InteractionAnimationID": "HousingItemTouchMimic",
+        "PlayerMannequinFragmentStartInteraction": "Interact_Touch_Mimic",
+        "InteractableTimelineStartInteraction": "Interact_Start",
+        "InteractableTimelineEndInteraction": "Interact_End",
+        "Notes": "SINGLE - Player Attempts to Touch a Mimic"
+    },
+    {
         "InteractionAnimationID": "HousingItemSitOnChair",
         "PlayerMannequinFragmentStartInteraction": "Interact_Chair",
         "InteractableTimelineStartInteraction": "Interact_Start",

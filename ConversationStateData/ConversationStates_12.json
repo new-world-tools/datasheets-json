@@ -310,7 +310,7 @@
         "TopicId8": "",
         "TopicId9": "",
         "TopicId10": "",
-        "ConversationService1": "",
+        "ConversationService1": "Fast_Travel_Guide",
         "ConversationService2": "",
         "ConversationService3": ""
     },
@@ -345,7 +345,7 @@
         "TopicId8": "",
         "TopicId9": "",
         "TopicId10": "",
-        "ConversationService1": "",
+        "ConversationService1": "Fast_Travel_Guide",
         "ConversationService2": "",
         "ConversationService3": ""
     },
@@ -380,7 +380,7 @@
         "TopicId8": "",
         "TopicId9": "",
         "TopicId10": "",
-        "ConversationService1": "",
+        "ConversationService1": "Fast_Travel_Guide",
         "ConversationService2": "",
         "ConversationService3": ""
     },
@@ -416,7 +416,7 @@
         "TopicId9": "",
         "TopicId10": "",
         "ConversationService1": "Community_Board",
-        "ConversationService2": "",
+        "ConversationService2": "Fast_Travel_Guide",
         "ConversationService3": ""
     },
     {
@@ -451,7 +451,7 @@
         "TopicId9": "",
         "TopicId10": "",
         "ConversationService1": "Community_Board",
-        "ConversationService2": "",
+        "ConversationService2": "Fast_Travel_Guide",
         "ConversationService3": ""
     },
     {
@@ -486,7 +486,42 @@
         "TopicId9": "",
         "TopicId10": "",
         "ConversationService1": "Community_Board",
-        "ConversationService2": "",
+        "ConversationService2": "Fast_Travel_Guide",
+        "ConversationService3": ""
+    },
+    {
+        "ConversationStateId": "1204_04B_Overseer",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_DefaultDialogue_1204_04A_Overseer",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+        "RequiredAchievement": "",
+        "RequiredActiveObjectiveId": "1204_0799_TheHermitMB",
+        "RequiredActiveTaskId": "1204_0799_container_TheHermitMB",
+        "LinearObjectiveId1": "",
+        "LinearObjectiveId2": "",
+        "LinearObjectiveId3": "",
+        "LinearObjectiveId4": "",
+        "LinearObjectiveId5": "",
+        "LinearObjectiveId6": "",
+        "LinearObjectiveId7": "",
+        "LinearObjectiveId8": "",
+        "LinearObjectiveId9": "",
+        "LinearObjectiveId10": "",
+        "TopicId1": "0602_FastTravel",
+        "TopicId2": "",
+        "TopicId3": "",
+        "TopicId4": "",
+        "TopicId5": "",
+        "TopicId6": "",
+        "TopicId7": "",
+        "TopicId8": "",
+        "TopicId9": "",
+        "TopicId10": "",
+        "ConversationService1": "Community_Board",
+        "ConversationService2": "Fast_Travel_Guide",
         "ConversationService3": ""
     },
     {
@@ -521,7 +556,7 @@
         "TopicId9": "",
         "TopicId10": "",
         "ConversationService1": "Community_Board",
-        "ConversationService2": "",
+        "ConversationService2": "Fast_Travel_Guide",
         "ConversationService3": ""
     },
     {
@@ -556,7 +591,7 @@
         "TopicId9": "",
         "TopicId10": "",
         "ConversationService1": "Community_Board",
-        "ConversationService2": "",
+        "ConversationService2": "Fast_Travel_Guide",
         "ConversationService3": ""
     },
     {
@@ -591,7 +626,7 @@
         "TopicId9": "",
         "TopicId10": "",
         "ConversationService1": "Community_Board",
-        "ConversationService2": "",
+        "ConversationService2": "Fast_Travel_Guide",
         "ConversationService3": ""
     },
     {
@@ -626,7 +661,7 @@
         "TopicId9": "",
         "TopicId10": "",
         "ConversationService1": "Community_Board",
-        "ConversationService2": "",
+        "ConversationService2": "Fast_Travel_Guide",
         "ConversationService3": ""
     },
     {
