@@ -66,8 +66,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "TestMode2",
@@ -136,8 +136,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "Duel",
@@ -206,8 +206,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "OutpostRush",
@@ -276,8 +276,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "DungeonAmrine",
@@ -346,8 +346,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "DungeonEdengrove00",
@@ -416,8 +416,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "DungeonShatteredObelisk",
@@ -486,8 +486,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "DungeonRestlessShores01",
@@ -556,8 +556,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "DungeonReekwater00",
@@ -626,8 +626,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "DungeonEbonscale00",
@@ -696,8 +696,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "DungeonShatterMtn00",
@@ -766,8 +766,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": null,
-        "PriorityAddMax": null
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     },
     {
         "GameModeId": "Arena3v3",
@@ -780,12 +780,12 @@
         "UiInteractOption": "",
         "RequirementText": "",
         "IconPath": "LyShineUI/Images/Icons/PvpArena/icon_pvpArena.dds",
-        "BackgroundImagePath": "LyShineUI/Images/Dungeons/dungeonImages/dungeonImages_DungeonBrimstoneSands00.dds",
+        "BackgroundImagePath": "LyShineUI/Images/Dungeons/dungeonImages/dungeonImages_DungeonIsabella.dds",
         "CoatlicueName": "coatlicue\\NW_Arena01",
         "WorldBounds": "864.0,832.0,992.0,960.0",
-        "TeamTeleportData": "939,935,226,180+939,873,226,0",
+        "TeamTeleportData": "939,935,227,180+939,873,227,0",
         "FeatureFlag": "arena-3v3",
-        "ItemClassesToRemoveOnExit": "",
+        "ItemClassesToRemoveOnExit": "ArenaConsumable",
         "RequiredConsumableItemClasses": "ArenaConsumable",
         "ClearBattleTokensOnExit": "0",
         "RequiresGameModeGDEException": "1",
@@ -798,8 +798,8 @@
         "CombineTeamGroups": true,
         "PossibleItemDropIds": "",
         "MinGroupSize": null,
-        "PreserveOldGroup": true,
-        "IsDungeon": null,
+        "PreserveOldGroup": null,
+        "IsDungeon": true,
         "IsMutable": null,
         "DifficultyProgressionId": "",
         "RestrictGathering": false,
@@ -836,7 +836,7 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 45,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": 5,
-        "PriorityAddMax": 10
+        "PriorityAddMin": "",
+        "PriorityAddMax": ""
     }
 ]

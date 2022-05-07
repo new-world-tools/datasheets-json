@@ -318,5 +318,15 @@
         "Image": "",
         "Tooltip": "@Expertise_Tooltip",
         "Notes": ""
+    },
+    {
+        "RewardID": "PvPArenas",
+        "MilestoneType": "",
+        "MilestoneLevel": 20,
+        "Name": "@PvPArenas_Name",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/3v3Arena.dds",
+        "Image": "",
+        "Tooltip": "@PvPArenas_Tooltip",
+        "Notes": ""
     }
 ]

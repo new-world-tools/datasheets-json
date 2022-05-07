@@ -660,6 +660,28 @@
         "mat_holy_shield": "Play_Imp_Proj_HolyShield"
     },
     {
+        "Name": "Spear_Kick",
+        "mat_default": "Play_Imp_PunchUnarmed_Dirt",
+        "mat_bark": "Play_Imp_PunchUnarmed_Wood",
+        "mat_dirt": "Play_Imp_PunchUnarmed_Dirt",
+        "mat_fabric": "Play_Imp_PunchUnarmed_Grass",
+        "mat_grass": "Play_Imp_PunchUnarmed_Grass",
+        "mat_metal": "Play_Imp_PunchUnarmed_Metal",
+        "mat_mud": "Play_Imp_PunchUnarmed_Dirt",
+        "mat_rock": "Play_Imp_PunchUnarmed_Stone",
+        "mat_rock_wet": "Play_Imp_PunchUnarmed_Stone",
+        "mat_sand": "Play_Imp_PunchUnarmed_Dirt",
+        "mat_sand_wet": "Play_Imp_PunchUnarmed_Dirt",
+        "mat_thatch": "Play_Imp_PunchUnarmed_Dirt",
+        "mat_water": "Play_Imp_GreatAxe_Water",
+        "mat_water_deep": "Play_Imp_GreatAxe_Water",
+        "mat_water_shallow": "Play_Imp_GreatAxe_Water",
+        "mat_wood": "Play_Imp_PunchUnarmed_Wood",
+        "mat_corruption_core": "Play_Imp_Corruption_Core",
+        "mat_corruption": "Play_Imp_Corruption_Core",
+        "mat_holy_shield": "Play_Imp_Proj_HolyShield"
+    },
+    {
         "Name": "Spear+Crit",
         "mat_default": "Play_Imp_PunchUnarmed_Dirt",
         "mat_bark": "Play_Imp_SpearWood_Wood",

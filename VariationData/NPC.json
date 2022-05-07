@@ -739,5 +739,24 @@
         "AttachmentRotationX": null,
         "AttachmentRotationY": null,
         "AttachmentRotationZ": null
+    },
+    {
+        "VariantID": "0430_PVPArena",
+        "NPCId": "0430_PVPArena",
+        "Name": "@0430_PVPArena",
+        "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\0430_pvparena.cdf",
+        "ByeTimeline": "Libs\\Timeline\\Npc\\NPC_PlayByeAnim.timeline",
+        "GreetTimeline": "Libs\\Timeline\\Npc\\NPC_PlayGreetAnim.timeline",
+        "IdleTimeline": "Libs\\Timeline\\Npc\\NPC_PlayIdleLoop.timeline",
+        "InteractTimeline": "Libs\\Timeline\\Npc\\NPC_PlayInteractLoop.timeline",
+        "SwapAchievementId": "",
+        "PlaceholderMesh": "",
+        "AttachedMesh": "",
+        "AttachmentPositionX": null,
+        "AttachmentPositionY": null,
+        "AttachmentPositionZ": null,
+        "AttachmentRotationX": null,
+        "AttachmentRotationY": null,
+        "AttachmentRotationZ": null
     }
 ]

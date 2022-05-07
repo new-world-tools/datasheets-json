@@ -848,8 +848,8 @@
         "LootDropModifier": 1,
         "FactionReputationModifier": null,
         "FactionTokenModifier": null,
-        "AzothSaltModifier": 200,
-        "PvpXpModifier": 500,
+        "AzothSaltModifier": 0,
+        "PvpXpModifier": 250,
         "Notes": "",
         "Found in": ""
     },
@@ -862,7 +862,7 @@
         "LootDropModifier": 1,
         "FactionReputationModifier": null,
         "FactionTokenModifier": null,
-        "AzothSaltModifier": 100,
+        "AzothSaltModifier": 0,
         "PvpXpModifier": 250,
         "Notes": "",
         "Found in": ""
