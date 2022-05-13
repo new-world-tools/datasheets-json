@@ -66,8 +66,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": null
     },
     {
         "GameModeId": "TestMode2",
@@ -136,8 +137,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": null
     },
     {
         "GameModeId": "Duel",
@@ -206,8 +208,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": true
     },
     {
         "GameModeId": "OutpostRush",
@@ -276,8 +279,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": false
     },
     {
         "GameModeId": "DungeonAmrine",
@@ -346,8 +350,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": false
     },
     {
         "GameModeId": "DungeonEdengrove00",
@@ -416,8 +421,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": false
     },
     {
         "GameModeId": "DungeonShatteredObelisk",
@@ -486,8 +492,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": false
     },
     {
         "GameModeId": "DungeonRestlessShores01",
@@ -556,8 +563,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": false
     },
     {
         "GameModeId": "DungeonReekwater00",
@@ -626,8 +634,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": false
     },
     {
         "GameModeId": "DungeonEbonscale00",
@@ -696,8 +705,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": false
     },
     {
         "GameModeId": "DungeonShatterMtn00",
@@ -766,8 +776,9 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 90,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": null,
+        "PriorityAddMax": null,
+        "AllowPvpValueAccumulation": false
     },
     {
         "GameModeId": "Arena3v3",
@@ -836,7 +847,8 @@
         "RaidInviteDelaySec": 5,
         "RaidInviteDurationSec": 45,
         "BackfillDelaySec": 30,
-        "PriorityAddMin": "",
-        "PriorityAddMax": ""
+        "PriorityAddMin": 5,
+        "PriorityAddMax": 10,
+        "AllowPvpValueAccumulation": false
     }
 ]

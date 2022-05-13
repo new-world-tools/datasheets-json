@@ -1374,7 +1374,7 @@
         "OnTargetBlockBreak": false,
         "OnDeath": false,
         "OnDeathsDoor": false,
-        "RequireReaction": null,
+        "RequireReaction": true,
         "NumSuccessfulHits": 0,
         "NumConsecutiveHits": 2,
         "MaxConsecutiveHits": 3,
