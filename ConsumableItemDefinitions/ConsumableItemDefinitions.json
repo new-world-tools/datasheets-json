@@ -12871,7 +12871,7 @@
     },
     {
         "ConsumableID": "PvPArena_FoodSTRT3",
-        "AddStatusEffects": "PvPArena_FoodSTRT3PvPArena_FoodRecoveryT3",
+        "AddStatusEffects": "PvPArena_FoodSTRT3+PvPArena_FoodRecoveryT3",
         "StatusEffectMod": null,
         "DurationOverrides": null,
         "MinDurationModifier": null,
@@ -12961,7 +12961,7 @@
     },
     {
         "ConsumableID": "PvPArena_FoodDEXT3",
-        "AddStatusEffects": "PvPArena_FoodDEXT3PvPArena_FoodRecoveryT3",
+        "AddStatusEffects": "PvPArena_FoodDEXT3+PvPArena_FoodRecoveryT3",
         "StatusEffectMod": null,
         "DurationOverrides": null,
         "MinDurationModifier": null,
@@ -13051,7 +13051,7 @@
     },
     {
         "ConsumableID": "PvPArena_FoodINTT3",
-        "AddStatusEffects": "PvPArena_FoodINTT3PvPArena_FoodRecoveryT3",
+        "AddStatusEffects": "PvPArena_FoodINTT3+PvPArena_FoodRecoveryT3",
         "StatusEffectMod": null,
         "DurationOverrides": null,
         "MinDurationModifier": null,
@@ -13141,7 +13141,7 @@
     },
     {
         "ConsumableID": "PvPArena_FoodCONT3",
-        "AddStatusEffects": "PvPArena_FoodCONT3PvPArena_FoodRecoveryT3",
+        "AddStatusEffects": "PvPArena_FoodCONT3+PvPArena_FoodRecoveryT3",
         "StatusEffectMod": null,
         "DurationOverrides": null,
         "MinDurationModifier": null,
@@ -13231,7 +13231,7 @@
     },
     {
         "ConsumableID": "PvPArena_FoodFOCT3",
-        "AddStatusEffects": "PvPArena_FoodFOCT3PvPArena_FoodRecoveryT3",
+        "AddStatusEffects": "PvPArena_FoodFOCT3+PvPArena_FoodRecoveryT3",
         "StatusEffectMod": null,
         "DurationOverrides": null,
         "MinDurationModifier": null,

@@ -9753,7 +9753,7 @@
         "PerkID": "PerkID_Gem_EmptyGemSlot",
         "PerkType": "Gem",
         "ConditionEvent": "OnEquip",
-        "ItemClass": "EquippableMainHand+EquippableTwoHand+EquippableChest+EquippableLegs+EquippableHead+EquippableHands+EquippableFeet+EquippableRing+EquippableToken",
+        "ItemClass": "EquippableMainHand+EquippableTwoHand+EquippableChest+EquippableLegs+EquippableHead+EquippableHands+EquippableFeet+EquippableRing+EquippableToken+EquippableAmulet",
         "ExcludeItemClass": "EquippableTool",
         "Channel": 1,
         "ExclusiveLabels": "EmptyGem",
