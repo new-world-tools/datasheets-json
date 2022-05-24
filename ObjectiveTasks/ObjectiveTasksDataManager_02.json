@@ -22872,7 +22872,7 @@
         "TaskID": "98_S_03_d_01_04_Interact_PKTraceAbsorberB_abandoned_fishing_village_50106",
         "Type": "TaskGatherItems",
         "FailOnCondition": "",
-        "StayActive": 1,
+        "StayActive": null,
         "TargetQty": 1,
         "ItemName": "9801_0101_PKTraceAbsorberB",
         "ItemDropVC": "9801_PKTraceAbsorberB",
