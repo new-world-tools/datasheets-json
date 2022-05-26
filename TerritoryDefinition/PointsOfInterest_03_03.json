@@ -24,12 +24,13 @@
         "DevName": "Balebane Maw",
         "VitalsCategory": "",
         "LevelRange": "",
-        "Containers": "",
+        "Containers": null,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_BalebaneMaw.png",
         "GameMode": "",
         "GroupSize": 3,
         "RecommendedLevel": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30302,
@@ -56,12 +57,13 @@
         "DevName": "Air Shrine",
         "VitalsCategory": "",
         "LevelRange": "",
-        "Containers": "",
+        "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_iceBoss.png",
         "GameMode": "",
         "GroupSize": null,
         "RecommendedLevel": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30312,
@@ -88,12 +90,13 @@
         "DevName": "",
         "VitalsCategory": "",
         "LevelRange": "",
-        "Containers": "",
+        "Containers": null,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_fortress13.png",
         "GameMode": "",
         "GroupSize": null,
         "RecommendedLevel": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30313,
@@ -120,12 +123,13 @@
         "DevName": "Faction Area",
         "VitalsCategory": "",
         "LevelRange": "",
-        "Containers": "",
+        "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
         "GroupSize": null,
         "RecommendedLevel": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30314,
@@ -152,11 +156,12 @@
         "DevName": "Spirit Shrine",
         "VitalsCategory": "",
         "LevelRange": "",
-        "Containers": "",
+        "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
         "GroupSize": null,
         "RecommendedLevel": null,
-        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
+        "EventId": ""
     }
 ]

@@ -25,7 +25,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0403_GruelBarrel",
@@ -53,7 +54,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0424_0108_YetiRune",
@@ -81,7 +83,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0403_0201_AlphaLure",
@@ -109,7 +112,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0603_0201_AlphaLure",
@@ -137,7 +141,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0903_0201_AlphaLure",
@@ -165,7 +170,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1203_0201_AlphaLure",
@@ -193,7 +199,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "Default",
@@ -221,7 +228,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "06_Grave",
@@ -249,7 +257,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "06_SpectralShrine",
@@ -277,7 +286,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0201_DirtPile",
@@ -305,7 +315,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0202_BoneDirtPile",
@@ -333,7 +344,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0203_MossPuffball",
@@ -361,7 +373,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0231_WolcottsEaselA",
@@ -389,7 +402,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0231_WolcottsEaselB",
@@ -417,7 +431,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0231_WolcottsEaselC",
@@ -445,7 +460,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0231_WolcottsEaselD",
@@ -473,7 +489,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0231_WolcottsEaselE",
@@ -501,7 +518,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0231_WolcottsEaselF",
@@ -529,7 +547,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0231_WolcottsEaselG",
@@ -557,7 +576,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0231_WolcottsEaselH",
@@ -585,7 +605,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0231_WolcottsEaselI",
@@ -613,7 +634,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "9801_PKTraceAbsorberA",
@@ -641,7 +663,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_01",
@@ -669,7 +692,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_02",
@@ -697,7 +721,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_03",
@@ -725,7 +750,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_04",
@@ -753,7 +779,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_05",
@@ -781,7 +808,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_06",
@@ -809,7 +837,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "9801_PKTraceAbsorberB",
@@ -837,7 +866,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "9802_DryadTerminusPool",
@@ -865,7 +895,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0301_BuriedChest",
@@ -893,7 +924,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0301_BuriedChestA",
@@ -921,7 +953,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0302_HidingBarrel",
@@ -949,7 +982,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0302_HidingBarrelA",
@@ -977,7 +1011,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0303_StatueAzothOrbA",
@@ -1005,7 +1040,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0304_StatueAzothOrbB",
@@ -1033,7 +1069,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0305_StatueAzothOrbC",
@@ -1061,7 +1098,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0306_CorrRitualPillar",
@@ -1089,7 +1127,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0425_Truffle",
@@ -1117,7 +1156,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0404_CorruptedNoduleA",
@@ -1145,7 +1185,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0404_CorruptedNoduleB",
@@ -1173,7 +1214,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0404_CorruptedNoduleC",
@@ -1201,7 +1243,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0404_CorruptedNoduleD",
@@ -1229,7 +1272,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0604_CorruptedNoduleA",
@@ -1257,7 +1301,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0604_CorruptedNoduleB",
@@ -1285,7 +1330,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0604_CorruptedNoduleC",
@@ -1313,7 +1359,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0604_CorruptedNoduleD",
@@ -1341,7 +1388,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0904_CorruptedNoduleA",
@@ -1369,7 +1417,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0904_CorruptedNoduleB",
@@ -1397,7 +1446,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0904_CorruptedNoduleC",
@@ -1425,7 +1475,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0904_CorruptedNoduleD",
@@ -1453,7 +1504,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1204_CorruptedNoduleA",
@@ -1481,7 +1533,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1204_CorruptedNoduleB",
@@ -1509,7 +1562,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1204_CorruptedNoduleC",
@@ -1537,7 +1591,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1204_CorruptedNoduleD",
@@ -1565,7 +1620,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0501_BlightNodule",
@@ -1593,7 +1649,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0502_CrystalCluster",
@@ -1621,7 +1678,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0503_DryadAltar",
@@ -1649,7 +1707,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0504_AncientBookcase",
@@ -1677,7 +1736,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0505_TowerMural",
@@ -1705,7 +1765,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0506_RelicPile",
@@ -1733,7 +1794,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0507_AncientRubble",
@@ -1761,7 +1823,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0508_HeartDevice",
@@ -1789,7 +1852,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0509_StoneTablet_00",
@@ -1817,7 +1881,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0509_StoneTablet_01",
@@ -1845,7 +1910,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0509_StoneTablet_02",
@@ -1873,7 +1939,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0509_StoneTablet_03",
@@ -1901,7 +1968,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0510_AncientMap",
@@ -1929,7 +1997,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0511_PowderkegA",
@@ -1957,7 +2026,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0512_PowderkegB",
@@ -1985,7 +2055,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0513_LighthouseLure",
@@ -2013,7 +2084,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0514_StoneWallTablet",
@@ -2041,13 +2113,14 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0517_AncientTowerDoor",
         "Visual_Healthy": "",
         "Visual_Depleted": "",
-        "Visual_NotOnRequiredQuest": "",
+        "Visual_NotOnRequiredQuest": "slices\\WorldEvents\\Reekwater\\Interact\\AncientStatueWDoor\\WorldEvent_Object_0517_AncientTowerDoor_00.dynamicslice",
         "Visual_Basemesh": "slices\\WorldEvents\\Reekwater\\Interact\\AncientStatueWDoor\\WorldEvent_Object_0517_AncientTowerDoor_00.dynamicslice",
         "GatherableEntryID": "0517_AncientTowerDoor",
         "GatheringRadius": 0.3,
@@ -2069,7 +2142,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0518_SirenMachine",
@@ -2097,7 +2171,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0519_EmptyAzothPowerSource",
@@ -2125,7 +2200,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0520_StygianChannelSegmentA",
@@ -2153,7 +2229,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0520_StygianChannelSegmentB",
@@ -2181,7 +2258,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0520_StygianChannelSegmentC",
@@ -2209,7 +2287,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0520_StygianChannelSegmentD",
@@ -2237,7 +2316,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0521_WyrdwoodSeedPod",
@@ -2265,7 +2345,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0601_DirtHole",
@@ -2293,7 +2374,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0601_DirtHoleB",
@@ -2321,7 +2403,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0602_SpiceSackGreen",
@@ -2349,7 +2432,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0602_SpiceSackRed",
@@ -2377,7 +2461,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0602_SpiceSackYellow",
@@ -2405,7 +2490,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0603_PrototypeAzothBomb",
@@ -2433,7 +2519,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0604_AncientArtifactA",
@@ -2461,7 +2548,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0605_AncientArtifactB",
@@ -2489,7 +2577,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0606_StripedPowderkeg",
@@ -2517,7 +2606,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0607_ClothTrailA",
@@ -2545,7 +2635,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0607_ClothTrailB",
@@ -2573,7 +2664,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0607_ClothTrailC",
@@ -2601,7 +2693,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0607_ClothTrailD",
@@ -2629,7 +2722,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0607_ClothTrailE",
@@ -2657,7 +2751,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0608_SabotagedCannon",
@@ -2685,7 +2780,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0625_Truffle",
@@ -2713,7 +2809,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0701_AntiCorruptionBomb",
@@ -2741,7 +2838,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0701_AntiCorruptionBombB",
@@ -2769,7 +2867,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0702_BlightNodule",
@@ -2797,7 +2896,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0703_BaetylusLuckstone",
@@ -2825,7 +2925,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0808_CorruptedScroll",
@@ -2853,7 +2954,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0803_PowderKeg",
@@ -2881,7 +2983,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_AltarOfTheDeparted",
@@ -2909,7 +3012,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_GraveA",
@@ -2937,7 +3041,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_GraveA_01",
@@ -2965,7 +3070,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_GraveA_02",
@@ -2993,7 +3099,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_GraveA_03",
@@ -3021,7 +3128,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_GraveB",
@@ -3049,7 +3157,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_Junkpile",
@@ -3077,7 +3186,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_Altar",
@@ -3105,7 +3215,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_Altar_01",
@@ -3133,7 +3244,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_Altar_02",
@@ -3161,7 +3273,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_Altar_03",
@@ -3189,7 +3302,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_Altar_04",
@@ -3217,7 +3331,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_Furniture",
@@ -3245,7 +3360,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_Tomb",
@@ -3273,7 +3389,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_TombLocked",
@@ -3301,7 +3418,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0804_BlueFlower",
@@ -3329,7 +3447,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0801_CorrDynastyAltar",
@@ -3357,7 +3476,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0825_CookingSupplies_01",
@@ -3385,7 +3505,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0825_CookingSupplies_02",
@@ -3413,7 +3534,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0826_TigerCage",
@@ -3441,7 +3563,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0828_Heirloom_01",
@@ -3469,7 +3592,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0828_Heirloom_02",
@@ -3497,7 +3621,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0828_Heirloom_03",
@@ -3525,7 +3650,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0828_Heirloom_04",
@@ -3553,7 +3679,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0831_DryadsEyePlant",
@@ -3581,7 +3708,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0831_BruteCannonSchematic",
@@ -3609,7 +3737,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0831_DiscardedArmorPile",
@@ -3637,7 +3766,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0901_Barley",
@@ -3665,7 +3795,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0902_GunpowderCask",
@@ -3693,7 +3824,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0903_HilltopHops",
@@ -3721,7 +3853,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0904_FishTrap",
@@ -3749,7 +3882,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0906_CargoSupplies",
@@ -3777,7 +3911,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0907_SabotagedCannon",
@@ -3805,7 +3940,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0925_Truffle",
@@ -3833,7 +3969,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0908_Magnetite",
@@ -3861,7 +3998,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1001_LightningTrap",
@@ -3889,7 +4027,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1002_AncientRelic_L",
@@ -3917,7 +4056,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1002_AncientRelic_S",
@@ -3945,7 +4085,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1003_PirateFigurehead",
@@ -3973,7 +4114,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1101_SilverOrb",
@@ -4001,7 +4143,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1102_StoneOrb",
@@ -4029,7 +4172,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1103_CopperOrb",
@@ -4057,7 +4201,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1104_MedallionChest",
@@ -4085,7 +4230,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1105_CorruptedTotem",
@@ -4113,7 +4259,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1201_JamJar",
@@ -4141,7 +4288,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1202_AncientArtifact",
@@ -4169,7 +4317,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1203_HoneyLore",
@@ -4197,7 +4346,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1225_Truffle",
@@ -4225,7 +4375,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1225_StarTouchedWater",
@@ -4253,7 +4404,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1225_GraveNettle",
@@ -4281,7 +4433,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1225_AbandonedBags",
@@ -4309,7 +4462,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1225_ConstructPoint",
@@ -4337,7 +4491,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1225_ChasonCampChest",
@@ -4365,7 +4520,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1225_HibbotsfeldPack",
@@ -4393,7 +4549,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1301_ForgingTongs",
@@ -4421,7 +4578,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1302_ForgingBellows",
@@ -4449,7 +4607,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1303_ForgingHammer",
@@ -4477,7 +4636,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1304_EctoplasmA",
@@ -4505,7 +4665,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1304_EctoplasmB",
@@ -4533,7 +4694,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1304_EctoplasmC",
@@ -4561,7 +4723,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1304_EctoplasmD",
@@ -4589,7 +4752,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1305_CursedAltar",
@@ -4617,7 +4781,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1401_BlightTinctureBomb",
@@ -4645,7 +4810,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1402_CorruptedOre",
@@ -4673,7 +4839,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1403_WyrdwoodGrowth",
@@ -4701,14 +4868,189 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
-        "VariantID": "MSQ_ShipsLocker",
+        "VariantID": "9926_0103_VKCannonA",
         "Visual_Healthy": "",
         "Visual_Depleted": "",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\StarterBeach\\Shipwreck\\Art\\WorldEvent_Art_MSQ_ShipsLocker.dynamicslice",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "9926_0103_VKCannonA",
+        "GatheringRadius": 0.5,
+        "InteractionRadius": 1.85,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": null,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "IsStateControlledBySlayerScript": true,
+        "RequireLoS": null
+    },
+    {
+        "VariantID": "9926_0103_VKCannonB",
+        "Visual_Healthy": "slices\\WorldEvents\\Varangian\\WorldEvent_Object_9926_VKCannonB_00.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "9926_0103_VKCannonB",
+        "GatheringRadius": 0.5,
+        "InteractionRadius": 1.85,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "struct_cannon",
+        "SFX_depleted": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": null,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "IsStateControlledBySlayerScript": true,
+        "RequireLoS": null
+    },
+    {
+        "VariantID": "SliceSwap_9926_TentFires",
+        "Visual_Healthy": "",
+        "Visual_Depleted": "slices\\WorldEvents\\Varangian\\WorldEvent_Object_9926_TentFires.dynamicslice",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "SliceSwap_Instanced",
+        "GatheringRadius": 1,
+        "InteractionRadius": 3.25,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": false,
+        "AchievementID": "SwapActive_9926_TentFires_On",
+        "AchievementServerState": "",
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
+    },
+    {
+        "VariantID": "9926_0103_RomacPack",
+        "Visual_Healthy": "slices\\WorldEvents\\Varangian\\WorldEvent_Object_9926_0103_RomacPack.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "9926_0103_RomacPack",
+        "GatheringRadius": 0.5,
+        "InteractionRadius": 1.85,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "IO_9926_0103_RomacPack",
+        "InteractOnlyOnQuest": true,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
+    },
+    {
+        "VariantID": "9926_0103_ActivityReport",
+        "Visual_Healthy": "slices\\WorldEvents\\Varangian\\WorldEvent_Object_9926_0103_ActivityReport.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "9926_0103_ActivityReport",
+        "GatheringRadius": 0.5,
+        "InteractionRadius": 1.85,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "IO_9926_0103_ActivityReport",
+        "InteractOnlyOnQuest": true,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
+    },
+    {
+        "VariantID": "9932_0104_RomacNotebook",
+        "Visual_Healthy": "slices\\WorldEvents\\Varangian\\WorldEvent_Object_9932_0104_RomacNotebook.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "9932_0104_RomacNotebook",
+        "GatheringRadius": 0.5,
+        "InteractionRadius": 1.85,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "IO_9932_0104_RomacNotebook",
+        "InteractOnlyOnQuest": true,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
+    },
+    {
+        "VariantID": "MSQ_ShipsLocker",
+        "Visual_Healthy": "slices\\WorldEvents\\StarterBeach\\Shipwreck\\Art\\WorldEvent_Art_MSQ_ShipsLocker.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\StarterBeach\\Shipwreck\\Art\\WorldEvent_Art_MSQ_ShipsLocker_Open.dynamicslice",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "MSQ_ShipsLocker",
         "GatheringRadius": 1,
         "InteractionRadius": 3.25,
@@ -4729,7 +5071,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_Flag",
@@ -4757,7 +5100,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0001_ShipFlagStern",
@@ -4785,7 +5129,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0002_ShipFlagBow",
@@ -4813,7 +5158,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_SalvagePile_A",
@@ -4841,7 +5187,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_SalvagePile_B",
@@ -4869,7 +5216,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_SalvagePile_C",
@@ -4897,7 +5245,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_OldStoneRemembers_Interact",
@@ -4925,7 +5274,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0012_OverSeaUnderStone_Interact",
@@ -4953,7 +5303,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0008_AncientPlaqueA",
@@ -4981,7 +5332,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0008_AncientPlaqueB",
@@ -5009,7 +5361,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0025_AmrineAzothBarrier",
@@ -5037,7 +5390,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0025_AmrineAzothBarrier_Permanent",
@@ -5065,7 +5419,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AmrineAzothBarrier_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0009_AzothWell",
@@ -5093,7 +5448,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0010_SoulwardenTomb",
@@ -5121,7 +5477,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0011_DefenseInteract",
@@ -5149,7 +5506,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0013_AmrineAnvil",
@@ -5177,7 +5535,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0021_ForgeStaffAnimTest",
@@ -5205,7 +5564,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0021_ForgeStaffD",
@@ -5233,7 +5593,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0022_AmrineMachine",
@@ -5261,7 +5622,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0023_AmrineTempleAltar",
@@ -5289,7 +5651,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0024_FightingPitDoor",
@@ -5317,7 +5680,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0026_StormwallBattery",
@@ -5345,7 +5709,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0027_StormwallBarrier",
@@ -5373,7 +5738,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0027_StormwallBarrier_Permanent",
@@ -5401,7 +5767,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_StormwallBarrier_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0028_UrinePuddle",
@@ -5429,7 +5796,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0037_PlanB_Water_01",
@@ -5457,7 +5825,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0037_PlanB_Water_02",
@@ -5485,7 +5854,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0037_PlanB_Fire",
@@ -5513,7 +5883,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0037_PlanB_Fire_02",
@@ -5541,7 +5912,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0037_PlanB_Fire_Rima",
@@ -5569,7 +5941,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0039_YonasCaveDoor",
@@ -5597,7 +5970,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0039_YonasCaveDoor_Permanent",
@@ -5625,7 +5999,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_YonasCaveDoor_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0048_Blightbombs1",
@@ -5653,7 +6028,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0048_Blightbombs2",
@@ -5681,7 +6057,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0048_Blightbombs3",
@@ -5709,7 +6086,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0048_Blightbombs4",
@@ -5737,7 +6115,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0048_Blightbombs5",
@@ -5765,7 +6144,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0050_Fungus1",
@@ -5793,7 +6173,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0050_Fungus2",
@@ -5821,7 +6202,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0050_Fungus3",
@@ -5849,7 +6231,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0050_Fungus4",
@@ -5877,7 +6260,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombShip",
@@ -5905,7 +6289,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombShip2",
@@ -5933,7 +6318,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombShip3",
@@ -5961,7 +6347,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombShip4",
@@ -5989,7 +6376,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombCargo1",
@@ -6017,7 +6405,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombCargo2",
@@ -6045,7 +6434,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombCargo3",
@@ -6073,7 +6463,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombCargo4",
@@ -6101,7 +6492,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombCargo5",
@@ -6129,7 +6521,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombCargo6",
@@ -6157,7 +6550,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0052_BombCargo7",
@@ -6185,7 +6579,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0054_Motherwell",
@@ -6213,7 +6608,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0054_MotherwellDoor",
@@ -6241,7 +6637,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0054_MotherwellDoor_Permanent",
@@ -6269,7 +6666,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MotherWellDoor_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0090_FindYrsa1",
@@ -6297,7 +6695,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "MSQ_0090_FindYrsa2",
@@ -6325,7 +6724,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0202_0101_Inquisitor",
@@ -6353,7 +6753,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1125_SongoftheSea",
@@ -6381,7 +6782,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1126_AncientDevice_A",
@@ -6409,7 +6811,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1126_AncientDevice_B",
@@ -6437,7 +6840,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1126_AncientDevice_C",
@@ -6465,7 +6869,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1124_VistaPoint1",
@@ -6493,7 +6898,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1124_VistaPoint2",
@@ -6521,7 +6927,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1124_VistaPoint3",
@@ -6549,7 +6956,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1124_VistaPoint4",
@@ -6577,7 +6985,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1124_PierresNote",
@@ -6605,7 +7014,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1124_Pierre_Town_off",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1129_Jaansen_Note",
@@ -6633,7 +7043,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "11_Jaansen_1",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "PVP_0001_DeadDropGiveItem",
@@ -6661,7 +7072,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "PVP_0001_DeadDropTakeItem",
@@ -6689,7 +7101,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "PVP_0002_DeadDropGiveItem",
@@ -6717,7 +7130,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "PVP_0002_DeadDropTakeItem",
@@ -6745,7 +7159,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "PVP_0003_DeadDropGiveItem",
@@ -6773,7 +7188,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "PVP_0003_DeadDropTakeItem",
@@ -6801,7 +7217,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_DaughterwellFountain",
@@ -6829,7 +7246,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_DaughterwellFountain",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_FishermanYonas_Off",
@@ -6857,7 +7275,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_FishermanYonas_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_CanaryAdiana_Off",
@@ -6885,7 +7304,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_CanaryAdiana_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_BrightwoodEmile_Off",
@@ -6913,7 +7333,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_BrightwoodEmile_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_WeaversTheo_Off",
@@ -6941,7 +7362,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WeaversTheo_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_CutlassRima_Off",
@@ -6969,7 +7391,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_CutlassRima_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_SpiritYonas_OnOff",
@@ -6997,7 +7420,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_SpiritYonas_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_AlazarYonas_OnOff",
@@ -7025,7 +7449,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AlazarYonas_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_AlazarRima1_OnOff",
@@ -7053,7 +7478,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AlazarRima1_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_AlazarRima2_OnOff",
@@ -7081,7 +7507,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AlazarRima2_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_AlazarEmile_OnOff",
@@ -7109,7 +7536,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AlazarEmile_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_AlazarTheo_OnOff",
@@ -7137,7 +7565,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AlazarTheo_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_FtAlazarNormal_Off",
@@ -7165,7 +7594,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_FtAlazarBurning_On",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_FtAlazarBurning_On",
@@ -7193,7 +7623,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_FtAlazarBurning_On",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_FtWardenWalker_OnOff",
@@ -7221,7 +7652,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WardenWalker_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_FtWardenConstance_OnOff",
@@ -7249,7 +7681,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WardenConstance_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_FtWardenWayne_OnOff",
@@ -7277,7 +7710,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WardenWayne_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_FtWardenEliza_OnOff",
@@ -7305,7 +7739,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WardenElizaSamir_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_FtWardenSamir_OnOff",
@@ -7333,7 +7768,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WardenElizaSamir_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_SWCaveEmile_OnOff",
@@ -7361,7 +7797,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_SWCaveEmile_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_RestlessEmile_OnOff",
@@ -7389,7 +7826,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_RestlessEmileTheo_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_RestlessTheo_OnOff",
@@ -7417,7 +7855,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_RestlessEmileTheo_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_RestlessRima_OnOff",
@@ -7445,7 +7884,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_RestlessRima_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_VillageAdiana_On",
@@ -7473,7 +7913,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_VillageAdiana_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_VillageTheo_OnOff",
@@ -7501,7 +7942,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_VillageTheo_OnOff",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_ShatteredRima_On",
@@ -7529,7 +7971,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MountainRimaEmile_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_ShatteredTheo_On",
@@ -7557,7 +8000,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MountainTheo_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_ShatteredEmile_On",
@@ -7585,7 +8029,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MountainRimaEmile_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SwapActive_0404_Constable_Off",
@@ -7613,7 +8058,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0404_Constable_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SwapActive_0404_Constable_On",
@@ -7641,7 +8087,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0404_Constable_Off",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_MSQ_0035_Lore_ThorpeChallenge",
@@ -7669,7 +8116,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MSQ_Lore_ThorpeChallenge",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1335_0203_NoraRuinsRock",
@@ -7697,7 +8145,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "13_Quest_22",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1335_0203_NoraCamp",
@@ -7725,7 +8174,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "13_Quest_34",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_DryadYargui_On",
@@ -7753,7 +8203,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_DryadYargui_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_HumanYargui_Off",
@@ -7781,7 +8232,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_DryadYargui_On",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_SyndicateRankNPC_On",
@@ -7809,7 +8261,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_SyndicateRankNPC_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_SyndicateTargetNPC_Off",
@@ -7837,7 +8290,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_SyndicateRankNPC_On",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_MarauderRankNPC_On",
@@ -7865,7 +8319,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MarauderRankNPC_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_MarauderTargetNPC_Off",
@@ -7893,7 +8348,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MarauderRankNPC_On",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_CovenantRankNPC_On",
@@ -7921,7 +8377,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_CovenantRankNPC_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_CovenantTargetNPC_Off",
@@ -7949,7 +8406,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_CovenantRankNPC_On",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_0425_HerbalistPath_Off",
@@ -7977,7 +8435,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0425_HerbalistPath_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_0425_HerbalistFLTown_On",
@@ -8005,7 +8464,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0425_HerbalistFLTown_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_0425_HerbalistWWTown_On",
@@ -8033,7 +8493,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0425_HerbalistWWTown_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_0425_HerbalistEFTown_On",
@@ -8061,7 +8522,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0425_HerbalistEFTown_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_0425_HerbalistMBTown_On",
@@ -8089,7 +8551,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0425_HerbalistMBTown_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_0902_MagistrateTown_Off",
@@ -8117,7 +8580,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0902_MagistrateTown_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_0902_MagistratePOI_On",
@@ -8145,7 +8609,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0902_MagistrateTown_Off",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_0903_SurvivalistTown_Off",
@@ -8173,7 +8638,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0903_SurvivalistTown_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_0903_SurvivalistPOI_On",
@@ -8201,7 +8667,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0903_SurvivalistTown_Off",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_9926_AbigailRoseA_Off",
@@ -8229,7 +8696,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_9926_AbigailRoseA_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_9926_AbigailRoseB_On",
@@ -8257,7 +8725,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_9926_AbigailRoseB_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_9927_ScoutsNote_Off",
@@ -8285,7 +8754,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_9927_ScoutsNote_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_TravelersA_Stage0",
@@ -8313,7 +8783,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersA_Stage0_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_TravelersA_Stage1",
@@ -8341,7 +8812,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersA_Stage1_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_TravelersA_Stage2",
@@ -8369,7 +8841,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersA_Stage2_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_TravelersA_Stage3",
@@ -8397,7 +8870,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersA_Stage3_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_TravelersB_Stage3",
@@ -8425,7 +8899,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersB_Stage3_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_WorkbenchA",
@@ -8453,7 +8928,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersAPropsA_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_WorkbenchB",
@@ -8481,7 +8957,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersAPropsA_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_WorkbenchC",
@@ -8509,7 +8986,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersAPropsB_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_WoodpileBProps",
@@ -8537,7 +9015,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersAPropsB_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_WoodpileAProps",
@@ -8565,7 +9044,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersB_Stage3_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_GiacomoStart_On",
@@ -8593,7 +9073,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_GiacomoStart_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_GiacomoChason_On",
@@ -8621,7 +9102,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_GiacomoChason_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_GiacomoTravelersA_On",
@@ -8649,7 +9131,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_GiacomoTravelersA_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_GiacomoTravelersB_On",
@@ -8677,7 +9160,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_GiacomoTravelersB_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_CampfireProp_MB",
@@ -8705,7 +9189,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_CampfirePropsMB_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_CampfireProp_EF",
@@ -8733,7 +9218,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_CampfirePropsEF_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_CampfireProp_FL",
@@ -8761,7 +9247,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_CampfirePropsFL_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_CampfireProp_WW",
@@ -8789,7 +9276,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_CampfirePropsWW_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_SunadireCamp",
@@ -8817,7 +9305,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_SunadireCamp_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_0101_LoreA",
@@ -8845,7 +9334,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_0101_LoreA_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_0101_LoreB",
@@ -8873,7 +9363,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_0101_LoreB_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_0301_LoreA",
@@ -8901,7 +9392,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_0301_LoreA_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_0401_LoreA",
@@ -8929,7 +9421,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_0401_LoreA_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1225_0601_LoreA",
@@ -8957,7 +9450,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_0601_LoreA_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "DefendObject_Test",
@@ -8985,7 +9479,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "CorruptedOrb",
@@ -9013,7 +9508,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "DungeonEdengrove_BlightedHallow",
@@ -9041,7 +9537,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1333_UpperStoneRubble_00",
@@ -9069,7 +9566,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1333_StoneRubble_00",
@@ -9097,7 +9595,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0300_EpicWeapons_Periville",
@@ -9125,7 +9624,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0300_EpicWeapons_Scorpius",
@@ -9153,7 +9653,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0300_EpicWeapons_Malevolence",
@@ -9181,7 +9682,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0405_GlowingOre",
@@ -9209,7 +9711,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0411_Armillary_00",
@@ -9237,7 +9740,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0802_Airshrine",
@@ -9265,7 +9769,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0802_Earthshrine",
@@ -9293,7 +9798,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0802_Watershrine",
@@ -9321,7 +9827,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0802_Fireshrine",
@@ -9349,7 +9856,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SwapActive_1524_Boatswain00_Original",
@@ -9377,7 +9885,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1524_Boatswain00_Original",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SwapActive_1524_Boatswain01_Moved",
@@ -9405,7 +9914,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1524_Boatswain01_Moved",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SwapActive_1526_Naturalist_Off",
@@ -9433,7 +9943,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1526_Naturalist_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1526_09_04_Lore",
@@ -9461,7 +9972,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SliceSwap_1526_09_04_Lore_On",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1525_1519_Quiver",
@@ -9489,7 +10001,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1526_1521_LynxEvidence1",
@@ -9517,7 +10030,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1526_1521_LynxEvidence2",
@@ -9545,7 +10059,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1526_1521_LynxEvidence3",
@@ -9573,7 +10088,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "1524_GoldenStash",
@@ -9601,7 +10117,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1205_Artificer_Town_Off",
@@ -9629,7 +10146,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1205_Artificer_Town_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1205_Artificer_POI",
@@ -9657,7 +10175,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1205_Artificer_Town_Off",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1203_Survivalist_Town_Off",
@@ -9685,7 +10204,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1203_Survivalist_Town_Off",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_1203_Survivalist_POI",
@@ -9713,7 +10233,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1203_Survivalist_Town_Off",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "FM_PVP_War_Camp_Loot_Box",
@@ -9741,7 +10262,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SliceSwap_Lore_JanJaansenExit",
@@ -9769,7 +10291,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "11_Jaansen_3",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SwapSlice_Harunobu_Pork",
@@ -9797,7 +10320,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1127_Harunobu_Off",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SwapSlice_Perils1",
@@ -9825,7 +10349,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1124_Pierre_Town_off",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SwapSlice_Perils2",
@@ -9853,7 +10378,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1124_Pierre_Town_off",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SwapSlice_Perils3",
@@ -9881,7 +10407,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1124_Pierre_Town_off",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0726_Gravestone",
@@ -9909,12 +10436,13 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0726_BookOfIsabella",
-        "Visual_Healthy": "slices\\Gatherables\\Quest\\BookOfIsabella_Book.dynamicslice",
-        "Visual_Depleted": "",
+        "Visual_Healthy": "",
+        "Visual_Depleted": "slices\\Gatherables\\Quest\\BookOfIsabella_Book.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
         "Visual_Basemesh": "",
         "GatherableEntryID": "0726_BookOfIsabella",
@@ -9931,13 +10459,14 @@
         "depletedVFX_Offset_Z": null,
         "GatheringFX": "",
         "gatheringVFX_Offzet_Z": null,
-        "interactionMarker_Offset_Z": -1.25,
+        "interactionMarker_Offset_Z": null,
         "InteractionEvent": "",
         "InteractTag": "IO_0726_BookOfIsabella",
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MSQ_MaraBook",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "CyclicExample_White_Prisma",
@@ -9965,7 +10494,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": true
+        "IsStateControlledBySlayerScript": true,
+        "RequireLoS": null
     },
     {
         "VariantID": "CyclicExample_Red_Prisma",
@@ -9993,7 +10523,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": true
+        "IsStateControlledBySlayerScript": true,
+        "RequireLoS": null
     },
     {
         "VariantID": "CyclicExample_Orange_Prisma",
@@ -10021,7 +10552,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": true
+        "IsStateControlledBySlayerScript": true,
+        "RequireLoS": null
     },
     {
         "VariantID": "CyclicExample_Green_Prisma",
@@ -10049,7 +10581,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": true
+        "IsStateControlledBySlayerScript": true,
+        "RequireLoS": null
     },
     {
         "VariantID": "CyclicExample_Cyan_Prisma",
@@ -10077,7 +10610,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": true
+        "IsStateControlledBySlayerScript": true,
+        "RequireLoS": null
     },
     {
         "VariantID": "CyclicExample_Sapling",
@@ -10105,7 +10639,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": true
+        "IsStateControlledBySlayerScript": true,
+        "RequireLoS": null
     },
     {
         "VariantID": "CyclicExample_ShortTree",
@@ -10133,7 +10668,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": true
+        "IsStateControlledBySlayerScript": true,
+        "RequireLoS": null
     },
     {
         "VariantID": "CyclicExample_TallTree",
@@ -10161,7 +10697,8 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": true
+        "IsStateControlledBySlayerScript": true,
+        "RequireLoS": null
     },
     {
         "VariantID": "RegularExample_Green_Prisma",
@@ -10189,14 +10726,15 @@
         "InteractOnlyOnQuest": null,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_EastCleave01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_EastCleave01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10217,14 +10755,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_EastCutlass01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_EastCutlass01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10245,14 +10784,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_EastEdengrove01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_EastEdengrove01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10273,14 +10813,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_EastEverfall01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_EastEverfall01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10301,14 +10842,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_EastShattered01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_EastShattered01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10329,14 +10871,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_MidRestless01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_MidRestless01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10357,14 +10900,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_NorthBrightwood01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_NorthBrightwood01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10385,14 +10929,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_NorthEbonscale01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_NorthEbonscale01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10413,14 +10958,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_NorthFirstLight01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_NorthFirstLight01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10441,14 +10987,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_NorthMonarchs01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_NorthMonarchs01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10469,14 +11016,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_NorthReekwater01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_NorthReekwater01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10497,14 +11045,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_NorthWeavers01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_NorthWeavers01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10525,14 +11074,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_NorthWeavers02",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_NorthWeavers02",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10553,14 +11103,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_NorthWindsward01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_NorthWindsward01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10581,14 +11132,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_NorthWindsward02",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_NorthWindsward02",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10609,14 +11161,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_SouthBrightwood01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_SouthBrightwood01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10637,14 +11190,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_SouthEbonscale01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_SouthEbonscale01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10665,14 +11219,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_SouthFirstLight01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_SouthFirstLight01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10693,14 +11248,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_SouthMonarchs01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_SouthMonarchs01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10721,14 +11277,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_SouthMourningdale01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_SouthMourningdale01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10749,14 +11306,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_SouthReekwater01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_SouthReekwater01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10777,14 +11335,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_SouthRestless01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_SouthRestless01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10805,14 +11364,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_SouthShattered01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_SouthShattered01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10833,14 +11393,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_WestCleave01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_WestCleave01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10861,14 +11422,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_WestEdengrove01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_WestEdengrove01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10889,14 +11451,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_WestEverfall01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_WestEverfall01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10917,14 +11480,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_WestMourningdale01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_WestMourningdale01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10945,14 +11509,15 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "ExploreVista_WestCutlass01",
         "Visual_Healthy": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
-        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
-        "Visual_Basemesh": "slices\\WorldEvents\\RewardingExploration\\VistaPoints\\ExploreVista_Easel.dynamicslice",
+        "Visual_Basemesh": "",
         "GatherableEntryID": "ExploreVista_WestCutlass01",
         "GatheringRadius": 0.3,
         "InteractionRadius": 3.25,
@@ -10973,7 +11538,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "SwapSlice_MSQ_ThorpeNote",
@@ -11001,7 +11567,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MSQ_MaraBook",
         "AchievementServerState": "Depleted",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "GoldPile00",
@@ -11029,7 +11596,8 @@
         "InteractOnlyOnQuest": false,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0601_0101_Hatchet",
@@ -11038,17 +11606,17 @@
         "Visual_NotOnRequiredQuest": "",
         "Visual_Basemesh": "",
         "GatherableEntryID": "0601_0101_weapon_01_hatchet",
-        "GatheringRadius": 2,
-        "InteractionRadius": 5,
+        "GatheringRadius": 0.3,
+        "InteractionRadius": 3.25,
         "DetectableRadius": 5,
         "MarkerRadius": 5,
         "AudioPreload_depleted": "",
         "SFX_depleted": "",
         "SFX_Idle": "",
         "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
-        "IdleVFX_Offset_Z": null,
+        "IdleVFX_Offset_Z": 0.2,
         "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
-        "depletedVFX_Offset_Z": null,
+        "depletedVFX_Offset_Z": 0.2,
         "GatheringFX": "",
         "gatheringVFX_Offzet_Z": null,
         "interactionMarker_Offset_Z": -1,
@@ -11057,7 +11625,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0601_0101_Warhammer",
@@ -11066,17 +11635,17 @@
         "Visual_NotOnRequiredQuest": "",
         "Visual_Basemesh": "",
         "GatherableEntryID": "0601_0101_weapon_02_warhammer",
-        "GatheringRadius": 2,
-        "InteractionRadius": 5,
+        "GatheringRadius": 0.3,
+        "InteractionRadius": 3.25,
         "DetectableRadius": 5,
         "MarkerRadius": 5,
         "AudioPreload_depleted": "",
         "SFX_depleted": "",
         "SFX_Idle": "",
         "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
-        "IdleVFX_Offset_Z": null,
+        "IdleVFX_Offset_Z": 0.2,
         "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
-        "depletedVFX_Offset_Z": null,
+        "depletedVFX_Offset_Z": 0.2,
         "GatheringFX": "",
         "gatheringVFX_Offzet_Z": null,
         "interactionMarker_Offset_Z": -1,
@@ -11085,7 +11654,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0601_0101_Bow",
@@ -11094,17 +11664,17 @@
         "Visual_NotOnRequiredQuest": "",
         "Visual_Basemesh": "",
         "GatherableEntryID": "0601_0101_weapon_03_bow",
-        "GatheringRadius": 2,
-        "InteractionRadius": 5,
+        "GatheringRadius": 0.3,
+        "InteractionRadius": 3.25,
         "DetectableRadius": 5,
         "MarkerRadius": 5,
         "AudioPreload_depleted": "",
         "SFX_depleted": "",
         "SFX_Idle": "",
         "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
-        "IdleVFX_Offset_Z": null,
+        "IdleVFX_Offset_Z": 0.2,
         "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
-        "depletedVFX_Offset_Z": null,
+        "depletedVFX_Offset_Z": 0.2,
         "GatheringFX": "",
         "gatheringVFX_Offzet_Z": null,
         "interactionMarker_Offset_Z": -1,
@@ -11113,7 +11683,8 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     },
     {
         "VariantID": "0601_0101_FireStaff",
@@ -11122,17 +11693,17 @@
         "Visual_NotOnRequiredQuest": "",
         "Visual_Basemesh": "",
         "GatherableEntryID": "0601_0101_weapon_04_firestaff",
-        "GatheringRadius": 2,
-        "InteractionRadius": 5,
+        "GatheringRadius": 0.3,
+        "InteractionRadius": 3.25,
         "DetectableRadius": 5,
         "MarkerRadius": 5,
         "AudioPreload_depleted": "",
         "SFX_depleted": "",
         "SFX_Idle": "",
         "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
-        "IdleVFX_Offset_Z": null,
+        "IdleVFX_Offset_Z": 0.2,
         "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
-        "depletedVFX_Offset_Z": null,
+        "depletedVFX_Offset_Z": 0.2,
         "GatheringFX": "",
         "gatheringVFX_Offzet_Z": null,
         "interactionMarker_Offset_Z": -1,
@@ -11141,6 +11712,94 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "IsStateControlledBySlayerScript": null
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
+    },
+    {
+        "VariantID": "NPC_Hostage_Test",
+        "Visual_Healthy": "slices\\WorldEvents\\Prototypes\\WorldEvent_NPC_Template_00.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "NPCHostage_Instanced",
+        "GatheringRadius": 0.3,
+        "InteractionRadius": 3.25,
+        "DetectableRadius": 5,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "SFX_Idle": "",
+        "VFX_Idle": "",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "IO_NPC_Hostage_Test",
+        "InteractOnlyOnQuest": false,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
+    },
+    {
+        "VariantID": "Holdout_OnewayDoor",
+        "Visual_Healthy": "",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "slices\\POIs\\Ancient\\Design\\WorldEvent_Object_Holdout_OneWay.slice",
+        "GatherableEntryID": "0517_AncientTowerDoor",
+        "GatheringRadius": 0.3,
+        "InteractionRadius": 3.25,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "Play_Recall_FastTravel_Puff",
+        "SFX_Idle": "",
+        "VFX_Idle": "",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "IO_Holdout_OnewayDoor",
+        "InteractOnlyOnQuest": false,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
+    },
+    {
+        "VariantID": "Holdout_Enable",
+        "Visual_Healthy": "slices\\POIs\\Ancient\\Design\\WorldEvent_interactObject_glyph_Healthy.slice",
+        "Visual_Depleted": "slices\\POIs\\Ancient\\Design\\WorldEvent_interactObject_glyph_depleted.slice",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "Holdout_Interact",
+        "GatheringRadius": 0.3,
+        "InteractionRadius": 3.25,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "Play_Recall_FastTravel_Puff",
+        "SFX_Idle": "",
+        "VFX_Idle": "",
+        "IdleVFX_Offset_Z": null,
+        "DepletedVFX": "",
+        "depletedVFX_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": null,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "IO_Holdout_Enable",
+        "InteractOnlyOnQuest": false,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "IsStateControlledBySlayerScript": null,
+        "RequireLoS": null
     }
 ]

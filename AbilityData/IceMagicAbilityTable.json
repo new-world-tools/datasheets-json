@@ -166,7 +166,7 @@
         "OnTargetBlockBreak": false,
         "OnDeath": false,
         "OnDeathsDoor": false,
-        "RequireReaction": "",
+        "RequireReaction": "TRUE\u0026#160;",
         "NumSuccessfulHits": 0,
         "NumConsecutiveHits": 0,
         "MaxConsecutiveHits": 0,

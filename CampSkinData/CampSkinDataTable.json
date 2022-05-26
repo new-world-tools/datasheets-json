@@ -47,5 +47,19 @@
         "RequiredAchievementId": "",
         "IsEntitlement": true,
         "IsEnabled": true
+    },
+    {
+        "CampSkinID": "CampSkin_RPG01_A",
+        "ItemId": "CampSkin_RPG01_A",
+        "RequiredAchievementId": "",
+        "IsEntitlement": true,
+        "IsEnabled": true
+    },
+    {
+        "CampSkinID": "CampSkin_SilentDeath01_A",
+        "ItemId": "CampSkin_SilentDeath01_A",
+        "RequiredAchievementId": "",
+        "IsEntitlement": true,
+        "IsEnabled": true
     }
 ]

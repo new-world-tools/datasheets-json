@@ -638,6 +638,28 @@
         "mat_holy_shield": "HolyShield_Proj"
     },
     {
+        "Name": "Spear_Kick",
+        "mat_default": "EnvironmentDefault",
+        "mat_bark": "EnvironmentUnarmedWood",
+        "mat_dirt": "EnvironmentUnarmedDirt",
+        "mat_fabric": "EnvironmentUnarmedFabric",
+        "mat_grass": "EnvironmentUnarmedGrass",
+        "mat_metal": "EnvironmentUnarmedMetal",
+        "mat_mud": "EnvironmentUnarmedDirt",
+        "mat_rock": "EnvironmentUnarmedRock",
+        "mat_rock_wet": "EnvironmentUnarmedRock",
+        "mat_sand": "EnvironmentUnarmedDirt",
+        "mat_sand_wet": "EnvironmentUnarmedDirt",
+        "mat_thatch": "EnvironmentUnarmedDirt",
+        "mat_water": "EnvironmentWater",
+        "mat_water_deep": "EnvironmentWater",
+        "mat_water_shallow": "EnvironmentWater",
+        "mat_wood": "EnvironmentUnarmedWood",
+        "mat_corruption_core": "EnvironmentCorruptionCore",
+        "mat_corruption": "EnvironmentCorruptionCore",
+        "mat_holy_shield": "HolyShield_Proj"
+    },
+    {
         "Name": "Spear+Crit",
         "mat_default": "EnvironmentDefault",
         "mat_bark": "EnvironmentSpearWood",

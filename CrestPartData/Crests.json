@@ -3554,5 +3554,47 @@
         "Faction": "Any",
         "Notes": "",
         "Intent": "Twitch"
+    },
+    {
+        "Index": 258,
+        "OldIndex": 212,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_213",
+        "EntitlementId": "icon_crest_213",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_213.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "",
+        "Intent": ""
+    },
+    {
+        "Index": 259,
+        "OldIndex": 213,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_214",
+        "EntitlementId": "icon_crest_214",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_214.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "",
+        "Intent": ""
+    },
+    {
+        "Index": 260,
+        "OldIndex": 214,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_215",
+        "EntitlementId": "icon_crest_215",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_20.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "",
+        "Intent": ""
     }
 ]

@@ -126,6 +126,20 @@
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds"
     },
     {
+        "MetaAchievementCategoryId": "PvP_Arenas",
+        "Parent Category": "PvP",
+        "Index": 7,
+        "Title": "@ui_meta_achievements_pvp_arenas",
+        "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds"
+    },
+    {
+        "MetaAchievementCategoryId": "PvP_Rewards_Track",
+        "Parent Category": "PvP",
+        "Index": 8,
+        "Title": "@ui_meta_achievements_pvp_rewards_track",
+        "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds"
+    },
+    {
         "MetaAchievementCategoryId": "Quests",
         "Parent Category": "",
         "Index": 5,

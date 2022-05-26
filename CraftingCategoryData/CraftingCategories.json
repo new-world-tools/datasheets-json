@@ -4572,6 +4572,12 @@
         "Description": ""
     },
     {
+        "CategoryID": "AlchemyCritters",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyCritters_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "MaterialConversion",
         "ImagePath": "",
         "DisplayText": "@MaterialConversion_GroupName",
@@ -4944,6 +4950,162 @@
         "Description": ""
     },
     {
+        "CategoryID": "Bass",
+        "ImagePath": "",
+        "DisplayText": "@Bass_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Bluefish",
+        "ImagePath": "",
+        "DisplayText": "@Bluefish_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Catfish",
+        "ImagePath": "",
+        "DisplayText": "@Catfish_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Cod",
+        "ImagePath": "",
+        "DisplayText": "@Cod_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Dragonfish",
+        "ImagePath": "",
+        "DisplayText": "@Dragonfish_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ElectricEel",
+        "ImagePath": "",
+        "DisplayText": "@ElectricEel_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Flounder",
+        "ImagePath": "",
+        "DisplayText": "@Flounder_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Frogfish",
+        "ImagePath": "",
+        "DisplayText": "@Frogfish_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Hake",
+        "ImagePath": "",
+        "DisplayText": "@Hake_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Halibut",
+        "ImagePath": "",
+        "DisplayText": "@Halibut_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Mackerel",
+        "ImagePath": "",
+        "DisplayText": "@Mackerel_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Madtom",
+        "ImagePath": "",
+        "DisplayText": "@Madtom_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Paddlefish",
+        "ImagePath": "",
+        "DisplayText": "@Paddlefish_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Pike",
+        "ImagePath": "",
+        "DisplayText": "@Pike_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Piranha",
+        "ImagePath": "",
+        "DisplayText": "@Piranha_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Salmon",
+        "ImagePath": "",
+        "DisplayText": "@Salmon_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Sculpin",
+        "ImagePath": "",
+        "DisplayText": "@Sculpin_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Snapper",
+        "ImagePath": "",
+        "DisplayText": "@Snapper_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SpeartoothShark",
+        "ImagePath": "",
+        "DisplayText": "@SpeartoothShark_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Squid",
+        "ImagePath": "",
+        "DisplayText": "@Squid_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Stingray",
+        "ImagePath": "",
+        "DisplayText": "@Stingray_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Sturgeon",
+        "ImagePath": "",
+        "DisplayText": "@Sturgeon_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Sunfish",
+        "ImagePath": "",
+        "DisplayText": "@Sunfish_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Swordfish",
+        "ImagePath": "",
+        "DisplayText": "@Swordfish_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Trout",
+        "ImagePath": "",
+        "DisplayText": "@Trout_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Perch",
+        "ImagePath": "",
+        "DisplayText": "@Perch_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "Components1",
         "ImagePath": "",
         "DisplayText": "@Components_GroupName",
@@ -5133,6 +5295,102 @@
         "CategoryID": "ConsumableLuck",
         "ImagePath": "status/luckBonus",
         "DisplayText": "@ConsumableLuck_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DyeIngredients",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_DyeIngredients",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Blunderbuss",
+        "ImagePath": "",
+        "DisplayText": "@Blunderbuss_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PerfectSalvageArmor",
+        "ImagePath": "",
+        "DisplayText": "@PerfectSalvageArmor_Name",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PerfectSalvageWeapons",
+        "ImagePath": "",
+        "DisplayText": "@PerfectSalvageWeapons_Name",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PerfectSalvageJewely",
+        "ImagePath": "",
+        "DisplayText": "@PerfectSalvageJewelry_Name",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PerfectSalvageEngineer",
+        "ImagePath": "",
+        "DisplayText": "@PerfectSalvageEngineer_Name",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PerfectSalvageArcane",
+        "ImagePath": "",
+        "DisplayText": "@PerfectSalvageArcane_Name",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SalvageTier2",
+        "ImagePath": "",
+        "DisplayText": "@SalvageTier2_Name",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SalvageTier3",
+        "ImagePath": "",
+        "DisplayText": "@SalvageTier3_Name",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SalvageTier4",
+        "ImagePath": "",
+        "DisplayText": "@SalvageTier4_Name",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SalvageTier5",
+        "ImagePath": "",
+        "DisplayText": "@SalvageTier5_Name",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Salvage",
+        "ImagePath": "",
+        "DisplayText": "@Salvage",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SalvageExtract",
+        "ImagePath": "",
+        "DisplayText": "@SalvageExtract",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SalvageCreate",
+        "ImagePath": "",
+        "DisplayText": "@SalvageCreate",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SalvageResearch",
+        "ImagePath": "",
+        "DisplayText": "@SalvageResearch",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SalvageCondense",
+        "ImagePath": "",
+        "DisplayText": "@SalvageCondense",
         "Description": ""
     }
 ]

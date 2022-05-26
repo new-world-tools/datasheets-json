@@ -198,5 +198,25 @@
         "LocalizedTextAfflicted": "@ui_afflicted_mutcurse4",
         "AfflictionTooltipText": "@ui_affliction_mutcurse4_tooltip",
         "AfflictedTooltipText": "@ui_afflicted_mutcurse4_tooltip"
+    },
+    {
+        "AfflictionID": "AfflictionCurse2",
+        "IntID": 11,
+        "StatusEffects": "",
+        "DrainRate": 9999,
+        "AfflictedDrainTime": 8,
+        "DrainDelay": 9999,
+        "Max": 45,
+        "IgnoreWhenAfflicted": true,
+        "IsGlobalAffliction": true,
+        "IsTimerAffliction": true,
+        "ColorHex": "80fc9842",
+        "Icon": "combustible",
+        "BGImage": "combustible",
+        "FillingColorHex": "80853b22",
+        "LocalizedText": "@ui_affliction_mutcurse2",
+        "LocalizedTextAfflicted": "@ui_afflicted_mutcurse2",
+        "AfflictionTooltipText": "@ui_affliction_mutcurse2_tooltip",
+        "AfflictedTooltipText": "@ui_afflicted_mutcurse2_tooltip"
     }
 ]

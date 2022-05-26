@@ -40,5 +40,12 @@
         "Value": 1,
         "Shared": false,
         "Expires": false
+    },
+    {
+        "ContributionId": "Spawn_Interacted : BoatEncounter_Cannon_01",
+        "Category": "interaction",
+        "Value": 100,
+        "Shared": true,
+        "Expires": false
     }
 ]

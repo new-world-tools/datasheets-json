@@ -114,6 +114,25 @@
         "IsSmooth": 1
     },
     {
+        "CameraShakeID": "Small_long1sec",
+        "ShakeShiftX": 0.02,
+        "ShakeShiftY": 0.02,
+        "ShakeShiftZ": 0.02,
+        "ShakeAngleX": 0,
+        "ShakeAngleY": 0,
+        "ShakeAngleZ": 0,
+        "SustainDuration": 2,
+        "FadeInDuration": 0.2,
+        "FadeOutDuration": 0.2,
+        "Frequency": 0.01,
+        "Randomness": 0,
+        "ShakeChannel": 6,
+        "FlipVec": 1,
+        "UpdateOnly": 0,
+        "Permanent": 0,
+        "IsSmooth": 1
+    },
+    {
         "CameraShakeID": "WH_Hit_L1",
         "ShakeShiftX": 0,
         "ShakeShiftY": 0.015,

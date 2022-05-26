@@ -133,5 +133,14 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0602_FastTravel",
+        "PlayerPrompt": "@0602_FastTravel_prompt",
+        "NPCResponse": "@0602_FastTravel_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
     }
 ]
