@@ -751,7 +751,7 @@
         "FactionReputationModifier": 1,
         "FactionTokenModifier": 1,
         "AzothSaltModifier": 0,
-        "PvpXpModifier": 0,
+        "PvpXpModifier": 500,
         "Notes": "OR Bad Performance",
         "Found in": "OR Reward"
     },
@@ -764,8 +764,8 @@
         "LootDropModifier": 1,
         "FactionReputationModifier": 1.125,
         "FactionTokenModifier": 1.125,
-        "AzothSaltModifier": 0,
-        "PvpXpModifier": 0,
+        "AzothSaltModifier": 1000,
+        "PvpXpModifier": 2000,
         "Notes": "OR OK Performance",
         "Found in": "OR Reward"
     },
@@ -778,8 +778,8 @@
         "LootDropModifier": 1,
         "FactionReputationModifier": 1.125,
         "FactionTokenModifier": 1.125,
-        "AzothSaltModifier": 300,
-        "PvpXpModifier": 500,
+        "AzothSaltModifier": 1000,
+        "PvpXpModifier": 1500,
         "Notes": "OR OK Performance",
         "Found in": "OR Reward"
     },
@@ -792,8 +792,8 @@
         "LootDropModifier": 1,
         "FactionReputationModifier": 1.4,
         "FactionTokenModifier": 1.4,
-        "AzothSaltModifier": 1400,
-        "PvpXpModifier": 1750,
+        "AzothSaltModifier": 1500,
+        "PvpXpModifier": 2000,
         "Notes": "OR Good Performance",
         "Found in": "OR Reward"
     },
@@ -807,7 +807,7 @@
         "FactionReputationModifier": 1.6,
         "FactionTokenModifier": 1.6,
         "AzothSaltModifier": 2000,
-        "PvpXpModifier": 2000,
+        "PvpXpModifier": 2500,
         "Notes": "OR Top Tier Performance",
         "Found in": "OR Reward"
     },
@@ -820,8 +820,8 @@
         "LootDropModifier": 1,
         "FactionReputationModifier": null,
         "FactionTokenModifier": null,
-        "AzothSaltModifier": 0,
-        "PvpXpModifier": 250,
+        "AzothSaltModifier": null,
+        "PvpXpModifier": null,
         "Notes": "",
         "Found in": ""
     },
@@ -834,8 +834,8 @@
         "LootDropModifier": 1,
         "FactionReputationModifier": null,
         "FactionTokenModifier": null,
-        "AzothSaltModifier": 400,
-        "PvpXpModifier": 750,
+        "AzothSaltModifier": null,
+        "PvpXpModifier": null,
         "Notes": "",
         "Found in": ""
     },
@@ -848,8 +848,8 @@
         "LootDropModifier": 1,
         "FactionReputationModifier": null,
         "FactionTokenModifier": null,
-        "AzothSaltModifier": 0,
-        "PvpXpModifier": 250,
+        "AzothSaltModifier": null,
+        "PvpXpModifier": null,
         "Notes": "",
         "Found in": ""
     },
@@ -862,8 +862,8 @@
         "LootDropModifier": 1,
         "FactionReputationModifier": null,
         "FactionTokenModifier": null,
-        "AzothSaltModifier": 0,
-        "PvpXpModifier": 250,
+        "AzothSaltModifier": null,
+        "PvpXpModifier": null,
         "Notes": "",
         "Found in": ""
     }

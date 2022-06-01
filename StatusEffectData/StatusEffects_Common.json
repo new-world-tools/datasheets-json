@@ -88447,7 +88447,7 @@
         "DisableSupportContributionRewards": "",
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
-        "IgnoreInvulnerable": null,
+        "IgnoreInvulnerable": true,
         "NotCombatAction ": null,
         "DisableAllPerks": null
     },
@@ -88690,7 +88690,7 @@
         "DisableSupportContributionRewards": "",
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
-        "IgnoreInvulnerable": null,
+        "IgnoreInvulnerable": true,
         "NotCombatAction ": null,
         "DisableAllPerks": null
     },
