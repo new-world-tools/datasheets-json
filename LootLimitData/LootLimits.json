@@ -7,7 +7,8 @@
         "CountLimit": 2,
         "MinLimitMult": 100,
         "MaxLimitMult": 100,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "GypsumBlue",
@@ -17,7 +18,8 @@
         "CountLimit": 2,
         "MinLimitMult": 400,
         "MaxLimitMult": 400,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "PostCapGypsum",
@@ -27,7 +29,8 @@
         "CountLimit": 1,
         "MinLimitMult": 20,
         "MaxLimitMult": 20,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "GypsumBlack",
@@ -37,7 +40,8 @@
         "CountLimit": 3,
         "MinLimitMult": 120,
         "MaxLimitMult": 120,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "GypsumYellow",
@@ -47,7 +51,8 @@
         "CountLimit": 5,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "ArenaGypsum",
@@ -57,7 +62,8 @@
         "CountLimit": 1,
         "MinLimitMult": 20,
         "MaxLimitMult": 20,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BreachGypsum",
@@ -67,7 +73,8 @@
         "CountLimit": 7,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "WCGoldLockboxT1",
@@ -77,7 +84,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "GypsumGreen",
@@ -87,7 +95,8 @@
         "CountLimit": 1,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "GypsumRed",
@@ -97,7 +106,8 @@
         "CountLimit": 2,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "GypsumPurple",
@@ -107,7 +117,8 @@
         "CountLimit": 7,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "GypsumOrange",
@@ -117,7 +128,8 @@
         "CountLimit": 2,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "GypsumWhite",
@@ -127,7 +139,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL1",
@@ -137,7 +150,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL10",
@@ -147,7 +161,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL20",
@@ -157,7 +172,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL30",
@@ -167,7 +183,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL40",
@@ -177,7 +194,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL50",
@@ -187,7 +205,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL60",
@@ -197,7 +216,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "RabbitSeasonTotem",
@@ -207,7 +227,8 @@
         "CountLimit": 5,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "House_HousingItem_Storage_T4_ChestRabbit",
@@ -217,7 +238,8 @@
         "CountLimit": 1,
         "MinLimitMult": 2678400,
         "MaxLimitMult": 2678400,
-        "LimitExpireSeconds": 2678400
+        "LimitExpireSeconds": 2678400,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL1",
@@ -227,7 +249,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL10",
@@ -237,7 +260,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL20",
@@ -247,7 +271,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL30",
@@ -257,7 +282,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL40",
@@ -267,7 +293,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL50",
@@ -277,7 +304,8 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL60",
@@ -287,6 +315,18 @@
         "CountLimit": 3,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "PvP_FortTakeover_Limit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 10,
+        "MinLimitMult": 86400,
+        "MaxLimitMult": 86400,
+        "LimitExpireSeconds": 86400,
+        "LimitNotificationLocTag": "@ui_reached_max_fort_takeover_rewards"
     }
 ]
