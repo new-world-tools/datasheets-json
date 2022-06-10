@@ -77,7 +77,7 @@
         "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": "DMGStandard:5,DMGSiege:5,DMGStrike:5,DMGSlash:5,DMGThrust:5,DMGArcane:5,DMGFire:5,DMGIce:5,DMGNature:5,DMGLightning:5,DMGCorruption:5"
+        "ValueLimits": "DMGStandard:1.5,DMGSiege:1.5,DMGStrike:1.5,DMGSlash:1.5,DMGThrust:1.5,DMGArcane:1.5,DMGFire:1.5,DMGIce:1.5,DMGNature:1.5,DMGLightning:1.5,DMGCorruption:1.5"
     },
     {
         "StatusEffectCategoryID": "Disease",
