@@ -9454,7 +9454,7 @@
         "Type": "TaskHaveAndReturnItems",
         "FailOnCondition": null,
         "StayActive": 1,
-        "TargetQty": 2,
+        "TargetQty": 5,
         "ItemName": "1035_0201_cookie_ingredients",
         "ItemDropVC": "Damned_Villager_Pickaxe_10WS02",
         "ItemDropProbability": 100,
