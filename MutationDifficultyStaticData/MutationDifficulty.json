@@ -2,7 +2,7 @@
     {
         "MutationDifficulty": 1,
         "DifficultyTier": 1,
-        "ReqItemsToEnter": "KeyMutator",
+        "ReqItemsToEnter": "",
         "HealthIncreaseMod": "Mut_HealthScale",
         "DamageIncreaseMod": "Mut_DamageScale",
         "HealthPotency_Dungeon-": 15,
@@ -41,7 +41,7 @@
     {
         "MutationDifficulty": 2,
         "DifficultyTier": 1,
-        "ReqItemsToEnter": "KeyMutator",
+        "ReqItemsToEnter": "",
         "HealthIncreaseMod": "Mut_HealthScale",
         "DamageIncreaseMod": "Mut_DamageScale",
         "HealthPotency_Dungeon-": 20,
@@ -80,7 +80,7 @@
     {
         "MutationDifficulty": 3,
         "DifficultyTier": 2,
-        "ReqItemsToEnter": "KeyMutator",
+        "ReqItemsToEnter": "",
         "HealthIncreaseMod": "Mut_HealthScale",
         "DamageIncreaseMod": "Mut_DamageScale",
         "HealthPotency_Dungeon-": 25,
@@ -119,7 +119,7 @@
     {
         "MutationDifficulty": 4,
         "DifficultyTier": 2,
-        "ReqItemsToEnter": "KeyMutator",
+        "ReqItemsToEnter": "",
         "HealthIncreaseMod": "Mut_HealthScale",
         "DamageIncreaseMod": "Mut_DamageScale",
         "HealthPotency_Dungeon-": 30,
@@ -158,7 +158,7 @@
     {
         "MutationDifficulty": 5,
         "DifficultyTier": 2,
-        "ReqItemsToEnter": "KeyMutator",
+        "ReqItemsToEnter": "",
         "HealthIncreaseMod": "Mut_HealthScale",
         "DamageIncreaseMod": "Mut_DamageScale",
         "HealthPotency_Dungeon-": 35,
@@ -197,7 +197,7 @@
     {
         "MutationDifficulty": 6,
         "DifficultyTier": 3,
-        "ReqItemsToEnter": "KeyMutator",
+        "ReqItemsToEnter": "",
         "HealthIncreaseMod": "Mut_HealthScale",
         "DamageIncreaseMod": "Mut_DamageScale",
         "HealthPotency_Dungeon-": 40,
@@ -236,7 +236,7 @@
     {
         "MutationDifficulty": 7,
         "DifficultyTier": 3,
-        "ReqItemsToEnter": "KeyMutator",
+        "ReqItemsToEnter": "",
         "HealthIncreaseMod": "Mut_HealthScale",
         "DamageIncreaseMod": "Mut_DamageScale",
         "HealthPotency_Dungeon-": 50,
@@ -275,7 +275,7 @@
     {
         "MutationDifficulty": 8,
         "DifficultyTier": 3,
-        "ReqItemsToEnter": "KeyMutator",
+        "ReqItemsToEnter": "",
         "HealthIncreaseMod": "Mut_HealthScale",
         "DamageIncreaseMod": "Mut_DamageScale",
         "HealthPotency_Dungeon-": 60,
@@ -314,7 +314,7 @@
     {
         "MutationDifficulty": 9,
         "DifficultyTier": 4,
-        "ReqItemsToEnter": "KeyMutator",
+        "ReqItemsToEnter": "",
         "HealthIncreaseMod": "Mut_HealthScale",
         "DamageIncreaseMod": "Mut_DamageScale",
         "HealthPotency_Dungeon-": 80,
@@ -353,7 +353,7 @@
     {
         "MutationDifficulty": 10,
         "DifficultyTier": 4,
-        "ReqItemsToEnter": "KeyMutator",
+        "ReqItemsToEnter": "",
         "HealthIncreaseMod": "Mut_HealthScale",
         "DamageIncreaseMod": "Mut_DamageScale",
         "HealthPotency_Dungeon-": 100,

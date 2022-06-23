@@ -18,6 +18,24 @@
         "Description": "@FirDescription"
     },
     {
+        "ElementalMutationTypeId": "Ice",
+        "InjectedPerkBucket1": "",
+        "InjectedPerkBucketWeight1": "",
+        "InjectedPerkBucket2": "PerkBucket_MutatorIce",
+        "InjectedPerkBucketWeight2": "",
+        "InjectedPerkBucket3": "",
+        "InjectedPerkBucketWeight3": "",
+        "InjectedPerkBucket4": "",
+        "InjectedPerkBucketWeight4": "",
+        "InjectedPerkBucket5": "",
+        "InjectedPerkBucketWeight5": "",
+        "InjectedCreatureLoot": "MutatorLoot_Ice",
+        "InjectedContainerLoot": "MutatorLoot_Ice",
+        "InjectedLootTags": "Ice",
+        "Name": "@IceTitle",
+        "Description": "@IceDescription"
+    },
+    {
         "ElementalMutationTypeId": "Nat",
         "InjectedPerkBucket1": "",
         "InjectedPerkBucketWeight1": "",

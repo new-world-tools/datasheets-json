@@ -1,11 +1,209 @@
 [
     {
-        "WhisperId": "ui_whisper_isabella_beach1",
+        "WhisperId": "whisper_test_01",
         "TriggerType": "GAME_EVENT",
-        "ObjectiveId": "",
+        "RequiredAchievementId": "",
+        "TimelineId": "Whisper_Timeline_01",
+        "GameEvent": "example_game_event_id",
+        "VoiceOver": "VO_Issa_001_Test1",
+        "Subtitle": "@01_Whisper_FTUE_01"
+    },
+    {
+        "WhisperId": "whisper_test_02",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "06A_MSQ_03",
+        "TimelineId": "",
+        "GameEvent": "example_game_event_id",
+        "VoiceOver": "Play_FTUE_Tonal_ScaryRoar_01",
+        "Subtitle": "@01_Whisper_FTUE_02"
+    },
+    {
+        "WhisperId": "whisper_test_03",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
         "TimelineId": "",
         "GameEvent": "example_game_event_id",
         "VoiceOver": "VO_Issa_001_Test1",
-        "Subtitle": "ui_whisper_isabella_beach1_message"
+        "Subtitle": "@01_Whisper_FTUE_03"
+    },
+    {
+        "WhisperId": "06A_WW_whisper_01",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "06A_WW_whisper_01_unlock",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "",
+        "Subtitle": "@06A_MSQ_03_VisitMarket_whisper_text"
+    },
+    {
+        "WhisperId": "06A_WW_whisper_02",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "06A_WW_whisper_02_unlock",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "",
+        "Subtitle": "@06A_MSQ_10_TalkToSpeaker_whisper"
+    },
+    {
+        "WhisperId": "06A_WW_whisper_03",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "06A_WW_whisper_03_unlock",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "",
+        "Subtitle": "@06A_MSQ_13_ReturnMiradorJewel_whisper_text"
+    },
+    {
+        "WhisperId": "06A_WW_whisper_04",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "06A_WW_whisper_04_unlock",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "",
+        "Subtitle": "@06A_MSQ_18_ReturnSiriusJewel_whisper_text"
+    },
+    {
+        "WhisperId": "01_Whisper_FTUE_01",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "play_97_callout_isabella_01",
+        "Subtitle": "@01_Whisper_FTUE_01"
+    },
+    {
+        "WhisperId": "01_Whisper_FTUE_02",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "play_97_callout_isabella_01",
+        "Subtitle": "@01_Whisper_FTUE_02"
+    },
+    {
+        "WhisperId": "01_Whisper_FTUE_03",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "97_CallOut_Isabella_01",
+        "Subtitle": "@01_Whisper_FTUE_03"
+    },
+    {
+        "WhisperId": "01_Whisper_FTUE_04",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "97_CallOut_Isabella_01",
+        "Subtitle": "@01_Whisper_FTUE_04"
+    },
+    {
+        "WhisperId": "01_Whisper_FTUE_05",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "97_CallOut_Isabella_01",
+        "Subtitle": "@01_Whisper_FTUE_05"
+    },
+    {
+        "WhisperId": "01_Whisper_Beach_01",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "97_CallOut_Isabella_01",
+        "Subtitle": "@01_Whisper_Beach_01"
+    },
+    {
+        "WhisperId": "01_Whisper_Beach_02",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "97_CallOut_Isabella_01",
+        "Subtitle": "@01_Whisper_Beach_02"
+    },
+    {
+        "WhisperId": "01_Whisper_Beach_03",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "97_CallOut_Isabella_01",
+        "Subtitle": "@01_Whisper_Beach_03"
+    },
+    {
+        "WhisperId": "01_Whisper_Beach_04",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "97_CallOut_Isabella_01",
+        "Subtitle": "@01_Whisper_Beach_04"
+    },
+    {
+        "WhisperId": "01_Whisper_Beach_05",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "97_CallOut_Isabella_01",
+        "Subtitle": "@01_Whisper_Beach_05"
+    },
+    {
+        "WhisperId": "01_Whisper_Beach_06",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "97_CallOut_Isabella_01",
+        "Subtitle": "@01_Whisper_Beach_06"
+    },
+    {
+        "WhisperId": "01_Whisper_Beach_07",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "97_CallOut_Isabella_01",
+        "Subtitle": "@01_Whisper_Beach_07"
+    },
+    {
+        "WhisperId": "12A_MB_Whisper_01",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "12A_MSQ_02_InnTutorial",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "12A_Whisper_MonarchsBluffs_01",
+        "Subtitle": "@12A_Whisper_MonarchsBluffs_01"
+    },
+    {
+        "WhisperId": "12A_MB_Whisper_02",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "12A_MSQ_10_ConfrontLochnir",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "12A_Whisper_MonarchsBluffs_02",
+        "Subtitle": "@12A_Whisper_MonarchsBluffs_02"
+    },
+    {
+        "WhisperId": "12A_MB_Whisper_03",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "12A_MSQ_20_CollectCrown",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "12A_Whisper_MonarchsBluffs_03",
+        "Subtitle": "@12A_Whisper_MonarchsBluffs_03"
+    },
+    {
+        "WhisperId": "12A_MB_Whisper_04",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "12A_MSQ_25_CrownRegent",
+        "TimelineId": "",
+        "GameEvent": "",
+        "VoiceOver": "12A_Whisper_MonarchsBluffs_04",
+        "Subtitle": "@12A_Whisper_MonarchsBluffs_04"
     }
 ]

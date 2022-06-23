@@ -613,5 +613,20 @@
         "Keybind": "",
         "KeybindActionmap": "",
         "NumberFields": ""
+    },
+    {
+        "NotificationId": "New_Items_Dropped",
+        "DisplayTitle": "@ui_notification_new_items_dropped",
+        "DisplayText": "@ui_notification_new_items_dropped",
+        "SecondaryText": "",
+        "IconPath": "",
+        "MaxDisplayCount": null,
+        "NotificationType": "Minor",
+        "TrackDisplayCount": null,
+        "DurationOverride": null,
+        "CooldownSeconds": null,
+        "Keybind": "",
+        "KeybindActionmap": "",
+        "NumberFields": ""
     }
 ]

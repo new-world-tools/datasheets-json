@@ -39,8 +39,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "EdengroveArc1",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1403_0202_tincturequest",
@@ -82,8 +81,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "EdengroveArc1",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1416_0201_sabotage",
@@ -125,8 +123,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "EdengroveArc2",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1416_0202_foreman",
@@ -168,8 +165,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "EdengroveArc2",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1416_0301_northeast",
@@ -211,8 +207,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0201_lights",
@@ -254,8 +249,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "EdengroveArc3",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0202_azuretears",
@@ -297,8 +291,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "EdengroveArc3",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1403_0203_blightpox",
@@ -340,8 +333,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "EdengroveArc1",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1403_0301_blightstrength",
@@ -383,8 +375,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "EdengroveArc1",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1403_0401_blightmigration",
@@ -426,8 +417,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "EdengroveArc1",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1403A_0301_GKW",
@@ -469,8 +459,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1413_0201_spriggan",
@@ -512,8 +501,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "EdengroveArc1",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1414_0101_ToReekwater",
@@ -555,1126 +543,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
-    },
-    {
-        "ObjectiveID": "1426_0101_MoreSabotage",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 54,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1426_0101_MoreSabotage_Container",
-        "NpcDestinationId": "1426_Foreman",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_15",
-        "RequiredAchievementId": "",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1426_0101_BurnEquipment_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1426_0101_MoreSabotage_Title",
-        "Description": "@1426_0101_MoreSabotage_Description",
-        "PlayerPrompt": "@1426_0101_MoreSabotage_Start_Prompt",
-        "ObjectiveProposalResponse": "@1426_0101_MoreSabotage_Proposal",
-        "InProgressResponse": "@1426_0101_MoreSabotage_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1426_0101_MoreSabotage_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1426_0102_CollapseVault",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 54,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1426_0102_CollapseVault_Container",
-        "NpcDestinationId": "1426_Foreman",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_16",
-        "RequiredAchievementId": "14_Quest_15",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1426_0103_CollapseVault_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1426_0102_CollapseVault_Title",
-        "Description": "@1426_0102_CollapseVault_Description",
-        "PlayerPrompt": "@1426_0102_CollapseVault_Start_Prompt",
-        "ObjectiveProposalResponse": "@1426_0102_CollapseVault_Proposal",
-        "InProgressResponse": "@1426_0102_CollapseVault_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1426_0102_CollapseVault_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1427_0101_JoinedACult",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 50,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1427_0101_JoinedACult_Container",
-        "NpcDestinationId": "1427_CultMother",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_17",
-        "RequiredAchievementId": "14_Quest_06",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1427_0101_JoinedACult_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1427_0101_JoinedACult_Title",
-        "Description": "@1427_0101_JoinedACult_Description",
-        "PlayerPrompt": "@1427_0101_JoinedACult_Start_Prompt",
-        "ObjectiveProposalResponse": "@1427_0101_JoinedACult_Proposal",
-        "InProgressResponse": "@1427_0101_JoinedACult_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1427_0101_JoinedACult_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1427_0102_Pilgrimmage01",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 52,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1427_0102_Pilgrimmage01_Container",
-        "NpcDestinationId": "1428_CultDaughter",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_18",
-        "RequiredAchievementId": "14_Quest_17",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1427_0102_Pilgrimmage01_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1427_0102_Pilgrimmage01_Title",
-        "Description": "@1427_0102_Pilgrimmage01_Description",
-        "PlayerPrompt": "@1427_0102_Pilgrimmage01_Start_Prompt",
-        "ObjectiveProposalResponse": "@1427_0102_Pilgrimmage01_Proposal",
-        "InProgressResponse": "@1427_0102_Pilgrimmage01_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1427_0102_Pilgrimmage01_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1427_0103_Pilgrimmage02",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 53,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1427_0103_Pilgrimmage02_Container",
-        "NpcDestinationId": "1429_CultOfficer",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_19",
-        "RequiredAchievementId": "14_Quest_18",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1427_0103_Pilgrimmage02_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1427_0103_Pilgrimmage02_Title",
-        "Description": "@1427_0103_Pilgrimmage02_Description",
-        "PlayerPrompt": "@1427_0103_Pilgrimmage02_Start_Prompt",
-        "ObjectiveProposalResponse": "@1427_0103_Pilgrimmage02_Proposal",
-        "InProgressResponse": "@1427_0103_Pilgrimmage02_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1427_0103_Pilgrimmage02_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1427_0104_Oath",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 53,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1427_0104_Oath_Container",
-        "NpcDestinationId": "1429_CultOfficer",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_20",
-        "RequiredAchievementId": "14_Quest_19",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1427_0104_Oath_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1427_0104_Oath_Title",
-        "Description": "@1427_0104_Oath_Description",
-        "PlayerPrompt": "@1427_0104_Oath_Start_Prompt",
-        "ObjectiveProposalResponse": "@1427_0104_Oath_Proposal",
-        "InProgressResponse": "@1427_0104_Oath_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1427_0104_Oath_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1427_0106_UmbrageTrial",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 57,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1427_0106_UmbrageTrial_Container",
-        "NpcDestinationId": "1429_CultOfficer_01",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_21",
-        "RequiredAchievementId": "14_Quest_20",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1427_0106_UmbrageTrial_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1427_0106_UmbrageTrial_Title",
-        "Description": "@1427_0106_UmbrageTrial_Description",
-        "PlayerPrompt": "@1427_0106_UmbrageTrial_Start_Prompt",
-        "ObjectiveProposalResponse": "@1427_0106_UmbrageTrial_Proposal",
-        "InProgressResponse": "@1427_0106_UmbrageTrial_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1427_0106_UmbrageTrial_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1427_0107_HerbalTea",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 57,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1427_0107_HerbalTea_Container",
-        "NpcDestinationId": "1429_CultOfficer_01",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_22",
-        "RequiredAchievementId": "14_Quest_21",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1427_0107_HerbalTea_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1427_0107_HerbalTea_Title",
-        "Description": "@1427_0107_HerbalTea_Description",
-        "PlayerPrompt": "@1427_0107_HerbalTea_Start_Prompt",
-        "ObjectiveProposalResponse": "@1427_0107_HerbalTea_Proposal",
-        "InProgressResponse": "@1427_0107_HerbalTea_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1427_0107_HerbalTea_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1427_0108_Wreathes",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 58,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1427_0108_Wreathes_Container",
-        "NpcDestinationId": "1429_CultOfficer_01",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_23",
-        "RequiredAchievementId": "14_Quest_22",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1427_0108_Wreathes_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1427_0108_Wreathes_Title",
-        "Description": "@1427_0108_Wreathes_Description",
-        "PlayerPrompt": "@1427_0108_Wreathes_Start_Prompt",
-        "ObjectiveProposalResponse": "@1427_0108_Wreathes_Proposal",
-        "InProgressResponse": "@1427_0108_Wreathes_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1427_0108_Wreathes_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1427_0109_WasteNot",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 58,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1427_0109_WasteNot_Container",
-        "NpcDestinationId": "1428_CultDaughter_02",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_24",
-        "RequiredAchievementId": "14_Quest_23",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1427_0109_WasteNot_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1427_0109_WasteNot_Title",
-        "Description": "@1427_0109_WasteNot_Description",
-        "PlayerPrompt": "@1427_0109_WasteNot_Start_Prompt",
-        "ObjectiveProposalResponse": "@1427_0109_WasteNot_Proposal",
-        "InProgressResponse": "@1427_0109_WasteNot_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1427_0109_WasteNot_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1427_0109_DaughtersChoice",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 58,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1427_0109_DaughtersChoice_Container",
-        "NpcDestinationId": "1428_CultDaughter_02",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_25",
-        "RequiredAchievementId": "14_Quest_24",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1427_0109_DaughtersChoice_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1427_0109_DaughtersChoice_Title",
-        "Description": "@1427_0109_DaughtersChoice_Description",
-        "PlayerPrompt": "@1427_0109_DaughtersChoice_Start_Prompt",
-        "ObjectiveProposalResponse": "@1427_0109_DaughtersChoice_Proposal",
-        "InProgressResponse": "@1427_0109_DaughtersChoice_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1427_0109_DaughtersChoice_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1431_0101_TastyMushrooms",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 52,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1431_0101_TastyMushrooms_Container",
-        "NpcDestinationId": "1431_Mycophile",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_26",
-        "RequiredAchievementId": "14_Quest_02",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1431_0101_TastyMushrooms_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1431_0101_TastyMushrooms_Title",
-        "Description": "@1431_0101_TastyMushrooms_Description",
-        "PlayerPrompt": "@1431_0101_TastyMushrooms_Start_Prompt",
-        "ObjectiveProposalResponse": "@1431_0101_TastyMushrooms_Proposal",
-        "InProgressResponse": "@1431_0101_TastyMushrooms_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1431_0101_TastyMushrooms_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1431_0102_Symbiote",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 52,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1431_0102_Symbiote_Container",
-        "NpcDestinationId": "1431_Mycophile_Note",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_27",
-        "RequiredAchievementId": "14_Quest_26",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1431_0102_Symbiote_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1431_0102_Symbiote_Title",
-        "Description": "@1431_0102_Symbiote_Description",
-        "PlayerPrompt": "@1431_0102_Symbiote_Start_Prompt",
-        "ObjectiveProposalResponse": "@1431_0102_Symbiote_Proposal",
-        "InProgressResponse": "@1431_0102_Symbiote_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1431_0102_Symbiote_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1431_0103_BeRightBack",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 52,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1431_0103_BeRightBack_Container",
-        "NpcDestinationId": "1431_Mycophile",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_28",
-        "RequiredAchievementId": "14_Quest_27",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1431_0103_BeRightBack_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1431_0103_BeRightBack_Title",
-        "Description": "@1431_0103_BeRightBack_Description",
-        "PlayerPrompt": "@1431_0103_BeRightBack_Start_Prompt",
-        "ObjectiveProposalResponse": "@1431_0103_BeRightBack_Proposal",
-        "InProgressResponse": "@1431_0103_BeRightBack_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1431_0103_BeRightBack_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": true,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1431_0104_Mycelium",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 54,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1431_0104_Mycelium_Container",
-        "NpcDestinationId": "1431_Mycophile",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_29",
-        "RequiredAchievementId": "14_Quest_28",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1431_0104_Mycelium_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1431_0104_Mycelium_Title",
-        "Description": "@1431_0104_Mycelium_Description",
-        "PlayerPrompt": "@1431_0104_Mycelium_Start_Prompt",
-        "ObjectiveProposalResponse": "@1431_0104_Mycelium_Proposal",
-        "InProgressResponse": "@1431_0104_Mycelium_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1431_0104_Mycelium_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1432_0101_Medicine",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 58,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1432_0101_Medicine_Container",
-        "NpcDestinationId": "1432_Homesteader",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_30",
-        "RequiredAchievementId": "",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1432_0101_Medicine_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1432_0101_Medicine_Title",
-        "Description": "@1432_0101_Medicine_Description",
-        "PlayerPrompt": "@1432_0101_Medicine_Start_Prompt",
-        "ObjectiveProposalResponse": "@1432_0101_Medicine_Proposal",
-        "InProgressResponse": "@1432_0101_Medicine_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1432_0101_Medicine_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1432_0102_DryadThieves",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 54,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1432_0102_DryadThieves_Container",
-        "NpcDestinationId": "1432_Homesteader_01",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_31",
-        "RequiredAchievementId": "14_Quest_30",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1432_0102_DryadThieves_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1432_0102_DryadThieves_Title",
-        "Description": "@1432_0102_DryadThieves_Description",
-        "PlayerPrompt": "@1432_0102_DryadThieves_Start_Prompt",
-        "ObjectiveProposalResponse": "@1432_0102_DryadThieves_Proposal",
-        "InProgressResponse": "@1432_0102_DryadThieves_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1432_0102_DryadThieves_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1432_0103_LostDog",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 57,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1432_0103_LostDog_Container",
-        "NpcDestinationId": "1433_AEDog_01",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_32",
-        "RequiredAchievementId": "14_Quest_31",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1432_0103_LostDog_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1432_0103_LostDog_Title",
-        "Description": "@1432_0103_LostDog_Description",
-        "PlayerPrompt": "@1432_0103_LostDog_Start_Prompt",
-        "ObjectiveProposalResponse": "@1432_0103_LostDog_Proposal",
-        "InProgressResponse": "@1432_0103_LostDog_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1432_0103_LostDog_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1432_0104_FoundDog",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 57,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1432_0104_FoundDog_Container",
-        "NpcDestinationId": "1432_Homesteader_01",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_33",
-        "RequiredAchievementId": "14_Quest_32",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1432_0104_FoundDog_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1432_0104_FoundDog_Title",
-        "Description": "@1432_0104_FoundDog_Description",
-        "PlayerPrompt": "@1432_0104_FoundDog_Start_Prompt",
-        "ObjectiveProposalResponse": "@1432_0104_FoundDog_Proposal",
-        "InProgressResponse": "@1432_0104_FoundDog_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1432_0104_FoundDog_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1435_0101_PutItBack",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 58,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1435_0101_PutItBack_Container",
-        "NpcDestinationId": "1435_SirenDryad",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_34",
-        "RequiredAchievementId": "14_Quest_33",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1435_0101_PutItBack_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1435_0101_PutItBack_Title",
-        "Description": "@1435_0101_PutItBack_Description",
-        "PlayerPrompt": "@1435_0101_PutItBack_Start_Prompt",
-        "ObjectiveProposalResponse": "@1435_0101_PutItBack_Proposal",
-        "InProgressResponse": "@1435_0101_PutItBack_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1435_0101_PutItBack_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1435_0102_PopBlossoms",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 59,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1435_0102_PopBlossoms_Container",
-        "NpcDestinationId": "1435_SirenDryad_01",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_35",
-        "RequiredAchievementId": "14_Quest_34",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1435_0102_PopBlossoms_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1435_0102_PopBlossoms_Title",
-        "Description": "@1435_0102_PopBlossoms_Description",
-        "PlayerPrompt": "@1435_0102_PopBlossoms_Start_Prompt",
-        "ObjectiveProposalResponse": "@1435_0102_PopBlossoms_Proposal",
-        "InProgressResponse": "@1435_0102_PopBlossoms_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1435_0102_PopBlossoms_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1435_0103_WayUpHigh",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 58,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1435_0103_WayUpHigh_Container",
-        "NpcDestinationId": "1435_SirenDryad_01",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_36",
-        "RequiredAchievementId": "14_Quest_35",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1435_0102_WayUpHigh_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1435_0102_WayUpHigh_Title",
-        "Description": "@1435_0102_WayUpHigh_Description",
-        "PlayerPrompt": "@1435_0102_WayUpHigh_Start_Prompt",
-        "ObjectiveProposalResponse": "@1435_0102_WayUpHigh_Proposal",
-        "InProgressResponse": "@1435_0102_WayUpHigh_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1435_0102_WayUpHigh_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1434_0101_DestroyBlooms",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 57,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1434_0101_DestroyBlooms_Container",
-        "NpcDestinationId": "1434_SirenRanger",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_37",
-        "RequiredAchievementId": "14_Quest_21",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1434_0101_DestroyBlooms_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1434_0101_DestroyBlooms_Title",
-        "Description": "@1434_0101_DestroyBlooms_Description",
-        "PlayerPrompt": "@1434_0101_DestroyBlooms_Start_Prompt",
-        "ObjectiveProposalResponse": "@1434_0101_DestroyBlooms_Proposal",
-        "InProgressResponse": "@1434_0101_DestroyBlooms_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1434_0101_DestroyBlooms_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1434_0102_ClearPath",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 57,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1434_0102_ClearPath_Container",
-        "NpcDestinationId": "1434_SirenRanger_01",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_38",
-        "RequiredAchievementId": "14_Quest_37",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1434_0102_ClearPath_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1434_0102_ClearPath_Title",
-        "Description": "@1434_0102_ClearPath_Description",
-        "PlayerPrompt": "@1434_0102_ClearPath_Start_Prompt",
-        "ObjectiveProposalResponse": "@1434_0102_ClearPath_Proposal",
-        "InProgressResponse": "@1434_0102_ClearPath_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1434_0102_ClearPath_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1434_0103_Pyre",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 58,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1434_0103_Pyre_Container",
-        "NpcDestinationId": "1434_SirenRanger_01",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_39",
-        "RequiredAchievementId": "14_Quest_38",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1434_0103_Pyre_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1434_0103_Pyre_Title",
-        "Description": "@1434_0103_Pyre_Description",
-        "PlayerPrompt": "@1434_0103_Pyre_Start_Prompt",
-        "ObjectiveProposalResponse": "@1434_0103_Pyre_Proposal",
-        "InProgressResponse": "@1434_0103_Pyre_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1434_0103_Pyre_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
-    },
-    {
-        "ObjectiveID": "1434_0104_OutOfHisMisery",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": 58,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "1434_0104_OutOfHisMisery_Container",
-        "NpcDestinationId": "1435_SirenDryad_02",
-        "ExclusiveTerritory": null,
-        "AchievementId": "14_Quest_40",
-        "RequiredAchievementId": "14_Quest_36",
-        "RequiredFaction": "",
-        "RequiredLevel": "",
-        "SuccessGameEventId": "1434_0103_OutOfHisMisery_Success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": "",
-        "Repeatable": null,
-        "CanBeAbandoned": true,
-        "Title": "@1434_0103_OutOfHisMisery_Title",
-        "Description": "@1434_0103_OutOfHisMisery_Description",
-        "PlayerPrompt": "@1434_0103_OutOfHisMisery_Start_Prompt",
-        "ObjectiveProposalResponse": "@1434_0103_OutOfHisMisery_Proposal",
-        "InProgressResponse": "@1434_0103_OutOfHisMisery_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1434_0103_OutOfHisMisery_Complete",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": null,
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": "Quest_Supplement_Edengrove"
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1420_0501_ClamorousVox",
@@ -1716,8 +585,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1420_0502_CVOne",
@@ -1759,8 +627,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1420_0503_CVTwo",
@@ -1802,8 +669,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1420_0504_CVThree",
@@ -1845,8 +711,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1420_0505_CVFour",
@@ -1888,8 +753,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1420_0506_CVFive",
@@ -1931,8 +795,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1420_0507_CVSix",
@@ -1974,8 +837,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1420_0508_CVSeven",
@@ -2017,8 +879,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1420_0509_CVEight",
@@ -2060,8 +921,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1421_0201_Torrent",
@@ -2103,8 +963,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1421_0202_TorOne",
@@ -2146,8 +1005,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1421_0203_TorTwo",
@@ -2189,8 +1047,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1421_0204_TorThree",
@@ -2232,8 +1089,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1421_0205_TorFour",
@@ -2275,12 +1131,11 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1421_0206_TorFive",
-        "Type": "EpicEquipment",
+        "Type": "mind ",
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
@@ -2318,8 +1173,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1421_0207_TorSix",
@@ -2361,8 +1215,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1421_0208_TorSeven",
@@ -2404,8 +1257,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1421_0209_TorEight",
@@ -2447,8 +1299,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1419_0201_Reformation",
@@ -2490,8 +1341,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1419_0202_Reformation_metalsraw",
@@ -2533,8 +1383,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1419_0203_Reformation_essencebalanced",
@@ -2576,8 +1425,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1419_0204_Reformation_polishpure",
@@ -2619,8 +1467,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1419_0205_Reformation_wieldertested",
@@ -2662,8 +1509,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1419_0206_Reformation_bindingstight",
@@ -2705,8 +1551,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1419_0207_Reformation_firesstoked",
@@ -2748,8 +1593,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1419_0208_Reformation_hafthewn",
@@ -2791,8 +1635,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1419_0209_Reformation_gripsecured",
@@ -2834,8 +1677,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0101_RD_00",
@@ -2877,8 +1719,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0102_RD_01",
@@ -2920,8 +1761,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0103_RD_02",
@@ -2963,8 +1803,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0104_RD_03",
@@ -3006,8 +1845,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0105_RD_04",
@@ -3049,8 +1887,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0106_RD_05",
@@ -3092,8 +1929,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0107_RD_06",
@@ -3135,8 +1971,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0108_RD_07",
@@ -3178,8 +2013,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "1418_0109_RD_08",
@@ -3221,8 +2055,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1401_objective",
@@ -3264,8 +2097,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1402_objective",
@@ -3307,8 +2139,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1403_objective",
@@ -3350,8 +2181,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1404_objective",
@@ -3393,8 +2223,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1405_objective",
@@ -3436,8 +2265,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1406_objective",
@@ -3479,8 +2307,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1407_objective",
@@ -3522,8 +2349,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1408_objective",
@@ -3565,8 +2391,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1409_objective",
@@ -3608,8 +2433,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1410_objective",
@@ -3651,8 +2475,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1401_objective",
@@ -3694,8 +2517,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1402_objective",
@@ -3737,8 +2559,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1403_objective",
@@ -3780,8 +2601,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1404_objective",
@@ -3823,8 +2643,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1405_objective",
@@ -3866,8 +2685,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1406_objective",
@@ -3909,8 +2727,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1407_objective",
@@ -3952,8 +2769,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1408_objective",
@@ -3995,8 +2811,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1409_objective",
@@ -4038,8 +2853,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1410_objective",
@@ -4081,8 +2895,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1401_objective",
@@ -4124,8 +2937,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1402_objective",
@@ -4167,8 +2979,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1403_objective",
@@ -4210,8 +3021,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1404_objective",
@@ -4253,8 +3063,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1405_objective",
@@ -4296,8 +3105,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1406_objective",
@@ -4339,8 +3147,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1407_objective",
@@ -4382,8 +3189,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1408_objective",
@@ -4425,8 +3231,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1409_objective",
@@ -4468,8 +3273,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1410_objective",
@@ -4511,8 +3315,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1461_objective",
@@ -4554,8 +3357,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1462_objective",
@@ -4597,8 +3399,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1463_objective",
@@ -4640,8 +3441,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1464_objective",
@@ -4683,8 +3483,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1465_objective",
@@ -4726,8 +3525,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1466_objective",
@@ -4769,8 +3567,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1467_objective",
@@ -4812,8 +3609,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1468_objective",
@@ -4855,8 +3651,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1469_objective",
@@ -4898,8 +3693,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_1470_objective",
@@ -4941,8 +3735,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1461_objective",
@@ -4984,8 +3777,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1462_objective",
@@ -5027,8 +3819,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1463_objective",
@@ -5070,8 +3861,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1464_objective",
@@ -5113,8 +3903,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1465_objective",
@@ -5156,8 +3945,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1466_objective",
@@ -5199,8 +3987,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1467_objective",
@@ -5242,8 +4029,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1468_objective",
@@ -5285,8 +4071,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1469_objective",
@@ -5328,8 +4113,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_S_1470_objective",
@@ -5371,8 +4155,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1461_objective",
@@ -5414,8 +4197,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1462_objective",
@@ -5457,8 +4239,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1463_objective",
@@ -5500,8 +4281,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1464_objective",
@@ -5543,8 +4323,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1465_objective",
@@ -5586,8 +4365,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1466_objective",
@@ -5629,8 +4407,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1467_objective",
@@ -5672,8 +4449,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1468_objective",
@@ -5715,8 +4491,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1469_objective",
@@ -5758,8 +4533,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_C_1470_objective",
@@ -5801,8 +4575,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_PVP_Spy_Marauder_objective",
@@ -5844,8 +4617,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_PVP_Poach_Marauder_objective",
@@ -5887,8 +4659,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_PVP_Control_Marauder_objective",
@@ -5930,8 +4701,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_PVP_Spy_Syndicate_objective",
@@ -5973,8 +4743,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_PVP_Poach_Syndicate_objective",
@@ -6016,8 +4785,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_PVP_Control_Syndicate_objective",
@@ -6059,8 +4827,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_PVP_Spy_Covenant_objective",
@@ -6102,8 +4869,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_PVP_Poach_Covenant_objective",
@@ -6145,8 +4911,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_PVP_Control_Covenant_objective",
@@ -6188,8 +4953,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_H_01_objective",
@@ -6231,8 +4995,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_H_02_objective",
@@ -6274,8 +5037,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_H_03_objective",
@@ -6317,8 +5079,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_EXP_01_objective",
@@ -6360,8 +5121,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_EXP_02_objective",
@@ -6403,8 +5163,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     },
     {
         "ObjectiveID": "FM_14_EXP_03_objective",
@@ -6446,7 +5205,6 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": "",
-        "ReleaseVersion": ""
+        "HideAvailableMapIcon ": ""
     }
 ]

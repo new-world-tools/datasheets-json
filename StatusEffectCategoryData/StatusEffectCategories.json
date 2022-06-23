@@ -120,6 +120,16 @@
         "ValueLimits": ""
     },
     {
+        "StatusEffectCategoryID": "NonDispellableBuff",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": 0,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
+        "ValueLimits": ""
+    },
+    {
         "StatusEffectCategoryID": "BossDebuff",
         "DurationDiminishingMod": null,
         "DurationModMin": null,
@@ -278,5 +288,15 @@
         "PotencyModMin": null,
         "PotencyModMax": null,
         "ValueLimits": "FishingLineStrength:3.0,FishSizeRollModifier:3.0,FishRarityRollModifier:3.0,SummerFishRarityRollModifier:3.0"
+    },
+    {
+        "StatusEffectCategoryID": "SturgeonFishingBuff",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "SummerFishRarityRollModifier:0.5"
     }
 ]

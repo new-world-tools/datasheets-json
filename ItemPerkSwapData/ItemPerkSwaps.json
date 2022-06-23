@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "Key": "EquippableLegs+Heavy",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Legs_DodgeSuccess_Stamina",
+        "NewPerk": "PerkID_Armor_Conditioning_Fire"
+    }
+]

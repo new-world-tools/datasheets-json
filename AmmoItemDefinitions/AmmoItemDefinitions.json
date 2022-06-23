@@ -3510,15 +3510,6 @@
         "MeshOverride": ""
     },
     {
-        "AmmoID": "1hThrowingAxeDungeon11T5",
-        "AmmoType": "Thrown",
-        "DamageModifier": 1,
-        "StaggerDamageModifier": 1,
-        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
-        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
-        "MeshOverride": ""
-    },
-    {
         "AmmoID": "1hHatchetPrimevalT5",
         "AmmoType": "Thrown",
         "DamageModifier": 1,
@@ -3610,15 +3601,6 @@
     },
     {
         "AmmoID": "1hThrowingAxeCraftedDungeon10T5",
-        "AmmoType": "Thrown",
-        "DamageModifier": 1,
-        "StaggerDamageModifier": 1,
-        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
-        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
-        "MeshOverride": ""
-    },
-    {
-        "AmmoID": "1hThrowingAxeCraftedDungeon11T5",
         "AmmoType": "Thrown",
         "DamageModifier": 1,
         "StaggerDamageModifier": 1,
@@ -4086,15 +4068,6 @@
         "MeshOverride": ""
     },
     {
-        "AmmoID": "2hSpearDungeon11T5",
-        "AmmoType": "Thrown",
-        "DamageModifier": 1,
-        "StaggerDamageModifier": 1,
-        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
-        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
-        "MeshOverride": ""
-    },
-    {
         "AmmoID": "2hSpearPrimevalT5",
         "AmmoType": "Thrown",
         "DamageModifier": 1,
@@ -4186,15 +4159,6 @@
     },
     {
         "AmmoID": "2hSpearCraftedDungeon10T5",
-        "AmmoType": "Thrown",
-        "DamageModifier": 1,
-        "StaggerDamageModifier": 1,
-        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
-        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
-        "MeshOverride": ""
-    },
-    {
-        "AmmoID": "2hSpearCraftedDungeon11T5",
         "AmmoType": "Thrown",
         "DamageModifier": 1,
         "StaggerDamageModifier": 1,
@@ -6669,6 +6633,15 @@
         "MeshOverride": ""
     },
     {
+        "AmmoID": "TriggerEvent_Falling_Rubble_v2_Projectile_Basic",
+        "AmmoType": "Siege",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "InteractObjects/Windsward/Falling_Rubble/TriggerEvent_Falling_Rubble_v2_Projectile_Basic",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
         "AmmoID": "2hSpearKnightT3",
         "AmmoType": "Thrown",
         "DamageModifier": 1,
@@ -8028,6 +8001,96 @@
         "MeshOverride": ""
     },
     {
+        "AmmoID": "2hSpear_MeltingPointT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "1hThrowingAxe_DriftwoodT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "1hThrowingAxeDungeon11T5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "2hSpearDungeon11T5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "1hThrowingAxeCraftedDungeon11T5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "2hSpearCraftedDungeon11T5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "2hSpear_Barnacles_MutT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "1hHatchet_Barnacles_MutT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "PerfectSalvage_1hHatchetT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "PerfectSalvage_2hSpearT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
         "AmmoID": "1hThrowingAxe_D_MutExtra_T5",
         "AmmoType": "Thrown",
         "DamageModifier": 1,
@@ -8052,6 +8115,15 @@
         "StaggerDamageModifier": 1,
         "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
         "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Dropper_Fire_Proximity_POI_Projectile",
+        "AmmoType": "Siege",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "WorldEvents/MonarchsBluffs/Interact/LavaDropper/Dropper_Fire_Proximity_POI_Projectile",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
         "MeshOverride": ""
     }
 ]

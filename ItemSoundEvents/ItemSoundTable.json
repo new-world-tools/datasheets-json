@@ -184,6 +184,14 @@
         "Defense": "Play_1H_Melee_Block"
     },
     {
+        "ItemSoundID": "2H_Greatsword",
+        "Sheathe": "Play_Sheathe_2H_GreatSword_T1",
+        "Unsheathe": "Play_Unsheathe_2H_GreatSword_T1",
+        "SheatheFLY": "",
+        "UnsheatheFLY": "",
+        "Defense": "Play_1H_Melee_Block"
+    },
+    {
         "ItemSoundID": "MagicStaff",
         "Sheathe": "Play_Sheathe_2H_WarHammer_T1",
         "Unsheathe": "Play_Unsheathe_2H_WarHammer_T2",
@@ -201,10 +209,50 @@
     },
     {
         "ItemSoundID": "Staff_Fire",
-        "Sheathe": "Play_Sheathe_2H_StaffLife_T1",
+        "Sheathe": "Play_Sheathe_FireStaff",
         "Unsheathe": "Play_Unsheathe_FireStaff",
         "SheatheFLY": "",
         "UnsheatheFLY": "",
         "Defense": "Play_1H_Melee_Block"
+    },
+    {
+        "ItemSoundID": "MXMI_Flute",
+        "Sheathe": "Play_SFX_MXMI_AZF_Unequip",
+        "Unsheathe": "Play_SFX_MXMI_AZF_Equip",
+        "SheatheFLY": "",
+        "UnsheatheFLY": "",
+        "Defense": ""
+    },
+    {
+        "ItemSoundID": "MXMI_Drums",
+        "Sheathe": "Play_SFX_MXMI_DRM_Unequip",
+        "Unsheathe": "Play_SFX_MXMI_DRM_Equip",
+        "SheatheFLY": "",
+        "UnsheatheFLY": "",
+        "Defense": ""
+    },
+    {
+        "ItemSoundID": "MXMI_Guitar",
+        "Sheathe": "Play_SFX_MXMI_AG_Unequip",
+        "Unsheathe": "Play_SFX_MXMI_AG_Equip",
+        "SheatheFLY": "",
+        "UnsheatheFLY": "",
+        "Defense": ""
+    },
+    {
+        "ItemSoundID": "MXMI_UprightBass",
+        "Sheathe": "Play_SFX_MXMI_URB_Unequip",
+        "Unsheathe": "Play_SFX_MXMI_URB_Equip",
+        "SheatheFLY": "",
+        "UnsheatheFLY": "",
+        "Defense": ""
+    },
+    {
+        "ItemSoundID": "MXMI_Mandolin",
+        "Sheathe": "Play_SFX_MXMI_MAN_Unequip",
+        "Unsheathe": "Play_SFX_MXMI_MAN_Equip",
+        "SheatheFLY": "",
+        "UnsheatheFLY": "",
+        "Defense": ""
     }
 ]

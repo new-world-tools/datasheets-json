@@ -52,5 +52,14 @@
         "TiltToSurface": true,
         "SnapToPos": true,
         "AlignToDamageableTargets": true
+    },
+    {
+        "Name": "Greatsword_Heavy",
+        "Filter": "ImpactSurfaceAlignmentCast",
+        "VerticalCastDist": 5,
+        "MaxRotAngle": 45,
+        "TiltToSurface": true,
+        "SnapToPos": true,
+        "AlignToDamageableTargets": false
     }
 ]

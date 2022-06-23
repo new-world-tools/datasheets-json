@@ -91,6 +91,13 @@
         "Notes": "SINGLE - Player Attempts to Touch a Mimic"
     },
     {
+        "InteractionAnimationID": "HousingItemPetBird",
+        "PlayerMannequinFragmentStartInteraction": "Interact_Pet_Bird",
+        "InteractableTimelineStartInteraction": "Interact_Start",
+        "InteractableTimelineEndInteraction": "Interact_End",
+        "Notes": "LOOPING - Pet the bird's head"
+    },
+    {
         "InteractionAnimationID": "HousingItemSitOnChair",
         "PlayerMannequinFragmentStartInteraction": "Interact_Chair",
         "InteractableTimelineStartInteraction": "Interact_Start",

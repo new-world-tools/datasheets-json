@@ -343,16 +343,23 @@
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds"
     },
     {
-        "MetaAchievementCategoryId": "Looting",
+        "MetaAchievementCategoryId": "Musical_Instruments",
         "Parent Category": "General",
         "Index": 11,
+        "Title": "@ui_meta_achievements_musical_instruments",
+        "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds"
+    },
+    {
+        "MetaAchievementCategoryId": "Looting",
+        "Parent Category": "General",
+        "Index": 12,
         "Title": "@ui_meta_achievements_looting",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds"
     },
     {
         "MetaAchievementCategoryId": "Dyeing",
         "Parent Category": "General",
-        "Index": 12,
+        "Index": 13,
         "Title": "@ui_meta_achievements_looting",
         "Icon Color Background": ""
     },

@@ -1,7 +1,7 @@
 [
     {
         "DamageID": "Attack_Swing_L",
-        "WeaponCategory": "Sword",
+        "WeaponCategory": "Warhammer",
         "IgnoreInvulnerable": 0,
         "NoReaction": 0,
         "IsRanged": "",
@@ -45,7 +45,7 @@
     },
     {
         "DamageID": "Attack_Mighty_Gavel",
-        "WeaponCategory": "Sword",
+        "WeaponCategory": "Warhammer",
         "IgnoreInvulnerable": 0,
         "NoReaction": 0,
         "IsRanged": "",
@@ -89,7 +89,7 @@
     },
     {
         "DamageID": "Attack_Clearout",
-        "WeaponCategory": "Sword",
+        "WeaponCategory": "Warhammer",
         "IgnoreInvulnerable": 0,
         "NoReaction": 0,
         "IsRanged": "",
@@ -133,7 +133,7 @@
     },
     {
         "DamageID": "Attack_Shockwave",
-        "WeaponCategory": "Sword",
+        "WeaponCategory": "Warhammer",
         "IgnoreInvulnerable": 0,
         "NoReaction": 0,
         "IsRanged": "",

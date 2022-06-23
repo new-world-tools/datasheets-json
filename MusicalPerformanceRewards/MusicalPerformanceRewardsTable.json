@@ -1,0 +1,90 @@
+[
+    {
+        "RewardId": "MusicBuff_NoReward",
+        "Name": "@MusicBuff_NoReward_Name",
+        "Description": "@MusicBuff_NoReward_Desc",
+        "Rank": 2,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "",
+        "GameEventId_Rank_Great": "",
+        "GameEventId_Rank_Okay": "",
+        "GameEventId_Rank_Bad": ""
+    },
+    {
+        "RewardId": "MusicBuff_01",
+        "Name": "@MusicBuff_SongInYourStep_Name",
+        "Description": "@MusicBuff_SongInYourStep_Desc",
+        "Rank": 75,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_01",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_01",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_01",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_01"
+    },
+    {
+        "RewardId": "MusicBuff_02",
+        "Name": "@MusicBuff_TerritorialTriumph_Name",
+        "Description": "@MusicBuff_TerritorialTriumph_Desc",
+        "Rank": 5,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_02",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_02",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_02",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_02"
+    },
+    {
+        "RewardId": "MusicBuff_03",
+        "Name": "@MusicBuff_AllTogetherNow_Name",
+        "Description": "@MusicBuff_AllTogetherNow_Desc",
+        "Rank": 25,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_03",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_03",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_03",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_03"
+    },
+    {
+        "RewardId": "MusicBuff_05",
+        "Name": "@MusicBuff_FortunesFavor_Name",
+        "Description": "@MusicBuff_FortunesFavor_Desc",
+        "Rank": 100,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_05",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_05",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_05",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_05"
+    },
+    {
+        "RewardId": "MusicBuff_06",
+        "Name": "@MusicBuff_LucksLabor_Name",
+        "Description": "@MusicBuff_LucksLabor_Desc",
+        "Rank": 150,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_06",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_06",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_06",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_06"
+    },
+    {
+        "RewardId": "MusicBuff_07",
+        "Name": "@MusicBuff_DecidedlyDexterous_Name",
+        "Description": "@MusicBuff_DecidedlyDexterous_Desc",
+        "Rank": 2,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_07",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_07",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_07",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_07"
+    },
+    {
+        "RewardId": "MusicBuff_Waltz",
+        "Name": "@MusicBuff_Maudlinbug_Waltz_Name",
+        "Description": "@MusicBuff_Maudlinbug_Waltz_Desc",
+        "Rank": 0,
+        "FilterType": "Summer",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Waltz",
+        "GameEventId_Rank_Great": "MusicReward_Great_Waltz",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Waltz",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Waltz"
+    }
+]

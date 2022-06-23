@@ -1,0 +1,27 @@
+[
+    {
+        "PaperdollId": "instrument-flute-slot",
+        "Name": "@ui_instrument-flute-slot_name",
+        "ClefIconPath": "LyShineUI/Images/HUD/MusicalActions/Icon_TrebleClef.png"
+    },
+    {
+        "PaperdollId": "instrument-guitar-slot",
+        "Name": "@ui_instrument-guitar-slot_name",
+        "ClefIconPath": "LyShineUI/Images/HUD/MusicalActions/Icon_TrebleClef.png"
+    },
+    {
+        "PaperdollId": "instrument-mandolin-slot",
+        "Name": "@ui_instrument-mandolin-slot_name",
+        "ClefIconPath": "LyShineUI/Images/HUD/MusicalActions/Icon_TrebleClef.png"
+    },
+    {
+        "PaperdollId": "instrument-uprightbass-slot",
+        "Name": "@ui_instrument-uprightbass-slot_name",
+        "ClefIconPath": "LyShineUI/Images/HUD/MusicalActions/Icon_BassClef.png"
+    },
+    {
+        "PaperdollId": "instrument-drums-slot",
+        "Name": "@ui_instrument-drums-slot_name",
+        "ClefIconPath": "LyShineUI/Images/HUD/MusicalActions/Icon_DrumClef.png"
+    }
+]
