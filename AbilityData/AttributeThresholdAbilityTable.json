@@ -336,7 +336,7 @@
         "ScalingConstitution": "",
         "OnKill": false,
         "OnExecuted": false,
-        "OnHit": false,
+        "OnHit": true,
         "OnHitBehind": false,
         "OnBlockedHit": false,
         "OnCrit": false,

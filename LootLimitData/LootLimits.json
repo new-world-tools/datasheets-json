@@ -110,6 +110,17 @@
         "LimitNotificationLocTag": ""
     },
     {
+        "LootLimitID": "GypsumGarnet",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 2,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
         "LootLimitID": "GypsumPurple",
         "IsReplicated": false,
         "MinLimitSeconds": 0,
