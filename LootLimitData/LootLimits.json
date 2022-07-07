@@ -48,7 +48,7 @@
         "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
-        "CountLimit": 5,
+        "CountLimit": 10,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
