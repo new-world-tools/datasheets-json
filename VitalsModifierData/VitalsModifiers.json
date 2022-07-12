@@ -24,6 +24,12 @@
         "CategoryDropChanceMod": 1
     },
     {
+        "CategoryId": "Spell",
+        "CategoryDamageMod": 0.05,
+        "CategoryHealthMod": 0.05,
+        "CategoryDropChanceMod": 1
+    },
+    {
         "CategoryId": "Dungeon",
         "CategoryDamageMod": 1.7,
         "CategoryHealthMod": 4,
