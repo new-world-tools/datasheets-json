@@ -791,7 +791,7 @@
         "MinGroupSize": 3,
         "PreserveOldGroup": null,
         "IsDungeon": true,
-        "IsMutable": null,
+        "IsMutable": true,
         "DifficultyProgressionId": "DungeonCutlass00Difficulty",
         "RestrictGathering": false,
         "RestrictWaterGathering": true,
