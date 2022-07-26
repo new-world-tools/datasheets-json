@@ -105323,9 +105323,9 @@
         "MP_OpeningNotesPerfect": null,
         "MP_IgnoreMissedNotes": null,
         "MP_RakeReduction": null,
-        "MP_GroupXPBonus": 0.1,
+        "MP_GroupXPBonus": null,
         "MP_SoloXPBonus": null,
-        "MP_FinalNotePerfectXPBonus": null
+        "MP_FinalNotePerfectXPBonus": 0.1
     },
     {
         "StatusID": "Affix_Music_10_GroupXPBonus",
@@ -105439,8 +105439,8 @@
         "MP_OpeningNotesPerfect": null,
         "MP_IgnoreMissedNotes": null,
         "MP_RakeReduction": null,
-        "MP_GroupXPBonus": null,
-        "MP_SoloXPBonus": 0.1,
+        "MP_GroupXPBonus": 0.1,
+        "MP_SoloXPBonus": null,
         "MP_FinalNotePerfectXPBonus": null
     },
     {
@@ -105556,8 +105556,8 @@
         "MP_IgnoreMissedNotes": null,
         "MP_RakeReduction": null,
         "MP_GroupXPBonus": null,
-        "MP_SoloXPBonus": null,
-        "MP_FinalNotePerfectXPBonus": 0.1
+        "MP_SoloXPBonus": 0.1,
+        "MP_FinalNotePerfectXPBonus": null
     },
     {
         "StatusID": "Affix_Music_3_OpeningNotesPerfect",
