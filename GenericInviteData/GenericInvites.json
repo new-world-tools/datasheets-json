@@ -8,7 +8,7 @@
         "MaxLevel": "",
         "FactionType": "",
         "MinDistance": "",
-        "MaxDistance": 10,
+        "MaxDistance": 20,
         "AllowInSanctuary": false,
         "AllowInFtue": false,
         "AllowInWarPrep": false,
@@ -33,6 +33,24 @@
         "AllowInWar": false,
         "AllowInArena": false,
         "DisallowInGameModes": "OutpostRush,Duel,Arena3v3,",
+        "DisallowedWaterDepths": ""
+    },
+    {
+        "ActivityCrc": "MusicalPerformance",
+        "ActivityType": 3,
+        "DurationSec": 10,
+        "Teams": null,
+        "MinLevel": null,
+        "MaxLevel": "",
+        "FactionType": "",
+        "MinDistance": "",
+        "MaxDistance": 10,
+        "AllowInSanctuary": true,
+        "AllowInFtue": false,
+        "AllowInWarPrep": true,
+        "AllowInWar": false,
+        "AllowInArena": false,
+        "DisallowInGameModes": "",
         "DisallowedWaterDepths": ""
     }
 ]

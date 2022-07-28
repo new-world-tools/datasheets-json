@@ -1,0 +1,22 @@
+[
+    {
+        "Grade": "Amazing",
+        "MinimumScore": 0.95,
+        "RankGameEventId": "MusicPerformance_Amazing_Result"
+    },
+    {
+        "Grade": "Great",
+        "MinimumScore": 0.75,
+        "RankGameEventId": ""
+    },
+    {
+        "Grade": "Okay",
+        "MinimumScore": 0.5,
+        "RankGameEventId": ""
+    },
+    {
+        "Grade": "Bad",
+        "MinimumScore": 0,
+        "RankGameEventId": ""
+    }
+]

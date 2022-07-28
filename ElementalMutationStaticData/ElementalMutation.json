@@ -166,5 +166,61 @@
         "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_overgrown.dds",
         "TextColor": "115,129,39",
         "BackgroundColor": "48,63,34"
+    },
+    {
+        "ElementalMutationId": "Icebound_1",
+        "Name": "@IceTitle",
+        "Description": "Ice element mutator category",
+        "CategoryWildcard": "Ice",
+        "ElementalDifficultyTier": 1,
+        "Dungeon-": "Mutation_Icebound_DungeonMinus_Tier1",
+        "Dungeon": "Mutation_Icebound_Dungeon_Tier1",
+        "Dungeon+": "Mutation_Icebound_DungeonPlus_Tier1",
+        "DungeonMiniBoss": "Mutation_Icebound_DungeonPlus_Tier1",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_icebound.dds",
+        "TextColor": "113,174,194",
+        "BackgroundColor": "32,68,81"
+    },
+    {
+        "ElementalMutationId": "Icebound_2",
+        "Name": "@IceTitle",
+        "Description": "Ice element mutator category",
+        "CategoryWildcard": "Ice",
+        "ElementalDifficultyTier": 2,
+        "Dungeon-": "Mutation_Icebound_DungeonMinus_Tier2",
+        "Dungeon": "Mutation_Icebound_Dungeon_Tier2",
+        "Dungeon+": "Mutation_Icebound_DungeonPlus_Tier2",
+        "DungeonMiniBoss": "Mutation_Icebound_DungeonPlus_Tier2",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_icebound.dds",
+        "TextColor": "113,174,194",
+        "BackgroundColor": "32,68,81"
+    },
+    {
+        "ElementalMutationId": "Icebound_3",
+        "Name": "@IceTitle",
+        "Description": "Ice element mutator category",
+        "CategoryWildcard": "Ice",
+        "ElementalDifficultyTier": 3,
+        "Dungeon-": "Mutation_Icebound_DungeonMinus_Tier3",
+        "Dungeon": "Mutation_Icebound_Dungeon_Tier3",
+        "Dungeon+": "Mutation_Icebound_DungeonPlus_Tier3",
+        "DungeonMiniBoss": "Mutation_Icebound_DungeonPlus_Tier3",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_icebound.dds",
+        "TextColor": "113,174,194",
+        "BackgroundColor": "32,68,81"
+    },
+    {
+        "ElementalMutationId": "Icebound_4",
+        "Name": "@IceTitle",
+        "Description": "Ice element mutator category",
+        "CategoryWildcard": "Ice",
+        "ElementalDifficultyTier": 4,
+        "Dungeon-": "Mutation_Icebound_DungeonMinus_Tier4",
+        "Dungeon": "Mutation_Icebound_Dungeon_Tier4",
+        "Dungeon+": "Mutation_Icebound_DungeonPlus_Tier4",
+        "DungeonMiniBoss": "Mutation_Icebound_DungeonPlus_Tier4",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_icebound.dds",
+        "TextColor": "113,174,194",
+        "BackgroundColor": "32,68,81"
     }
 ]

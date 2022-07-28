@@ -2,7 +2,7 @@
     {
         "LootTableID": "PlaytestTuningOrbs",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -113,7 +113,7 @@
     {
         "LootTableID": "PlaytestTuningOrbs_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -224,7 +224,7 @@
     {
         "LootTableID": "PlaytestTuningOrbs_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -335,7 +335,7 @@
     {
         "LootTableID": "PlaytestKeyMutators",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -446,7 +446,7 @@
     {
         "LootTableID": "PlaytestKeyMutators_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -557,7 +557,7 @@
     {
         "LootTableID": "PlaytestKeyMutators_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -668,7 +668,7 @@
     {
         "LootTableID": "PlaytestAptitudeResources",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -779,7 +779,7 @@
     {
         "LootTableID": "PlaytestAptitudeResources_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -890,7 +890,7 @@
     {
         "LootTableID": "PlaytestAptitudeResources_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -1001,7 +1001,7 @@
     {
         "LootTableID": "PlaytestRefinedResources",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -1112,7 +1112,7 @@
     {
         "LootTableID": "PlaytestRefinedResources_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -1223,7 +1223,7 @@
     {
         "LootTableID": "PlaytestRefinedResources_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -1334,7 +1334,7 @@
     {
         "LootTableID": "PlaytestRawResources",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -1445,7 +1445,7 @@
     {
         "LootTableID": "PlaytestRawResources_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -1556,7 +1556,7 @@
     {
         "LootTableID": "PlaytestRawResources_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -1667,7 +1667,7 @@
     {
         "LootTableID": "PlaytestRareResources",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -1778,7 +1778,7 @@
     {
         "LootTableID": "PlaytestRareResources_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -1889,7 +1889,7 @@
     {
         "LootTableID": "PlaytestRareResources_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -2000,7 +2000,7 @@
     {
         "LootTableID": "PlaytestFoodResources",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -2111,7 +2111,7 @@
     {
         "LootTableID": "PlaytestFoodResources_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -2222,7 +2222,7 @@
     {
         "LootTableID": "PlaytestFoodResources_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -2333,7 +2333,7 @@
     {
         "LootTableID": "PlaytestHerbs",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -2444,7 +2444,7 @@
     {
         "LootTableID": "PlaytestHerbs_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -2555,7 +2555,7 @@
     {
         "LootTableID": "PlaytestHerbs_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -2666,7 +2666,7 @@
     {
         "LootTableID": "PlaytestSeasoning",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -2777,7 +2777,7 @@
     {
         "LootTableID": "PlaytestSeasoning_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -2888,7 +2888,7 @@
     {
         "LootTableID": "PlaytestSeasoning_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -2999,7 +2999,7 @@
     {
         "LootTableID": "PlaytestMeat",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -3110,7 +3110,7 @@
     {
         "LootTableID": "PlaytestMeat_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -3221,7 +3221,7 @@
     {
         "LootTableID": "PlaytestMeat_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -3332,7 +3332,7 @@
     {
         "LootTableID": "PlaytestFish",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -3443,7 +3443,7 @@
     {
         "LootTableID": "PlaytestFish_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -3554,7 +3554,7 @@
     {
         "LootTableID": "PlaytestFish_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -3665,7 +3665,7 @@
     {
         "LootTableID": "PlaytestFruit",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -3776,7 +3776,7 @@
     {
         "LootTableID": "PlaytestFruit_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -3887,7 +3887,7 @@
     {
         "LootTableID": "PlaytestFruit_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -3998,7 +3998,7 @@
     {
         "LootTableID": "PlaytestVegetables",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -4109,7 +4109,7 @@
     {
         "LootTableID": "PlaytestVegetables_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -4220,7 +4220,7 @@
     {
         "LootTableID": "PlaytestVegetables_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -4331,7 +4331,7 @@
     {
         "LootTableID": "PlaytestGrains",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -4442,7 +4442,7 @@
     {
         "LootTableID": "PlaytestGrains_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -4553,7 +4553,7 @@
     {
         "LootTableID": "PlaytestGrains_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -4664,7 +4664,7 @@
     {
         "LootTableID": "PlaytestOils",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -4775,7 +4775,7 @@
     {
         "LootTableID": "PlaytestOils_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -4886,7 +4886,7 @@
     {
         "LootTableID": "PlaytestOils_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -4997,7 +4997,7 @@
     {
         "LootTableID": "PlaytestWater",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -5108,7 +5108,7 @@
     {
         "LootTableID": "PlaytestWater_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -5219,7 +5219,7 @@
     {
         "LootTableID": "PlaytestWater_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -5330,7 +5330,7 @@
     {
         "LootTableID": "PlaytestTrophiesT1",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -5441,7 +5441,7 @@
     {
         "LootTableID": "PlaytestTrophiesT1_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -5552,7 +5552,7 @@
     {
         "LootTableID": "PlaytestTrophiesT1_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -5663,7 +5663,7 @@
     {
         "LootTableID": "PlaytestTrophiesT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -5774,7 +5774,7 @@
     {
         "LootTableID": "PlaytestTrophiesT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -5885,7 +5885,7 @@
     {
         "LootTableID": "PlaytestTrophiesT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -5996,7 +5996,7 @@
     {
         "LootTableID": "PlaytestTrophiesT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -6107,7 +6107,7 @@
     {
         "LootTableID": "PlaytestTrophiesT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -6218,7 +6218,7 @@
     {
         "LootTableID": "PlaytestTrophiesT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -6329,7 +6329,7 @@
     {
         "LootTableID": "PlaytestStandingVials",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -6440,7 +6440,7 @@
     {
         "LootTableID": "PlaytestStandingVials_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -6551,7 +6551,7 @@
     {
         "LootTableID": "PlaytestStandingVials_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -6662,7 +6662,7 @@
     {
         "LootTableID": "PlaytestCraftingClothingT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -6773,7 +6773,7 @@
     {
         "LootTableID": "PlaytestCraftingClothingT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -6884,7 +6884,7 @@
     {
         "LootTableID": "PlaytestCraftingClothingT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -6995,7 +6995,7 @@
     {
         "LootTableID": "PlaytestRefiningClothingT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -7106,7 +7106,7 @@
     {
         "LootTableID": "PlaytestRefiningClothingT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -7217,7 +7217,7 @@
     {
         "LootTableID": "PlaytestRefiningClothingT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -7328,7 +7328,7 @@
     {
         "LootTableID": "PlaytestGatheringClothingT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -7439,7 +7439,7 @@
     {
         "LootTableID": "PlaytestGatheringClothingT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -7550,7 +7550,7 @@
     {
         "LootTableID": "PlaytestGatheringClothingT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -7661,7 +7661,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5625",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -7772,7 +7772,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5625_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -7883,7 +7883,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5625_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -7994,7 +7994,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5625",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -8105,7 +8105,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5625_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -8216,7 +8216,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5625_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -8327,7 +8327,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -8438,7 +8438,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -8549,7 +8549,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -8660,7 +8660,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -8771,7 +8771,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -8882,7 +8882,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -8993,7 +8993,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -9104,7 +9104,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -9215,7 +9215,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -9326,7 +9326,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -9437,7 +9437,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -9548,7 +9548,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -9659,7 +9659,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -9770,7 +9770,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -9881,7 +9881,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5625Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -9992,7 +9992,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -10103,7 +10103,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -10214,7 +10214,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -10325,7 +10325,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -10436,7 +10436,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -10547,7 +10547,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -10658,7 +10658,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -10769,7 +10769,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -10880,7 +10880,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -10991,7 +10991,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -11102,7 +11102,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -11213,7 +11213,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -11324,7 +11324,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -11435,7 +11435,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -11546,7 +11546,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5625Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -11657,7 +11657,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -11768,7 +11768,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -11879,7 +11879,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -11990,7 +11990,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -12101,7 +12101,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -12212,7 +12212,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -12323,7 +12323,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -12434,7 +12434,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -12545,7 +12545,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -12656,7 +12656,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -12767,7 +12767,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -12878,7 +12878,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -12989,7 +12989,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -13100,7 +13100,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -13211,7 +13211,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5625Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -13322,7 +13322,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -13433,7 +13433,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -13544,7 +13544,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -13655,7 +13655,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -13766,7 +13766,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -13877,7 +13877,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -13988,7 +13988,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -14099,7 +14099,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -14210,7 +14210,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -14321,7 +14321,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -14432,7 +14432,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -14543,7 +14543,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -14654,7 +14654,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -14765,7 +14765,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -14876,7 +14876,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5625Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -14987,7 +14987,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -15098,7 +15098,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -15209,7 +15209,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -15320,7 +15320,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -15431,7 +15431,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -15542,7 +15542,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -15653,7 +15653,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -15764,7 +15764,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -15875,7 +15875,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -15986,7 +15986,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -16097,7 +16097,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -16208,7 +16208,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -16319,7 +16319,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -16430,7 +16430,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -16541,7 +16541,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5625Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -16652,7 +16652,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5600",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -16763,7 +16763,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5600_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -16874,7 +16874,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5600_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -16985,7 +16985,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5600",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -17096,7 +17096,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5600_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -17207,7 +17207,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5600_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -17318,7 +17318,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -17429,7 +17429,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -17540,7 +17540,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -17651,7 +17651,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -17762,7 +17762,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -17873,7 +17873,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -17984,7 +17984,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -18095,7 +18095,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -18206,7 +18206,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -18317,7 +18317,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -18428,7 +18428,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -18539,7 +18539,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -18650,7 +18650,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -18761,7 +18761,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -18872,7 +18872,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5600Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -18983,7 +18983,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -19094,7 +19094,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -19205,7 +19205,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -19316,7 +19316,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -19427,7 +19427,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -19538,7 +19538,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -19649,7 +19649,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -19760,7 +19760,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -19871,7 +19871,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -19982,7 +19982,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -20093,7 +20093,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -20204,7 +20204,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -20315,7 +20315,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -20426,7 +20426,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -20537,7 +20537,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5600Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -20648,7 +20648,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -20759,7 +20759,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -20870,7 +20870,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -20981,7 +20981,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -21092,7 +21092,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -21203,7 +21203,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -21314,7 +21314,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -21425,7 +21425,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -21536,7 +21536,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -21647,7 +21647,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -21758,7 +21758,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -21869,7 +21869,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -21980,7 +21980,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -22091,7 +22091,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -22202,7 +22202,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5600Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -22313,7 +22313,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -22424,7 +22424,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -22535,7 +22535,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -22646,7 +22646,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -22757,7 +22757,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -22868,7 +22868,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -22979,7 +22979,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -23090,7 +23090,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -23201,7 +23201,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -23312,7 +23312,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -23423,7 +23423,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -23534,7 +23534,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -23645,7 +23645,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -23756,7 +23756,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -23867,7 +23867,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5600Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -23978,7 +23978,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -24089,7 +24089,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -24200,7 +24200,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -24311,7 +24311,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -24422,7 +24422,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -24533,7 +24533,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -24644,7 +24644,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -24755,7 +24755,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -24866,7 +24866,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -24977,7 +24977,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -25088,7 +25088,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -25199,7 +25199,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -25310,7 +25310,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -25421,7 +25421,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -25532,7 +25532,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5600Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -25643,7 +25643,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5585",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -25754,7 +25754,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5585_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -25865,7 +25865,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5585_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -25976,7 +25976,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5585",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -26087,7 +26087,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5585_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -26198,7 +26198,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5585_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -26309,7 +26309,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -26420,7 +26420,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -26531,7 +26531,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -26642,7 +26642,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -26753,7 +26753,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -26864,7 +26864,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -26975,7 +26975,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -27086,7 +27086,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -27197,7 +27197,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -27308,7 +27308,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -27419,7 +27419,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -27530,7 +27530,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -27641,7 +27641,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -27752,7 +27752,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -27863,7 +27863,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5585Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -27974,7 +27974,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -28085,7 +28085,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -28196,7 +28196,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -28307,7 +28307,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -28418,7 +28418,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -28529,7 +28529,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -28640,7 +28640,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -28751,7 +28751,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -28862,7 +28862,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -28973,7 +28973,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -29084,7 +29084,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -29195,7 +29195,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -29306,7 +29306,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -29417,7 +29417,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -29528,7 +29528,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5585Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -29639,7 +29639,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -29750,7 +29750,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -29861,7 +29861,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -29972,7 +29972,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -30083,7 +30083,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -30194,7 +30194,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -30305,7 +30305,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -30416,7 +30416,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -30527,7 +30527,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -30638,7 +30638,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -30749,7 +30749,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -30860,7 +30860,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -30971,7 +30971,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -31082,7 +31082,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -31193,7 +31193,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5585Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -31304,7 +31304,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -31415,7 +31415,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -31526,7 +31526,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -31637,7 +31637,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -31748,7 +31748,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -31859,7 +31859,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -31970,7 +31970,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -32081,7 +32081,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -32192,7 +32192,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -32303,7 +32303,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -32414,7 +32414,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -32525,7 +32525,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -32636,7 +32636,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -32747,7 +32747,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -32858,7 +32858,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5585Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -32969,7 +32969,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -33080,7 +33080,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -33191,7 +33191,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -33302,7 +33302,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -33413,7 +33413,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -33524,7 +33524,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -33635,7 +33635,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -33746,7 +33746,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -33857,7 +33857,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -33968,7 +33968,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -34079,7 +34079,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -34190,7 +34190,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -34301,7 +34301,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -34412,7 +34412,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -34523,7 +34523,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5585Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -34634,7 +34634,7 @@
     {
         "LootTableID": "PlaytestGemsT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -34745,7 +34745,7 @@
     {
         "LootTableID": "PlaytestGemsT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -34856,7 +34856,7 @@
     {
         "LootTableID": "PlaytestGemsT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -34967,7 +34967,7 @@
     {
         "LootTableID": "PlaytestConsumablesT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -35078,7 +35078,7 @@
     {
         "LootTableID": "PlaytestConsumablesT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -35189,7 +35189,7 @@
     {
         "LootTableID": "PlaytestConsumablesT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -35300,7 +35300,7 @@
     {
         "LootTableID": "PlaytestToolsT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -35411,7 +35411,7 @@
     {
         "LootTableID": "PlaytestToolsT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -35522,7 +35522,7 @@
     {
         "LootTableID": "PlaytestToolsT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -35633,7 +35633,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -35744,7 +35744,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -35855,7 +35855,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -35966,7 +35966,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -36077,7 +36077,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -36188,7 +36188,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -36299,7 +36299,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -36410,7 +36410,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -36521,7 +36521,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -36632,7 +36632,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -36743,7 +36743,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -36854,7 +36854,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -36965,7 +36965,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -37076,7 +37076,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -37187,7 +37187,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -37298,7 +37298,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -37409,7 +37409,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -37520,7 +37520,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -37631,7 +37631,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -37742,7 +37742,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -37853,7 +37853,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT5Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -37964,7 +37964,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -38075,7 +38075,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -38186,7 +38186,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -38297,7 +38297,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -38408,7 +38408,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -38519,7 +38519,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -38630,7 +38630,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -38741,7 +38741,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -38852,7 +38852,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -38963,7 +38963,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -39074,7 +39074,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -39185,7 +39185,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -39296,7 +39296,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -39407,7 +39407,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -39518,7 +39518,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT5Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -39629,7 +39629,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -39740,7 +39740,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -39851,7 +39851,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -39962,7 +39962,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -40073,7 +40073,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -40184,7 +40184,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -40295,7 +40295,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -40406,7 +40406,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -40517,7 +40517,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -40628,7 +40628,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -40739,7 +40739,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -40850,7 +40850,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -40961,7 +40961,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -41072,7 +41072,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -41183,7 +41183,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT5Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -41294,7 +41294,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -41405,7 +41405,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -41516,7 +41516,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -41627,7 +41627,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -41738,7 +41738,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -41849,7 +41849,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -41960,7 +41960,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -42071,7 +42071,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -42182,7 +42182,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -42293,7 +42293,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -42404,7 +42404,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -42515,7 +42515,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -42626,7 +42626,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -42737,7 +42737,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -42848,7 +42848,7 @@
     {
         "LootTableID": "PlaytestArmorSageT5Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -42959,7 +42959,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -43070,7 +43070,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -43181,7 +43181,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -43292,7 +43292,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -43403,7 +43403,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -43514,7 +43514,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -43625,7 +43625,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -43736,7 +43736,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -43847,7 +43847,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -43958,7 +43958,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -44069,7 +44069,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -44180,7 +44180,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -44291,7 +44291,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -44402,7 +44402,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -44513,7 +44513,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT5Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -44624,7 +44624,7 @@
     {
         "LootTableID": "PlaytestGemsT4",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -44735,7 +44735,7 @@
     {
         "LootTableID": "PlaytestGemsT4_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -44846,7 +44846,7 @@
     {
         "LootTableID": "PlaytestGemsT4_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -44957,7 +44957,7 @@
     {
         "LootTableID": "PlaytestConsumablesT4",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -45068,7 +45068,7 @@
     {
         "LootTableID": "PlaytestConsumablesT4_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -45179,7 +45179,7 @@
     {
         "LootTableID": "PlaytestConsumablesT4_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -45290,7 +45290,7 @@
     {
         "LootTableID": "PlaytestToolsT4",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -45401,7 +45401,7 @@
     {
         "LootTableID": "PlaytestToolsT4_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -45512,7 +45512,7 @@
     {
         "LootTableID": "PlaytestToolsT4_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -45623,7 +45623,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT4",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -45734,7 +45734,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT4_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -45845,7 +45845,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT4_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -45956,7 +45956,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT4",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -46067,7 +46067,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT4_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -46178,7 +46178,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT4_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -46289,7 +46289,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -46400,7 +46400,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -46511,7 +46511,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -46622,7 +46622,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -46733,7 +46733,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -46844,7 +46844,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -46955,7 +46955,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -47066,7 +47066,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -47177,7 +47177,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -47288,7 +47288,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -47399,7 +47399,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -47510,7 +47510,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -47621,7 +47621,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -47732,7 +47732,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -47843,7 +47843,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT4Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -47954,7 +47954,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -48065,7 +48065,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -48176,7 +48176,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -48287,7 +48287,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -48398,7 +48398,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -48509,7 +48509,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -48620,7 +48620,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -48731,7 +48731,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -48842,7 +48842,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -48953,7 +48953,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -49064,7 +49064,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -49175,7 +49175,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -49286,7 +49286,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -49397,7 +49397,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -49508,7 +49508,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT4Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -49619,7 +49619,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -49730,7 +49730,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -49841,7 +49841,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -49952,7 +49952,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -50063,7 +50063,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -50174,7 +50174,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -50285,7 +50285,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -50396,7 +50396,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -50507,7 +50507,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -50618,7 +50618,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -50729,7 +50729,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -50840,7 +50840,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -50951,7 +50951,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -51062,7 +51062,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -51173,7 +51173,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT4Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -51284,7 +51284,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -51395,7 +51395,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -51506,7 +51506,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -51617,7 +51617,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -51728,7 +51728,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -51839,7 +51839,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -51950,7 +51950,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -52061,7 +52061,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -52172,7 +52172,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -52283,7 +52283,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -52394,7 +52394,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -52505,7 +52505,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -52616,7 +52616,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -52727,7 +52727,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -52838,7 +52838,7 @@
     {
         "LootTableID": "PlaytestArmorSageT4Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -52949,7 +52949,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -53060,7 +53060,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -53171,7 +53171,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -53282,7 +53282,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -53393,7 +53393,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -53504,7 +53504,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -53615,7 +53615,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -53726,7 +53726,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -53837,7 +53837,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -53948,7 +53948,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -54059,7 +54059,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -54170,7 +54170,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -54281,7 +54281,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -54392,7 +54392,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -54503,7 +54503,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT4Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -54614,7 +54614,7 @@
     {
         "LootTableID": "PlaytestGemsT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -54725,7 +54725,7 @@
     {
         "LootTableID": "PlaytestGemsT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -54836,7 +54836,7 @@
     {
         "LootTableID": "PlaytestGemsT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -54947,7 +54947,7 @@
     {
         "LootTableID": "PlaytestConsumablesT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -55058,7 +55058,7 @@
     {
         "LootTableID": "PlaytestConsumablesT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -55169,7 +55169,7 @@
     {
         "LootTableID": "PlaytestConsumablesT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -55280,7 +55280,7 @@
     {
         "LootTableID": "PlaytestToolsT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -55391,7 +55391,7 @@
     {
         "LootTableID": "PlaytestToolsT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -55502,7 +55502,7 @@
     {
         "LootTableID": "PlaytestToolsT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -55613,7 +55613,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -55724,7 +55724,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -55835,7 +55835,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -55946,7 +55946,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -56057,7 +56057,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -56168,7 +56168,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -56279,7 +56279,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -56390,7 +56390,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -56501,7 +56501,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -56612,7 +56612,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -56723,7 +56723,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -56834,7 +56834,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -56945,7 +56945,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -57056,7 +57056,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -57167,7 +57167,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -57278,7 +57278,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -57389,7 +57389,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -57500,7 +57500,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -57611,7 +57611,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -57722,7 +57722,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -57833,7 +57833,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT3Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -57944,7 +57944,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -58055,7 +58055,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -58166,7 +58166,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -58277,7 +58277,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -58388,7 +58388,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -58499,7 +58499,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -58610,7 +58610,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -58721,7 +58721,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -58832,7 +58832,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -58943,7 +58943,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -59054,7 +59054,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -59165,7 +59165,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -59276,7 +59276,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -59387,7 +59387,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -59498,7 +59498,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT3Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -59609,7 +59609,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -59720,7 +59720,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -59831,7 +59831,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -59942,7 +59942,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -60053,7 +60053,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -60164,7 +60164,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -60275,7 +60275,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -60386,7 +60386,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -60497,7 +60497,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -60608,7 +60608,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -60719,7 +60719,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -60830,7 +60830,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -60941,7 +60941,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -61052,7 +61052,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -61163,7 +61163,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT3Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -61274,7 +61274,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -61385,7 +61385,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -61496,7 +61496,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -61607,7 +61607,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -61718,7 +61718,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -61829,7 +61829,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -61940,7 +61940,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -62051,7 +62051,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -62162,7 +62162,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -62273,7 +62273,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -62384,7 +62384,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -62495,7 +62495,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -62606,7 +62606,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -62717,7 +62717,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -62828,7 +62828,7 @@
     {
         "LootTableID": "PlaytestArmorSageT3Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -62939,7 +62939,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -63050,7 +63050,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -63161,7 +63161,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -63272,7 +63272,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -63383,7 +63383,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -63494,7 +63494,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -63605,7 +63605,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -63716,7 +63716,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -63827,7 +63827,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -63938,7 +63938,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -64049,7 +64049,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -64160,7 +64160,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -64271,7 +64271,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -64382,7 +64382,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -64493,7 +64493,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT3Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -64604,7 +64604,7 @@
     {
         "LootTableID": "PlaytestGemsT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -64715,7 +64715,7 @@
     {
         "LootTableID": "PlaytestGemsT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -64826,7 +64826,7 @@
     {
         "LootTableID": "PlaytestGemsT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -64937,7 +64937,7 @@
     {
         "LootTableID": "PlaytestConsumablesT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -65048,7 +65048,7 @@
     {
         "LootTableID": "PlaytestConsumablesT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -65159,7 +65159,7 @@
     {
         "LootTableID": "PlaytestConsumablesT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -65270,7 +65270,7 @@
     {
         "LootTableID": "PlaytestToolsT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -65381,7 +65381,7 @@
     {
         "LootTableID": "PlaytestToolsT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -65492,7 +65492,7 @@
     {
         "LootTableID": "PlaytestToolsT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -65603,7 +65603,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -65714,7 +65714,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -65825,7 +65825,7 @@
     {
         "LootTableID": "PlaytestWeaponsDamageT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -65936,7 +65936,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -66047,7 +66047,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -66158,7 +66158,7 @@
     {
         "LootTableID": "PlaytestWeaponsTankT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -66269,7 +66269,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -66380,7 +66380,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -66491,7 +66491,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -66602,7 +66602,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -66713,7 +66713,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -66824,7 +66824,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -66935,7 +66935,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -67046,7 +67046,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -67157,7 +67157,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -67268,7 +67268,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -67379,7 +67379,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -67490,7 +67490,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -67601,7 +67601,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -67712,7 +67712,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -67823,7 +67823,7 @@
     {
         "LootTableID": "PlaytestArmorSoldierT2Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -67934,7 +67934,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -68045,7 +68045,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -68156,7 +68156,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -68267,7 +68267,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -68378,7 +68378,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -68489,7 +68489,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -68600,7 +68600,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -68711,7 +68711,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -68822,7 +68822,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -68933,7 +68933,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -69044,7 +69044,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -69155,7 +69155,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -69266,7 +69266,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -69377,7 +69377,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -69488,7 +69488,7 @@
     {
         "LootTableID": "PlaytestArmorRangerT2Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -69599,7 +69599,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -69710,7 +69710,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -69821,7 +69821,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -69932,7 +69932,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -70043,7 +70043,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -70154,7 +70154,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -70265,7 +70265,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -70376,7 +70376,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -70487,7 +70487,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -70598,7 +70598,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -70709,7 +70709,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -70820,7 +70820,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -70931,7 +70931,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -71042,7 +71042,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -71153,7 +71153,7 @@
     {
         "LootTableID": "PlaytestArmorScholarT2Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -71264,7 +71264,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -71375,7 +71375,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -71486,7 +71486,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -71597,7 +71597,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -71708,7 +71708,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -71819,7 +71819,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -71930,7 +71930,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -72041,7 +72041,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -72152,7 +72152,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -72263,7 +72263,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -72374,7 +72374,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -72485,7 +72485,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -72596,7 +72596,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -72707,7 +72707,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -72818,7 +72818,7 @@
     {
         "LootTableID": "PlaytestArmorSageT2Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -72929,7 +72929,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -73040,7 +73040,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -73151,7 +73151,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -73262,7 +73262,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Heavy",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -73373,7 +73373,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Heavy_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -73484,7 +73484,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Heavy_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -73595,7 +73595,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Medium",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -73706,7 +73706,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Medium_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -73817,7 +73817,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Medium_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -73928,7 +73928,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Light",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -74039,7 +74039,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Light_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -74150,7 +74150,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Light_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -74261,7 +74261,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Trinket",
         "AND/OR": "AND",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "TRUE",
@@ -74372,7 +74372,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Trinket_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -74483,7 +74483,7 @@
     {
         "LootTableID": "PlaytestArmorSentryT2Trinket_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -74594,7 +74594,7 @@
     {
         "LootTableID": "PlaytestAzothStaff",
         "AND/OR": "OR",
-        "LuckSafe": "",
+        "RollBonusSetting": "AddToRoll",
         "Conditions": "Level",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -74705,7 +74705,7 @@
     {
         "LootTableID": "PlaytestAzothStaff_Qty",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",
@@ -74816,7 +74816,7 @@
     {
         "LootTableID": "PlaytestAzothStaff_Probs",
         "AND/OR": "",
-        "LuckSafe": "",
+        "RollBonusSetting": "",
         "Conditions": "",
         "ConditionOverridesRoll": "",
         "UseLevelGS": "",

@@ -22,6 +22,17 @@
         "BackgroundColor": "80,47,114"
     },
     {
+        "PromotionMutationId": "Oppressive",
+        "Promotion1": "Mut_ManaThorns_1_Buff",
+        "Promotion2": "Mut_ManaThorns_2_Buff",
+        "Promotion3": "Mut_SilenceArea_Buff",
+        "Name": "@OppressiveTitle",
+        "Description": "@OppressiveDescription",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_oppressive.dds",
+        "TextColor": "206,138,120",
+        "BackgroundColor": "100,63,63"
+    },
+    {
         "PromotionMutationId": "Indomitable",
         "Promotion1": "Mut_LifeSteal_1_Buff",
         "Promotion2": "Mut_LifeSteal_2_Buff",

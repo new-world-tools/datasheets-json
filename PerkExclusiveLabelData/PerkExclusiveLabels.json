@@ -1,0 +1,432 @@
+[
+    {
+        "ExclusiveLabelID": "Attribute",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "EmptyGem",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Lightning",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Arcane",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Fire",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Ice",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Nature",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Void",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Brash",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Opportunist",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Retaliate",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Exhilarate",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Cruel",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Gambit",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Rally",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Taunt",
+        "Weight": 20,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "ArmorLuck",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "ArmorSize",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "ArmorCastDistance",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "LuckDay",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "LuckNight",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Durability",
+        "Weight": 30,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "StrengthSalt",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "StrengthFresh",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "CastDistanceDay",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "CastDistanceNight",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "CatchSizeDay",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "CatchSizeNight",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "CatchSizeSalt",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "CatchSizeFresh",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Skill",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Hatchet",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "2HHammer",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Musket",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Spear",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Bow",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Rapier",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "LifeStaff",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "FireStaff",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Sword",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Shield",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "2hAxe",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "IceGauntlet",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "VoidGauntlet",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Blunderbuss",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "GreatSword",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "CDR",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Luck",
+        "Weight": 25,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "AzothGain",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Yield",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Bonus",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "GatherProc",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "EncumAdd",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "EncumReduce",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Ammo",
+        "Weight": 50,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "DmgAbsorb",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Gathering",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Afflicted",
+        "Weight": 20,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "CritDef",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "DebuffDur",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Defense",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Health",
+        "Weight": 200,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Proc",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "GatheringLuck",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "BuffDur",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Healing",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "DmgType",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Stam",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Mana",
+        "Weight": 20,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Regen",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Threat",
+        "Weight": 20,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Consume",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "ConsumeAdd",
+        "Weight": 50,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "ConsumeCDR",
+        "Weight": 200,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Trade Skill",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "DmgCon",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "CritHeadshot",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "OnKill",
+        "Weight": 20,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Critical",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "DmgCategory",
+        "Weight": 50,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Accuracy",
+        "Weight": 20,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Blocking",
+        "Weight": 10,
+        "ItemClassOverrides": "Shield:200"
+    },
+    {
+        "ExclusiveLabelID": "Tradeskill",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Elemental",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Music",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "ArmorHealth",
+        "Weight": 20,
+        "ItemClassOverrides": ""
+    }
+]

@@ -2504,7 +2504,7 @@
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Fortune02.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Fortune02.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Fortune02.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Fortune01.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Fortune02.png",
         "TypeDescription": "@reward_type_campskin"
     },
     {
@@ -3212,6 +3212,28 @@
         "TypeDescription": "@reward_type_Housing_Set"
     },
     {
+        "UniqueTagID": "Emote_BaladiDance",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_BaladiDance_name",
+        "Description": "@ui_emote_BaladiDance_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_BaladiDance.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_BaladiDance.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_BaladiDance.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_BaladiDance.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_PinCount",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_PinCount_name",
+        "Description": "@ui_emote_PinCount_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_WrestlingRefereeThreeCount.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_WrestlingRefereeThreeCount.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_WrestlingRefereeThreeCount.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_WrestlingRefereeThreeCount.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_Plotting",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_Plotting_name",
@@ -3234,6 +3256,28 @@
         "TypeDescription": "@reward_type_emote"
     },
     {
+        "UniqueTagID": "Emote_Headbang",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Headbang_name",
+        "Description": "@ui_emote_Headbang_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Headbanging.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Headbanging.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Headbanging.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Headbanging.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_SparklerDance",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_SparklerDance_name",
+        "Description": "@ui_emote_SparklerDance_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_DancingSparklers.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_DancingSparklers.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_DancingSparklers.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_DancingSparklers.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_FingerGun",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_FingerGun_name",
@@ -3243,5 +3287,236 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_FingerGuns2.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_FingerGuns2.png",
         "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Apparel_Metal_L",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Metal_L_name",
+        "Description": "@Apparel_Metal_L_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_MetalMusicFestival_Light.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_MetalMusicFestival_Light.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_MetalMusicFestival_Light.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_MetalMusicFestival_Light.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Metal_M",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Metal_M_name",
+        "Description": "@Apparel_Metal_M_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_MetalMusicFestival_Medium.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_MetalMusicFestival_Medium.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_MetalMusicFestival_Medium.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_MetalMusicFestival_Medium.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Metal_H",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Metal_H_name",
+        "Description": "@Apparel_Metal_H_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_MetalMusicFestival_Heavy.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_MetalMusicFestival_Heavy.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_MetalMusicFestival_Heavy.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_MetalMusicFestival_Heavy.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Weapon_Metal_ShieldK",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_ShieldK_Metal_MasterName",
+        "Description": "@Skin_ShieldK_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MetalMusicFestival_KiteShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MetalMusicFestival_KiteShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MetalMusicFestival_KiteShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MetalMusicFestival_KiteShield.png",
+        "TypeDescription": "@reward_type_Weaponskin_Shield"
+    },
+    {
+        "UniqueTagID": "Weapon_Metal_Longsword",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Longsword_Metal_MasterName",
+        "Description": "@Skin_Longsword_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MetalMusicFestival_Sword.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MetalMusicFestival_Sword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MetalMusicFestival_Sword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MetalMusicFestival_Sword.png",
+        "TypeDescription": "@reward_type_Weaponskin_Sword"
+    },
+    {
+        "UniqueTagID": "Weapon_Metal_GreatAxe",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_GreatAxe_Metal_MasterName",
+        "Description": "@Skin_GreatAxe_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MetalMusicFestival_GreatAxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MetalMusicFestival_GreatAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MetalMusicFestival_GreatAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MetalMusicFestival_GreatAxe.png",
+        "TypeDescription": "@reward_type_Weaponskin_GreatAxe"
+    },
+    {
+        "UniqueTagID": "Weapon_Metal_Firestaff",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Firestaff_Metal_MasterName",
+        "Description": "@Skin_Firestaff_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MetalMusicFestival_FireStaff.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MetalMusicFestival_FireStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MetalMusicFestival_FireStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MetalMusicFestival_FireStaff.png",
+        "TypeDescription": "@reward_type_Weaponskin_FireStaff"
+    },
+    {
+        "UniqueTagID": "Weapon_Metal_VoidGauntlet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_VoidGauntlet_Metal_MasterName",
+        "Description": "@Skin_VoidGauntlet_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MetalMusicFestival_VoidGauntlet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MetalMusicFestival_VoidGauntlet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MetalMusicFestival_VoidGauntlet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MetalMusicFestival_VoidGauntlet.png",
+        "TypeDescription": "@reward_type_Weaponskin_VoidGauntlet"
+    },
+    {
+        "UniqueTagID": "Weapon_Metal_Blunderbuss",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Blunderbuss_Metal_MasterName",
+        "Description": "@Skin_Blunderbuss_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MetalMusicFestival_Blunderbuss.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MetalMusicFestival_Blunderbuss.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MetalMusicFestival_Blunderbuss.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MetalMusicFestival_Blunderbuss.png",
+        "TypeDescription": "@reward_type_Weaponskin_Blunderbuss"
+    },
+    {
+        "UniqueTagID": "Bundle_Tool_Metal",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Tool_Metal_name",
+        "Description": "@Bundle_Tool_Metal_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_HeavyMetal.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_HeavyMetal.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_HeavyMetal.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_HeavyMetal.png",
+        "TypeDescription": "@reward_type_Toolskin_Set"
+    },
+    {
+        "UniqueTagID": "Instrument_Metal_Flute",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Flute_Metal_MasterName",
+        "Description": "@Skin_Flute_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_AzothFlute_MetalFest.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_AzothFlute_MetalFest.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_AzothFlute_MetalFest.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_AzothFlute_MetalFest.png",
+        "TypeDescription": "@reward_type_Instrumentskin_Flute"
+    },
+    {
+        "UniqueTagID": "Instrument_Metal_Drum",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Drum_Metal_MasterName",
+        "Description": "@Skin_Drum_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_Drums_MetalFest.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_Drums_MetalFest.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_Drums_MetalFest.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_Drums_MetalFest.png",
+        "TypeDescription": "@reward_type_Instrumentskin_Drum"
+    },
+    {
+        "UniqueTagID": "Instrument_Metal_Guitar",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Guitar_Metal_MasterName",
+        "Description": "@Skin_Guitar_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_Guitar_MetalFest.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_Guitar_MetalFest.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_Guitar_MetalFest.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_Guitar_MetalFest.png",
+        "TypeDescription": "@reward_type_Instrumentskin_Guitar"
+    },
+    {
+        "UniqueTagID": "Instrument_Metal_UprightBass",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_UprightBass_Metal_MasterName",
+        "Description": "@Skin_UprightBass_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_URBass_MetalFest.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_URBass_MetalFest.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_URBass_MetalFest.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_URBass_MetalFest.png",
+        "TypeDescription": "@reward_type_Instrumentskin_UprightBass"
+    },
+    {
+        "UniqueTagID": "Instrument_Metal_Mandolin",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Mandolin_Metal_MasterName",
+        "Description": "@Skin_Mandolin_Metal_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_Mandolin_MetalFest.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_Mandolin_MetalFest.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_Mandolin_MetalFest.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_Mandolin_MetalFest.png",
+        "TypeDescription": "@reward_type_Instrumentskin_Mandolin"
+    },
+    {
+        "UniqueTagID": "Bundle_Decor_Metal",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Decor_Metal_name",
+        "Description": "@Bundle_Decor_Metal_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_MetalFest2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_MetalFest2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_MetalFest2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_MetalFest2022.png",
+        "TypeDescription": "@reward_type_Housing_Set"
+    },
+    {
+        "UniqueTagID": "Housing_SingingFish",
+        "IsEnabled": 1,
+        "DisplayName": "@house_housingitem_entitlement_holidaysummer2022_singingfish_mastername",
+        "Description": "@house_housingitem_entitlement_holidaysummer2022_singingfish_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Summer2022_SingingFish.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Summer2022_SingingFish.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Summer2022_SingingFish.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Summer2022_SingingFish.png",
+        "TypeDescription": "@reward_type_housing_item"
+    },
+    {
+        "UniqueTagID": "CampSkin_Metal_1",
+        "IsEnabled": 1,
+        "DisplayName": "@campskin_metalfest01_a_mastername",
+        "Description": "@campskin_metalfest01_a_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_HeavyMetal_01.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_HeavyMetal_01.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_HeavyMetal_01.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_HeavyMetal_01.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "CampSkin_Metal_2",
+        "IsEnabled": 1,
+        "DisplayName": "@campskin_metalfest02_a_mastername",
+        "Description": "@campskin_metalfest02_a_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_HeavyMetal_02.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_HeavyMetal_02.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_HeavyMetal_02.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_HeavyMetal_02.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_Metal_Instruments",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_Metal_Instruments_name",
+        "Description": "@Bundle_PR_Metal_Instruments_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_music_Metalfest.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_music_Metalfest.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_music_Metalfest.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_music_Metalfest.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_Metal_Megapack",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_Metal_Megapack_name",
+        "Description": "@Bundle_PR_Metal_Megapack_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Mega_MetalFest2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Mega_MetalFest2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Mega_MetalFest2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Mega_MetalFest2022.png",
+        "TypeDescription": "@ui_bundle"
     }
 ]

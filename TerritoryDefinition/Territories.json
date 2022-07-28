@@ -27,7 +27,9 @@
         "FactionControlTerritoryBuffs": "None",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 2,
@@ -57,7 +59,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner02",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 150
+        "PoiDiscoveryXpModifier": 150,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 3,
@@ -87,7 +91,9 @@
         "FactionControlTerritoryBuffs": "None",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 200
+        "PoiDiscoveryXpModifier": 200,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 4,
@@ -117,7 +123,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner04",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 75
+        "PoiDiscoveryXpModifier": 75,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 5,
@@ -147,7 +155,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner05",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 400
+        "PoiDiscoveryXpModifier": 400,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 6,
@@ -177,7 +187,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner06",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 75
+        "PoiDiscoveryXpModifier": 75,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 7,
@@ -207,7 +219,9 @@
         "FactionControlTerritoryBuffs": "None",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 400
+        "PoiDiscoveryXpModifier": 400,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 8,
@@ -237,7 +251,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner08",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 400
+        "PoiDiscoveryXpModifier": 400,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 9,
@@ -267,7 +283,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner09",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 75
+        "PoiDiscoveryXpModifier": 75,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 10,
@@ -297,7 +315,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner10",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 150
+        "PoiDiscoveryXpModifier": 150,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 11,
@@ -327,7 +347,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner11",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 200
+        "PoiDiscoveryXpModifier": 200,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 12,
@@ -357,7 +379,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner12",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 75
+        "PoiDiscoveryXpModifier": 75,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 13,
@@ -387,7 +411,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner13",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 150
+        "PoiDiscoveryXpModifier": 150,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 14,
@@ -417,7 +443,9 @@
         "FactionControlTerritoryBuffs": "None",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 400
+        "PoiDiscoveryXpModifier": 400,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 15,
@@ -447,7 +475,9 @@
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner15",
         "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 200
+        "PoiDiscoveryXpModifier": 200,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 18,
@@ -477,7 +507,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 19,
@@ -507,7 +539,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 20,
@@ -537,7 +571,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 21,
@@ -567,7 +603,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 22,
@@ -597,7 +635,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 23,
@@ -627,7 +667,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 24,
@@ -657,7 +699,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 25,
@@ -687,7 +731,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 26,
@@ -717,7 +763,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 27,
@@ -747,7 +795,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 28,
@@ -777,7 +827,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 29,
@@ -807,7 +859,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 30,
@@ -837,7 +891,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 31,
@@ -867,7 +923,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 32,
@@ -897,7 +955,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 33,
@@ -927,7 +987,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 34,
@@ -957,7 +1019,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 35,
@@ -987,7 +1051,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 36,
@@ -1017,7 +1083,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 37,
@@ -1047,7 +1115,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 38,
@@ -1077,7 +1147,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 39,
@@ -1107,7 +1179,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 40,
@@ -1137,7 +1211,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 41,
@@ -1167,7 +1243,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 42,
@@ -1197,7 +1275,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 43,
@@ -1227,7 +1307,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 44,
@@ -1257,7 +1339,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 45,
@@ -1287,7 +1371,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 46,
@@ -1317,7 +1403,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 47,
@@ -1347,7 +1435,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 48,
@@ -1377,7 +1467,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 49,
@@ -1407,7 +1499,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 50,
@@ -1437,7 +1531,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 51,
@@ -1467,7 +1563,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 52,
@@ -1497,7 +1595,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 53,
@@ -1527,7 +1627,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 54,
@@ -1557,7 +1659,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 55,
@@ -1587,7 +1691,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 56,
@@ -1617,7 +1723,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 57,
@@ -1647,7 +1755,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 58,
@@ -1677,7 +1787,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 59,
@@ -1707,7 +1819,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 60,
@@ -1737,7 +1851,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 61,
@@ -1767,7 +1883,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 62,
@@ -1797,7 +1915,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 63,
@@ -1827,7 +1947,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 64,
@@ -1857,7 +1979,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 65,
@@ -1887,7 +2011,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 66,
@@ -1917,7 +2043,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 67,
@@ -1947,7 +2075,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 68,
@@ -1977,7 +2107,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 69,
@@ -2007,7 +2139,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 70,
@@ -2037,7 +2171,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 71,
@@ -2067,7 +2203,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 72,
@@ -2097,7 +2235,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 73,
@@ -2127,7 +2267,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 74,
@@ -2157,7 +2299,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 75,
@@ -2187,7 +2331,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 76,
@@ -2217,7 +2363,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 77,
@@ -2247,7 +2395,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 78,
@@ -2277,7 +2427,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 79,
@@ -2307,7 +2459,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 80,
@@ -2337,7 +2491,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 81,
@@ -2367,7 +2523,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 82,
@@ -2397,7 +2555,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 83,
@@ -2427,7 +2587,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 84,
@@ -2457,7 +2619,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 85,
@@ -2487,7 +2651,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 86,
@@ -2517,7 +2683,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 87,
@@ -2547,7 +2715,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 88,
@@ -2577,7 +2747,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 89,
@@ -2607,7 +2779,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 90,
@@ -2637,7 +2811,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 91,
@@ -2667,7 +2843,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 92,
@@ -2697,7 +2875,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 93,
@@ -2727,7 +2907,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 94,
@@ -2757,7 +2939,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 95,
@@ -2787,7 +2971,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 96,
@@ -2817,7 +3003,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 97,
@@ -2847,7 +3035,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 98,
@@ -2877,7 +3067,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 99,
@@ -2907,7 +3099,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 100,
@@ -2937,7 +3131,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 101,
@@ -2967,7 +3163,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 102,
@@ -2997,7 +3195,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 103,
@@ -3027,7 +3227,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 104,
@@ -3057,7 +3259,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 105,
@@ -3087,7 +3291,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 106,
@@ -3117,7 +3323,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 107,
@@ -3147,7 +3355,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 108,
@@ -3177,7 +3387,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 109,
@@ -3207,7 +3419,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 110,
@@ -3237,7 +3451,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 111,
@@ -3267,7 +3483,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 112,
@@ -3297,7 +3515,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 113,
@@ -3327,7 +3547,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 114,
@@ -3357,7 +3579,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 115,
@@ -3387,7 +3611,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 116,
@@ -3417,7 +3643,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 117,
@@ -3447,7 +3675,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 118,
@@ -3477,7 +3707,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 119,
@@ -3507,7 +3739,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 120,
@@ -3537,7 +3771,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 121,
@@ -3567,7 +3803,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 122,
@@ -3597,7 +3835,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 123,
@@ -3627,7 +3867,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 124,
@@ -3657,7 +3899,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 125,
@@ -3687,7 +3931,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 126,
@@ -3717,7 +3963,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 127,
@@ -3747,7 +3995,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 128,
@@ -3777,7 +4027,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 129,
@@ -3807,7 +4059,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 130,
@@ -3837,7 +4091,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 131,
@@ -3867,7 +4123,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 132,
@@ -3897,7 +4155,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 133,
@@ -3927,7 +4187,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 134,
@@ -3957,7 +4219,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 135,
@@ -3987,7 +4251,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 136,
@@ -4017,7 +4283,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 137,
@@ -4047,7 +4315,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 138,
@@ -4077,7 +4347,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 139,
@@ -4107,7 +4379,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 140,
@@ -4137,7 +4411,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 141,
@@ -4167,7 +4443,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 142,
@@ -4197,7 +4475,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 143,
@@ -4227,7 +4507,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 144,
@@ -4257,7 +4539,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 145,
@@ -4287,7 +4571,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 146,
@@ -4317,7 +4603,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 147,
@@ -4347,7 +4635,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 148,
@@ -4377,7 +4667,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 149,
@@ -4407,7 +4699,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 150,
@@ -4437,7 +4731,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 151,
@@ -4467,7 +4763,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 152,
@@ -4497,7 +4795,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 153,
@@ -4527,7 +4827,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 154,
@@ -4557,7 +4859,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 155,
@@ -4587,7 +4891,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 156,
@@ -4617,7 +4923,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 157,
@@ -4647,7 +4955,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 158,
@@ -4677,7 +4987,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 159,
@@ -4707,7 +5019,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 160,
@@ -4737,7 +5051,9 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     },
     {
         "TerritoryID": 900,
@@ -4767,6 +5083,8 @@
         "FactionControlTerritoryBuffs": "",
         "PermanentOwnershipAchievementId": "",
         "TerritoryStandingXpModifier": null,
-        "PoiDiscoveryXpModifier": null
+        "PoiDiscoveryXpModifier": null,
+        "EntryAchievementId": "",
+        "EntryStatusEffectId": ""
     }
 ]

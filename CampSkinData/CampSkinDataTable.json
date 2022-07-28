@@ -61,5 +61,26 @@
         "RequiredAchievementId": "",
         "IsEntitlement": true,
         "IsEnabled": true
+    },
+    {
+        "CampSkinID": "CampSkin_SummerMedley01_A",
+        "ItemId": "CampSkin_SummerMedley01_A",
+        "RequiredAchievementId": "",
+        "IsEntitlement": true,
+        "IsEnabled": true
+    },
+    {
+        "CampSkinID": "CampSkin_MetalFest01_A",
+        "ItemId": "CampSkin_MetalFest01_A",
+        "RequiredAchievementId": "",
+        "IsEntitlement": true,
+        "IsEnabled": true
+    },
+    {
+        "CampSkinID": "CampSkin_MetalFest02_A",
+        "ItemId": "CampSkin_MetalFest02_A",
+        "RequiredAchievementId": "",
+        "IsEntitlement": true,
+        "IsEnabled": true
     }
 ]

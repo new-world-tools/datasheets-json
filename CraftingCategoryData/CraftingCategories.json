@@ -3840,6 +3840,12 @@
         "Description": ""
     },
     {
+        "CategoryID": "MetalT51",
+        "ImagePath": "Icons/Items/Drawing/ingot",
+        "DisplayText": "@MetalT51_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "TimberT2",
         "ImagePath": "Icons/Items/Drawing/timber",
         "DisplayText": "@TimberT2_GroupName",
@@ -3864,6 +3870,12 @@
         "Description": ""
     },
     {
+        "CategoryID": "TimberT51",
+        "ImagePath": "Icons/Items/Drawing/timber",
+        "DisplayText": "@TimberT51_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "LeatherT2",
         "ImagePath": "Icons/Items/Drawing/leather",
         "DisplayText": "@LeatherT2_GroupName",
@@ -3885,6 +3897,12 @@
         "CategoryID": "LeatherT5",
         "ImagePath": "Icons/Items/Drawing/leather",
         "DisplayText": "@LeatherT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "LeatherT51",
+        "ImagePath": "Icons/Items/Drawing/leather",
+        "DisplayText": "@LeatherT51_GroupName",
         "Description": ""
     },
     {
@@ -3927,6 +3945,12 @@
         "CategoryID": "ClothT5",
         "ImagePath": "Icons/Items/Drawing/cloth",
         "DisplayText": "@ClothT5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ClothT51",
+        "ImagePath": "Icons/Items/Drawing/cloth",
+        "DisplayText": "@ClothT51_GroupName",
         "Description": ""
     },
     {
@@ -4944,6 +4968,18 @@
         "Description": ""
     },
     {
+        "CategoryID": "DungeonReps11",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps11_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonReps12",
+        "ImagePath": "",
+        "DisplayText": "@DungeonReps12_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "FoodComponents",
         "ImagePath": "",
         "DisplayText": "@FoodComponents_GroupName",
@@ -5136,6 +5172,18 @@
         "Description": ""
     },
     {
+        "CategoryID": "TerritoryContribution",
+        "ImagePath": "",
+        "DisplayText": "@TerritoryContribution_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TerritorySupplies",
+        "ImagePath": "",
+        "DisplayText": "@TerritorySupplies_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "Faction",
         "ImagePath": "",
         "DisplayText": "@Faction_GroupName",
@@ -5322,7 +5370,7 @@
         "Description": ""
     },
     {
-        "CategoryID": "PerfectSalvageJewely",
+        "CategoryID": "PerfectSalvageJewelry",
         "ImagePath": "",
         "DisplayText": "@PerfectSalvageJewelry_Name",
         "Description": ""
@@ -5391,6 +5439,84 @@
         "CategoryID": "SalvageCondense",
         "ImagePath": "",
         "DisplayText": "@SalvageCondense",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SummerMemento",
+        "ImagePath": "",
+        "DisplayText": "@SummerMemento",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MementoStand",
+        "ImagePath": "",
+        "DisplayText": "@MementoStand",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SmallMemento",
+        "ImagePath": "",
+        "DisplayText": "@SmallMemento",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MediumMemento",
+        "ImagePath": "",
+        "DisplayText": "@MediumMemento",
+        "Description": ""
+    },
+    {
+        "CategoryID": "LargeMemento",
+        "ImagePath": "",
+        "DisplayText": "@LargeMemento",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Instruments",
+        "ImagePath": "",
+        "DisplayText": "@Instruments_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentParts",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentParts_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MusicSheets",
+        "ImagePath": "",
+        "DisplayText": "@CategoryData_MusicSheets",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Flutes",
+        "ImagePath": "",
+        "DisplayText": "@Flutes_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Drums",
+        "ImagePath": "",
+        "DisplayText": "@Drums_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Guitars",
+        "ImagePath": "",
+        "DisplayText": "@Guitars_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UprightBass",
+        "ImagePath": "",
+        "DisplayText": "@UprightBass_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Mandolins",
+        "ImagePath": "",
+        "DisplayText": "@Mandolins_GroupName",
         "Description": ""
     }
 ]

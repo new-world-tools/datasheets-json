@@ -124,5 +124,19 @@
         "RequiredItemId": "Darkness_AzothStaff_T1",
         "RecommendedLevel": 65,
         "PulseColor": "1 0 0"
+    },
+    {
+        "TerritoryID": 8010,
+        "NameLocalizationKey": "@ui_summermedley_maudlinbugwaltz",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/maudlinbug.png",
+        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/maudlinbug.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_summermedley_maudlinbugwaltz.png",
+        "GroupSize": 0,
+        "POILevel": null,
+        "POITag": "MaudlinbugWaltz",
+        "RequiredItemId": "2hInstrumentGuitarT2",
+        "RecommendedLevel": null,
+        "PulseColor": "0 128 255"
     }
 ]

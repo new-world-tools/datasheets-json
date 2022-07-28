@@ -4320,6 +4320,186 @@
         "AssetDependencyPath": "1223_02_fisher_default.timeline"
     },
     {
+        "TimelineEntryName": "13_summer_01_welcome_complete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_01_welcome_complete.timeline",
+        "AssetDependencyPath": "13_summer_01_welcome_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_01_welcome_incomplete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_01_welcome_incomplete.timeline",
+        "AssetDependencyPath": "13_summer_01_welcome_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_01_welcome_proposal",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_01_welcome_proposal.timeline",
+        "AssetDependencyPath": "13_summer_01_welcome_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_01_welcome_proposal_next",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_01_welcome_proposal_next.timeline",
+        "AssetDependencyPath": "13_summer_01_welcome_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_02_maudlinbugs_complete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_02_maudlinbugs_complete.timeline",
+        "AssetDependencyPath": "13_summer_02_maudlinbugs_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_02_maudlinbugs_incomplete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_02_maudlinbugs_incomplete.timeline",
+        "AssetDependencyPath": "13_summer_02_maudlinbugs_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_02_maudlinbugs_proposal",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_02_maudlinbugs_proposal.timeline",
+        "AssetDependencyPath": "13_summer_02_maudlinbugs_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_02_maudlinbugs_proposal_next",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_02_maudlinbugs_proposal_next.timeline",
+        "AssetDependencyPath": "13_summer_02_maudlinbugs_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_03_catchsturgeon_complete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_03_catchsturgeon_complete.timeline",
+        "AssetDependencyPath": "13_summer_03_catchsturgeon_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_03_catchsturgeon_incomplete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_03_catchsturgeon_incomplete.timeline",
+        "AssetDependencyPath": "13_summer_03_catchsturgeon_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_03_catchsturgeon_proposal",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_03_catchsturgeon_proposal.timeline",
+        "AssetDependencyPath": "13_summer_03_catchsturgeon_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_03_catchsturgeon_proposal_next",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_03_catchsturgeon_proposal_next.timeline",
+        "AssetDependencyPath": "13_summer_03_catchsturgeon_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_04_carpenter_complete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_04_carpenter_complete.timeline",
+        "AssetDependencyPath": "13_summer_04_carpenter_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_04_carpenter_incomplete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_04_carpenter_incomplete.timeline",
+        "AssetDependencyPath": "13_summer_04_carpenter_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_04_carpenter_proposal",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_04_carpenter_proposal.timeline",
+        "AssetDependencyPath": "13_summer_04_carpenter_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_04_carpenter_proposal_next",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_04_carpenter_proposal_next.timeline",
+        "AssetDependencyPath": "13_summer_04_carpenter_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_05_florist_complete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_05_florist_complete.timeline",
+        "AssetDependencyPath": "13_summer_05_florist_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_05_florist_incomplete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_05_florist_incomplete.timeline",
+        "AssetDependencyPath": "13_summer_05_florist_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_05_florist_proposal",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_05_florist_proposal.timeline",
+        "AssetDependencyPath": "13_summer_05_florist_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_05_florist_proposal_next",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_05_florist_proposal_next.timeline",
+        "AssetDependencyPath": "13_summer_05_florist_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_06_beekeep_proposal_next",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_06_beekeep_proposal_next.timeline",
+        "AssetDependencyPath": "13_summer_06_beekeep_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_06_beekeep_complete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_06_beekeep_complete.timeline",
+        "AssetDependencyPath": "13_summer_06_beekeep_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_06_beekeep_incomplete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_06_beekeep_incomplete.timeline",
+        "AssetDependencyPath": "13_summer_06_beekeep_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_06_beekeep_proposal",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_06_beekeep_proposal.timeline",
+        "AssetDependencyPath": "13_summer_06_beekeep_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_07_baker_complete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_07_baker_complete.timeline",
+        "AssetDependencyPath": "13_summer_07_baker_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_07_baker_incomplete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_07_baker_incomplete.timeline",
+        "AssetDependencyPath": "13_summer_07_baker_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_07_baker_proposal",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_07_baker_proposal.timeline",
+        "AssetDependencyPath": "13_summer_07_baker_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_07_baker_proposal_next",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_07_baker_proposal_next.timeline",
+        "AssetDependencyPath": "13_summer_07_baker_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_08_poet_complete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_08_poet_complete.timeline",
+        "AssetDependencyPath": "13_summer_08_poet_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_08_poet_incomplete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_08_poet_incomplete.timeline",
+        "AssetDependencyPath": "13_summer_08_poet_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_08_poet_proposal",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_08_poet_proposal.timeline",
+        "AssetDependencyPath": "13_summer_08_poet_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_08_poet_proposal_next",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_08_poet_proposal_next.timeline",
+        "AssetDependencyPath": "13_summer_08_poet_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_09_playwithband_complete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_09_playwithband_complete.timeline",
+        "AssetDependencyPath": "13_summer_09_playwithband_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_09_playwithband_incomplete",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_09_playwithband_incomplete.timeline",
+        "AssetDependencyPath": "13_summer_09_playwithband_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_09_playwithband_proposal",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_09_playwithband_proposal.timeline",
+        "AssetDependencyPath": "13_summer_09_playwithband_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "13_summer_09_playwithband_proposal_next",
+        "TimelineAssetPath": "charactervo/masterofceremonies/13_summer_09_playwithband_proposal_next.timeline",
+        "AssetDependencyPath": "13_summer_09_playwithband_proposal_next.timeline"
+    },
+    {
         "TimelineEntryName": "1301_torchy_01_response",
         "TimelineAssetPath": "charactervo/torchycabrera/1301_torchy_01_response.timeline",
         "AssetDependencyPath": "1301_torchy_01_response.timeline"
@@ -4990,6 +5170,31 @@
         "AssetDependencyPath": "1335_0204_reunion_proposal_next.timeline"
     },
     {
+        "TimelineEntryName": "1345_partyguest_01_tasktopic_response",
+        "TimelineAssetPath": "charactervo/bakyejun/1345_partyguest_01_tasktopic_response.timeline",
+        "AssetDependencyPath": "1345_partyguest_01_tasktopic_response.timeline"
+    },
+    {
+        "TimelineEntryName": "1346_partyguest_02_tasktopic_response",
+        "TimelineAssetPath": "charactervo/mischabalchunas/1346_partyguest_02_tasktopic_response.timeline",
+        "AssetDependencyPath": "1346_partyguest_02_tasktopic_response.timeline"
+    },
+    {
+        "TimelineEntryName": "1347_partyguest_03_tasktopic_response",
+        "TimelineAssetPath": "charactervo/susanneweber/1347_partyguest_03_tasktopic_response.timeline",
+        "AssetDependencyPath": "1347_partyguest_03_tasktopic_response.timeline"
+    },
+    {
+        "TimelineEntryName": "1348_partyguest_04_tasktopic_response",
+        "TimelineAssetPath": "charactervo/blaisethomas/1348_partyguest_04_tasktopic_response.timeline",
+        "AssetDependencyPath": "1348_partyguest_04_tasktopic_response.timeline"
+    },
+    {
+        "TimelineEntryName": "1349_partyguest_05_tasktopic_response",
+        "TimelineAssetPath": "charactervo/luismorales/1349_partyguest_05_tasktopic_response.timeline",
+        "AssetDependencyPath": "1349_partyguest_05_tasktopic_response.timeline"
+    },
+    {
         "TimelineEntryName": "1403_survivalist_00_default",
         "TimelineAssetPath": "charactervo/survivalistellwood/1403_survivalist_00_default.timeline",
         "AssetDependencyPath": "1403_survivalist_00_default.timeline"
@@ -5057,17 +5262,17 @@
     {
         "TimelineEntryName": "1414_02_defaultdialogue",
         "TimelineAssetPath": "charactervo/watcherreynolds/1414_02_defaultdialogue.timeline",
-        "AssetDependencyPath": ""
+        "AssetDependencyPath": "1414_02_defaultdialogue.timeline"
     },
     {
         "TimelineEntryName": "1414_0101_c_proposal",
         "TimelineAssetPath": "charactervo/watcherreynolds/1414_0101_c_proposal.timeline",
-        "AssetDependencyPath": ""
+        "AssetDependencyPath": "1414_0101_c_proposal.timeline"
     },
     {
         "TimelineEntryName": "1414_0101_e_incomplete",
         "TimelineAssetPath": "charactervo/watcherreynolds/1414_0101_e_incomplete.timeline",
-        "AssetDependencyPath": ""
+        "AssetDependencyPath": "1414_0101_e_incomplete.timeline"
     },
     {
         "TimelineEntryName": "1415_01_init_default",
@@ -10555,9 +10760,9 @@
         "AssetDependencyPath": "magistrate_0502_0105_seekandhide_availresponse.timeline"
     },
     {
-        "TimelineEntryName": "magistrate_0502_0105_seekandhide_proposalresponse",
-        "TimelineAssetPath": "charactervo/legatusfulvius/magistrate_0502_0105_seekandhide_proposalresponse.timeline",
-        "AssetDependencyPath": "magistrate_0502_0105_seekandhide_proposalresponse.timeline"
+        "TimelineEntryName": "magistrate_0502_0106_primevalcyclops_proposalresponse",
+        "TimelineAssetPath": "charactervo/legatusfulvius/magistrate_0502_0106_primevalcyclops_proposalresponse.timeline",
+        "AssetDependencyPath": "magistrate_0502_0106_primevalcyclops_proposalresponse.timeline"
     },
     {
         "TimelineEntryName": "magistrate_0602_0102_intrototrader_availresponse",
@@ -11483,6 +11688,136 @@
         "TimelineEntryName": "npc_1336_antiquarianspouse_defaultdialogue_03",
         "TimelineAssetPath": "charactervo/noraroggeveen/npc_1336_antiquarianspouse_defaultdialogue_03.timeline",
         "AssetDependencyPath": "npc_1336_antiquarianspouse_defaultdialogue_03.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1338_masterofceremonies_defaultdialogue_10",
+        "TimelineAssetPath": "charactervo/masterofceremonies/npc_1338_masterofceremonies_defaultdialogue_10.timeline",
+        "AssetDependencyPath": "npc_1338_masterofceremonies_defaultdialogue_10.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1338_masterofceremonies_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/masterofceremonies/npc_1338_masterofceremonies_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1338_masterofceremonies_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1338_masterofceremonies_defaultdialogue_02",
+        "TimelineAssetPath": "charactervo/masterofceremonies/npc_1338_masterofceremonies_defaultdialogue_02.timeline",
+        "AssetDependencyPath": "npc_1338_masterofceremonies_defaultdialogue_02.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1338_masterofceremonies_defaultdialogue_03",
+        "TimelineAssetPath": "charactervo/masterofceremonies/npc_1338_masterofceremonies_defaultdialogue_03.timeline",
+        "AssetDependencyPath": "npc_1338_masterofceremonies_defaultdialogue_03.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1338_masterofceremonies_defaultdialogue_04",
+        "TimelineAssetPath": "charactervo/masterofceremonies/npc_1338_masterofceremonies_defaultdialogue_04.timeline",
+        "AssetDependencyPath": "npc_1338_masterofceremonies_defaultdialogue_04.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1338_masterofceremonies_defaultdialogue_05",
+        "TimelineAssetPath": "charactervo/masterofceremonies/npc_1338_masterofceremonies_defaultdialogue_05.timeline",
+        "AssetDependencyPath": "npc_1338_masterofceremonies_defaultdialogue_05.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1338_masterofceremonies_defaultdialogue_06",
+        "TimelineAssetPath": "charactervo/masterofceremonies/npc_1338_masterofceremonies_defaultdialogue_06.timeline",
+        "AssetDependencyPath": "npc_1338_masterofceremonies_defaultdialogue_06.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1338_masterofceremonies_defaultdialogue_07",
+        "TimelineAssetPath": "charactervo/masterofceremonies/npc_1338_masterofceremonies_defaultdialogue_07.timeline",
+        "AssetDependencyPath": "npc_1338_masterofceremonies_defaultdialogue_07.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1338_masterofceremonies_defaultdialogue_08",
+        "TimelineAssetPath": "charactervo/masterofceremonies/npc_1338_masterofceremonies_defaultdialogue_08.timeline",
+        "AssetDependencyPath": "npc_1338_masterofceremonies_defaultdialogue_08.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1338_masterofceremonies_defaultdialogue_09",
+        "TimelineAssetPath": "charactervo/masterofceremonies/npc_1338_masterofceremonies_defaultdialogue_09.timeline",
+        "AssetDependencyPath": "npc_1338_masterofceremonies_defaultdialogue_09.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1340_festivaltender_02_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/kartikdas/npc_1340_festivaltender_02_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1340_festivatender_02_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1341_bandmember_01_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/abenukabia/npc_1341_bandmember_01_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1341_bandmember_01_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1341_bandmember_01_defaultdialogue_02",
+        "TimelineAssetPath": "charactervo/abenukabia/npc_1341_bandmember_01_defaultdialogue_02.timeline",
+        "AssetDependencyPath": "npc_1341_bandmember_01_defaultdialogue_02.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1342_bandmember_02_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/fuliang/npc_1342_bandmember_02_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1342_bandmember_02_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1343_bandmember_03_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/nikolaysidorov/npc_1343_bandmember_03_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1343_bandmember_03_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1344_fishmounter_00_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/tanakajin/npc_1344_fishmounter_00_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1344_fishmounter_00_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1345_partyguest_01_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/bakyejun/npc_1345_partyguest_01_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1345_partyguest_01_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1345_partyguest_01_defaultdialogue_02",
+        "TimelineAssetPath": "charactervo/bakyejun/npc_1345_partyguest_01_defaultdialogue_02.timeline",
+        "AssetDependencyPath": "npc_1345_partyguest_01_defaultdialogue_02.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1346_partyguest_02_defaultdialogue_02",
+        "TimelineAssetPath": "charactervo/mischabalchunas/npc_1346_partyguest_02_defaultdialogue_02.timeline",
+        "AssetDependencyPath": "npc_1346_partyguest_02_defaultdialogue_02.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1346_partyguest_02_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/mischabalchunas/npc_1346_partyguest_02_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1346_partyguest_02_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1347_partyguest_03_defaultdialogue_02",
+        "TimelineAssetPath": "charactervo/susanneweber/npc_1347_partyguest_03_defaultdialogue_02.timeline",
+        "AssetDependencyPath": "npc_1347_partyguest_03_defaultdialogue_02.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1347_partyguest_03_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/susanneweber/npc_1347_partyguest_03_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1347_partyguest_03_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1348_partyguest_04_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/blaisethomas/npc_1348_partyguest_04_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1348_partyguest_04_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1348_partyguest_04_defaultdialogue_02",
+        "TimelineAssetPath": "charactervo/blaisethomas/npc_1348_partyguest_04_defaultdialogue_02.timeline",
+        "AssetDependencyPath": "npc_1348_partyguest_04_defaultdialogue_02.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1349_partyguest_05_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/luismorales/npc_1349_partyguest_05_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1349_partyguest_05_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1349_partyguest_05_defaultdialogue_02",
+        "TimelineAssetPath": "charactervo/luismorales/npc_1349_partyguest_05_defaultdialogue_02.timeline",
+        "AssetDependencyPath": "npc_1349_partyguest_05_defaultdialogue_02.timeline"
     },
     {
         "TimelineEntryName": "npc_defaultdialogue_00_fatherrusso",

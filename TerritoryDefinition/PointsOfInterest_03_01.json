@@ -23,13 +23,14 @@
         "CanPlaceCamp": false,
         "DevName": "The Montore Expedition",
         "VitalsCategory": "Pirates",
-        "LevelRange": "22-24",
+        "LevelRange": "16",
         "Containers": 1,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30102,
@@ -38,9 +39,9 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Shipwreck.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/castle.png",
         "CompassIcon": "",
-        "DiscoveryRadius": 500,
+        "DiscoveryRadius": 200,
         "IsDiscoverable": true,
         "IsChartable": true,
         "DefaultAchievement": null,
@@ -53,15 +54,16 @@
         "AudioGroup": "Music_POI",
         "AudioState": "shipwreck",
         "CanPlaceCamp": false,
-        "DevName": "Abadier's Anger",
+        "DevName": "Corbenic Castle",
         "VitalsCategory": "Pirates",
-        "LevelRange": "21-22",
+        "LevelRange": "17",
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30103,
@@ -91,9 +93,10 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30104,
@@ -119,13 +122,14 @@
         "CanPlaceCamp": false,
         "DevName": "Crone's Rest",
         "VitalsCategory": "Withered",
-        "LevelRange": "11",
+        "LevelRange": "7",
         "Containers": 10,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30105,
@@ -151,13 +155,14 @@
         "CanPlaceCamp": false,
         "DevName": "Farside Farm",
         "VitalsCategory": "Withered",
-        "LevelRange": "11",
+        "LevelRange": "14",
         "Containers": 10,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30106,
@@ -187,9 +192,10 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30107,
@@ -215,13 +221,14 @@
         "CanPlaceCamp": false,
         "DevName": "Bear Den",
         "VitalsCategory": "GrizzlyBear",
-        "LevelRange": "40",
+        "LevelRange": "16",
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30108,
@@ -247,13 +254,14 @@
         "CanPlaceCamp": false,
         "DevName": "Adamant Mine",
         "VitalsCategory": "Withered",
-        "LevelRange": "11-14",
+        "LevelRange": "8",
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30109,
@@ -283,9 +291,10 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30110,
@@ -315,9 +324,10 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30111,
@@ -347,9 +357,10 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30112,
@@ -375,13 +386,14 @@
         "CanPlaceCamp": false,
         "DevName": "Mines de Miclot",
         "VitalsCategory": "Withered",
-        "LevelRange": "14-15",
+        "LevelRange": "7",
         "Containers": 15,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30113,
@@ -407,13 +419,14 @@
         "CanPlaceCamp": false,
         "DevName": "Lakeside Farm",
         "VitalsCategory": "Withered",
-        "LevelRange": "9-21",
+        "LevelRange": "14",
         "Containers": 6,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30114,
@@ -439,13 +452,14 @@
         "CanPlaceCamp": false,
         "DevName": "Fong Family Orchard",
         "VitalsCategory": "Withered",
-        "LevelRange": "11-14",
+        "LevelRange": "14",
         "Containers": 5,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30115,
@@ -471,13 +485,14 @@
         "CanPlaceCamp": false,
         "DevName": "Fertile Fields",
         "VitalsCategory": "Withered",
-        "LevelRange": "9-14",
+        "LevelRange": "15",
         "Containers": 9,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30116,
@@ -503,13 +518,14 @@
         "CanPlaceCamp": false,
         "DevName": "Arruda Ranch",
         "VitalsCategory": "Withered",
-        "LevelRange": "9-14",
+        "LevelRange": "15",
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30117,
@@ -539,9 +555,10 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_outpost_default.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30118,
@@ -567,13 +584,14 @@
         "CanPlaceCamp": false,
         "DevName": "Reedwater Fishery",
         "VitalsCategory": "Withered",
-        "LevelRange": "8-11",
+        "LevelRange": "8",
         "Containers": 8,
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30119,
@@ -599,13 +617,14 @@
         "CanPlaceCamp": false,
         "DevName": "Ancient Ruins Achernar",
         "VitalsCategory": "Ancients",
-        "LevelRange": "16-19",
+        "LevelRange": "12",
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30120,
@@ -635,9 +654,10 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30121,
@@ -663,13 +683,14 @@
         "CanPlaceCamp": false,
         "DevName": "Ancient Ruins Antares",
         "VitalsCategory": "Ancients",
-        "LevelRange": "16-19",
+        "LevelRange": "13",
         "Containers": 2,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30122,
@@ -699,9 +720,10 @@
         "Containers": 5,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_darkness_minor_hive.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30123,
@@ -731,9 +753,10 @@
         "Containers": 3,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30124,
@@ -742,7 +765,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Fort_elite.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Fort.png",
         "CompassIcon": "",
         "DiscoveryRadius": 375,
         "IsDiscoverable": true,
@@ -753,19 +776,20 @@
         "LootTags": "DeadmansCove,Lost",
         "DiscoveredAchievement": "undead_cavern_30124_discovered",
         "ChartedAchievement": "undead_cavern_30124_charted",
-        "POITag": "undead_cavern_30124,elite",
+        "POITag": "undead_cavern_30124",
         "AudioGroup": "Music_POI",
         "AudioState": "cave",
         "CanPlaceCamp": false,
         "DevName": "Deadfool Cove",
         "VitalsCategory": "Pirates",
-        "LevelRange": "25",
+        "LevelRange": "17",
         "Containers": 8,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_DeadmansCove.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_graveyard.png",
         "GameMode": "",
-        "GroupSize": 3,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30125,
@@ -795,9 +819,10 @@
         "Containers": 3,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30126,
@@ -823,13 +848,14 @@
         "CanPlaceCamp": false,
         "DevName": "Nautilus of Nunez",
         "VitalsCategory": "Pirates",
-        "LevelRange": "21-25",
+        "LevelRange": "17",
         "Containers": 15,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30127,
@@ -855,13 +881,14 @@
         "CanPlaceCamp": false,
         "DevName": "Brigand Bastion",
         "VitalsCategory": "Pirates",
-        "LevelRange": "15-22",
+        "LevelRange": "15",
         "Containers": 5,
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30128,
@@ -891,9 +918,10 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_boar_island.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30129,
@@ -923,9 +951,10 @@
         "Containers": 3,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30130,
@@ -955,9 +984,10 @@
         "Containers": 3,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30131,
@@ -983,13 +1013,14 @@
         "CanPlaceCamp": false,
         "DevName": "Bayhowl Burrow",
         "VitalsCategory": "AlphaWolf",
-        "LevelRange": "10",
+        "LevelRange": "6",
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30132,
@@ -1015,13 +1046,14 @@
         "CanPlaceCamp": false,
         "DevName": "Hurtfang Hole",
         "VitalsCategory": "AlphaWolf",
-        "LevelRange": "10",
+        "LevelRange": "6",
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30133,
@@ -1051,9 +1083,10 @@
         "Containers": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_boar_island.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30134,
@@ -1083,9 +1116,10 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_storage.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30135,
@@ -1111,13 +1145,14 @@
         "CanPlaceCamp": false,
         "DevName": "Offal Grotto",
         "VitalsCategory": "Lynx",
-        "LevelRange": "16",
+        "LevelRange": "12",
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_catden.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30136,
@@ -1147,9 +1182,10 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_darkness_major_monolith.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30137,
@@ -1179,9 +1215,10 @@
         "Containers": null,
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30138,
@@ -1211,9 +1248,10 @@
         "Containers": null,
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30139,
@@ -1243,9 +1281,10 @@
         "Containers": null,
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30140,
@@ -1275,9 +1314,10 @@
         "Containers": null,
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30141,
@@ -1307,9 +1347,10 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30142,
@@ -1339,9 +1380,10 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
+        "EventId": ""
     },
     {
         "TerritoryID": 30143,
@@ -1371,9 +1413,10 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_varangian.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30144,
@@ -1403,9 +1446,10 @@
         "Containers": null,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_icecave.png",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30146,
@@ -1435,9 +1479,10 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30147,
@@ -1467,9 +1512,10 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
     },
     {
         "TerritoryID": 30148,
@@ -1499,8 +1545,42 @@
         "Containers": null,
         "TooltipBackground": "",
         "GameMode": "",
-        "GroupSize": null,
+        "GroupSize": "",
         "IsCollapsible": null,
-        "UnchartedIcon": ""
+        "UnchartedIcon": "",
+        "EventId": ""
+    },
+    {
+        "TerritoryID": 30149,
+        "NameLocalizationKey": "@ui_poi_summervillage_30149",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/event_summervillage.png",
+        "CompassIcon": "",
+        "DiscoveryRadius": 150,
+        "IsDiscoverable": true,
+        "IsChartable": true,
+        "DefaultAchievement": 2,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "",
+        "POITag": "summervillage_30149",
+        "AudioGroup": "",
+        "AudioState": "",
+        "CanPlaceCamp": false,
+        "DevName": "",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": null,
+        "TooltipBackground": "LyShineUI/Images/map/tooltipimages/mapTooltip_Summer_npc.png",
+        "GameMode": "",
+        "GroupSize": "",
+        "IsCollapsible": true,
+        "UnchartedIcon": "",
+        "EventId": "SummerMedley"
     }
 ]

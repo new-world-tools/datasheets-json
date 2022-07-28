@@ -494,7 +494,7 @@
         "WeaponCategory": "Unarmed",
         "IgnoreInvulnerable": 0,
         "NoReaction": 0,
-        "Unblockable": 0,
+        "Unblockable": 1,
         "SurfaceImpactEffect": "Bullet",
         "AttackType": "Light",
         "DamageType": "Strike",

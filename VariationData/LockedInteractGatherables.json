@@ -1,0 +1,14 @@
+[
+    {
+        "VariantID": "CrownChamber_Test",
+        "InteractTag": "IO_0601_DirtHoleB",
+        "RequiredAchievementId": "",
+        "InteractGatherableSlice": "slices\\WorldEvents\\MonarchsBluffs\\CrownChamberDoor\\IO_LightsHope_CrownChamberDoor.dynamicslice"
+    },
+    {
+        "VariantID": "CrownChamber_Test_Achievement",
+        "InteractTag": "",
+        "RequiredAchievementId": "12A_MB_Daggers_Complete",
+        "InteractGatherableSlice": "slices\\WorldEvents\\MonarchsBluffs\\CrownChamberDoor\\IO_LightsHope_CrownChamberDoor.dynamicslice"
+    }
+]

@@ -1,5 +1,14 @@
 [
     {
+        "CurseMutationId": "Frenzied",
+        "CurseMinor": "Mut_Curse1_Wildcard_Minor_Buff",
+        "CurseMajor": "Mut_Curse1_Wildcard_Major_Buff",
+        "GlobalAffliction": "",
+        "Name": "@FrenziedTitle",
+        "Description": "@FrenziedDescription",
+        "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_frenzied.dds"
+    },
+    {
         "CurseMutationId": "Fiendish",
         "CurseMinor": "Mut_Curse2_Minor_Buff",
         "CurseMajor": "Mut_Curse2_Wildcard_Major_Buff",

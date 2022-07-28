@@ -53,5 +53,90 @@
         "FromItemId": "ArrowT1",
         "ToItemId": "ArrowT2",
         "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyAmrine",
+        "ToItemId": "AmrineKeyReplacement",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyShattered",
+        "ToItemId": "StarstoneKeyReplacement",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyDepts",
+        "ToItemId": "DepthsKeyReplacement",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyDynasty",
+        "ToItemId": "DynastyKeyReplacement",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyGenesis",
+        "ToItemId": "GenesisKeyReplacement",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyLazarus",
+        "ToItemId": "LazarusKeyReplacement",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyIsabella",
+        "ToItemId": "HeartKeyReplacement",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyMutator",
+        "ToItemId": "MutatorKeyReplacement",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyPart_UndyingHeart",
+        "ToItemId": "BreachDrop1",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyPart_CoreGenesis",
+        "ToItemId": "BreachDrop2",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyPart_CoreLazarus",
+        "ToItemId": "BreachDrop2",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyPart_CoreIsabella",
+        "ToItemId": "BreachDrop2",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyMat_EdenTotem",
+        "ToItemId": "BreachDrop1",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyMat_GreatCleaveRune",
+        "ToItemId": "BreachDrop1",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyMat_ShatteredRune",
+        "ToItemId": "BreachDrop1",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "KeyMat_GlowingSpore",
+        "ToItemId": "BreachDrop1",
+        "KeepPerks": false
+    },
+    {
+        "FromItemId": "BlightSeeds",
+        "ToItemId": "BreachDrop0",
+        "KeepPerks": false
     }
 ]

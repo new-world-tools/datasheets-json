@@ -392,6 +392,20 @@
         "LeftUpperArm": "bind_left_up_arm_twist_a"
     },
     {
+        "SkeletonName": "admiralbrute_skel",
+        "Xform": "Xform",
+        "Head": "bind_head",
+        "Spine": "bind_spine_c",
+        "RightHand": "right_hand_attach",
+        "RightForeArm": "bind_right_lo_arm_twist_a",
+        "RightMidArm": "bind_right_elbow",
+        "RightUpperArm": "bind_right_up_arm_twist_a",
+        "LeftHand": "left_hand_attach",
+        "LeftForeArm": "bind_left_lo_arm_twist_a",
+        "LeftMidArm": "bind_left_elbow",
+        "LeftUpperArm": "bind_left_up_arm_twist_a"
+    },
+    {
         "SkeletonName": "ancientamalgam_skel",
         "Xform": "Xform",
         "Head": "bind_head",
