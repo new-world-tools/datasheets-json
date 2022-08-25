@@ -3278,6 +3278,17 @@
         "TypeDescription": "@reward_type_emote"
     },
     {
+        "UniqueTagID": "Emote_TugOfWar",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_TugOfWar_name",
+        "Description": "@ui_emote_TugOfWar_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_LassoTug.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_LassoTug.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_LassoTug.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_LassoTug.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_FingerGun",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_FingerGun_name",
@@ -3518,5 +3529,258 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Mega_MetalFest2022.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Mega_MetalFest2022.png",
         "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Emote_DrinkCheer",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_DrinkCheer_name",
+        "Description": "@ui_emote_DrinkCheer_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Cheers.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Cheers.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Cheers.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Cheers.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Bundle_Decor_Phoenix",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Decor_Phoenix_name",
+        "Description": "@Bundle_Decor_Phoenix_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_Phoenix.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_Phoenix.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_Phoenix.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_Phoenix.png",
+        "TypeDescription": "@reward_type_Housing_Set"
+    },
+    {
+        "UniqueTagID": "Apparel_Phoenix_L",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Phoenix_L_name",
+        "Description": "@Apparel_Phoenix_L_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Phoenix_Light.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Phoenix_Light.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Phoenix_Light.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Phoenix_Light.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Phoenix_M",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Phoenix_M_name",
+        "Description": "@Apparel_Phoenix_M_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Phoenix_Medium.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Phoenix_Medium.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Phoenix_Medium.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Phoenix_Medium.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Phoenix_H",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Phoenix_H_name",
+        "Description": "@Apparel_Phoenix_H_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Phoenix_Heavy.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Phoenix_Heavy.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Phoenix_Heavy.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Phoenix_Heavy.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Weapon_Phoenix_Rapier",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Rapier_Phoenix_MasterName",
+        "Description": "@Skin_Rapier_Phoenix_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Phoenix_Rapier.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Phoenix_Rapier.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Phoenix_Rapier.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Phoenix_Rapier.png",
+        "TypeDescription": "@reward_type_Weaponskin_Rapier"
+    },
+    {
+        "UniqueTagID": "Weapon_Phoenix_Warhammer",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_WarHammer_Phoenix_MasterName",
+        "Description": "@Skin_WarHammer_Phoenix_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Phoenix_Warhammer.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Phoenix_Warhammer.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Phoenix_Warhammer.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Phoenix_Warhammer.png",
+        "TypeDescription": "@reward_type_Weaponskin_Warhammer"
+    },
+    {
+        "UniqueTagID": "Weapon_Phoenix_Spear",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Spear_Phoenix_MasterName",
+        "Description": "@Skin_Spear_Phoenix_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Phoenix_Spear.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Phoenix_Spear.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Phoenix_Spear.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Phoenix_Spear.png",
+        "TypeDescription": "@reward_type_Weaponskin_Spear"
+    },
+    {
+        "UniqueTagID": "Weapon_Phoenix_Hatchet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Hatchet_Phoenix_MasterName",
+        "Description": "@Skin_Hatchet_Phoenix_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Phoenix_ThrowingAxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Phoenix_ThrowingAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Phoenix_ThrowingAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Phoenix_ThrowingAxe.png",
+        "TypeDescription": "@reward_type_Weaponskin_Hatchet"
+    },
+    {
+        "UniqueTagID": "Weapon_Phoenix_Lifestaff",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Lifestaff_Phoenix_MasterName",
+        "Description": "@Skin_Lifestaff_Phoenix_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Phoenix_LifeStaff.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Phoenix_LifeStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Phoenix_LifeStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Phoenix_LifeStaff.png",
+        "TypeDescription": "@reward_type_Weaponskin_LifeStaff"
+    },
+    {
+        "UniqueTagID": "Weapon_Phoenix_Blunderbuss",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Blunderbuss_Phoenix_MasterName",
+        "Description": "@Skin_Blunderbuss_Phoenix_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Phoenix_Blunderbuss.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Phoenix_Blunderbuss.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Phoenix_Blunderbuss.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Phoenix_Blunderbuss.png",
+        "TypeDescription": "@reward_type_Weaponskin_Blunderbuss"
+    },
+    {
+        "UniqueTagID": "Bundle_Tool_Phoenix",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Tool_Phoenix_name",
+        "Description": "@Bundle_Tool_Phoenix_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_Phoenix.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_Phoenix.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_Phoenix.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_Phoenix.png",
+        "TypeDescription": "@reward_type_Toolskin_Set"
+    },
+    {
+        "UniqueTagID": "Instrument_FateFortune_Flute",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Flute_FateFortune_MasterName",
+        "Description": "@Skin_Flute_FateFortune_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_AzothFlute_FateFortune.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_AzothFlute_FateFortune.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_AzothFlute_FateFortune.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_AzothFlute_FateFortune.png",
+        "TypeDescription": "@reward_type_Instrumentskin_Flute"
+    },
+    {
+        "UniqueTagID": "Instrument_FateFortune_guitar",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Guitar_FateFortune_MasterName",
+        "Description": "@Skin_Guitar_FateFortune_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_Guitar_FateFortune.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_Guitar_FateFortune.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_Guitar_FateFortune.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_Guitar_FateFortune.png",
+        "TypeDescription": "@reward_type_Instrumentskin_Guitar"
+    },
+    {
+        "UniqueTagID": "Instrument_FateFortune_URBass",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_UprightBass_FateFortune_MasterName",
+        "Description": "@Skin_UprightBass_FateFortune_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_URBass_FateFortune.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_URBass_FateFortune.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_URBass_FateFortune.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_URBass_FateFortune.png",
+        "TypeDescription": "@reward_type_Instrumentskin_UprightBass"
+    },
+    {
+        "UniqueTagID": "Housing_Phoenix_StainedGlassDivider",
+        "IsEnabled": 1,
+        "DisplayName": "@House_HousingItem_Entitlement_Phoenix2022_RoomDivider01_MasterName",
+        "Description": "@House_HousingItem_Entitlement_Phoenix2022_RoomDivider01_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Phoenix_StainedGlassDivider.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Phoenix_StainedGlassDivider.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Phoenix_StainedGlassDivider.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Phoenix_StainedGlassDivider.png",
+        "TypeDescription": "@reward_type_housing_item"
+    },
+    {
+        "UniqueTagID": "Housing_Phoenix_FirePit",
+        "IsEnabled": 1,
+        "DisplayName": "@House_HousingItem_Entitlement_Lighting_Phoenix2022_Floor_FirePit01_MasterName",
+        "Description": "@House_HousingItem_Entitlement_Lighting_Phoenix2022_Floor_FirePit01_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Phoenix_FirePit.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Phoenix_FirePit.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Phoenix_FirePit.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Phoenix_FirePit.png",
+        "TypeDescription": "@reward_type_housing_item"
+    },
+    {
+        "UniqueTagID": "Housing_Phoenix_Bouquet",
+        "IsEnabled": 1,
+        "DisplayName": "@House_HousingItem_Entitlement_Phoenix2022_Bouquet01_MasterName",
+        "Description": "@House_HousingItem_Entitlement_Phoenix2022_Bouquet01_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Phoenix_Bouquet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Phoenix_Bouquet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Phoenix_Bouquet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Phoenix_Bouquet.png",
+        "TypeDescription": "@reward_type_housing_item"
+    },
+    {
+        "UniqueTagID": "Emote_TableFlip",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_TableFlip_name",
+        "Description": "@ui_emote_TableFlip_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_TableFlip.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_TableFlip.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_TableFlip.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_TableFlip.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_CrazyTapDance",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_CrazyTapDance_name",
+        "Description": "@ui_emote_CrazyTapDance_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_CrazyTapDance.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_CrazyTapDance.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_CrazyTapDance.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_CrazyTapDance.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_ChaplinWalk",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_ChaplinWalk_name",
+        "Description": "@ui_emote_ChaplinWalk_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_URBass_FateFortune.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_URBass_FateFortune.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_URBass_FateFortune.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_URBass_FateFortune.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Pet_Phoenix_Phoenix",
+        "IsEnabled": 1,
+        "DisplayName": "@House_HousingItem_Pet_Entitlement_Bird_Phoenix_MasterName",
+        "Description": "@House_HousingItem_Pet_Entitlement_Bird_Phoenix_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_Phoenix.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Rectangle_Phoenix.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_Phoenix.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Thumbnail_Phoenix.png",
+        "TypeDescription": "@reward_type_house_pet"
+    },
+    {
+        "UniqueTagID": "Campskin_Phoenix",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Phoenix01_A_mastername",
+        "Description": "@CampSkin_Phoenix01_A_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Phoenix_1.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Phoenix_1.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Phoenix_1.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Phoenix_1.png",
+        "TypeDescription": "@reward_type_campskin"
     }
 ]
