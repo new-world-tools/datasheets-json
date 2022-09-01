@@ -943,5 +943,50 @@
         "PvpXpModifier": null,
         "Notes": "",
         "Found in": ""
+    },
+    {
+        "Modifiers": "Solo_StarterBeach",
+        "Experience": 1,
+        "Currency": 1,
+        "CurrencyRewardChance": null,
+        "TerritoryStanding": 0,
+        "Azoth": 0,
+        "LootDropModifier": 1,
+        "FactionReputationModifier": null,
+        "FactionTokenModifier": null,
+        "AzothSaltModifier": null,
+        "PvpXpModifier": null,
+        "Notes": "Starter Beach no Territory XP",
+        "Found in": "Flags on vitals"
+    },
+    {
+        "Modifiers": "Solo-_StarterBeach",
+        "Experience": 0.5,
+        "Currency": 0.5,
+        "CurrencyRewardChance": null,
+        "TerritoryStanding": 0,
+        "Azoth": 0,
+        "LootDropModifier": 1,
+        "FactionReputationModifier": null,
+        "FactionTokenModifier": null,
+        "AzothSaltModifier": null,
+        "PvpXpModifier": null,
+        "Notes": "Starter Beach no Territory XP",
+        "Found in": "Flags on vitals"
+    },
+    {
+        "Modifiers": "Solo+_StarterBeach",
+        "Experience": 2,
+        "Currency": 1.15,
+        "CurrencyRewardChance": null,
+        "TerritoryStanding": 0,
+        "Azoth": 0,
+        "LootDropModifier": 1,
+        "FactionReputationModifier": null,
+        "FactionTokenModifier": null,
+        "AzothSaltModifier": null,
+        "PvpXpModifier": null,
+        "Notes": "Starter Beach no Territory XP",
+        "Found in": "Flags on vitals"
     }
 ]

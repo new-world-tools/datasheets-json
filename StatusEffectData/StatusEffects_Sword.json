@@ -238,7 +238,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Sword_LastStandPlus5Sec",
@@ -479,7 +482,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Sword_10pcntHealing",
@@ -720,7 +726,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Sword_ShieldBash_Stun2",
@@ -961,7 +970,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Sword_ShieldBash_Stun4",
@@ -1202,7 +1214,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Sword_Leadership",
@@ -1443,7 +1458,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Sword_CounterAttack",
@@ -1684,7 +1702,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Sword_CC_Slow",
@@ -1925,7 +1946,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Upgrade_Sword_WhirlingBlade_Rend",
@@ -2166,7 +2190,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Upgrade_Sword_LeapingStrike_Slow",
@@ -2407,7 +2434,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Passive_Sword_Swordmaster_DmgOnHeavy",
@@ -2648,7 +2678,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Passive_Sword_Swordmaster_HasteWhileBlock",
@@ -2889,7 +2922,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Passive_Sword_Swordmaster_HasteOnCrit",
@@ -3130,7 +3166,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Passive_Sword_Defender_FortWhileBlock",
@@ -3371,7 +3410,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Passive_Sword_Swordmaster_SlowOnFinal",
@@ -3612,7 +3654,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Upgrade_Sword_Rush_Weak",
@@ -3853,7 +3898,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Upgrade_Sword_Rush_Slow",
@@ -4094,7 +4142,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Ability_Sword_FinalStand",
@@ -4335,7 +4386,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": true
+        "NotCombatAction ": true,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Ability_Sword_FinalStand_Armor",
@@ -4576,7 +4630,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": true
+        "NotCombatAction ": true,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Ability_Sword_FinalStand_Heal",
@@ -4817,7 +4874,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": true
+        "NotCombatAction ": true,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Ability_Sword_FinalStand_Heal_Heal",
@@ -5058,7 +5118,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": true
+        "NotCombatAction ": true,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Ultimate_Sword_Defender",
@@ -5299,7 +5362,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Ultimate_Sword_Defender_Check",
@@ -5540,7 +5606,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Sword_CounterAttack",
@@ -5781,7 +5850,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Ultimate_Sword_Defender_Timer",
@@ -6022,7 +6094,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     },
     {
         "StatusID": "Status_Passive_Sword_Defender_StaminaGain",
@@ -6263,6 +6338,9 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": null
+        "NotCombatAction ": null,
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": "",
+        "SourceRuneChargeOnHealthChangeOnly": ""
     }
 ]

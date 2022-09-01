@@ -7,5 +7,50 @@
         "OnWatchedAchievementId": "Cinematic_TempestReckoning",
         "DurationInSec": 108,
         "Description": ""
+    },
+    {
+        "CinematicVideoId": "TempestRising",
+        "VideoPath": "LyShineUI/Videos/TempestRising_Placeholder.bk2",
+        "Name": "@cinmatic_video_tempest_rising",
+        "ReqAchievementId": "S_headstatue_cutscene",
+        "OnWatchedAchievementId": "Cinematic_TempestRising",
+        "DurationInSec": 108,
+        "Description": ""
+    },
+    {
+        "CinematicVideoId": "TempestRisingMB",
+        "VideoPath": "LyShineUI/Videos/TempestRising_Placeholder.bk2",
+        "Name": "@cinmatic_video_tempest_rising",
+        "ReqAchievementId": "S_headstatue_cutscene_mb",
+        "OnWatchedAchievementId": "Cinematic_TempestRising",
+        "DurationInSec": 108,
+        "Description": ""
+    },
+    {
+        "CinematicVideoId": "BS_LegacyofAncients",
+        "VideoPath": "LyShineUI/Videos/LegacyAncients_Placeholder.bk2",
+        "Name": "@cinmatic_video_legacy_ancients",
+        "ReqAchievementId": "16_ImhotepCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_LegacyOfAncients",
+        "DurationInSec": 108,
+        "Description": ""
+    },
+    {
+        "CinematicVideoId": "BS_LegacyofRome",
+        "VideoPath": "LyShineUI/Videos/LegacyRome_Placeholder.bk2",
+        "Name": "@cinmatic_video_legacy_rome",
+        "ReqAchievementId": "16_CharmionCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_LegacyOfRome",
+        "DurationInSec": 108,
+        "Description": ""
+    },
+    {
+        "CinematicVideoId": "BS_TheHuntress",
+        "VideoPath": "LyShineUI/Videos/Huntress_Placeholder.bk2",
+        "Name": "@cinmatic_video_the_huntress",
+        "ReqAchievementId": "16_HuntressCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_TheHuntress",
+        "DurationInSec": 108,
+        "Description": ""
     }
 ]

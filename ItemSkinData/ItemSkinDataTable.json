@@ -9,7 +9,7 @@
         "ExcludedClasses": "",
         "ToItemID": "WoodsmanHead",
         "Outfit": "Woodsman",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "WoodsmanChest",
@@ -21,7 +21,7 @@
         "ExcludedClasses": "",
         "ToItemID": "WoodsmanChest",
         "Outfit": "Woodsman",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "WoodsmanHands",
@@ -33,7 +33,7 @@
         "ExcludedClasses": "",
         "ToItemID": "WoodsmanHands",
         "Outfit": "Woodsman",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "WoodsmanLegs",
@@ -45,7 +45,7 @@
         "ExcludedClasses": "",
         "ToItemID": "WoodsmanLegs",
         "Outfit": "Woodsman",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "WoodsmanFeet",
@@ -57,7 +57,7 @@
         "ExcludedClasses": "",
         "ToItemID": "WoodsmanFeet",
         "Outfit": "Woodsman",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "WoodsmanHatchet",
@@ -69,7 +69,7 @@
         "ExcludedClasses": "",
         "ToItemID": "WoodsmanHatchet",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "ThespianHead",
@@ -81,7 +81,7 @@
         "ExcludedClasses": "",
         "ToItemID": "ThespianHead",
         "Outfit": "Thespian",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "ThespianChest",
@@ -93,7 +93,7 @@
         "ExcludedClasses": "",
         "ToItemID": "ThespianChest",
         "Outfit": "Thespian",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "ThespianHands",
@@ -105,7 +105,7 @@
         "ExcludedClasses": "",
         "ToItemID": "ThespianHands",
         "Outfit": "Thespian",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "ThespianLegs",
@@ -117,7 +117,7 @@
         "ExcludedClasses": "",
         "ToItemID": "ThespianLegs",
         "Outfit": "Thespian",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "ThespianFeet",
@@ -129,7 +129,7 @@
         "ExcludedClasses": "",
         "ToItemID": "ThespianFeet",
         "Outfit": "Thespian",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "VioletRage",
@@ -141,7 +141,7 @@
         "ExcludedClasses": "",
         "ToItemID": "VioletRage",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicFoxHead",
@@ -153,7 +153,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicFoxHead",
         "Outfit": "RunicFox",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicFoxChest",
@@ -165,7 +165,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicFoxChest",
         "Outfit": "RunicFox",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicFoxHands",
@@ -177,7 +177,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicFoxHands",
         "Outfit": "RunicFox",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicFoxLegs",
@@ -189,7 +189,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicFoxLegs",
         "Outfit": "RunicFox",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicFoxFeet",
@@ -201,7 +201,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicFoxFeet",
         "Outfit": "RunicFox",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicJackalHead",
@@ -213,7 +213,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicJackalHead",
         "Outfit": "RunicJackal",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicJackalChest",
@@ -225,7 +225,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicJackalChest",
         "Outfit": "RunicJackal",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicJackalHands",
@@ -237,7 +237,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicJackalHands",
         "Outfit": "RunicJackal",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicJackalLegs",
@@ -249,7 +249,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicJackalLegs",
         "Outfit": "RunicJackal",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicJackalFeet",
@@ -261,7 +261,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicJackalFeet",
         "Outfit": "RunicJackal",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicBearHead",
@@ -273,7 +273,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicBearHead",
         "Outfit": "RunicBear",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicBearChest",
@@ -285,7 +285,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicBearChest",
         "Outfit": "RunicBear",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicBearHands",
@@ -297,7 +297,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicBearHands",
         "Outfit": "RunicBear",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicBearLegs",
@@ -309,7 +309,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicBearLegs",
         "Outfit": "RunicBear",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RunicBearFeet",
@@ -321,7 +321,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RunicBearFeet",
         "Outfit": "RunicBear",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "HowlatDawn",
@@ -333,7 +333,7 @@
         "ExcludedClasses": "",
         "ToItemID": "HowlatDawn",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "DragonsCoil",
@@ -345,7 +345,7 @@
         "ExcludedClasses": "",
         "ToItemID": "DragonsCoil",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "TwinWolves",
@@ -357,7 +357,7 @@
         "ExcludedClasses": "",
         "ToItemID": "TwinWolves",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "CrescentFang",
@@ -369,7 +369,7 @@
         "ExcludedClasses": "",
         "ToItemID": "CrescentFang",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Gallantry",
@@ -381,7 +381,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Gallantry",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Crestoftheallsight",
@@ -393,7 +393,7 @@
         "ExcludedClasses": "",
         "ToItemID": "CrestoftheAllsight",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "GoldenColt",
@@ -405,7 +405,7 @@
         "ExcludedClasses": "",
         "ToItemID": "GoldenColt",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "WickedTyrant",
@@ -417,7 +417,7 @@
         "ExcludedClasses": "",
         "ToItemID": "WickedTyrant",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "MonarchsMight",
@@ -429,7 +429,7 @@
         "ExcludedClasses": "",
         "ToItemID": "MonarchsMight",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "GraveStakes",
@@ -441,7 +441,7 @@
         "ExcludedClasses": "",
         "ToItemID": "GraveStakes",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtLightHead",
@@ -453,7 +453,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtLightHead",
         "Outfit": "RoyalCourtLight",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtLightChest",
@@ -465,7 +465,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtLightChest",
         "Outfit": "RoyalCourtLight",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtLightHands",
@@ -477,7 +477,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtLightHands",
         "Outfit": "RoyalCourtLight",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtLightLegs",
@@ -489,7 +489,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtLightLegs",
         "Outfit": "RoyalCourtLight",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtLightFeet",
@@ -501,7 +501,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtLightFeet",
         "Outfit": "RoyalCourtLight",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtMediumHead",
@@ -513,7 +513,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtMediumHead",
         "Outfit": "RoyalCourtMedium",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtMediumChest",
@@ -525,7 +525,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtMediumChest",
         "Outfit": "RoyalCourtMedium",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtMediumHands",
@@ -537,7 +537,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtMediumHands",
         "Outfit": "RoyalCourtMedium",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtMediumLegs",
@@ -549,7 +549,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtMediumLegs",
         "Outfit": "RoyalCourtMedium",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtMediumFeet",
@@ -561,7 +561,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtMediumFeet",
         "Outfit": "RoyalCourtMedium",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtHeavyHead",
@@ -573,7 +573,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtHeavyHead",
         "Outfit": "RoyalCourtHeavy",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtHeavyChest",
@@ -585,7 +585,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtHeavyChest",
         "Outfit": "RoyalCourtHeavy",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtHeavyHands",
@@ -597,7 +597,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtHeavyHands",
         "Outfit": "RoyalCourtHeavy",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtHeavyLegs",
@@ -609,7 +609,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtHeavyLegs",
         "Outfit": "RoyalCourtHeavy",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "RoyalCourtHeavyFeet",
@@ -621,7 +621,7 @@
         "ExcludedClasses": "",
         "ToItemID": "RoyalCourtHeavyFeet",
         "Outfit": "RoyalCourtHeavy",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "TwitchPirateHead",
@@ -633,7 +633,7 @@
         "ExcludedClasses": "",
         "ToItemID": "TwitchPirateHead",
         "Outfit": "TwitchPirate",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "TwitchPirateChest",
@@ -645,7 +645,7 @@
         "ExcludedClasses": "",
         "ToItemID": "TwitchPirateChest",
         "Outfit": "TwitchPirate",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "TwitchPirateHands",
@@ -657,7 +657,7 @@
         "ExcludedClasses": "",
         "ToItemID": "TwitchPirateHands",
         "Outfit": "TwitchPirate",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "TwitchPirateLegs",
@@ -669,7 +669,7 @@
         "ExcludedClasses": "",
         "ToItemID": "TwitchPirateLegs",
         "Outfit": "TwitchPirate",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "TwitchPirateFeet",
@@ -681,7 +681,7 @@
         "ExcludedClasses": "",
         "ToItemID": "TwitchPirateFeet",
         "Outfit": "TwitchPirate",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Rapier_Vinespun",
@@ -693,7 +693,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Rapier_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WarHammer_Vinespun",
@@ -705,7 +705,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WarHammer_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_ShieldT_Vinespun",
@@ -717,7 +717,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_ShieldT_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Spear_Vinespun",
@@ -729,7 +729,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Spear_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_ShieldR_Vinespun",
@@ -741,7 +741,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_ShieldR_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Bow_Vinespun",
@@ -753,7 +753,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Bow_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Firestaff_Vinespun",
@@ -765,7 +765,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Firestaff_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_GreatAxe_Vinespun",
@@ -777,7 +777,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_GreatAxe_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hatchet_Vinespun",
@@ -789,7 +789,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hatchet_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_IceGaunt_Vinespun",
@@ -801,7 +801,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_IceGaunt_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_ShieldK_Vinespun",
@@ -813,7 +813,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_ShieldK_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lifestaff_Vinespun",
@@ -825,7 +825,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Lifestaff_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Longsword_Vinespun",
@@ -837,7 +837,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Longsword_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Musket_Vinespun",
@@ -849,7 +849,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Musket_Vinespun",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_GreatAxe",
@@ -861,7 +861,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_GreatAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_LifeStaff",
@@ -873,7 +873,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_LifeStaff",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_WarHammer",
@@ -885,7 +885,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_WarHammer",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_Musket",
@@ -897,7 +897,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_Musket",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_AnglesDemon_FireStaff",
@@ -909,7 +909,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_AnglesDemon_FireStaff",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_AnglesDemon_LifeStaff",
@@ -921,7 +921,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_AnglesDemon_LifeStaff",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_AnglesDemon_WarHammer",
@@ -933,7 +933,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_AnglesDemon_WarHammer",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_AnglesDemon_Spear",
@@ -945,7 +945,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_AnglesDemon_Spear",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_GreatAxe_FenrirsFury",
@@ -957,7 +957,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_GreatAxe_FenrirsFury",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Bow_RobinHood",
@@ -969,7 +969,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Bow_RobinHood",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Spear_Harpoon",
@@ -981,7 +981,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Spear_Harpoon",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LightHead_Demon",
@@ -993,7 +993,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LightHead_Demon",
         "Outfit": "LightDemon",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LightChest_Demon",
@@ -1005,7 +1005,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LightChest_Demon",
         "Outfit": "LightDemon",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LightHands_Demon",
@@ -1017,7 +1017,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LightHands_Demon",
         "Outfit": "LightDemon",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LightLegs_Demon",
@@ -1029,7 +1029,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LightLegs_Demon",
         "Outfit": "LightDemon",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LightFeet_Demon",
@@ -1041,7 +1041,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LightFeet_Demon",
         "Outfit": "LightDemon",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_MediumHead_Angel",
@@ -1053,7 +1053,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_MediumHead_Angel",
         "Outfit": "MediumAngel",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_MediumChest_Angel",
@@ -1065,7 +1065,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_MediumChest_Angel",
         "Outfit": "MediumAngel",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_MediumHands_Angel",
@@ -1077,7 +1077,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_MediumHands_Angel",
         "Outfit": "MediumAngel",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_MediumLegs_Angel",
@@ -1089,7 +1089,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_MediumLegs_Angel",
         "Outfit": "MediumAngel",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_MediumFeet_Angel",
@@ -1101,7 +1101,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_MediumFeet_Angel",
         "Outfit": "MediumAngel",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_HeavyHead_Angel",
@@ -1113,7 +1113,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_HeavyHead_Angel",
         "Outfit": "HeavyAngel",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_HeavyChest_Angel",
@@ -1125,7 +1125,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_HeavyChest_Angel",
         "Outfit": "HeavyAngel",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_HeavyHands_Angel",
@@ -1137,7 +1137,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_HeavyHands_Angel",
         "Outfit": "HeavyAngel",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_HeavyLegs_Angel",
@@ -1149,7 +1149,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_HeavyLegs_Angel",
         "Outfit": "HeavyAngel",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_HeavyFeet_Angel",
@@ -1161,7 +1161,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_HeavyFeet_Angel",
         "Outfit": "HeavyAngel",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_RobinHood",
@@ -1173,7 +1173,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_RobinHood",
         "Outfit": "PrimeRobinhood",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_RobinHood",
@@ -1185,7 +1185,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_RobinHood",
         "Outfit": "PrimeRobinhood",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_RobinHood",
@@ -1197,7 +1197,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_RobinHood",
         "Outfit": "PrimeRobinhood",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_RobinHood",
@@ -1209,7 +1209,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_RobinHood",
         "Outfit": "PrimeRobinhood",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_RobinHood",
@@ -1221,7 +1221,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_RobinHood",
         "Outfit": "PrimeRobinhood",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_ClothT5Var2",
@@ -1233,7 +1233,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_ClothT5Var2",
         "Outfit": "ClothT5Var2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_ClothT5Var2",
@@ -1245,7 +1245,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_ClothT5Var2",
         "Outfit": "ClothT5Var2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_ClothT5Var2",
@@ -1257,7 +1257,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_ClothT5Var2",
         "Outfit": "ClothT5Var2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_ClothT5Var2",
@@ -1269,7 +1269,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_ClothT5Var2",
         "Outfit": "ClothT5Var2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_ClothT5Var2",
@@ -1281,7 +1281,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_ClothT5Var2",
         "Outfit": "ClothT5Var2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_SorcererHunterVar2",
@@ -1293,7 +1293,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_SorcererHunterVar2",
         "Outfit": "SorcererHunterVar2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_SorcererHunterVar2",
@@ -1305,7 +1305,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_SorcererHunterVar2",
         "Outfit": "SorcererHunterVar2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_SorcererHunterVar2",
@@ -1317,7 +1317,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_SorcererHunterVar2",
         "Outfit": "SorcererHunterVar2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_SorcererHunterVar2",
@@ -1329,7 +1329,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_SorcererHunterVar2",
         "Outfit": "SorcererHunterVar2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_SorcererHunterVar2",
@@ -1341,7 +1341,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_SorcererHunterVar2",
         "Outfit": "SorcererHunterVar2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_TwitchFisherman",
@@ -1353,7 +1353,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_TwitchFisherman",
         "Outfit": "TwitchFisherman",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_TwitchFisherman",
@@ -1365,7 +1365,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_TwitchFisherman",
         "Outfit": "TwitchFisherman",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_TwitchFisherman",
@@ -1377,7 +1377,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_TwitchFisherman",
         "Outfit": "TwitchFisherman",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_TwitchFisherman",
@@ -1389,7 +1389,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_TwitchFisherman",
         "Outfit": "TwitchFisherman",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_TwitchFisherman",
@@ -1401,7 +1401,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_TwitchFisherman",
         "Outfit": "TwitchFisherman",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WoodsmanAlt2",
@@ -1413,7 +1413,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WoodsmanAlt2",
         "Outfit": "WoodsmanAlt2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_WoodsmanAlt2",
@@ -1425,7 +1425,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_WoodsmanAlt2",
         "Outfit": "WoodsmanAlt2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_WoodsmanAlt2",
@@ -1437,7 +1437,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_WoodsmanAlt2",
         "Outfit": "WoodsmanAlt2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_WoodsmanAlt2",
@@ -1449,7 +1449,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_WoodsmanAlt2",
         "Outfit": "WoodsmanAlt2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_WoodsmanAlt2",
@@ -1461,7 +1461,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_WoodsmanAlt2",
         "Outfit": "WoodsmanAlt2",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_SpecialCorruptedVar1",
@@ -1473,7 +1473,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_SpecialCorruptedVar1",
         "Outfit": "SpecialCorruptedVar1",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_SpecialCorruptedVar1",
@@ -1485,7 +1485,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_SpecialCorruptedVar1",
         "Outfit": "SpecialCorruptedVar1",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_SpecialCorruptedVar1",
@@ -1497,7 +1497,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_SpecialCorruptedVar1",
         "Outfit": "SpecialCorruptedVar1",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_SpecialCorruptedVar1",
@@ -1509,7 +1509,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_SpecialCorruptedVar1",
         "Outfit": "SpecialCorruptedVar1",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_SpecialCorruptedVar1",
@@ -1521,7 +1521,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_SpecialCorruptedVar1",
         "Outfit": "SpecialCorruptedVar1",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_HideHelmet",
@@ -1533,7 +1533,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_HideHelmet",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_VoidGauntlet",
@@ -1545,7 +1545,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_VoidGauntlet",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_VampireChest",
@@ -1557,7 +1557,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_VampireChest",
         "Outfit": "Vampire",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_VampireFeet",
@@ -1569,7 +1569,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_VampireFeet",
         "Outfit": "Vampire",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_VampireHands",
@@ -1581,7 +1581,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_VampireHands",
         "Outfit": "Vampire",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_VampireHead",
@@ -1593,7 +1593,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_VampireHead",
         "Outfit": "Vampire",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_VampireLegs",
@@ -1605,7 +1605,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_VampireLegs",
         "Outfit": "Vampire",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_MummyChest",
@@ -1617,7 +1617,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_MummyChest",
         "Outfit": "Mummy",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_MummyFeet",
@@ -1629,7 +1629,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_MummyFeet",
         "Outfit": "Mummy",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_MummyHands",
@@ -1641,7 +1641,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_MummyHands",
         "Outfit": "Mummy",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_MummyHead",
@@ -1653,7 +1653,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_MummyHead",
         "Outfit": "Mummy",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_MummyLegs",
@@ -1665,7 +1665,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_MummyLegs",
         "Outfit": "Mummy",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_SkeletonChest",
@@ -1677,7 +1677,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_SkeletonChest",
         "Outfit": "Skeleton",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_SkeletonFeet",
@@ -1689,7 +1689,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_SkeletonFeet",
         "Outfit": "Skeleton",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_SkeletonHands",
@@ -1701,7 +1701,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_SkeletonHands",
         "Outfit": "Skeleton",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_SkeletonHead",
@@ -1713,7 +1713,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_SkeletonHead",
         "Outfit": "Skeleton",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_SkeletonLegs",
@@ -1725,7 +1725,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_SkeletonLegs",
         "Outfit": "Skeleton",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Mask_AngryEarth",
@@ -1737,7 +1737,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Mask_AngryEarth",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Mask_Demon",
@@ -1749,7 +1749,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Mask_Demon",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Mask_PlagueDoctor",
@@ -1761,7 +1761,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Mask_PlagueDoctor",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Mask_HalfWooden",
@@ -1773,7 +1773,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Mask_HalfWooden",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_RoyalCourt_IceGauntlet",
@@ -1785,7 +1785,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_RoyalCourt_IceGauntlet",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_Rapier",
@@ -1797,7 +1797,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_Rapier",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_SkinningKnife",
@@ -1809,7 +1809,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_Sickle",
@@ -1821,7 +1821,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_Pickaxe",
@@ -1833,7 +1833,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_LoggingAxe",
@@ -1845,7 +1845,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_FishingPole",
@@ -1857,7 +1857,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Monster_AzothScepter",
@@ -1869,7 +1869,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Monster_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryStrength_SkinningKnife",
@@ -1881,7 +1881,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryStrength_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryStrength_Sickle",
@@ -1893,7 +1893,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryStrength_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryStrength_Pickaxe",
@@ -1905,7 +1905,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryStrength_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryStrength_LoggingAxe",
@@ -1917,7 +1917,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryStrength_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryStrength_FishingPole",
@@ -1929,7 +1929,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryStrength_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryStrength_AzothScepter",
@@ -1941,7 +1941,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryStrength_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryAzoth_SkinningKnife",
@@ -1953,7 +1953,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryAzoth_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryAzoth_Sickle",
@@ -1965,7 +1965,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryAzoth_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryAzoth_Pickaxe",
@@ -1977,7 +1977,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryAzoth_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryAzoth_LoggingAxe",
@@ -1989,7 +1989,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryAzoth_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryAzoth_FishingPole",
@@ -2001,7 +2001,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryAzoth_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryAzoth_AzothScepter",
@@ -2013,7 +2013,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryAzoth_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WinterConvergence_SkinningKnife",
@@ -2025,7 +2025,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WinterConvergence_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WinterConvergence_Sickle",
@@ -2037,7 +2037,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WinterConvergence_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WinterConvergence_Pickaxe",
@@ -2049,7 +2049,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WinterConvergence_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WinterConvergence_LoggingAxe",
@@ -2061,7 +2061,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WinterConvergence_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WinterConvergence_FishingPole",
@@ -2073,7 +2073,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WinterConvergence_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WinterConvergence_AzothScepter",
@@ -2085,7 +2085,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WinterConvergence_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WinterOutfit01",
@@ -2097,7 +2097,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WinterOutfit01",
         "Outfit": "WinterOutfit01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_WinterOutfit01",
@@ -2109,7 +2109,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_WinterOutfit01",
         "Outfit": "WinterOutfit01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_WinterOutfit01",
@@ -2121,7 +2121,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_WinterOutfit01",
         "Outfit": "WinterOutfit01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_WinterOutfit01",
@@ -2133,7 +2133,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_WinterOutfit01",
         "Outfit": "WinterOutfit01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_WinterOutfit01",
@@ -2145,7 +2145,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_WinterOutfit01",
         "Outfit": "WinterOutfit01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WarSpecial",
@@ -2157,7 +2157,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WarSpecial",
         "Outfit": "WarSpecial",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_WarSpecial",
@@ -2169,7 +2169,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_WarSpecial",
         "Outfit": "WarSpecial",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_WarSpecial",
@@ -2181,7 +2181,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_WarSpecial",
         "Outfit": "WarSpecial",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_WarSpecial",
@@ -2193,7 +2193,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_WarSpecial",
         "Outfit": "WarSpecial",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_WarSpecial",
@@ -2205,7 +2205,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_WarSpecial",
         "Outfit": "WarSpecial",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Bow_RoyalCourt",
@@ -2217,7 +2217,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Bow_RoyalCourt",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_ClassicRPGWizard",
@@ -2229,7 +2229,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_ClassicRPGWizard",
         "Outfit": "ClassicRPGWizard",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_ClassicRPGWizard",
@@ -2241,7 +2241,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_ClassicRPGWizard",
         "Outfit": "ClassicRPGWizard",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_ClassicRPGWizard",
@@ -2253,7 +2253,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_ClassicRPGWizard",
         "Outfit": "ClassicRPGWizard",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_ClassicRPGWizard",
@@ -2265,7 +2265,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_ClassicRPGWizard",
         "Outfit": "ClassicRPGWizard",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_ClassicRPGWizard",
@@ -2277,7 +2277,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_ClassicRPGWizard",
         "Outfit": "ClassicRPGWizard",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_RoyalCourt_AzothScepter",
@@ -2289,7 +2289,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_RoyalCourt_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_RoyalCourt_FishingPole",
@@ -2301,7 +2301,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_RoyalCourt_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_RoyalCourt_LoggingAxe",
@@ -2313,7 +2313,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_RoyalCourt_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_RoyalCourt_Pickaxe",
@@ -2325,7 +2325,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_RoyalCourt_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_RoyalCourt_Sickle",
@@ -2337,7 +2337,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_RoyalCourt_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_RoyalCourt_SkinningKnife",
@@ -2349,7 +2349,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_RoyalCourt_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_ClassicRPGBard",
@@ -2361,7 +2361,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_ClassicRPGBard",
         "Outfit": "ClassicRPGBard",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_ClassicRPGBard",
@@ -2373,7 +2373,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_ClassicRPGBard",
         "Outfit": "ClassicRPGBard",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_ClassicRPGBard",
@@ -2385,7 +2385,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_ClassicRPGBard",
         "Outfit": "ClassicRPGBard",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_ClassicRPGBard",
@@ -2397,7 +2397,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_ClassicRPGBard",
         "Outfit": "ClassicRPGBard",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_ClassicRPGBard",
@@ -2409,7 +2409,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_ClassicRPGBard",
         "Outfit": "ClassicRPGBard",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_ClassicRPGRogue",
@@ -2421,7 +2421,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_ClassicRPGRogue",
         "Outfit": "ClassicRPGRogue",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_ClassicRPGRogue",
@@ -2433,7 +2433,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_ClassicRPGRogue",
         "Outfit": "ClassicRPGRogue",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_ClassicRPGRogue",
@@ -2445,7 +2445,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_ClassicRPGRogue",
         "Outfit": "ClassicRPGRogue",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_ClassicRPGRogue",
@@ -2457,7 +2457,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_ClassicRPGRogue",
         "Outfit": "ClassicRPGRogue",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_ClassicRPGRogue",
@@ -2469,7 +2469,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_ClassicRPGRogue",
         "Outfit": "ClassicRPGRogue",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_RoyalCourt_Tiara",
@@ -2481,7 +2481,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_RoyalCourt_Tiara",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_RoyalCourt_Crown",
@@ -2493,7 +2493,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_RoyalCourt_Crown",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Rapier_Holiday_Dec21",
@@ -2505,7 +2505,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Rapier_Holiday_Dec21",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Spear_Holiday_Dec21",
@@ -2517,7 +2517,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Spear_Holiday_Dec21",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Bow_Holiday_Dec21",
@@ -2529,7 +2529,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Bow_Holiday_Dec21",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hatchet_Holiday_Dec21",
@@ -2541,7 +2541,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hatchet_Holiday_Dec21",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_IceGaunt_Holiday_Dec21",
@@ -2553,7 +2553,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_IceGaunt_Holiday_Dec21",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lifestaff_Holiday_Dec21",
@@ -2565,7 +2565,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Lifestaff_Holiday_Dec21",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WinterOutfit02",
@@ -2577,7 +2577,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WinterOutfit02",
         "Outfit": "WinterOutfit02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_WinterOutfit02",
@@ -2589,7 +2589,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_WinterOutfit02",
         "Outfit": "WinterOutfit02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_WinterOutfit02",
@@ -2601,7 +2601,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_WinterOutfit02",
         "Outfit": "WinterOutfit02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_WinterOutfit02",
@@ -2613,7 +2613,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_WinterOutfit02",
         "Outfit": "WinterOutfit02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_WinterOutfit02",
@@ -2625,7 +2625,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_WinterOutfit02",
         "Outfit": "WinterOutfit02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WinterOutfit03",
@@ -2637,7 +2637,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WinterOutfit03",
         "Outfit": "WinterOutfit03",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_WinterOutfit03",
@@ -2649,7 +2649,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_WinterOutfit03",
         "Outfit": "WinterOutfit03",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_WinterOutfit03",
@@ -2661,7 +2661,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_WinterOutfit03",
         "Outfit": "WinterOutfit03",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_WinterOutfit03",
@@ -2673,7 +2673,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_WinterOutfit03",
         "Outfit": "WinterOutfit03",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_WinterOutfit03",
@@ -2685,7 +2685,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_WinterOutfit03",
         "Outfit": "WinterOutfit03",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryTech_SkinningKnife",
@@ -2697,7 +2697,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryTech_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryTech_Sickle",
@@ -2709,7 +2709,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryTech_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryTech_Pickaxe",
@@ -2721,7 +2721,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryTech_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryTech_LoggingAxe",
@@ -2733,7 +2733,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryTech_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryTech_FishingPole",
@@ -2745,7 +2745,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryTech_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LegendaryTech_AzothScepter",
@@ -2757,7 +2757,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LegendaryTech_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WC_Cloak",
@@ -2769,7 +2769,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WC_Cloak",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_AutumnKing",
@@ -2781,7 +2781,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_AutumnKing",
         "Outfit": "AutumnKing",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_AutumnKing",
@@ -2793,7 +2793,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_AutumnKing",
         "Outfit": "AutumnKing",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_AutumnKing",
@@ -2805,7 +2805,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_AutumnKing",
         "Outfit": "AutumnKing",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_AutumnKing",
@@ -2817,7 +2817,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_AutumnKing",
         "Outfit": "AutumnKing",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_AutumnKing",
@@ -2829,7 +2829,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_AutumnKing",
         "Outfit": "AutumnKing",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Vogue",
@@ -2841,7 +2841,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Vogue",
         "Outfit": "Vogue",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Vogue",
@@ -2853,7 +2853,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Vogue",
         "Outfit": "Vogue",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Vogue",
@@ -2865,7 +2865,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Vogue",
         "Outfit": "Vogue",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Vogue",
@@ -2877,7 +2877,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Vogue",
         "Outfit": "Vogue",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Vogue",
@@ -2889,7 +2889,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Vogue",
         "Outfit": "Vogue",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Abyssal",
@@ -2901,7 +2901,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Abyssal",
         "Outfit": "Abyssal",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Abyssal",
@@ -2913,7 +2913,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Abyssal",
         "Outfit": "Abyssal",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Abyssal",
@@ -2925,7 +2925,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Abyssal",
         "Outfit": "Abyssal",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Abyssal",
@@ -2937,7 +2937,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Abyssal",
         "Outfit": "Abyssal",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Abyssal",
@@ -2949,7 +2949,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Abyssal",
         "Outfit": "Abyssal",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WinterWanderer",
@@ -2961,7 +2961,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WinterWanderer",
         "Outfit": "WinterWanderer",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Stormbound",
@@ -2973,7 +2973,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Stormbound",
         "Outfit": "Stormbound",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Stormbound",
@@ -2985,7 +2985,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Stormbound",
         "Outfit": "Stormbound",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Stormbound",
@@ -2997,7 +2997,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Stormbound",
         "Outfit": "Stormbound",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Stormbound",
@@ -3009,7 +3009,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Stormbound",
         "Outfit": "Stormbound",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Stormbound",
@@ -3021,7 +3021,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Stormbound",
         "Outfit": "Stormbound",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Miner",
@@ -3033,7 +3033,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Miner",
         "Outfit": "Miner",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Miner",
@@ -3045,7 +3045,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Miner",
         "Outfit": "Miner",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Miner",
@@ -3057,7 +3057,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Miner",
         "Outfit": "Miner",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Miner",
@@ -3069,7 +3069,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Miner",
         "Outfit": "Miner",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Miner",
@@ -3081,7 +3081,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Miner",
         "Outfit": "Miner",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Lunar01",
@@ -3093,7 +3093,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Lunar01",
         "Outfit": "Lunar01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Lunar01",
@@ -3105,7 +3105,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Lunar01",
         "Outfit": "Lunar01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Lunar01",
@@ -3117,7 +3117,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Lunar01",
         "Outfit": "Lunar01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Lunar01",
@@ -3129,7 +3129,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Lunar01",
         "Outfit": "Lunar01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Lunar01",
@@ -3141,7 +3141,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Lunar01",
         "Outfit": "Lunar01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Lunar02",
@@ -3153,7 +3153,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Lunar02",
         "Outfit": "Lunar02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Lunar02",
@@ -3165,7 +3165,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Lunar02",
         "Outfit": "Lunar02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Lunar02",
@@ -3177,7 +3177,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Lunar02",
         "Outfit": "Lunar02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Lunar02",
@@ -3189,7 +3189,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Lunar02",
         "Outfit": "Lunar02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Lunar02",
@@ -3201,7 +3201,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Lunar02",
         "Outfit": "Lunar02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lunar_ShieldT",
@@ -3213,7 +3213,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_ShieldT",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lunar_Firestaff",
@@ -3225,7 +3225,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_Firestaff",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lunar_Longsword",
@@ -3237,7 +3237,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_Longsword",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lunar_Musket",
@@ -3249,7 +3249,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_Musket",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lunar_VoidGauntlet",
@@ -3261,7 +3261,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_VoidGauntlet",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LunarNewYear_SkinningKnife",
@@ -3273,7 +3273,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LunarNewYear_Sickle",
@@ -3285,7 +3285,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LunarNewYear_Pickaxe",
@@ -3297,7 +3297,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LunarNewYear_LoggingAxe",
@@ -3309,7 +3309,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LunarNewYear_FishingPole",
@@ -3321,7 +3321,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_LunarNewYear_AzothScepter",
@@ -3333,7 +3333,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lunar_Blunderbuss",
@@ -3345,7 +3345,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_LunarNewYear_Blunderbuss",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Waveborne",
@@ -3357,7 +3357,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Waveborne",
         "Outfit": "Waveborne",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Waveborne",
@@ -3369,7 +3369,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Waveborne",
         "Outfit": "Waveborne",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Waveborne",
@@ -3381,7 +3381,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Waveborne",
         "Outfit": "Waveborne",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Waveborne",
@@ -3393,7 +3393,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Waveborne",
         "Outfit": "Waveborne",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Waveborne",
@@ -3405,7 +3405,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Waveborne",
         "Outfit": "Waveborne",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Valentines01",
@@ -3417,7 +3417,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Valentines01",
         "Outfit": "Valentines01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Valentines01",
@@ -3429,7 +3429,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Valentines01",
         "Outfit": "Valentines01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Valentines01",
@@ -3441,7 +3441,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Valentines01",
         "Outfit": "Valentines01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Valentines01",
@@ -3453,7 +3453,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Valentines01",
         "Outfit": "Valentines01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Valentines01",
@@ -3465,7 +3465,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Valentines01",
         "Outfit": "Valentines01",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Valentines02",
@@ -3477,7 +3477,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Valentines02",
         "Outfit": "Valentines02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Valentines02",
@@ -3489,7 +3489,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Valentines02",
         "Outfit": "Valentines02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Valentines02",
@@ -3501,7 +3501,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Valentines02",
         "Outfit": "Valentines02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Valentines02",
@@ -3513,7 +3513,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Valentines02",
         "Outfit": "Valentines02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Valentines02",
@@ -3525,7 +3525,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Valentines02",
         "Outfit": "Valentines02",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Valentines_SkinningKnife",
@@ -3537,7 +3537,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Valentines_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Valentines_Sickle",
@@ -3549,7 +3549,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Valentines_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Valentines_Pickaxe",
@@ -3561,7 +3561,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Valentines_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Valentines_LoggingAxe",
@@ -3573,7 +3573,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Valentines_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Valentines_FishingPole",
@@ -3585,7 +3585,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Valentines_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Valentines_AzothScepter",
@@ -3597,7 +3597,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Valentines_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Rapier_Valentine",
@@ -3609,7 +3609,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Rapier_Valentine",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WarHammer_Valentine",
@@ -3621,7 +3621,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WarHammer_Valentine",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Bow_Valentine",
@@ -3633,7 +3633,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Bow_Valentine",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Firestaff_Valentine",
@@ -3645,7 +3645,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Firestaff_Valentine",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_IceGaunt_Valentine",
@@ -3657,7 +3657,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_IceGaunt_Valentine",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Musket_Valentine",
@@ -3669,7 +3669,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Musket_Valentine",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Rapier_AngelsDemons",
@@ -3681,7 +3681,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Rapier_AngelsDemons",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_ShieldT_AngelsDemons",
@@ -3693,7 +3693,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_ShieldT_AngelsDemons",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Musket_AngelsDemons",
@@ -3705,7 +3705,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Musket_AngelsDemons",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_AngelsDemons_VoidGauntlet",
@@ -3717,7 +3717,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_AngelsDemons_VoidGauntlet",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_AngelsDemons_Blunderbuss",
@@ -3729,7 +3729,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_AngelsDemons_Blunderbuss",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WoT_GreenNynaeve",
@@ -3741,7 +3741,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WoT_GreenNynaeve",
         "Outfit": "PrimeWoT",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WoT_RedScarf",
@@ -3753,7 +3753,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WoT_RedScarf",
         "Outfit": "PrimeWoT",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WoT_WhiteRobe",
@@ -3765,7 +3765,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WoT_WhiteRobe",
         "Outfit": "PrimeWoT",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_WoT_BrownCloak",
@@ -3777,7 +3777,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_WoT_BrownCloak",
         "Outfit": "PrimeWoT",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Rapier_WoT",
@@ -3789,7 +3789,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Rapier_WoT",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Longsword_WoT",
@@ -3801,7 +3801,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Longsword_WoT",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Wicked",
@@ -3813,7 +3813,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Wicked",
         "Outfit": "Wicked",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Wicked",
@@ -3825,7 +3825,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Wicked",
         "Outfit": "Wicked",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Wicked",
@@ -3837,7 +3837,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Wicked",
         "Outfit": "Wicked",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Wicked",
@@ -3849,7 +3849,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Wicked",
         "Outfit": "Wicked",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Wicked",
@@ -3861,7 +3861,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Wicked",
         "Outfit": "Wicked",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Malachite_L",
@@ -3873,7 +3873,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Malachite_L",
         "Outfit": "MalachiteL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Malachite_L",
@@ -3885,7 +3885,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Malachite_L",
         "Outfit": "MalachiteL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Malachite_L",
@@ -3897,7 +3897,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Malachite_L",
         "Outfit": "MalachiteL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Malachite_L",
@@ -3909,7 +3909,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Malachite_L",
         "Outfit": "MalachiteL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Malachite_L",
@@ -3921,7 +3921,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Malachite_L",
         "Outfit": "MalachiteL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Malachite_M",
@@ -3933,7 +3933,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Malachite_M",
         "Outfit": "MaMachiteM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Malachite_M",
@@ -3945,7 +3945,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Malachite_M",
         "Outfit": "MaMachiteM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Malachite_M",
@@ -3957,7 +3957,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Malachite_M",
         "Outfit": "MaMachiteM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Malachite_M",
@@ -3969,7 +3969,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Malachite_M",
         "Outfit": "MaMachiteM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Malachite_M",
@@ -3981,7 +3981,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Malachite_M",
         "Outfit": "MaMachiteM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Malachite_H",
@@ -3993,7 +3993,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Malachite_H",
         "Outfit": "MaHachiteH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Malachite_H",
@@ -4005,7 +4005,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Malachite_H",
         "Outfit": "MaHachiteH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Malachite_H",
@@ -4017,7 +4017,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Malachite_H",
         "Outfit": "MaHachiteH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Malachite_H",
@@ -4029,7 +4029,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Malachite_H",
         "Outfit": "MaHachiteH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Malachite_H",
@@ -4041,7 +4041,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Malachite_H",
         "Outfit": "MaHachiteH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Rapier_Floral",
@@ -4053,7 +4053,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Rapier_Floral",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_ShieldR_Floral",
@@ -4065,7 +4065,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_ShieldR_Floral",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_IceGaunt_Floral",
@@ -4077,7 +4077,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_IceGaunt_Floral",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lifestaff_Floral",
@@ -4089,7 +4089,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Lifestaff_Floral",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Musket_Floral",
@@ -4101,7 +4101,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Musket_Floral",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Blunderbuss_Floral",
@@ -4113,7 +4113,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Blunderbuss_Floral",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_FateFortuneTellerL",
@@ -4125,7 +4125,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_FateFortuneTellerL",
         "Outfit": "FateFortuneTellerL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_FateFortuneTellerL",
@@ -4137,7 +4137,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_FateFortuneTellerL",
         "Outfit": "FateFortuneTellerL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_FateFortuneTellerL",
@@ -4149,7 +4149,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_FateFortuneTellerL",
         "Outfit": "FateFortuneTellerL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_FateFortuneTellerL",
@@ -4161,7 +4161,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_FateFortuneTellerL",
         "Outfit": "FateFortuneTellerL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_FateFortuneTellerL",
@@ -4173,7 +4173,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_FateFortuneTellerL",
         "Outfit": "FateFortuneTellerL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_ShieldT_FateFortune",
@@ -4185,7 +4185,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_ShieldT_FateFortune",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Spear_FateFortune",
@@ -4197,7 +4197,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Spear_FateFortune",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hatchet_FateFortune",
@@ -4209,7 +4209,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hatchet_FateFortune",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lifestaff_FateFortune",
@@ -4221,7 +4221,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Lifestaff_FateFortune",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_VoidGauntlet_FateFortune",
@@ -4233,7 +4233,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_VoidGauntlet_FateFortune",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Blunderbuss_FateFortune",
@@ -4245,7 +4245,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Blunderbuss_FateFortune",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_FateFortune_AzothScepter",
@@ -4257,7 +4257,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_FateFortune_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_FateFortune_FishingPole",
@@ -4269,7 +4269,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_FateFortune_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_FateFortune_LoggingAxe",
@@ -4281,7 +4281,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_FateFortune_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_FateFortune_Pickaxe",
@@ -4293,7 +4293,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_FateFortune_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_FateFortune_Sickle",
@@ -4305,7 +4305,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_FateFortune_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_FateFortune_SkinningKnife",
@@ -4317,7 +4317,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_FateFortune_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_SteampunkH",
@@ -4329,7 +4329,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_FateFortuneSteampunkH",
         "Outfit": "FateFortuneSteampunkH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_SteampunkH",
@@ -4341,7 +4341,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_FateFortuneSteampunkH",
         "Outfit": "FateFortuneSteampunkH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_SteampunkH",
@@ -4353,7 +4353,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_FateFortuneSteampunkH",
         "Outfit": "FateFortuneSteampunkH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_SteampunkH",
@@ -4365,7 +4365,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_FateFortuneSteampunkH",
         "Outfit": "FateFortuneSteampunkH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_SteampunkH",
@@ -4377,7 +4377,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_FateFortuneSteampunkH",
         "Outfit": "FateFortuneSteampunkH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_FanaticSaintL",
@@ -4389,7 +4389,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_FanaticSaintL",
         "Outfit": "FanaticSaintL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_FanaticSaintL",
@@ -4401,7 +4401,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_FanaticSaintL",
         "Outfit": "FanaticSaintL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_FanaticSaintL",
@@ -4413,7 +4413,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_FanaticSaintL",
         "Outfit": "FanaticSaintL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_FanaticSaintL",
@@ -4425,7 +4425,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_FanaticSaintL",
         "Outfit": "FanaticSaintL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_FanaticSaintL",
@@ -4437,7 +4437,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_FanaticSaintL",
         "Outfit": "FanaticSaintL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_PrimeEyes",
@@ -4449,7 +4449,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_PrimeEyes",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_RPGBarbarian",
@@ -4461,7 +4461,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_RPGBarbarian",
         "Outfit": "RPGBarbarian",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_RPGBarbarian",
@@ -4473,7 +4473,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_RPGBarbarian",
         "Outfit": "RPGBarbarian",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_RPGBarbarian",
@@ -4485,7 +4485,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_RPGBarbarian",
         "Outfit": "RPGBarbarian",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_RPGBarbarian",
@@ -4497,7 +4497,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_RPGBarbarian",
         "Outfit": "RPGBarbarian",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_RPGBarbarian",
@@ -4509,7 +4509,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_RPGBarbarian",
         "Outfit": "RPGBarbarian",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_RPGKnight",
@@ -4521,7 +4521,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_RPGKnight",
         "Outfit": "RPGKnight",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_RPGKnight",
@@ -4533,7 +4533,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_RPGKnight",
         "Outfit": "RPGKnight",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_RPGKnight",
@@ -4545,7 +4545,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_RPGKnight",
         "Outfit": "RPGKnight",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_RPGKnight",
@@ -4557,7 +4557,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_RPGKnight",
         "Outfit": "RPGKnight",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_RPGKnight",
@@ -4569,7 +4569,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_RPGKnight",
         "Outfit": "RPGKnight",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_RPGRanger",
@@ -4581,7 +4581,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_RPGRanger",
         "Outfit": "RPGRanger",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_RPGRanger",
@@ -4593,7 +4593,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_RPGRanger",
         "Outfit": "RPGRanger",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_RPGRanger",
@@ -4605,7 +4605,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_RPGRanger",
         "Outfit": "RPGRanger",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_RPGRanger",
@@ -4617,7 +4617,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_RPGRanger",
         "Outfit": "RPGRanger",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_RPGRanger",
@@ -4629,7 +4629,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_RPGRanger",
         "Outfit": "RPGRanger",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WarHammer_ClassicRPG",
@@ -4641,7 +4641,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WarHammer_ClassicRPG",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Bow_ClassicRPG",
@@ -4653,7 +4653,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Bow_ClassicRPG",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Firestaff_ClassicRPG",
@@ -4665,7 +4665,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Firestaff_ClassicRPG",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_GreatAxe_ClassicRPG",
@@ -4677,7 +4677,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_GreatAxe_ClassicRPG",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_ShieldK_ClassicRPG",
@@ -4689,7 +4689,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_ShieldK_ClassicRPG",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Longsword_ClassicRPG",
@@ -4701,7 +4701,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Longsword_ClassicRPG",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_FanaticSaintH",
@@ -4713,7 +4713,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_FanaticSaintH",
         "Outfit": "FanaticSaintH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_FanaticSaintH",
@@ -4725,7 +4725,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_FanaticSaintH",
         "Outfit": "FanaticSaintH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_FanaticSaintH",
@@ -4737,7 +4737,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_FanaticSaintH",
         "Outfit": "FanaticSaintH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_FanaticSaintH",
@@ -4749,7 +4749,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_FanaticSaintH",
         "Outfit": "FanaticSaintH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_FanaticSaintH",
@@ -4761,7 +4761,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_FanaticSaintH",
         "Outfit": "FanaticSaintH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Adobe",
@@ -4773,7 +4773,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Adobe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Adobe",
@@ -4785,7 +4785,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Adobe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Adobe",
@@ -4797,7 +4797,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Adobe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Adobe",
@@ -4809,7 +4809,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Adobe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Adobe",
@@ -4821,7 +4821,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Adobe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Longsword_CrimsonEdge",
@@ -4833,7 +4833,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Longsword_CrimsonEdge",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_SilentDeath_L",
@@ -4845,7 +4845,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_SilentDeath_L",
         "Outfit": "SilentDeathL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_SilentDeath_L",
@@ -4857,7 +4857,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_SilentDeath_L",
         "Outfit": "SilentDeathL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_SilentDeath_L",
@@ -4869,7 +4869,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_SilentDeath_L",
         "Outfit": "SilentDeathL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_SilentDeath_L",
@@ -4881,7 +4881,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_SilentDeath_L",
         "Outfit": "SilentDeathL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_SilentDeath_L",
@@ -4893,7 +4893,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_SilentDeath_L",
         "Outfit": "SilentDeathL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_SilentDeath_M",
@@ -4905,7 +4905,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_SilentDeath_M",
         "Outfit": "SilentDeathM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_SilentDeath_M",
@@ -4917,7 +4917,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_SilentDeath_M",
         "Outfit": "SilentDeathM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_SilentDeath_M",
@@ -4929,7 +4929,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_SilentDeath_M",
         "Outfit": "SilentDeathM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_SilentDeath_M",
@@ -4941,7 +4941,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_SilentDeath_M",
         "Outfit": "SilentDeathM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_SilentDeath_M",
@@ -4953,7 +4953,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_SilentDeath_M",
         "Outfit": "SilentDeathM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_SilentDeath_H",
@@ -4965,7 +4965,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_SilentDeath_H",
         "Outfit": "SilentDeathH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_SilentDeath_H",
@@ -4977,7 +4977,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_SilentDeath_H",
         "Outfit": "SilentDeathH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_SilentDeath_H",
@@ -4989,7 +4989,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_SilentDeath_H",
         "Outfit": "SilentDeathH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_SilentDeath_H",
@@ -5001,7 +5001,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_SilentDeath_H",
         "Outfit": "SilentDeathH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_SilentDeath_H",
@@ -5013,7 +5013,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_SilentDeath_H",
         "Outfit": "SilentDeathH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_GreatAxe_SilentDeath",
@@ -5025,7 +5025,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_GreatAxe_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hatchet_SilentDeath",
@@ -5037,7 +5037,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hatchet_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Spear_SilentDeath",
@@ -5049,7 +5049,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Spear_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_IceGaunt_SilentDeath",
@@ -5061,7 +5061,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_IceGaunt_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Musket_SilentDeath",
@@ -5073,7 +5073,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Musket_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_VoidGauntlet_SilentDeath",
@@ -5085,7 +5085,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_VoidGauntlet_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Blunderbuss_SilentDeath",
@@ -5097,7 +5097,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Blunderbuss_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Rapier_SilentDeath",
@@ -5109,7 +5109,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Rapier_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lifestaff_SilentDeath",
@@ -5121,7 +5121,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Lifestaff_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Metal_L",
@@ -5133,7 +5133,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Metal_L",
         "Outfit": "MetalL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Metal_L",
@@ -5145,7 +5145,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Metal_L",
         "Outfit": "MetalL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Metal_L",
@@ -5157,7 +5157,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Metal_L",
         "Outfit": "MetalL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Metal_L",
@@ -5169,7 +5169,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Metal_L",
         "Outfit": "MetalL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Metal_L",
@@ -5181,7 +5181,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Metal_L",
         "Outfit": "MetalL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Metal_M",
@@ -5193,7 +5193,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Metal_M",
         "Outfit": "MetalM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Metal_M",
@@ -5205,7 +5205,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Metal_M",
         "Outfit": "MetalM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Metal_M",
@@ -5217,7 +5217,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Metal_M",
         "Outfit": "MetalM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Metal_M",
@@ -5229,7 +5229,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Metal_M",
         "Outfit": "MetalM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Metal_M",
@@ -5241,7 +5241,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Metal_M",
         "Outfit": "MetalM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Metal_H",
@@ -5253,7 +5253,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Metal_H",
         "Outfit": "MetalH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Metal_H",
@@ -5265,7 +5265,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Metal_H",
         "Outfit": "MetalH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Metal_H",
@@ -5277,7 +5277,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Metal_H",
         "Outfit": "MetalH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Metal_H",
@@ -5289,7 +5289,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Metal_H",
         "Outfit": "MetalH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Metal_H",
@@ -5301,7 +5301,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Metal_H",
         "Outfit": "MetalH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Metal_SkinningKnife",
@@ -5313,7 +5313,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Metal_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Metal_Sickle",
@@ -5325,7 +5325,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Metal_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Metal_Pickaxe",
@@ -5337,7 +5337,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Metal_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Metal_LoggingAxe",
@@ -5349,7 +5349,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Metal_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Metal_FishingPole",
@@ -5361,7 +5361,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Metal_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Metal_AzothScepter",
@@ -5373,7 +5373,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Metal_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_ShieldK_Metal",
@@ -5385,7 +5385,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_ShieldK_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Longsword_Metal",
@@ -5397,7 +5397,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Longsword_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_GreatAxe_Metal",
@@ -5409,7 +5409,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_GreatAxe_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Firestaff_Metal",
@@ -5421,7 +5421,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Firestaff_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_VoidGauntlet_Metal",
@@ -5433,7 +5433,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_VoidGauntlet_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Blunderbuss_Metal",
@@ -5445,7 +5445,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Blunderbuss_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Flute_Metal",
@@ -5457,7 +5457,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Flute_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Drum_Metal",
@@ -5469,7 +5469,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Drum_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Guitar_Metal",
@@ -5481,7 +5481,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Guitar_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_UprightBass_Metal",
@@ -5493,7 +5493,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_UprightBass_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Mandolin_Metal",
@@ -5505,7 +5505,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Mandolin_Metal",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Flute_Summer",
@@ -5517,7 +5517,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Flute_Summer",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Drum_Summer",
@@ -5529,7 +5529,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Drum_Summer",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Guitar_Summer",
@@ -5541,7 +5541,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Guitar_Summer",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_UprightBass_Summer",
@@ -5553,7 +5553,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_UprightBass_Summer",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Mandolin_Summer",
@@ -5565,7 +5565,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Mandolin_Summer",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WarHammer_SilentDeath",
@@ -5577,7 +5577,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WarHammer_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Bow_SilentDeath",
@@ -5589,7 +5589,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Bow_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Firestaff_SilentDeath",
@@ -5601,7 +5601,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Firestaff_SilentDeath",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_SummerMedleyfaire_Fishingpole1",
@@ -5613,7 +5613,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_SummerMedleyfaire_Fishingpole1",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_SummerMedleyfaire_Fishingpole2",
@@ -5625,7 +5625,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_SummerMedleyfaire_Fishingpole2",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_SummerMedleyfaire_Fishingpole3",
@@ -5637,7 +5637,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_SummerMedleyfaire_Fishingpole3",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_SilentDeath_SkinningKnife",
@@ -5649,7 +5649,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_SilentDeath_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_SilentDeath_Sickle",
@@ -5661,7 +5661,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_SilentDeath_Sickle",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_SilentDeath_Pickaxe",
@@ -5673,7 +5673,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_SilentDeath_Pickaxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_SilentDeath_LoggingAxe",
@@ -5685,7 +5685,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_SilentDeath_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_SilentDeath_FishingPole",
@@ -5697,7 +5697,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_SilentDeath_FishingPole",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_SilentDeath_AzothScepter",
@@ -5709,7 +5709,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_SilentDeath_AzothScepter",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Summer",
@@ -5721,7 +5721,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Summer",
         "Outfit": "SummerMedley",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Summer",
@@ -5733,7 +5733,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Summer",
         "Outfit": "SummerMedley",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_FemNobleTwitch_L",
@@ -5745,7 +5745,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_FemNobleTwitch_L",
         "Outfit": "FemNobleL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_FemNobleTwitch_L",
@@ -5757,7 +5757,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_FemNobleTwitch_L",
         "Outfit": "FemNobleL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_FemNobleTwitch_L",
@@ -5769,7 +5769,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_FemNobleTwitch_L",
         "Outfit": "FemNobleL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_FemNobleTwitch_L",
@@ -5781,7 +5781,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_FemNobleTwitch_L",
         "Outfit": "FemNobleL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_FemNobleTwitch_L",
@@ -5793,7 +5793,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_FemNobleTwitch_L",
         "Outfit": "FemNobleL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Phoenix_L",
@@ -5805,7 +5805,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Phoenix_L",
         "Outfit": "PhoenixL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Phoenix_L",
@@ -5817,7 +5817,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Phoenix_L",
         "Outfit": "PhoenixL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Phoenix_L",
@@ -5829,7 +5829,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Phoenix_L",
         "Outfit": "PhoenixL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Phoenix_L",
@@ -5841,7 +5841,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Phoenix_L",
         "Outfit": "PhoenixL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Phoenix_L",
@@ -5853,7 +5853,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Phoenix_L",
         "Outfit": "PhoenixL",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Phoenix_M",
@@ -5865,7 +5865,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Phoenix_M",
         "Outfit": "PhoenixM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Phoenix_M",
@@ -5877,7 +5877,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Phoenix_M",
         "Outfit": "PhoenixM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Phoenix_M",
@@ -5889,7 +5889,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Phoenix_M",
         "Outfit": "PhoenixM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Phoenix_M",
@@ -5901,7 +5901,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Phoenix_M",
         "Outfit": "PhoenixM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Phoenix_M",
@@ -5913,7 +5913,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Phoenix_M",
         "Outfit": "PhoenixM",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_Phoenix_H",
@@ -5925,7 +5925,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_Phoenix_H",
         "Outfit": "PhoenixH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_Phoenix_H",
@@ -5937,7 +5937,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_Phoenix_H",
         "Outfit": "PhoenixH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_Phoenix_H",
@@ -5949,7 +5949,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_Phoenix_H",
         "Outfit": "PhoenixH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_Phoenix_H",
@@ -5961,7 +5961,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_Phoenix_H",
         "Outfit": "PhoenixH",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Flute_FateFortune",
@@ -5973,7 +5973,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Flute_FateFortune",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Guitar_FateFortune",
@@ -5985,7 +5985,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Guitar_FateFortune",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_UprightBass_FateFortune",
@@ -5997,7 +5997,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_UprightBass_FateFortune",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Rapier_Phoenix",
@@ -6009,7 +6009,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Rapier_Phoenix",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_WarHammer_Phoenix",
@@ -6021,7 +6021,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_WarHammer_Phoenix",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Spear_Phoenix",
@@ -6033,7 +6033,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Spear_Phoenix",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hatchet_Phoenix",
@@ -6045,7 +6045,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hatchet_Phoenix",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Lifestaff_Phoenix",
@@ -6057,7 +6057,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Lifestaff_Phoenix",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Blunderbuss_Phoenix",
@@ -6069,7 +6069,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Blunderbuss_Phoenix",
         "Outfit": "",
-        "IsEnabled": true
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Phoenix_SkinningKnife",
@@ -6081,7 +6081,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Phoenix_SkinningKnife",
         "Outfit": "",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Phoenix_Sickle",
@@ -6093,7 +6093,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Phoenix_Sickle",
         "Outfit": "",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Phoenix_Pickaxe",
@@ -6105,7 +6105,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Phoenix_Pickaxe",
         "Outfit": "",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Phoenix_LoggingAxe",
@@ -6117,7 +6117,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Phoenix_LoggingAxe",
         "Outfit": "",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Phoenix_FishingPole",
@@ -6129,7 +6129,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Phoenix_FishingPole",
         "Outfit": "",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Phoenix_AzothScepter",
@@ -6141,7 +6141,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Phoenix_AzothScepter",
         "Outfit": "",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_Phoenix_H",
@@ -6153,7 +6153,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_Phoenix_H",
         "Outfit": "PhoenixH",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Chest_FanaticSaintM",
@@ -6165,7 +6165,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Chest_FanaticSaintM",
         "Outfit": "FanaticSaintM",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Head_FanaticSaintM",
@@ -6177,7 +6177,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Head_FanaticSaintM",
         "Outfit": "FanaticSaintM",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Legs_FanaticSaintM",
@@ -6189,7 +6189,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Legs_FanaticSaintM",
         "Outfit": "FanaticSaintM",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Feet_FanaticSaintM",
@@ -6201,7 +6201,7 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Feet_FanaticSaintM",
         "Outfit": "FanaticSaintM",
-        "IsEnabled": false
+        "IsTemporarySkin": false
     },
     {
         "ItemSkinID": "Skin_Hands_FanaticSaintM",
@@ -6213,6 +6213,66 @@
         "ExcludedClasses": "",
         "ToItemID": "Skin_Hands_FanaticSaintM",
         "Outfit": "FanaticSaintM",
-        "IsEnabled": false
+        "IsTemporarySkin": false
+    },
+    {
+        "ItemSkinID": "Skin_Chest_RomanSoldier",
+        "IndexID": 600,
+        "IsEntitlement": 1,
+        "FromItemIDs": "",
+        "NeedsOneClasses": "EquippableChest",
+        "RequiredClasses": "",
+        "ExcludedClasses": "",
+        "ToItemID": "Skin_Chest_RomanSoldier",
+        "Outfit": "",
+        "IsTemporarySkin": false
+    },
+    {
+        "ItemSkinID": "Skin_Head_RomanSoldier",
+        "IndexID": 601,
+        "IsEntitlement": 1,
+        "FromItemIDs": "",
+        "NeedsOneClasses": "EquippableHead",
+        "RequiredClasses": "",
+        "ExcludedClasses": "",
+        "ToItemID": "Skin_Head_RomanSoldier",
+        "Outfit": "",
+        "IsTemporarySkin": false
+    },
+    {
+        "ItemSkinID": "Skin_Legs_RomanSoldier",
+        "IndexID": 602,
+        "IsEntitlement": 1,
+        "FromItemIDs": "",
+        "NeedsOneClasses": "EquippableLegs",
+        "RequiredClasses": "",
+        "ExcludedClasses": "",
+        "ToItemID": "Skin_Legs_RomanSoldier",
+        "Outfit": "",
+        "IsTemporarySkin": false
+    },
+    {
+        "ItemSkinID": "Skin_Feet_RomanSoldier",
+        "IndexID": 603,
+        "IsEntitlement": 1,
+        "FromItemIDs": "",
+        "NeedsOneClasses": "EquippableFeet",
+        "RequiredClasses": "",
+        "ExcludedClasses": "",
+        "ToItemID": "Skin_Feet_RomanSoldier",
+        "Outfit": "",
+        "IsTemporarySkin": false
+    },
+    {
+        "ItemSkinID": "Skin_Hands_RomanSoldier",
+        "IndexID": 604,
+        "IsEntitlement": 1,
+        "FromItemIDs": "",
+        "NeedsOneClasses": "EquippableHands",
+        "RequiredClasses": "",
+        "ExcludedClasses": "",
+        "ToItemID": "Skin_Hands_RomanSoldier",
+        "Outfit": "",
+        "IsTemporarySkin": false
     }
 ]

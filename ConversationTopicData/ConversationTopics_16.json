@@ -1,0 +1,146 @@
+[
+    {
+        "ConversationTopicId": "Barnabas_Brimstone_Background",
+        "PlayerPrompt": "@Topic_BarnabasBackground_Prompt",
+        "NPCResponse": "@Topic_BarnabasBackground_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0201_ImhotepTalkTo_A",
+        "PlayerPrompt": "@1625_0201_ablossomingthreat_TalkTo_Imhotep_prompt",
+        "NPCResponse": "@1625_0201_ablossomingthreat_TalkTo_Imhotep_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0201_ImhotepTalkTo_B",
+        "PlayerPrompt": "@1625_0201_ablossomingthreat_TalkTo_Imhotep2_prompt",
+        "NPCResponse": "@1625_0201_ablossomingthreat_TalkTo_Imhotep2_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0103_AbanTalkTo",
+        "PlayerPrompt": "@1625_0103_stirringinthesands_TalkTo_Aban_prompt",
+        "NPCResponse": "@1625_0103_stirringinthesands_TalkTo_Aban_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0301_GhaziTalkTo",
+        "PlayerPrompt": "@1624_0301_wateringtheseed_TalkTo_Ghazi_prompt",
+        "NPCResponse": "@1624_0301_wateringtheseed_TalkTo_Ghazi_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0302_ImhotepTalkTo_A",
+        "PlayerPrompt": "@1624_0302_unravelingthemystery_TalkTo_Imhotep_prompt",
+        "NPCResponse": "@1624_0302_unravelingthemystery_TalkTo_Imhotep_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0302_GhaziPreRitual",
+        "PlayerPrompt": "@1624_0302_unravelingthemystery_Topic_preRitualGhazi_prompt",
+        "NPCResponse": "@1624_0302_unravelingthemystery_Topic_preRitualGhazi_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0302_GhaziPostRitual",
+        "PlayerPrompt": "@1624_0302_unravelingthemystery_Topic_postRitualGhazi_prompt",
+        "NPCResponse": "@1624_0302_unravelingthemystery_Topic_postRitualGhazi_next",
+        "AchievementUnlock": "16_Topic_RitualComplete",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0303_GhaziPostRitual2",
+        "PlayerPrompt": "@1624_0303_accursedalchemy_Topic_Ghazi_prompt",
+        "NPCResponse": "@1624_0303_accursedalchemy_Topic_Ghazi_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "16_Topic_RitualComplete",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0401_GhaziTalkTo",
+        "PlayerPrompt": "@1624_0401_thedemonscauldron_Topic_Ghazi_prompt",
+        "NPCResponse": "@1624_0401_thedemonscauldron_Topic_Ghazi_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0701_ImhotepTalkTo",
+        "PlayerPrompt": "@1625_0701_challengingpharaoh_TalkTo_Imhotep_prompt",
+        "NPCResponse": "@1625_0701_challengingpharaoh_TalkTo_Imhotep_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0801_ImhotepTalkTo",
+        "PlayerPrompt": "@1624_0801_agodawakens_TalkTo_Imhotep_prompt",
+        "NPCResponse": "@1624_0801_agodawakens_TalkTo_Imhotep_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0801_GhaziTalkTo",
+        "PlayerPrompt": "@1624_0801_agodawakens_TalkTo_Ghazi_prompt",
+        "NPCResponse": "@1624_0801_agodawakens_TalkTo_Ghazi_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0901_ImhotepTalkTo",
+        "PlayerPrompt": "@1624_0901_secretindesert_TalkTo_Imhotep_prompt",
+        "NPCResponse": "@1624_0901_secretindesert_TalkTo_Imhotep_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0902_EvandrusTalkTo",
+        "PlayerPrompt": "@1625_0902_queenrevealed_TalkTo_Evandrus_prompt",
+        "NPCResponse": "@1625_0902_queenrevealed_TalkTo_Evandrus_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_Coro_GhaziTalkTo",
+        "PlayerPrompt": "@1625_0903_thecoronation_TalkTo_Cleo_prompt",
+        "NPCResponse": "@1625_0903_thecoronation_TalkTo_Cleo_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

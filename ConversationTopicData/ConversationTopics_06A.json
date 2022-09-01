@@ -1,0 +1,299 @@
+[
+    {
+        "ConversationTopicId": "06_FrancisTurner_Lost",
+        "PlayerPrompt": "@06_FrancisTurner_Lost_prompt",
+        "NPCResponse": "@06_FrancisTurner_Lost_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_SaatvikAgrawal_Windmills",
+        "PlayerPrompt": "@06_SaatvikAgrawal_Windmills_prompt",
+        "NPCResponse": "@06_SaatvikAgrawal_Windmills_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_LijsbetDeVries_Trapped",
+        "PlayerPrompt": "@06A_MSQ_06_FarmerLijsbet_Bark_prompt",
+        "NPCResponse": "@06A_MSQ_06_FarmerLijsbet_Bark",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_MichaelLewis_Trapped",
+        "PlayerPrompt": "@06A_MSQ_06_FarmerMichael_Bark_prompt",
+        "NPCResponse": "@06A_MSQ_06_FarmerMichael_Bark",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Trapped",
+        "PlayerPrompt": "@06A_MSQ_06_DruidNessa_Bark_prompt",
+        "NPCResponse": "@06A_MSQ_06_DruidNessa_Bark",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Druids",
+        "PlayerPrompt": "@06A_MSQ_06_RescueFarmers_Nessa_talkto_prompt",
+        "NPCResponse": "@06A_MSQ_06_RescueFarmers_Nessa_talkto",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_MichaelLewis_Farm",
+        "PlayerPrompt": "@06_MichaelLewis_Farm_prompt",
+        "NPCResponse": "@06_MichaelLewis_Farm_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_LijsbetDeVries_Farm",
+        "PlayerPrompt": "@06_LijsbetDeVries_Farm_prompt",
+        "NPCResponse": "@06_LijsbetDeVries_Farm_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_LeovixSilva_Fallen",
+        "PlayerPrompt": "@06_LeovixSilva_Fallen_prompt",
+        "NPCResponse": "@06_LeovixSilva_Fallen_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_GideonStormsbane_Rescue",
+        "PlayerPrompt": "@06_GideonStormsbane_Rescue_prompt",
+        "NPCResponse": "@06_GideonStormsbane_Rescue_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_FrancisTurner_Tribute",
+        "PlayerPrompt": "@06_FrancisTurner_Tribute_prompt",
+        "NPCResponse": "@06_FrancisTurner_Tribute_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_MarcelDupont_Tribute",
+        "PlayerPrompt": "@06_MarcelDupont_Tribute_prompt",
+        "NPCResponse": "@06_MarcelDupont_Tribute_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_GraceOMalley_Pirates",
+        "PlayerPrompt": "@06_GraceOMalley_Pirates_prompt",
+        "NPCResponse": "@06_GraceOMalley_Pirates_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Success",
+        "PlayerPrompt": "@06A_MSQ_13_ReturnMiradorJewel_Nessa_prompt",
+        "NPCResponse": "@06A_MSQ_13_ReturnMiradorJewel_Nessaresponse",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_OtherJewel",
+        "PlayerPrompt": "@06A_MSQ_14_SolveMapPuzzle_proposal_next_prompt",
+        "NPCResponse": "@06A_MSQ_14_SolveMapPuzzle_proposal_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_GraceOMalley_ToTown",
+        "PlayerPrompt": "@06A_MSQ_14_SolveMapPuzzle_proposal_next2_prompt",
+        "NPCResponse": "@06A_MSQ_14_SolveMapPuzzle_proposal_next2",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_GraceOMalley_Revolution",
+        "PlayerPrompt": "@06_GraceOMalley_Revolution_prompt",
+        "NPCResponse": "@06_GraceOMalley_Revolution_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_SaatvikAgrawal_Pirates",
+        "PlayerPrompt": "@06_SaatvikAgrawal_Pirates_prompt",
+        "NPCResponse": "@06_SaatvikAgrawal_Pirates_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Jewel",
+        "PlayerPrompt": "@06_NessaHarrower_Jewel_prompt",
+        "NPCResponse": "@06_NessaHarrower_Jewel_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_LeovixSilva_Betrayal",
+        "PlayerPrompt": "@06_LeovixSilva_Betrayal_prompt",
+        "NPCResponse": "@06_LeovixSilva_Betrayal_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_FrancisTurner_Jewel",
+        "PlayerPrompt": "@06_FrancisTurner_Jewel_prompt",
+        "NPCResponse": "@06_FrancisTurner_Jewel_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_MarcelDupont_Jewel",
+        "PlayerPrompt": "@06_MarcelDupont_Jewel_prompt",
+        "NPCResponse": "@06_MarcelDupont_Jewel_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_SaatvikAgrawal_NewSpeaker",
+        "PlayerPrompt": "@06_SaatvikAgrawal_NewSpeaker_prompt",
+        "NPCResponse": "@06_SaatvikAgrawal_NewSpeaker_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_Medea_Eldergate",
+        "PlayerPrompt": "@06_Medea_Eldergate_prompt",
+        "NPCResponse": "@06_Medea_Eldergate_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Korrapati",
+        "PlayerPrompt": "@06_NessaHarrower_Korrapati_prompt",
+        "NPCResponse": "@06_NessaHarrower_Korrapati_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_LeovixSilva_Caravan",
+        "PlayerPrompt": "@06_LeovixSilva_Caravan_prompt",
+        "NPCResponse": "@06_LeovixSilva_Caravan_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_Medea_Tribute",
+        "PlayerPrompt": "@06_Medea_Tribute_prompt",
+        "NPCResponse": "@06_Medea_Tribute_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Medea",
+        "PlayerPrompt": "@06_NessaHarrower_Medea_prompt",
+        "NPCResponse": "@06_NessaHarrower_Medea_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_AhuraFarid_SpreadJoy",
+        "PlayerPrompt": "@06_AhuraFarid_SpreadJoy_prompt",
+        "NPCResponse": "@06_AhuraFarid_SpreadJoy_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_PriyaThakur_SpreadJoy",
+        "PlayerPrompt": "@06_PriyaThakur_SpreadJoy_prompt",
+        "NPCResponse": "@06_PriyaThakur_SpreadJoy_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_UtkarshSingh_SpreadJoy",
+        "PlayerPrompt": "@06_UtkarshSingh_SpreadJoy_prompt",
+        "NPCResponse": "@06_UtkarshSingh_SpreadJoy_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0623_Fisher_ExplainHotspots",
+        "PlayerPrompt": "@0223_Fisher_ExplainHotspots_Prompt",
+        "NPCResponse": "@0223_Fisher_ExplainHotspots_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0923_Fisher_ExplainHotspots",
+        "PlayerPrompt": "@0223_Fisher_ExplainHotspots_Prompt",
+        "NPCResponse": "@0223_Fisher_ExplainHotspots_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

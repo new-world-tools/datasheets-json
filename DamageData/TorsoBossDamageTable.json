@@ -46,7 +46,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_L_R",
@@ -95,7 +97,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Mid",
@@ -144,7 +148,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Chest_Impact",
@@ -193,7 +199,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Punch",
@@ -242,7 +250,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Slap",
@@ -291,7 +301,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Arcane_Conduit",
@@ -340,7 +352,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Eye_Beam",
@@ -389,7 +403,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": true
+        "DamageGuildAndGroup": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Final_Eye_Beam",
@@ -438,7 +454,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": true
+        "DamageGuildAndGroup": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Arcane_Conduit_Damage_Boss",
@@ -487,7 +505,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 0,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": true
+        "DamageGuildAndGroup": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Rolling_Hands",
@@ -536,7 +556,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Chest_Impact_Stunned",
@@ -585,7 +607,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": 16,
         "stunBreakoutIncrementer": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -634,7 +658,9 @@
         "BlockAbsorptionModifier": 1,
         "LOSCheckVerticalAngleOffset": null,
         "stunBreakoutIncrementer": null,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -683,6 +709,8 @@
         "BlockAbsorptionModifier": null,
         "LOSCheckVerticalAngleOffset": null,
         "stunBreakoutIncrementer": null,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

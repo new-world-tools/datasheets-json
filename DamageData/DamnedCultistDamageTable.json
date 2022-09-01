@@ -48,7 +48,9 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 45
+        "LOSCheckVerticalAngleOffset": 45,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "1H_Knife_Stab_Attack1",
@@ -99,7 +101,9 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 45
+        "LOSCheckVerticalAngleOffset": 45,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cultist_MarkOfCorruption",
@@ -150,7 +154,9 @@
         "BlockStaminaDmgMod": 0.65,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 45
+        "LOSCheckVerticalAngleOffset": 45,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cultist_CorruptingLight",
@@ -201,7 +207,9 @@
         "BlockStaminaDmgMod": 0.55,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 90
+        "LOSCheckVerticalAngleOffset": 90,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cultist_FanaticalEmpowerment",
@@ -252,7 +260,9 @@
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 90
+        "LOSCheckVerticalAngleOffset": 90,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -303,7 +313,9 @@
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -354,7 +366,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -405,6 +419,8 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

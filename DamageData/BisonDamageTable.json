@@ -43,7 +43,9 @@
         "StunBreakoutIncrement": 1,
         "CameraShakeID": "Large",
         "BlockTargetCameraShakeID": "Large",
-        "CritTargetCameraShakeID": "Large"
+        "CritTargetCameraShakeID": "Large",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Trample",
@@ -89,6 +91,8 @@
         "StunBreakoutIncrement": 1,
         "CameraShakeID": "Large",
         "BlockTargetCameraShakeID": "Large",
-        "CritTargetCameraShakeID": "Large"
+        "CritTargetCameraShakeID": "Large",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

@@ -40,7 +40,9 @@
         "StaggerDmgModifier": 1.5,
         "CritStaggerDmgModifier": "",
         "StaggerResistModifier": 1.6,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Kick",
@@ -83,7 +85,9 @@
         "StaggerDmgModifier": 1.5,
         "CritStaggerDmgModifier": "",
         "StaggerResistModifier": 1.6,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -126,7 +130,9 @@
         "StaggerDmgModifier": 0,
         "CritStaggerDmgModifier": "",
         "StaggerResistModifier": 0,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Panic",
@@ -169,7 +175,9 @@
         "StaggerDmgModifier": 1,
         "CritStaggerDmgModifier": "",
         "StaggerResistModifier": 0.2,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -212,6 +220,8 @@
         "StaggerDmgModifier": 1,
         "CritStaggerDmgModifier": "",
         "StaggerResistModifier": 10,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

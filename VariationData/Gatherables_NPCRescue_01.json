@@ -1,0 +1,134 @@
+[
+    {
+        "VariantID": "Generic_Test_NPC_NoInteractTag",
+        "GatherableEntryId": "NPCRescue_Generic_NPC_01",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\12_ShazaanCortis.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "",
+        "InteractOnlyOnQuest": null,
+        "InteractTag": ""
+    },
+    {
+        "VariantID": "12A_MSQ_ShazaanCortis",
+        "GatherableEntryId": "MB_MSQ2_RescueMiner_Rescue01",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\12_ShazaanCortis.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway_Nod_01.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "Play_Miners_Shazaan_line1",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_MB_MSQ2_FreeMiners_01"
+    },
+    {
+        "VariantID": "12A_MSQ_TomiraDudek",
+        "GatherableEntryId": "MB_MSQ2_RescueMiner_Rescue02",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\12_TomiraDudek.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway_Nod_01_NoTerrainSnap.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "Play_Miners_Tomira_line1",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_MB_MSQ2_FreeMiners_02"
+    },
+    {
+        "VariantID": "12A_MSQ_ChanduIyer",
+        "GatherableEntryId": "MB_MSQ2_RescueMiner_Rescue03",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\12_ChanduIyer.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway_Nod_02.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "Play_Miners_Chandu_line1",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_MB_MSQ2_FreeMiners_03"
+    },
+    {
+        "VariantID": "06A_MSQ_Gideon_Trapped",
+        "GatherableEntryId": "06A_MSQ_Gideon_Trapped",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\06A_Gideon.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "Play_06_GideonStormsbane_Rescue_response",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_MSQ_Gideon_Trapped"
+    },
+    {
+        "VariantID": "06A_MSQ_Lijsbet_Trapped",
+        "GatherableEntryId": "06A_MSQ_Lijsbet_Trapped",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\06_LijsbetDeVries.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "Play_06A_MSQ_06_FarmerLijsbet_Bark",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_MSQ_Lijsbet_Trapped"
+    },
+    {
+        "VariantID": "06A_MSQ_Michael_Trapped",
+        "GatherableEntryId": "06A_MSQ_Michael_Trapped",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\06_MichaelLewis.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "Play_06A_MSQ_06_FarmerMichael_Bark",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_MSQ_Michael_Trapped"
+    },
+    {
+        "VariantID": "06A_MSQ_Nessa_Trapped",
+        "GatherableEntryId": "06A_MSQ_Nessa_Trapped",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\06_NessaHarrower.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "Play_06A_MSQ_06_DruidNessa_Bark",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_MSQ_Nessa_Trapped"
+    },
+    {
+        "VariantID": "98_Marauders_03_CaptiveA",
+        "GatherableEntryId": "98_Marauders_03_CaptiveA",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\0207_commander.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_98_Marauders_03_HostageA"
+    },
+    {
+        "VariantID": "98_Marauders_03_CaptiveB",
+        "GatherableEntryId": "98_Marauders_03_CaptiveB",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\9815_marauderguard_m.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_98_Marauders_03_HostageB"
+    },
+    {
+        "VariantID": "98_Marauders_03_CaptiveC",
+        "GatherableEntryId": "98_Marauders_03_CaptiveC",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\9819_hedge.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Everfall\\NPCRescue_WorldEvent_NPC_RunAway_CQ3_Hedge_NoTerrainSnap.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_98_Marauders_03_HostageC"
+    },
+    {
+        "VariantID": "98_Covenant_02_Captive",
+        "GatherableEntryId": "98_Covenant_02_Captive",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\9813_damiano.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_98_Covenant_02_Captive"
+    }
+]

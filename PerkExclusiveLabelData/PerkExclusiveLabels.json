@@ -106,7 +106,7 @@
     },
     {
         "ExclusiveLabelID": "Durability",
-        "Weight": 30,
+        "Weight": 20,
         "ItemClassOverrides": ""
     },
     {
@@ -427,6 +427,11 @@
     {
         "ExclusiveLabelID": "ArmorHealth",
         "Weight": 20,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Dur",
+        "Weight": 100,
         "ItemClassOverrides": ""
     }
 ]

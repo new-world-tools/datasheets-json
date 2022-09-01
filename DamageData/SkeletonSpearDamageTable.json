@@ -12,7 +12,7 @@
         "AddAffliction": "",
         "AfflictionPercent": "",
         "Affixes": "",
-        "StatusEffect": "AI_Bleed_9",
+        "StatusEffect": "",
         "EffectOnlyOnDamage": true,
         "DeflectDamageID": "",
         "CanCrit": false,
@@ -48,7 +48,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_1H_Stab_Triple_Final",
@@ -63,7 +65,7 @@
         "AddAffliction": "",
         "AfflictionPercent": "",
         "Affixes": "",
-        "StatusEffect": "AI_Bleed_9",
+        "StatusEffect": "",
         "EffectOnlyOnDamage": true,
         "DeflectDamageID": "",
         "CanCrit": false,
@@ -99,7 +101,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_1H_Stab",
@@ -150,7 +154,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_1H_Stab_Pitchfork",
@@ -201,7 +207,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_Running_Stab",
@@ -220,7 +228,7 @@
         "EffectOnlyOnDamage": true,
         "DeflectDamageID": "",
         "CanCrit": false,
-        "DmgCoef": 1.15,
+        "DmgCoef": 0.5,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1.3,
         "PowerLevel": 3,
@@ -252,7 +260,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_1H_Breakout_Slash",
@@ -303,7 +313,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -354,7 +366,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -405,6 +419,8 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

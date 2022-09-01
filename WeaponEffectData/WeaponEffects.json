@@ -70,6 +70,16 @@
         "Nature": "Scripts/WeaponEffects/Warhammer/WeaponEffect_Warhammer_Nature.lua"
     },
     {
+        "WeaponEffectId": "Greatsword",
+        "Default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
+        "Fire": "Scripts/WeaponEffects/Greatsword/WeaponEffect_Greatsword_Fire.lua",
+        "Arcane": "Scripts/WeaponEffects/Greatsword/WeaponEffect_Greatsword_Magic.lua",
+        "Void": "Scripts/WeaponEffects/Greatsword/WeaponEffect_Greatsword_Void.lua",
+        "Lightning": "Scripts/WeaponEffects/Greatsword/WeaponEffect_Greatsword_Lightning.lua",
+        "Ice": "Scripts/WeaponEffects/Greatsword/WeaponEffect_Greatsword_Ice.lua",
+        "Nature": "Scripts/WeaponEffects/Greatsword/WeaponEffect_Greatsword_Nature.lua"
+    },
+    {
         "WeaponEffectId": "Hatchet",
         "Default": "Scripts/WeaponEffects/WeaponEffect_Default.lua",
         "Fire": "Scripts/WeaponEffects/Hatchet/WeaponEffect_Hatchet_Fire.lua",
@@ -218,5 +228,35 @@
         "Lightning": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Lightning.lua",
         "Ice": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Ice.lua",
         "Nature": "Scripts/WeaponEffects/Sword/WeaponEffect_Sword_Nature.lua"
+    },
+    {
+        "WeaponEffectId": "AI_HorusStaff",
+        "Default": "Scripts\\WeaponEffects\\AI\\AnubianGuardian\\WeaponEffect_AnubianGuardian_Horus_Staff.lua",
+        "Fire": "Scripts\\WeaponEffects\\AI\\AnubianGuardian\\WeaponEffect_AnubianGuardian_Horus_Staff.lua",
+        "Arcane": "Scripts\\WeaponEffects\\AI\\AnubianGuardian\\WeaponEffect_AnubianGuardian_Horus_Staff.lua",
+        "Void": "Scripts\\WeaponEffects\\AI\\AnubianGuardian\\WeaponEffect_AnubianGuardian_Horus_Staff.lua",
+        "Lightning": "Scripts\\WeaponEffects\\AI\\AnubianGuardian\\WeaponEffect_AnubianGuardian_Horus_Staff.lua",
+        "Ice": "Scripts\\WeaponEffects\\AI\\AnubianGuardian\\WeaponEffect_AnubianGuardian_Horus_Staff.lua",
+        "Nature": "Scripts\\WeaponEffects\\AI\\AnubianGuardian\\WeaponEffect_AnubianGuardian_Horus_Staff.lua"
+    },
+    {
+        "WeaponEffectId": "AI_EvilKnights_Icestaff",
+        "Default": "Scripts\\WeaponEffects\\AI\\EvilKnights\\WeaponEffect_EvilKnights_Icestaff.lua",
+        "Fire": "Scripts\\WeaponEffects\\AI\\EvilKnights\\WeaponEffect_EvilKnights_Icestaff.lua",
+        "Arcane": "Scripts\\WeaponEffects\\AI\\EvilKnights\\WeaponEffect_EvilKnights_Icestaff.lua",
+        "Void": "Scripts\\WeaponEffects\\AI\\EvilKnights\\WeaponEffect_EvilKnights_Icestaff.lua",
+        "Lightning": "Scripts\\WeaponEffects\\AI\\EvilKnights\\WeaponEffect_EvilKnights_Icestaff.lua",
+        "Ice": "Scripts\\WeaponEffects\\AI\\EvilKnights\\WeaponEffect_EvilKnights_Icestaff.lua",
+        "Nature": "Scripts\\WeaponEffects\\AI\\EvilKnights\\WeaponEffect_EvilKnights_Icestaff.lua"
+    },
+    {
+        "WeaponEffectId": "AI_Corrupted_Torch",
+        "Default": "Scripts/WeaponEffects/AI/Corrupted/WeaponEffect_Corrupted_Torch.lua",
+        "Fire": "Scripts/WeaponEffects/AI/Corrupted/WeaponEffect_Corrupted_Torch.lua",
+        "Arcane": "Scripts/WeaponEffects/AI/Corrupted/WeaponEffect_Corrupted_Torch.lua",
+        "Void": "Scripts/WeaponEffects/AI/Corrupted/WeaponEffect_Corrupted_Torch.lua",
+        "Lightning": "Scripts/WeaponEffects/AI/Corrupted/WeaponEffect_Corrupted_Torch.lua",
+        "Ice": "Scripts/WeaponEffects/AI/Corrupted/WeaponEffect_Corrupted_Torch.lua",
+        "Nature": "Scripts/WeaponEffects/AI/Corrupted/WeaponEffect_Corrupted_Torch.lua"
     }
 ]

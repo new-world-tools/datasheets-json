@@ -1614,6 +1614,42 @@
         "PerkBucket": "PerkBucket_VoidGauntletCharmT6"
     },
     {
+        "ResourceID": "GreatswordCharmT1",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_GreatswordCharmT1"
+    },
+    {
+        "ResourceID": "GreatswordCharmT2",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_GreatswordCharmT2"
+    },
+    {
+        "ResourceID": "GreatswordCharmT3",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_GreatswordCharmT3"
+    },
+    {
+        "ResourceID": "GreatswordCharmT4",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_GreatswordCharmT4"
+    },
+    {
+        "ResourceID": "GreatswordCharmT5",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_GreatswordCharmT5"
+    },
+    {
+        "ResourceID": "GreatswordCharmT6",
+        "IsGem": false,
+        "GemPerk": "",
+        "PerkBucket": "PerkBucket_GreatswordCharmT6"
+    },
+    {
         "ResourceID": "SmolderingWeaponShardT5",
         "IsGem": false,
         "GemPerk": "",
@@ -2136,6 +2172,12 @@
         "PerkBucket": "PearlT4"
     },
     {
+        "ResourceID": "ChitinPadding",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "ChitinPadding"
+    },
+    {
         "ResourceID": "STRBonusT1",
         "IsGem": false,
         "GemPerk": "",
@@ -2284,5 +2326,929 @@
         "IsGem": false,
         "GemPerk": "",
         "PerkBucket": "FOCCONBonusT1"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amber_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amber_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Amethyst_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Amethyst_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Aquamarine_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Aquamarine_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Carnelian_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Carnelian_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Diamond_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Diamond_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Emerald_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Emerald_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Jasper_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Jasper_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Malachite_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Malachite_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Moonstone_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Moonstone_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Onyx_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Onyx_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Opal_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Opal_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Ruby_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Ruby_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Sapphire_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Sapphire_Ranged"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Heal",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Heal"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Stamina",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Stamina"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Mana",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Mana"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Fire",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Fire"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Ice",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Ice"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Void",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Void"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Lightning",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Lightning"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Nature",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Nature"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Arcane",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Arcane"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Melee",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Melee"
+    },
+    {
+        "ResourceID": "Runeglass_Gem_Topaz_Ranged",
+        "IsGem": true,
+        "GemPerk": "",
+        "PerkBucket": "Runeglass_Gem_Topaz_Ranged"
     }
 ]

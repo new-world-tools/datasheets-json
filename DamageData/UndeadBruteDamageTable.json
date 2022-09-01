@@ -46,7 +46,9 @@
         "ImpactRating": "",
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Overhead_Slam",
@@ -95,7 +97,9 @@
         "ImpactRating": "",
         "BlockStaminaDmgMod": 0.9,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Left",
@@ -144,7 +148,9 @@
         "ImpactRating": "",
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Right",
@@ -193,7 +199,9 @@
         "ImpactRating": "",
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Shoulder_Charge",
@@ -242,7 +250,9 @@
         "ImpactRating": "",
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Spew",
@@ -291,7 +301,9 @@
         "ImpactRating": "",
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Consume",
@@ -340,7 +352,9 @@
         "ImpactRating": "",
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
-        "DamageGuildAndGroup": true
+        "DamageGuildAndGroup": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Structure",
@@ -389,7 +403,9 @@
         "ImpactRating": "",
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -438,6 +454,8 @@
         "ImpactRating": "",
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

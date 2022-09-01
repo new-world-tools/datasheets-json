@@ -43,7 +43,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.7,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Overhead_Slam",
@@ -89,7 +91,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.9,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Left",
@@ -135,7 +139,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Right",
@@ -181,7 +187,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Shoulder_Charge",
@@ -227,7 +235,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Cannon_Rain",
@@ -273,7 +283,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Shot",
@@ -319,7 +331,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Shot_Triple",
@@ -365,7 +379,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Escape_Blast",
@@ -411,7 +427,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Escape_Blast_Body",
@@ -457,7 +475,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Escape_Blast_Land",
@@ -503,7 +523,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.6,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Overhead_Slam",
@@ -549,7 +571,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.6,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Swipe",
@@ -595,7 +619,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.4,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Combo_1",
@@ -641,7 +667,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.9,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Combo_2",
@@ -687,7 +715,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.7,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -733,7 +763,9 @@
         "CritTargetCameraShakeID": "",
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Door_Blast",
@@ -779,6 +811,8 @@
         "CritTargetCameraShakeID": "",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

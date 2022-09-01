@@ -43,6 +43,8 @@
         "BlockStaminaDmgMod": 2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": ""
+        "LOSCheckVerticalAngleOffset": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

@@ -15,7 +15,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T1_M",
@@ -33,7 +36,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T1_S",
@@ -51,7 +57,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesSmall_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T2_L",
@@ -69,7 +78,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T2_M",
@@ -87,7 +99,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T2_S",
@@ -105,7 +120,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesSmall_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T3_L",
@@ -123,7 +141,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T3_M",
@@ -141,7 +162,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T3_S",
@@ -159,7 +183,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesSmall_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T1_L",
@@ -177,7 +204,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T1_M",
@@ -195,7 +225,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T2_L",
@@ -213,7 +246,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T2_M",
@@ -231,7 +267,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T3_L",
@@ -249,7 +288,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Alchemy_T3_M",
@@ -267,7 +309,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AlchemyMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Ancient_T1_L",
@@ -285,7 +330,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Ancient_T1_M",
@@ -303,7 +351,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Ancient_T1_S",
@@ -321,7 +372,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientSmall_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Ancient_T2_L",
@@ -339,7 +393,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Ancient_T2_M",
@@ -357,7 +414,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Ancient_T2_S",
@@ -375,7 +435,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientSmall_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Ancient_T3_L",
@@ -393,7 +456,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Ancient_T3_M",
@@ -411,7 +477,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Ancient_T3_S",
@@ -429,7 +498,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientSmall_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T1_L",
@@ -447,7 +519,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T1_M",
@@ -465,7 +540,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T2_L",
@@ -483,7 +561,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T2_M",
@@ -501,7 +582,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T3_L",
@@ -519,7 +603,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Blacksmith_T3_M",
@@ -537,7 +624,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T1_L",
@@ -555,7 +645,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T1_M",
@@ -573,7 +666,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T2_L",
@@ -591,7 +687,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T2_M",
@@ -609,7 +708,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T3_L",
@@ -627,7 +729,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Carpentry_T3_M",
@@ -645,7 +750,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "ChestEliteAncientT2",
@@ -663,7 +771,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Ancient_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "ChestEliteAncientT3",
@@ -681,7 +792,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Ancient_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "ChestEliteAncientT4",
@@ -699,7 +813,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Ancient_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "ChestEliteAncientT5",
@@ -717,7 +834,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Ancient_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "ChestEliteT2",
@@ -735,7 +855,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Supplies_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "ChestEliteT3",
@@ -753,7 +876,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Supplies_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "ChestEliteT4",
@@ -771,7 +897,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Supplies_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "ChestEliteT5",
@@ -789,7 +918,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Elite_Supplies_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Darkness_StarterPack",
@@ -807,7 +939,10 @@
         "MarkerRadius": 4,
         "Name": "@Darkness_StarterPack_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Engineering_T1_L",
@@ -825,7 +960,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Engineering_T1_M",
@@ -843,7 +981,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Engineering_T2_L",
@@ -861,7 +1002,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Engineering_T2_M",
@@ -879,7 +1023,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Engineering_T3_L",
@@ -897,7 +1044,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Engineering_T3_M",
@@ -915,7 +1065,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Farmland_T1_L",
@@ -933,7 +1086,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Farmland_T1_M",
@@ -951,7 +1107,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Farmland_T2_L",
@@ -969,7 +1128,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Farmland_T2_M",
@@ -987,7 +1149,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Farmland_T3_L",
@@ -1005,7 +1170,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Farmland_T3_M",
@@ -1023,7 +1191,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "FTUE_Backstory",
@@ -1041,7 +1212,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_FTUE_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "LootableAzoth",
@@ -1059,7 +1233,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_LootableAzoth_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T1_L",
@@ -1077,7 +1254,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T1_M",
@@ -1095,7 +1275,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T2_L",
@@ -1113,7 +1296,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T2_M",
@@ -1131,7 +1317,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T3_L",
@@ -1149,7 +1338,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Outfitting_T3_M",
@@ -1167,7 +1359,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T1_L",
@@ -1185,7 +1380,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T1_M",
@@ -1203,7 +1401,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T2_L",
@@ -1221,7 +1422,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T2_M",
@@ -1239,7 +1443,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T3_L",
@@ -1257,7 +1464,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Provisioning_T3_M",
@@ -1275,7 +1485,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_CookingMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Settlement_Flux",
@@ -1293,7 +1506,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Flux_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Settlement_Honey",
@@ -1311,7 +1527,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Honey_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Settlement_Sandpaper",
@@ -1329,7 +1548,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Sandpaper_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Settlement_Solvent",
@@ -1347,7 +1569,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Solvent_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Settlement_Tannin",
@@ -1365,7 +1590,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Tannin_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Settlement_Water",
@@ -1383,7 +1611,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_Settlement_Water_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Smelting_T1_L",
@@ -1401,7 +1632,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Smelting_T1_M",
@@ -1419,7 +1653,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Smelting_T2_L",
@@ -1437,7 +1674,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Smelting_T2_M",
@@ -1455,7 +1695,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Smelting_T3_L",
@@ -1473,7 +1716,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Smelting_T3_M",
@@ -1491,7 +1737,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Tanning_T1_L",
@@ -1509,7 +1758,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Tanning_T1_M",
@@ -1527,7 +1779,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Tanning_T2_L",
@@ -1545,7 +1800,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Tanning_T2_M",
@@ -1563,7 +1821,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Tanning_T3_L",
@@ -1581,7 +1842,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Tanning_T3_M",
@@ -1599,7 +1863,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Weaving_T1_L",
@@ -1617,7 +1884,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Weaving_T1_M",
@@ -1635,7 +1905,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Weaving_T2_L",
@@ -1653,7 +1926,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Weaving_T2_M",
@@ -1671,7 +1947,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Weaving_T3_L",
@@ -1689,7 +1968,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Weaving_T3_M",
@@ -1707,7 +1989,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesMedium_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "World_Water",
@@ -1725,7 +2010,10 @@
         "MarkerRadius": 4.2,
         "Name": "@LootContainer_Settlement_Water_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Abandoned_T1_S_Outpost",
@@ -1743,7 +2031,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesSmall_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "DG_Amrine_Grunt",
@@ -1761,7 +2052,10 @@
         "MarkerRadius": 3.5,
         "Name": "@DG_Amrine_Grunt_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "DG_Amrine_ChestCandle",
@@ -1779,7 +2073,10 @@
         "MarkerRadius": 4,
         "Name": "@DG_Amrine_ChestCandle_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "DG_Reekwater_Chest",
@@ -1797,7 +2094,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "DG_RestlessShores01_Chest",
@@ -1815,7 +2115,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_AncientLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "BeachFireStaffChest",
@@ -1833,7 +2136,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "BeachGreataxeChest",
@@ -1851,7 +2157,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_SuppliesLarge_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "WeaponsChestBeach",
@@ -1869,7 +2178,10 @@
         "MarkerRadius": 4,
         "Name": "@LootContainer_WeaponsChestBeach_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "TownCart_Iron",
@@ -1887,7 +2199,10 @@
         "MarkerRadius": 4,
         "Name": "@TownCart_Iron_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "TownCart_Lumber",
@@ -1905,7 +2220,10 @@
         "MarkerRadius": 4,
         "Name": "@TownCart_Lumber_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "TownCart_Fiber",
@@ -1923,7 +2241,10 @@
         "MarkerRadius": 4,
         "Name": "@TownCart_Fiber_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "TownCart_Hide",
@@ -1941,7 +2262,10 @@
         "MarkerRadius": 4,
         "Name": "@TownCart_Hide_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "TownCart_Food",
@@ -1959,7 +2283,10 @@
         "MarkerRadius": 4,
         "Name": "@TownCart_Food_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "TownCart_Oil",
@@ -1977,7 +2304,10 @@
         "MarkerRadius": 4,
         "Name": "@TownCart_Oil_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Town_Cow",
@@ -1995,7 +2325,10 @@
         "MarkerRadius": 4,
         "Name": "@Town_Cow_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Town_Cow_FL",
@@ -2013,7 +2346,10 @@
         "MarkerRadius": 4,
         "Name": "@Town_Cow_FL_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Town_Cow_MB",
@@ -2031,7 +2367,10 @@
         "MarkerRadius": 4,
         "Name": "@Town_Cow_MB_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Town_Cow_WW",
@@ -2049,7 +2388,10 @@
         "MarkerRadius": 4,
         "Name": "@Town_Cow_WW_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Town_Cow_RS",
@@ -2067,7 +2409,10 @@
         "MarkerRadius": 4,
         "Name": "@Town_Cow_RS_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
         "VariantID": "Town_Cow_MD",
@@ -2085,96 +2430,765 @@
         "MarkerRadius": 4,
         "Name": "@Town_Cow_MD_DisplayName",
         "LoS_Override": null,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     },
     {
-        "VariantID": "SummerMedley_Settlement_Stage_T1",
-        "Visual_Chest": "",
-        "Visual_Loot": "slices/POIs/SummerMedley/Settlement_SMstage_decor/Settlement_SummerMedley_Stage_T1.dynamicslice",
-        "GatherableEntryID": "SummerMedley_Stage_T1",
-        "LootTableComponent": "SummerMedley_Stage_T1",
-        "GatheringRadius": 4,
-        "InteractionRadius": 4,
-        "DetectableRadius": 1,
-        "DepletedPreload": "MedleyStage",
-        "DepletedSFX": "Play_Summer_Gifts_Depleted",
-        "DepletedFX": "event_summer_2022.gift_collect",
-        "Idle_VFX": "event_summer_2022.gift_idle_T1",
-        "MarkerRadius": 5,
-        "Name": "@SummerMedley_Settlement_Stage_T1_DisplayName",
-        "LoS_Override": false,
-        "MarkerOffset_Z": 2
-    },
-    {
-        "VariantID": "SummerMedley_Settlement_Stage_T2",
-        "Visual_Chest": "",
-        "Visual_Loot": "slices/POIs/SummerMedley/Settlement_SMstage_decor/Settlement_SummerMedley_Stage_T2.dynamicslice",
-        "GatherableEntryID": "SummerMedley_Stage_T2",
-        "LootTableComponent": "SummerMedley_Stage_T2",
-        "GatheringRadius": 4,
-        "InteractionRadius": 4,
-        "DetectableRadius": 1,
-        "DepletedPreload": "MedleyStage",
-        "DepletedSFX": "Play_Summer_Gifts_Depleted",
-        "DepletedFX": "event_summer_2022.gift_collect",
-        "Idle_VFX": "event_summer_2022.gift_idle_T2",
-        "MarkerRadius": 5,
-        "Name": "@SummerMedley_Settlement_Stage_T2_DisplayName",
-        "LoS_Override": false,
-        "MarkerOffset_Z": 2
-    },
-    {
-        "VariantID": "SummerMedley_Settlement_Stage_T3",
-        "Visual_Chest": "",
-        "Visual_Loot": "slices/POIs/SummerMedley/Settlement_SMstage_decor/Settlement_SummerMedley_Stage_T3.dynamicslice",
-        "GatherableEntryID": "SummerMedley_Stage_T3",
-        "LootTableComponent": "SummerMedley_Stage_T3",
-        "GatheringRadius": 4,
-        "InteractionRadius": 4,
-        "DetectableRadius": 1,
-        "DepletedPreload": "MedleyStage",
-        "DepletedSFX": "Play_Summer_Gifts_Depleted",
-        "DepletedFX": "event_summer_2022.gift_collect",
-        "Idle_VFX": "event_summer_2022.gift_idle_T3",
-        "MarkerRadius": 5,
-        "Name": "@SummerMedley_Settlement_Stage_T3_DisplayName",
-        "LoS_Override": false,
-        "MarkerOffset_Z": 2
-    },
-    {
-        "VariantID": "SummerMedley_BonfireBlast",
-        "Visual_Chest": "",
-        "Visual_Loot": "slices/Events/Summer2022/Village/_Stations/summer_event_bonfire_village.dynamicslice",
-        "GatherableEntryID": "SummerMedley_BonfireBlast",
-        "LootTableComponent": "SummerMedley_BonfireBlast",
-        "GatheringRadius": 8,
-        "InteractionRadius": 8,
-        "DetectableRadius": 6,
-        "DepletedPreload": "BonfireBlast",
-        "DepletedSFX": "Play_Bonfire_Burst",
-        "DepletedFX": "event_summer_2022.bonfire_blast",
-        "Idle_VFX": "event_summer_2022.bonfire_idle",
-        "MarkerRadius": 8,
-        "Name": "@SummerMedley_Village_BonfireBlast_DisplayName",
-        "LoS_Override": false,
-        "MarkerOffset_Z": null
-    },
-    {
-        "VariantID": "SummerMedley_DancefloorBoogie",
+        "VariantID": "16BS_LegionStoneTomb_Sulfur_T3_L",
         "Visual_Chest": "",
         "Visual_Loot": "",
-        "GatherableEntryID": "SummerMedley_DancefloorBoogie",
-        "LootTableComponent": "SummerMedley_DancefloorBoogie",
-        "GatheringRadius": 4,
-        "InteractionRadius": 4,
+        "GatherableEntryID": "LootLargeT3",
+        "LootTableComponent": "BrimstoneSulfurSarcophagi",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
         "DetectableRadius": 4,
-        "DepletedPreload": "DancefloorBoogie",
-        "DepletedSFX": "Play_Summer_DanceFloorBoogie_Complete",
-        "DepletedFX": "event_summer_2022.dancefloor_collect",
-        "Idle_VFX": "event_summer_2022.dancefloor_idle",
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Big_Celebration01",
+        "Idle_VFX": "Loot.Chest_big_open01",
+        "MarkerRadius": 6,
+        "Name": "@LootContainer_StoneTomb_DisplayName",
+        "LoS_Override": true,
+        "MarkerOffset_Z": -0.5,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "16BS_LegionStoneTomb_Abandoned_T3_L",
+        "Visual_Chest": "",
+        "Visual_Loot": "",
+        "GatherableEntryID": "LootLargeT3",
+        "LootTableComponent": "BrimstoneSarcophagi",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 4,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Big_Celebration01",
+        "Idle_VFX": "Loot.Chest_big_open01",
+        "MarkerRadius": 6,
+        "Name": "@LootContainer_StoneTomb_DisplayName",
+        "LoS_Override": true,
+        "MarkerOffset_Z": -0.5,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "16BS_LegionStoneTomb_Abandoned_T3_M",
+        "Visual_Chest": "",
+        "Visual_Loot": "",
+        "GatherableEntryID": "LootLargeT3",
+        "LootTableComponent": "BrimstoneSarcophagi",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 4,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Big_Celebration02",
+        "Idle_VFX": "Loot.Chest_big_open02",
+        "MarkerRadius": 6,
+        "Name": "@LootContainer_StoneTomb_DisplayName",
+        "LoS_Override": true,
+        "MarkerOffset_Z": -0.5,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "16BS_AnubianStoneTomb_Ancient_T3_L",
+        "Visual_Chest": "",
+        "Visual_Loot": "",
+        "GatherableEntryID": "LootLargeT3",
+        "LootTableComponent": "BrimstoneSarcophagi",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 4,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Big_Celebration03",
+        "Idle_VFX": "Loot.Chest_big_open03",
+        "MarkerRadius": 5,
+        "Name": "@LootContainer_AnubianStoneTomb_DisplayName",
+        "LoS_Override": true,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "16BS_AnubianStoneTomb_Ancient_T3_M",
+        "Visual_Chest": "",
+        "Visual_Loot": "",
+        "GatherableEntryID": "LootLargeT3",
+        "LootTableComponent": "BrimstoneSarcophagi",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 4,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Big_Celebration04",
+        "Idle_VFX": "Loot.Chest_big_open04",
+        "MarkerRadius": 5,
+        "Name": "@LootContainer_AnubianStoneTomb_DisplayName",
+        "LoS_Override": true,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "16BS_EliteGlyphChest",
+        "Visual_Chest": "",
+        "Visual_Loot": "",
+        "GatherableEntryID": "LootLargeT3ElitePOI",
+        "LootTableComponent": "BrimstoneGlyphLockChests",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 4,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Big_Celebration02",
+        "Idle_VFX": "Loot.Chest_big_open01",
+        "MarkerRadius": 6,
+        "Name": "@LootContainer_Elite_Ancient_DisplayName",
+        "LoS_Override": true,
+        "MarkerOffset_Z": -0.25,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "16BS_EliteLegionTomb",
+        "Visual_Chest": "",
+        "Visual_Loot": "",
+        "GatherableEntryID": "LootLargeT3ElitePOI",
+        "LootTableComponent": "BrimstoneEliteSarcophagi",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 4,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Big_Celebration01",
+        "Idle_VFX": "Loot.Chest_big_open01",
+        "MarkerRadius": 6,
+        "Name": "@16BS_LootContainer_Elite_LegionStoneTomb_DisplayName",
+        "LoS_Override": true,
+        "MarkerOffset_Z": -0.5,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachFireStaff",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_FireStaff_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachFireStaffChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
         "MarkerRadius": 4,
-        "Name": "@SummerMedley_Village_Dancefloor_DisplayName",
+        "Name": "@2hStaffFireDropT2_MasterName",
         "LoS_Override": false,
-        "MarkerOffset_Z": null
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachFireStaffUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_FireStaff_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachFireStaffChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hStaffFireDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachGreataxe",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_GreatAxe_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachGreataxeChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hGreatAxeDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachGreataxeUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_GreatAxe_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachGreataxeChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hGreatAxeDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachThrowingAxe",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Hatchet_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachThrowingAxeChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@1hThrowingAxeDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachThrowingAxeUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Hatchet_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachThrowingAxeChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@1hThrowingAxeDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachWarhammer",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Warhammer_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachWarhammerChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hWarhammerDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachWarhammerUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Warhammer_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachWarhammerChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hWarhammerDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachSpear",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Spear_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachSpearChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hSpearDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachSpearUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Spear_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachSpearChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hSpearDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachRapier",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Rapier_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachRapierChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@1hRapierDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachRapierUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Rapier_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachRapierChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@1hRapierDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachBow",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Bow_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachBowChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hBowDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachBowUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Bow_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachBowChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hBowDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachMusket",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Musket_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachMusketChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hMusketDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachMusketUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Musket_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachMusketChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hMusketDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachLifeStaff",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_LifeStaff_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachLifeStaffChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hStaffLifeDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachLifeStaffUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_LifeStaff_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachLifeStaffChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hStaffLifeDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachIceGauntlet",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_IceGauntlet_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachIceGauntletChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@1hGauntletIceDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachVoidGauntlet",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_VoidGauntlet_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachVoidGauntletChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@1hGauntletVoidDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachBlunderbuss",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_Blunderbuss_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachBlunderbussChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hBlunderbussDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachLongsword",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_LongSword_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachLongswordChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@1hLongswordDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachLongswordUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_LongSword_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachLongswordChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@1hLongswordDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachRoundShield",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_RoundShield_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachRoundShieldChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@1hRoundShieldDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachRoundShieldUp",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_RoundShield_Up.dynamicslice",
+        "GatherableEntryID": "LootMediumT1_Standing",
+        "LootTableComponent": "BeachRoundShieldChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@1hRoundShieldDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "WeaponsChest_StarterBeach_1",
+        "Visual_Chest": "slices/POIs/LootContainers/Abandoned_T1_L_chest.dynamicslice",
+        "Visual_Loot": "slices/POIs/LootContainers/Abandoned_T1_L_loot.dynamicslice",
+        "GatherableEntryID": "LootLargeT1",
+        "LootTableComponent": "BeachChestMB1",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Big_Celebration01",
+        "Idle_VFX": "Loot.Chest_big_open01",
+        "MarkerRadius": 4,
+        "Name": "@LootContainer_WeaponsChestBeach_DisplayName",
+        "LoS_Override": null,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "WeaponsChest_StarterBeach_2",
+        "Visual_Chest": "slices/POIs/LootContainers/Abandoned_T1_L_chest.dynamicslice",
+        "Visual_Loot": "slices/POIs/LootContainers/Abandoned_T1_L_loot.dynamicslice",
+        "GatherableEntryID": "LootLargeT1",
+        "LootTableComponent": "BeachChestMB2",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Big_Celebration01",
+        "Idle_VFX": "Loot.Chest_big_open01",
+        "MarkerRadius": 4,
+        "Name": "@LootContainer_WeaponsChestBeach_DisplayName",
+        "LoS_Override": null,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "WeaponsChest_StarterBeach_3",
+        "Visual_Chest": "slices/POIs/LootContainers/Abandoned_T1_L_chest.dynamicslice",
+        "Visual_Loot": "slices/POIs/LootContainers/Abandoned_T1_L_loot.dynamicslice",
+        "GatherableEntryID": "LootLargeT1",
+        "LootTableComponent": "BeachChestMB3",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Big_Celebration01",
+        "Idle_VFX": "Loot.Chest_big_open01",
+        "MarkerRadius": 4,
+        "Name": "@LootContainer_WeaponsChestBeach_DisplayName",
+        "LoS_Override": null,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
+    },
+    {
+        "VariantID": "BeachGreatSword",
+        "Visual_Chest": "",
+        "Visual_Loot": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_GreatSword_Healthy.dynamicslice",
+        "GatherableEntryID": "LootMediumT1",
+        "LootTableComponent": "BeachGreatSwordChest",
+        "GatheringRadius": 0.25,
+        "InteractionRadius": 3,
+        "DetectableRadius": 1,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Small",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Crate_xsmall01",
+        "MarkerRadius": 4,
+        "Name": "@2hGreatSwordDropT2_MasterName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": -1,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null
     }
 ]

@@ -45,7 +45,9 @@
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": ""
+        "UseAttackerPosForReaction": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -93,7 +95,9 @@
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": ""
+        "UseAttackerPosForReaction": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -141,6 +145,8 @@
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": ""
+        "UseAttackerPosForReaction": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

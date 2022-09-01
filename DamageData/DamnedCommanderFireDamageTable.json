@@ -48,7 +48,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -99,7 +101,9 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Elite_GRIT",
@@ -150,7 +154,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Force_Grab",
@@ -201,7 +207,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": true
+        "UseAttackerPosForReaction": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Force_Grab_Attach",
@@ -252,7 +260,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Darkness_Calls",
@@ -303,7 +313,9 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Darkness_Calls_Affliction",
@@ -354,7 +366,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Flame_Wall",
@@ -405,7 +419,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Core_Explosion",
@@ -456,7 +472,9 @@
         "BlockStaminaDmgMod": 1.65,
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Core_Stab",
@@ -507,7 +525,9 @@
         "BlockStaminaDmgMod": 0.65,
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Hunger_Of_The_Void",
@@ -558,7 +578,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_SwipeL_01",
@@ -609,7 +631,9 @@
         "BlockStaminaDmgMod": 0.35,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_SwipeL_02",
@@ -660,7 +684,9 @@
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_SwipeR_01",
@@ -711,7 +737,9 @@
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_SwipeR_02",
@@ -762,7 +790,9 @@
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Stab_01",
@@ -813,7 +843,9 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Stab_02",
@@ -864,7 +896,9 @@
         "BlockStaminaDmgMod": 0.65,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Double_Spin_Combo",
@@ -915,7 +949,9 @@
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Double_Spin_Finisher",
@@ -966,7 +1002,9 @@
         "BlockStaminaDmgMod": 0.75,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Overhead_Slash",
@@ -1017,7 +1055,9 @@
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Overhead_Slash_Fire",
@@ -1068,7 +1108,9 @@
         "BlockStaminaDmgMod": 0.85,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Flip_Overhead_Slash",
@@ -1119,7 +1161,9 @@
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Flip_Overhead_Fire",
@@ -1170,7 +1214,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Flurry_Combo",
@@ -1221,7 +1267,9 @@
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Flurry_Finisher",
@@ -1272,7 +1320,9 @@
         "BlockStaminaDmgMod": 0.55,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Upwards_Slash",
@@ -1323,7 +1373,9 @@
         "BlockStaminaDmgMod": 1.5,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Upwards_Slash_Short",
@@ -1374,7 +1426,9 @@
         "BlockStaminaDmgMod": 1.35,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Shoulder_Charge",
@@ -1425,7 +1479,9 @@
         "BlockStaminaDmgMod": 0.9,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Structure",
@@ -1476,6 +1532,8 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

@@ -43,7 +43,9 @@
         "BlockStaminaDmgMod": 0.32,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_HeavyStab",
@@ -89,7 +91,9 @@
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Flurry",
@@ -135,7 +139,9 @@
         "BlockStaminaDmgMod": 0.24,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Lunge",
@@ -181,7 +187,9 @@
         "BlockStaminaDmgMod": 1.1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.5,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Lunge_Knockback",
@@ -227,7 +235,9 @@
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.5,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Slash",
@@ -273,7 +283,9 @@
         "BlockStaminaDmgMod": 0.54,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Slash_Light",
@@ -319,7 +331,9 @@
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Slash_Heavy",
@@ -365,7 +379,9 @@
         "BlockStaminaDmgMod": 0.95,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -411,7 +427,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": null,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -457,6 +475,8 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 1
+        "StaminaDmg": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

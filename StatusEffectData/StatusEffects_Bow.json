@@ -90,7 +90,7 @@
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
         "RemoveOnGameModeExit": "",
-        "IgnoreDiminishingReturns": null,
+        "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
         "Afflictions": "",
         "OnHitAffixes": "",
@@ -238,7 +238,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Bow_Skirmish_HasteOnSwap",
@@ -331,7 +334,7 @@
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
         "RemoveOnGameModeExit": "",
-        "IgnoreDiminishingReturns": null,
+        "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
         "Afflictions": "",
         "OnHitAffixes": "",
@@ -479,7 +482,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Bow_Skirmish_DodgeHaste",
@@ -572,7 +578,7 @@
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
         "RemoveOnGameModeExit": "",
-        "IgnoreDiminishingReturns": null,
+        "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
         "Afflictions": "",
         "OnHitAffixes": "",
@@ -720,7 +726,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Bow_Skirmish_DodgeDmg",
@@ -961,7 +970,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Bow_Skirmish_StaminaVsDebuff",
@@ -1202,7 +1214,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Bow_Skirmish_SlowFull",
@@ -1443,7 +1458,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Ultimate_Bow_Skirmish",
@@ -1684,7 +1702,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Bow_Hunter_ArmorAimHeavy",
@@ -1925,7 +1946,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Bow_RainOfArrows_Slow",
@@ -2166,7 +2190,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_RainofArrows_Bleed",
@@ -2407,7 +2434,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.26,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_Passive_Bow_Skirmish_HasteWhenFoesNear",
@@ -2648,7 +2678,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Bow_Hunter_DmgOnFirst_Tracker",
@@ -2889,7 +2922,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Bow_Skirmish_HasteOnSwap_Timer",
@@ -3130,7 +3166,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Bow_Poison",
@@ -3371,7 +3410,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.26,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_Crossbow_Poison",
@@ -3612,7 +3654,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Crossbow_Poison_AoE",
@@ -3853,7 +3898,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Bow_Poison_Upgrade",
@@ -4094,7 +4142,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.26,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_Passive_Bow_Hunter_DmgOnFirst_SelfTracker",
@@ -4335,7 +4386,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_ExplosiveShot_Burn",
@@ -4576,6 +4630,9 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.26,
+        "SourceRuneChargeOnHealthChangeOnly": true
     }
 ]

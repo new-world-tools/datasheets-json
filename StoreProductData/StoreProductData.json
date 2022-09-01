@@ -2525,7 +2525,7 @@
         "Description": "@House_HousingItem_Pet_Entitlement_Rabbit_Spring_description",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_SpringHare2022.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Rectangle_SpringHare2022.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_SpringHare2022",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_SpringHare2022.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Thumbnail_SpringHare2022.png",
         "TypeDescription": "@reward_type_house_pet"
     },
@@ -3725,7 +3725,7 @@
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Phoenix_Bouquet.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Phoenix_Bouquet.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Phoenix_Bouquet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Phoenix_Bouquet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_NoEvil.png",
         "TypeDescription": "@reward_type_housing_item"
     },
     {
@@ -3782,5 +3782,16 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Phoenix_1.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Phoenix_1.png",
         "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "Apparel_RomanSoldier",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_RomanSoldier_name",
+        "Description": "@Apparel_RomanSoldier_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_RomanSoldier.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_RomanSoldier.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_RomanSoldier.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_RomanSoldier.png",
+        "TypeDescription": "@reward_type_Apparelskin"
     }
 ]

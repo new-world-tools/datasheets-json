@@ -478,5 +478,41 @@
         "AbilityID": "Ability_Blunderbuss_Charge",
         "Time": 2,
         "WeaponTag": "Blunderbuss"
+    },
+    {
+        "ID": 81,
+        "AbilityID": "Ability_Greatsword_DashAttack",
+        "Time": 20,
+        "WeaponTag": "Greatsword"
+    },
+    {
+        "ID": 82,
+        "AbilityID": "Ability_Greatsword_Combo",
+        "Time": 15,
+        "WeaponTag": "Greatsword"
+    },
+    {
+        "ID": 83,
+        "AbilityID": "Ability_Greatsword_DefenseBreak",
+        "Time": 18,
+        "WeaponTag": "Greatsword"
+    },
+    {
+        "ID": 84,
+        "AbilityID": "Ability_Greatsword_Counter",
+        "Time": 20,
+        "WeaponTag": "Greatsword"
+    },
+    {
+        "ID": 85,
+        "AbilityID": "Ability_Greatsword_DrainAttack",
+        "Time": 18,
+        "WeaponTag": "Greatsword"
+    },
+    {
+        "ID": 86,
+        "AbilityID": "Ability_Greatsword_Burst",
+        "Time": 20,
+        "WeaponTag": "Greatsword"
     }
 ]

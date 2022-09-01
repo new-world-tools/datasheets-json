@@ -238,7 +238,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.216,
+        "SourceRuneChargeOnHealthChangeOnly": true,
+        "ApplicationCooldown": 0.5
     },
     {
         "StatusID": "Rapier_Riposte_Timer",
@@ -479,7 +483,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_Evasion_Mod2",
@@ -720,7 +728,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_Evasion_Mod1",
@@ -739,7 +751,7 @@
         "IsClientPredicted": null,
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
-        "BaseDuration": 0,
+        "BaseDuration": 0.1,
         "TickRate": 1,
         "DelayInitialTick": "",
         "TickCondition": "",
@@ -961,7 +973,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_Finish_Stam_Mod2",
@@ -1202,7 +1218,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_Riposte_Stun",
@@ -1443,7 +1463,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_Riposte_Stun_Enhanced",
@@ -1684,7 +1708,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_Evade_Forward_Damage",
@@ -1925,7 +1953,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_Fleche_Backstab",
@@ -2166,7 +2198,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_BonusDMGAfterAbility",
@@ -2407,7 +2443,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_BonusStamOnHit",
@@ -2648,7 +2688,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_BonusSpeedOnKill",
@@ -2889,7 +2933,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": 0.25
     },
     {
         "StatusID": "Rapier_Riposte_Uninterruptible",
@@ -2991,8 +3039,8 @@
         "IsNegative": "",
         "RespecTradeskills": "",
         "RespecAttributes": "",
-        "EffectDurationMods": "Stun=-1.0",
-        "EffectPotencyMods": "Stun=-1.0",
+        "EffectDurationMods": "",
+        "EffectPotencyMods": "",
         "RemoveStatusEffects": "",
         "RemoveStatusEffectCategories": "",
         "GlobalRollMod": "",
@@ -3130,7 +3178,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Rapier_Riposte_Uninterruptible_Riposte",
@@ -3371,6 +3423,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     }
 ]

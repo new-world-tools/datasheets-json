@@ -41,7 +41,9 @@
         "CameraShakeID": "Small",
         "CritCameraShakeID": "Small",
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Claw_Strike_Quad_Hard",
@@ -85,7 +87,9 @@
         "CameraShakeID": "Small",
         "CritCameraShakeID": "Small",
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Claw_Strike_Bi",
@@ -129,7 +133,9 @@
         "CameraShakeID": "Small",
         "CritCameraShakeID": "Small",
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Claw_Strike_Bi_Hard",
@@ -173,7 +179,9 @@
         "CameraShakeID": "Small",
         "CritCameraShakeID": "Small",
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Charge",
@@ -217,7 +225,9 @@
         "CameraShakeID": "Large",
         "CritCameraShakeID": "Large",
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Charge_Hard",
@@ -261,7 +271,9 @@
         "CameraShakeID": "Large",
         "CritCameraShakeID": "Large",
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Slam",
@@ -305,7 +317,9 @@
         "CameraShakeID": "Large",
         "CritCameraShakeID": "Large",
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 16
+        "LOSCheckVerticalAngleOffset": 16,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Slam_Hard",
@@ -349,7 +363,9 @@
         "CameraShakeID": "Large",
         "CritCameraShakeID": "Large",
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 16
+        "LOSCheckVerticalAngleOffset": 16,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -393,7 +409,9 @@
         "CameraShakeID": "Large",
         "CritCameraShakeID": "Large",
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Rampage",
@@ -437,7 +455,9 @@
         "CameraShakeID": "Large",
         "CritCameraShakeID": "Large",
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Rampage_Hard",
@@ -481,7 +501,9 @@
         "CameraShakeID": "Large",
         "CritCameraShakeID": "Large",
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -525,6 +547,8 @@
         "CameraShakeID": "Large",
         "CritCameraShakeID": "Large",
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

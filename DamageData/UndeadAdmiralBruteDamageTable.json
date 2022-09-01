@@ -45,7 +45,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Overhead_Slam",
@@ -93,7 +95,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.9,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Left",
@@ -141,7 +145,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Right",
@@ -189,7 +195,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Shoulder_Charge",
@@ -237,7 +245,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Cannon_Rain",
@@ -285,7 +295,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Cannon_Rain_Projectile",
@@ -333,7 +345,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Cannon_Rain_Targeted",
@@ -381,7 +395,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Shot",
@@ -429,7 +445,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Shot_Triple",
@@ -477,7 +495,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Escape_Blast",
@@ -525,7 +545,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Escape_Blast_Body",
@@ -573,7 +595,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Escape_Blast_Land",
@@ -621,7 +645,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.6,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Overhead_Slam",
@@ -669,7 +695,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.6,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Swipe",
@@ -717,7 +745,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.4,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Combo_1",
@@ -765,7 +795,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.9,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Combo_2",
@@ -813,7 +845,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Blackpowder_Blast",
@@ -861,7 +895,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Barrel_Smash",
@@ -909,7 +945,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.9,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Barrel_Lob",
@@ -957,7 +995,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.9,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Barrel_Lob_Projectile",
@@ -1005,7 +1045,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Storm",
@@ -1053,7 +1095,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.4,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Storm_Immune",
@@ -1101,7 +1145,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Leap",
@@ -1149,7 +1195,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Run_Knock",
@@ -1197,7 +1245,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Admiral_Cannon",
@@ -1245,7 +1295,9 @@
         "ImpactRating": null,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Player_CannonBall",
@@ -1256,7 +1308,7 @@
         "CanBeBlocked": null,
         "SurfaceImpactEffect": "Bullet",
         "AttackType": "Heavy",
-        "DamageType": "Standard",
+        "DamageType": "Siege",
         "IgnoreSheatheStatus": true,
         "Affixes": "",
         "StatusEffect": "",
@@ -1293,7 +1345,9 @@
         "ImpactRating": null,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "DamageGuildAndGroup": true
+        "DamageGuildAndGroup": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Player_Cannon",
@@ -1304,7 +1358,7 @@
         "CanBeBlocked": null,
         "SurfaceImpactEffect": "Bullet",
         "AttackType": "Heavy",
-        "DamageType": "Standard",
+        "DamageType": "Siege",
         "IgnoreSheatheStatus": true,
         "Affixes": "",
         "StatusEffect": "AI_AdmiralBrute_Phase2_HitGeneric,AI_AdmiralBrute_Phase2_HitCount",
@@ -1341,7 +1395,9 @@
         "ImpactRating": null,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "DamageGuildAndGroup": true
+        "DamageGuildAndGroup": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "RP_Knockback",
@@ -1389,7 +1445,9 @@
         "ImpactRating": null,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "DamageGuildAndGroup": true
+        "DamageGuildAndGroup": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Hit_Ignore",
@@ -1437,7 +1495,9 @@
         "ImpactRating": null,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -1485,7 +1545,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Door_Blast",
@@ -1533,6 +1595,8 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

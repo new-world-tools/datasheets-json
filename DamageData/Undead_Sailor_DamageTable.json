@@ -22,11 +22,11 @@
         "BlockHitStun": 15,
         "CritHitStun": 20,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 1.25,
+        "ImpactDistanceY": 0.7,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 0.75,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -41,7 +41,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Melee_Primary",
@@ -66,11 +68,11 @@
         "BlockHitStun": 15,
         "CritHitStun": 20,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 1.25,
+        "ImpactDistanceY": 0.7,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 1,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -85,7 +87,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Melee_Heavy",
@@ -103,18 +107,18 @@
         "DmgCoef": 1.05,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 3,
-        "BlockPowerLevel": 3,
-        "CritPowerLevel": 3,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
         "HitStun": 30,
         "BlockHitStun": 25,
         "CritHitStun": 30,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 1.5,
+        "ImpactDistanceY": 0.7,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 1.5,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -129,7 +133,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.6,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Melee_Heavy_Slash",
@@ -158,7 +164,7 @@
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 1.5,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -173,7 +179,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.45,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Melee_Combo_01",
@@ -202,7 +210,7 @@
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 1,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -217,7 +225,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.8,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Melee_Combo_01_Shield",
@@ -246,7 +256,7 @@
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 1,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -261,7 +271,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.2,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Melee_Combo_02",
@@ -290,7 +302,7 @@
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 1,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -305,7 +317,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.8,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Melee_Combo_02_Slash",
@@ -334,7 +348,7 @@
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 1,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -349,7 +363,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.8,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Club_Light",
@@ -378,7 +394,7 @@
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 0.5,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -393,7 +409,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Club_Primary",
@@ -422,7 +440,7 @@
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 1,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -437,7 +455,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.3,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Club_Heavy",
@@ -455,18 +475,18 @@
         "DmgCoef": 0.9,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 3,
-        "BlockPowerLevel": 3,
-        "CritPowerLevel": 3,
-        "HitStun": 30,
-        "BlockHitStun": 30,
-        "CritHitStun": 30,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
+        "HitStun": 20,
+        "BlockHitStun": 20,
+        "CritHitStun": 20,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 2,
+        "ImpactDistanceY": 0.7,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
-        "BlockImpactDistanceY": 1.5,
+        "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
         "BlockImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -481,7 +501,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.5,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Club_Combo_01",
@@ -525,7 +547,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.8,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Club_Combo_02",
@@ -569,7 +593,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.8,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_2H_GreatAxe_Melee_Light",
@@ -613,7 +639,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.3,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_2H_GreatAxe_Melee_Medium",
@@ -634,9 +662,9 @@
         "PowerLevel": 2,
         "BlockPowerLevel": 2,
         "CritPowerLevel": 2,
-        "HitStun": 25,
+        "HitStun": 20,
         "BlockHitStun": 10,
-        "CritHitStun": 25,
+        "CritHitStun": 20,
         "ImpactDistanceX": 0,
         "ImpactDistanceY": 1.25,
         "ImpactDistanceZ": 0,
@@ -657,7 +685,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_2H_GreatAxe_Melee_Heavy",
@@ -675,12 +705,12 @@
         "DmgCoef": 1,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 3,
-        "BlockPowerLevel": 3,
-        "CritPowerLevel": 3,
-        "HitStun": 30,
-        "BlockHitStun": 30,
-        "CritHitStun": 30,
+        "PowerLevel": 2,
+        "BlockPowerLevel": 2,
+        "CritPowerLevel": 2,
+        "HitStun": 25,
+        "BlockHitStun": 25,
+        "CritHitStun": 25,
         "ImpactDistanceX": 0,
         "ImpactDistanceY": 1.75,
         "ImpactDistanceZ": 0,
@@ -701,7 +731,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.3,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_2H_GreatAxe_Combo_01",
@@ -745,7 +777,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.8,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_2H_GreatAxee_Combo_02",
@@ -789,7 +823,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.8,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Shield_Bash",
@@ -807,14 +843,14 @@
         "DmgCoef": 0.75,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 3,
-        "BlockPowerLevel": 3,
-        "CritPowerLevel": 3,
-        "HitStun": 30,
-        "BlockHitStun": 25,
-        "CritHitStun": 30,
+        "PowerLevel": 2,
+        "BlockPowerLevel": 2,
+        "CritPowerLevel": 2,
+        "HitStun": 20,
+        "BlockHitStun": 20,
+        "CritHitStun": 20,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 2.25,
+        "ImpactDistanceY": 1.5,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
@@ -833,7 +869,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 0.85,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_2H_Melee_Primary",
@@ -877,7 +915,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.33,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Unarmed_Kick",
@@ -921,7 +961,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_1H_Melee_Alternate",
@@ -965,7 +1007,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.33,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_2H_Melee_Alternate",
@@ -1009,7 +1053,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.33,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_2H_Melee_Heavy",
@@ -1053,7 +1099,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.99,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "1H_Sword_Attack1",
@@ -1097,7 +1145,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "1H_Sword_Attack1_Slash",
@@ -1141,7 +1191,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout_Sword",
@@ -1185,7 +1237,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout_Club",
@@ -1229,7 +1283,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.33,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout_Shield",
@@ -1273,7 +1329,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.33,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout_Axe",
@@ -1317,7 +1375,9 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.33,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -1361,6 +1421,8 @@
         "CritTargetCameraShakeID": "Small",
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

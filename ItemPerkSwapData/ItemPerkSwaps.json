@@ -4,5 +4,11 @@
         "KeyType": "ItemClass",
         "OldPerk": "PerkID_Legs_DodgeSuccess_Stamina",
         "NewPerk": "PerkID_Armor_Conditioning_Fire"
+    },
+    {
+        "Key": "Bag",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Bags_ArrowReturn",
+        "NewPerk": "PerkID_Bags_AmmoReturn"
     }
 ]

@@ -47,7 +47,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.25,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Corruption_Blast",
@@ -97,7 +99,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": true
+        "UseAttackerPosForReaction": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Corruption_Wave",
@@ -147,7 +151,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Corruption_Wave_Immune",
@@ -197,7 +203,9 @@
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Pearl_Shot",
@@ -247,7 +255,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Pearl_ Sweep",
@@ -297,7 +307,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Pearl_ Sweep_Arm",
@@ -347,7 +359,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Pearl_ Sweep_Combo",
@@ -397,7 +411,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.5,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Dragon_Breath",
@@ -447,7 +463,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Dragon_Dive",
@@ -497,7 +515,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Dragon_Round",
@@ -547,7 +567,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Dragon_Breath_Bump",
@@ -597,7 +619,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.5,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Intro_Bump",
@@ -647,7 +671,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.5,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -697,7 +723,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": null,
         "LOSCheckVerticalAngleOffset": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -747,6 +775,8 @@
         "BlockAbsorptionModifier": null,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

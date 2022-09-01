@@ -44,7 +44,9 @@
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Skeleton_Mage_Rolling_Spell",
@@ -91,7 +93,9 @@
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Skeleton_Mage_Close_Staff_Attack",
@@ -138,7 +142,9 @@
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Skeleton_Mage_Overhead_Staff_Attack",
@@ -185,7 +191,9 @@
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -232,7 +240,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": null,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -279,6 +289,8 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 1
+        "StaminaDmg": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]
