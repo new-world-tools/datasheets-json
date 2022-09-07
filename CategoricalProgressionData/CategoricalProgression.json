@@ -2318,25 +2318,5 @@
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
         "ItemClass": ""
-    },
-    {
-        "CategoricalProgressionId": "SummerEventProgress",
-        "DisplayName": "@ui_event_summer_progress_name",
-        "MaxLevel": 4,
-        "AutoRankUp": true,
-        "InfiniteLevels": false,
-        "RepeatMaxLevel": false,
-        "RankTableId": "SummerEventRanks",
-        "ProgressionPointPool": "",
-        "PreSkillCapSkill": "",
-        "PostSkillCapSkill": "",
-        "EconomyTrackerType": "",
-        "GameEventId": "",
-        "AchievementIdOnMaxRank": "",
-        "MinTrackedLevel": null,
-        "ShowAsObjectiveReward": true,
-        "IconPath": "lyshineui/images/icons/objectives/reward_eventProgress.dds",
-        "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
     }
 ]
