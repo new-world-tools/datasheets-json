@@ -1594,7 +1594,7 @@
         "VitalsCategory": "Corrupted",
         "LevelRange": "",
         "Containers": null,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_darkness_minor_hive.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_windsward_poi_Thornhall.png",
         "GameMode": "",
         "UnchartedIcon": "",
         "EventId": ""
@@ -2138,7 +2138,7 @@
         "VitalsCategory": "Ancient",
         "LevelRange": "16",
         "Containers": 3,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory9.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
         "UnchartedIcon": "",
         "EventId": ""
@@ -2170,7 +2170,7 @@
         "VitalsCategory": "Ancient",
         "LevelRange": "5",
         "Containers": 0,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory9.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
         "UnchartedIcon": "",
         "EventId": ""
@@ -2342,7 +2342,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/outpost.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 100,
         "IsDiscoverable": true,
@@ -2394,7 +2394,7 @@
         "VitalsCategory": "Ancient",
         "LevelRange": "22",
         "Containers": null,
-        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory9.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_ezras_forge.png",
         "GameMode": "",
         "UnchartedIcon": "",
         "EventId": ""

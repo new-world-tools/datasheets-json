@@ -1363,5 +1363,35 @@
         "LeftForeArm": "Xform",
         "LeftMidArm": "Xform",
         "LeftUpperArm": "Xform"
+    },
+    {
+        "SkeletonName": "enneadbossanubis_torso_mesh_skel",
+        "Xform": "Xform",
+        "Head": "Head",
+        "Neck": "Neck",
+        "Spine": "c_spineTwist5_BND",
+        "RightHand": "right_hand_attach",
+        "RightForeArm": "Forearm_right_twist",
+        "RightMidArm": "MidArm_right",
+        "RightUpperArm": "UpperArm_right",
+        "LeftHand": "left_hand_attach",
+        "LeftForeArm": "Forearm_left_twist",
+        "LeftMidArm": "MidArm_left",
+        "LeftUpperArm": "UpperArm_left"
+    },
+    {
+        "SkeletonName": "base_male_naked_skel",
+        "Xform": "Xform",
+        "Head": "Head",
+        "Neck": "Neck",
+        "Spine": "c_spineTwist5_BND",
+        "RightHand": "right_hand_attach",
+        "RightForeArm": "Forearm_right_twist",
+        "RightMidArm": "MidArm_right",
+        "RightUpperArm": "UpperArm_right",
+        "LeftHand": "left_hand_attach",
+        "LeftForeArm": "Forearm_left_twist",
+        "LeftMidArm": "MidArm_left",
+        "LeftUpperArm": "UpperArm_left"
     }
 ]

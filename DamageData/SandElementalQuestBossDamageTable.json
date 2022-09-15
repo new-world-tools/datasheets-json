@@ -231,7 +231,7 @@
         "HitStun": 10,
         "BlockHitStun": 15,
         "CritHitStun": 20,
-        "ImpactDistanceX": 0.25,
+        "ImpactDistanceX": -0.25,
         "ImpactDistanceY": 0,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,

@@ -42,6 +42,18 @@
         "Description": ""
     },
     {
+        "CategoryID": "ScarabMeleeWeapons",
+        "ImagePath": "Icons/Items/Drawing/placeholder",
+        "DisplayText": "@ScarabMeleeWeapons_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabRangedWeapons",
+        "ImagePath": "Icons/Items/Drawing/placeholder",
+        "DisplayText": "@ScarabRangedWeapons_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "Ingredient",
         "ImagePath": "Icons/Items/Drawing/placeholder",
         "DisplayText": "@CategoryData_Ingredient",
@@ -1686,6 +1698,24 @@
         "Description": "@StaffFire_GroupDesc"
     },
     {
+        "CategoryID": "ScarabMagicStaves",
+        "ImagePath": "",
+        "DisplayText": "@ScarabMagicStaves_GroupName",
+        "Description": "@ScarabMagicStaves_GroupName"
+    },
+    {
+        "CategoryID": "ScarabStaffLife",
+        "ImagePath": "Icons/Items/Drawing/StaffLife",
+        "DisplayText": "@ScarabStaffLife_GroupName",
+        "Description": "@ScarabStaffLife_GroupName"
+    },
+    {
+        "CategoryID": "ScarabStaffFire",
+        "ImagePath": "Icons/Items/Drawing/StaffFire",
+        "DisplayText": "@ScarabStaffFire_GroupName",
+        "Description": "@ScarabStaffFire_GroupName"
+    },
+    {
         "CategoryID": "WeaponCoatings",
         "ImagePath": "",
         "DisplayText": "@CategoryData_WeaponCoatings",
@@ -2649,6 +2679,24 @@
         "CategoryID": "Earrings",
         "ImagePath": "Icons/items/Drawing/trinketO",
         "DisplayText": "@Earrings_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabAmulets",
+        "ImagePath": "Icons/items/Drawing/trinketA",
+        "DisplayText": "@ScarabAmulets_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabRings",
+        "ImagePath": "Icons/items/Drawing/trinketG",
+        "DisplayText": "@ScarabRings_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabEarrings",
+        "ImagePath": "Icons/items/Drawing/trinketO",
+        "DisplayText": "@ScarabEarrings_GroupName",
         "Description": ""
     },
     {
@@ -3633,6 +3681,42 @@
         "CategoryID": "ArmorRobe",
         "ImagePath": "",
         "DisplayText": "@ArmorRobe_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorPlate",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorPlate_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorLeather",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorLeather_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorCloth",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorCloth_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorPlateHeavy",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorPlateHeavy_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorFur",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorFur_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorRobe",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorRobe_GroupName",
         "Description": ""
     },
     {
@@ -4806,6 +4890,18 @@
         "Description": ""
     },
     {
+        "CategoryID": "ScarabGauntletIce",
+        "ImagePath": "",
+        "DisplayText": "@ScarabGauntletIce_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabGauntletVoid",
+        "ImagePath": "",
+        "DisplayText": "@ScarabGauntletVoid_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "TrinketBand",
         "ImagePath": "Icons/Items/Drawing/TrinketBand",
         "DisplayText": "@TrinketBand_GroupName",
@@ -5323,7 +5419,7 @@
     },
     {
         "CategoryID": "Lodestone",
-        "ImagePath": "",
+        "ImagePath": "Icons\\Items\\Drawing\\lodestone",
         "DisplayText": "@Lodestone",
         "Description": ""
     },
@@ -5793,6 +5889,24 @@
         "CategoryID": "Rune",
         "ImagePath": "",
         "DisplayText": "@Rune_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "WinterConvergence",
+        "ImagePath": "",
+        "DisplayText": "@WinterConvergence_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "NightveilHallow",
+        "ImagePath": "",
+        "DisplayText": "@NightveilHallow_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SummerMedleyfaire",
+        "ImagePath": "",
+        "DisplayText": "@SummerMedleyfaire_GroupName",
         "Description": ""
     }
 ]

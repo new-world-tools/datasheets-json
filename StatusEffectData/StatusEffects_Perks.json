@@ -240,7 +240,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ArcanistMastery2",
@@ -483,7 +484,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ArcanistMastery3",
@@ -726,7 +728,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ArmorerMastery1",
@@ -969,7 +972,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ArmorerMastery2",
@@ -1212,7 +1216,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ArmorerMastery3",
@@ -1455,7 +1460,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Clarity1",
@@ -1698,7 +1704,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Clarity2",
@@ -1941,7 +1948,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Clarity3",
@@ -2184,7 +2192,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChefMastery1",
@@ -2427,7 +2436,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChefMastery2",
@@ -2670,7 +2680,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChefMastery3",
@@ -2913,7 +2924,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Defense1",
@@ -3156,7 +3168,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Defense2",
@@ -3399,7 +3412,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Defense3",
@@ -3642,7 +3656,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Endurance1",
@@ -3885,7 +3900,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Endurance2",
@@ -4128,7 +4144,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Endurance3",
@@ -4371,7 +4388,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "EngineerMastery1",
@@ -4614,7 +4632,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "EngineerMastery2",
@@ -4857,7 +4876,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "EngineerMastery3",
@@ -5100,7 +5120,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "BotanistMastery1",
@@ -5343,7 +5364,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "BotanistMastery2",
@@ -5586,7 +5608,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "BotanistMastery3",
@@ -5829,7 +5852,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Health1",
@@ -6072,7 +6096,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Health2",
@@ -6315,7 +6340,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Health3",
@@ -6558,7 +6584,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "JewelcrafterMastery1",
@@ -6801,7 +6828,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "JewelcrafterMastery2",
@@ -7044,7 +7072,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "JewelcrafterMastery3",
@@ -7287,7 +7316,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LeatherworkerMastery1",
@@ -7530,7 +7560,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LeatherworkerMastery2",
@@ -7773,7 +7804,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LeatherworkerMastery3",
@@ -8016,7 +8048,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LumberjackMastery1",
@@ -8259,7 +8292,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LumberjackMastery2",
@@ -8502,7 +8536,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LumberjackMastery3",
@@ -8745,7 +8780,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Mana1",
@@ -8988,7 +9024,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Mana2",
@@ -9231,7 +9268,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Mana3",
@@ -9474,7 +9512,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "MinerMastery1",
@@ -9717,7 +9756,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "MinerMastery2",
@@ -9960,7 +10000,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "MinerMastery3",
@@ -10203,7 +10244,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Resolute1",
@@ -10446,7 +10488,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Resolute2",
@@ -10689,7 +10732,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Resolute3",
@@ -10932,7 +10976,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Resolute4",
@@ -11175,7 +11220,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Retaliation1",
@@ -11418,7 +11464,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Retaliation2",
@@ -11661,7 +11708,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Retaliation3",
@@ -11904,7 +11952,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Retaliation4",
@@ -12147,7 +12196,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SkinnerMastery1",
@@ -12390,7 +12440,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SkinnerMastery2",
@@ -12633,7 +12684,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SkinnerMastery3",
@@ -12876,7 +12928,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SmelterMastery1",
@@ -13119,7 +13172,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SmelterMastery2",
@@ -13362,7 +13416,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SmelterMastery3",
@@ -13605,7 +13660,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "StonecutterMastery1",
@@ -13848,7 +13904,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "StonecutterMastery2",
@@ -14091,7 +14148,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "StonecutterMastery3",
@@ -14334,7 +14392,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WeaponsmithMastery1",
@@ -14577,7 +14636,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WeaponsmithMastery2",
@@ -14820,7 +14880,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WeaponsmithMastery3",
@@ -15063,7 +15124,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WeaverMastery1",
@@ -15306,7 +15368,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WeaverMastery2",
@@ -15549,7 +15612,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WeaverMastery3",
@@ -15792,7 +15856,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WoodworkerMastery1",
@@ -16035,7 +16100,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WoodworkerMastery2",
@@ -16278,7 +16344,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WoodworkerMastery3",
@@ -16521,7 +16588,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SkinningMastery1",
@@ -16764,7 +16832,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SkinningMastery2",
@@ -17007,7 +17076,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SkinningMastery3",
@@ -17250,7 +17320,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "HarvestingMastery1",
@@ -17493,7 +17564,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "HarvestingMastery2",
@@ -17736,7 +17808,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "HarvestingMastery3",
@@ -17979,7 +18052,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LoggingMastery1",
@@ -18222,7 +18296,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LoggingMastery2",
@@ -18465,7 +18540,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LoggingMastery3",
@@ -18708,7 +18784,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "MiningMastery1",
@@ -18951,7 +19028,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "MiningMastery2",
@@ -19194,7 +19272,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "MiningMastery3",
@@ -19437,7 +19516,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "GourmandBurden1",
@@ -19680,7 +19760,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "GourmandBurden2",
@@ -19923,7 +20004,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "GourmandBurden3",
@@ -20166,7 +20248,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ProspectorBurden1",
@@ -20409,7 +20492,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ProspectorBurden2",
@@ -20652,7 +20736,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ProspectorBurden3",
@@ -20895,7 +20980,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "QuarrymanBurden1",
@@ -21138,7 +21224,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "QuarrymanBurden2",
@@ -21381,7 +21468,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "QuarrymanBurden3",
@@ -21624,7 +21712,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WeaverBurden1",
@@ -21867,7 +21956,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WeaverBurden2",
@@ -22110,7 +22200,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "WeaverBurden3",
@@ -22353,7 +22444,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "TannerBurden1",
@@ -22596,7 +22688,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "TannerBurden2",
@@ -22839,7 +22932,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "TannerBurden3",
@@ -23082,7 +23176,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "MercenaryBurden1",
@@ -23325,7 +23420,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "MercenaryBurden2",
@@ -23568,7 +23664,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "MercenaryBurden3",
@@ -23811,7 +23908,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "QuartermasterBurden1",
@@ -24054,7 +24152,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "QuartermasterBurden2",
@@ -24297,7 +24396,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "QuartermasterBurden3",
@@ -24540,7 +24640,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "AlchemistBurden1",
@@ -24783,7 +24884,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "AlchemistBurden2",
@@ -25026,7 +25128,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "AlchemistBurden3",
@@ -25269,7 +25372,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LumberjackBurden1",
@@ -25512,7 +25616,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LumberjackBurden2",
@@ -25755,7 +25860,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "LumberjackBurden3",
@@ -25998,7 +26104,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentLogger1",
@@ -26241,7 +26348,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentLogger2",
@@ -26484,7 +26592,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentLogger3",
@@ -26727,7 +26836,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentMiner1",
@@ -26970,7 +27080,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentMiner2",
@@ -27213,7 +27324,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentMiner3",
@@ -27456,7 +27568,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentHarvester1",
@@ -27699,7 +27812,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentHarvester2",
@@ -27942,7 +28056,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentHarvester3",
@@ -28185,7 +28300,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentSkinner1",
@@ -28428,7 +28544,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentSkinner2",
@@ -28671,7 +28788,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentSkinner3",
@@ -28914,7 +29032,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentSmelter1",
@@ -29157,7 +29276,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentSmelter2",
@@ -29400,7 +29520,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentSmelter3",
@@ -29643,7 +29764,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentWoodworker1",
@@ -29886,7 +30008,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentWoodworker2",
@@ -30129,7 +30252,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentWoodworker3",
@@ -30372,7 +30496,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentLeatherworker1",
@@ -30615,7 +30740,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentLeatherworker2",
@@ -30858,7 +30984,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentLeatherworker3",
@@ -31101,7 +31228,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentWeaver1",
@@ -31344,7 +31472,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentWeaver2",
@@ -31587,7 +31716,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentWeaver3",
@@ -31830,7 +31960,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentStonecutter1",
@@ -32073,7 +32204,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentStonecutter2",
@@ -32316,7 +32448,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "DiligentStonecutter3",
@@ -32559,7 +32692,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainLightningTrigger",
@@ -32802,7 +32936,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainFireTrigger",
@@ -33045,7 +33180,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainArcaneTrigger",
@@ -33288,7 +33424,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainNatureTrigger",
@@ -33531,7 +33668,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainLVoidTrigger",
@@ -33774,7 +33912,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainIceTrigger",
@@ -34017,7 +34156,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainLightningDamage",
@@ -34260,7 +34400,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": false,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainFireDamage",
@@ -34503,7 +34644,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": false,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainArcaneDamage",
@@ -34746,7 +34888,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": false,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainVoidDamage",
@@ -34989,7 +35132,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": false,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainNatureDamage",
@@ -35232,7 +35376,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": false,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ChainIceDamage",
@@ -35475,7 +35620,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": false,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Hatchet_FeralRush_StaminaRegen",
@@ -35718,7 +35864,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Hatchet_RendingThrow_StaminaRegen",
@@ -35961,7 +36108,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Hatchet_InfectedThrow_Heal",
@@ -36204,7 +36352,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Hatchet_InfectedThrow_Exhaust",
@@ -36447,7 +36596,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Hammer_ArmorBreaker_BlockBreak",
@@ -36690,7 +36840,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Hammer_Shockwave_Rend",
@@ -36933,7 +37084,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Hammer_PowderBurn_Slow",
@@ -37176,7 +37328,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Musket_ShootersStance_Empower",
@@ -37419,7 +37572,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Musket_StoppingPower_StaminaRegen",
@@ -37662,7 +37816,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Musket_Traps_Haste",
@@ -37905,7 +38060,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Musket_StickyBombs_Heal",
@@ -38148,7 +38304,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Spear_SweepFinish_Bleed",
@@ -38391,7 +38548,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Spear_Javelin_Rend",
@@ -38634,7 +38792,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Spear_Perforate_Fortify",
@@ -38877,7 +39036,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Spear_Skewer_Weaken",
@@ -39120,7 +39280,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Spear_VaultKick_TimerForCrit",
@@ -39363,7 +39524,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bow_PoisonShot_Weaken",
@@ -39606,7 +39768,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bow_Evade_StaminaRegen",
@@ -39849,7 +40012,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bow_RainOfArrows_Fortify",
@@ -40092,7 +40256,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bow_SplinterShot_Empower",
@@ -40335,7 +40500,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Rapier_Evade",
@@ -40578,7 +40744,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Rapier_FlourishAndFinish_StamMod",
@@ -40821,7 +40988,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Rapier_Riposte_Rend",
@@ -41064,7 +41232,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_LifeStaff_SacredGround_Fortify",
@@ -41307,7 +41476,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_LifeStaff_SplashOfLight_Heal",
@@ -41550,7 +41720,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_LifeStaff_Protection_HealBuff",
@@ -41793,7 +41964,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_LifeStaff_LightsEmbrace_Haste",
@@ -42036,7 +42208,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_LifeStaff_Beacon_HealMod",
@@ -42279,7 +42452,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_FireStaff_MeteorShower",
@@ -42522,7 +42696,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_FireStaff_FlameThrower_MoveHaste",
@@ -42765,7 +42940,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_FireStaff_Incinerate_ManaGrant",
@@ -43008,7 +43184,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_FireStaff_Burnout_ManaRegen",
@@ -43251,7 +43428,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_FireStaff_Burnout_DmgBonus",
@@ -43494,7 +43672,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Sword_LeapingStrike_Root",
@@ -43737,7 +43916,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Sword_ShieldRush_Fortify",
@@ -43980,7 +44160,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Sword_FinalStand_Haste",
@@ -44223,7 +44404,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_GreatAxe_Reap_Slow",
@@ -44466,7 +44648,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_GreatAxe_Execute_Heal",
@@ -44709,7 +44892,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_GreatAxe_Whirlwind_Fortify",
@@ -44952,7 +45136,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_GreatAxe_Maelstrom_Weaken",
@@ -45195,7 +45380,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_GreatAxe_GravityWell_LeechHeal",
@@ -45438,7 +45624,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Blunderbuss_NetShot_Exhaust",
@@ -45681,7 +45868,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Blunderbuss_ClawShot_Empower",
@@ -45924,7 +46112,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Blunderbuss_Grenade_Disease",
@@ -46167,7 +46356,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Blunderbuss_VortexShot_Slow",
@@ -46410,7 +46600,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Blunderbuss_MortarCharge_AddAmmo",
@@ -46653,7 +46844,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Blunderbuss_MortarCharge_Dmg",
@@ -46896,7 +47088,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Greatsword_Burst_Slow",
@@ -47119,8 +47312,8 @@
         "RemoveUnappliedStacks": "0",
         "PotencyMax": null,
         "DontReplaceStack": null,
-        "MoveSpeedMod": -0.15,
-        "SprintSpeedMod": -0.15,
+        "MoveSpeedMod": -0.12,
+        "SprintSpeedMod": -0.12,
         "FastTravelEncumbranceMod": "",
         "GameEventId": "",
         "HealRewardGameEventId": "",
@@ -47139,7 +47332,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Lucky",
@@ -47382,7 +47576,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Gem_Lucky1",
@@ -47625,7 +47820,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Gem_Lucky2",
@@ -47868,7 +48064,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Gem_Lucky3",
@@ -48111,7 +48308,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Gem_Lucky4",
@@ -48354,7 +48552,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_LoggingLuck",
@@ -48597,7 +48796,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_HarvestingLuck",
@@ -48840,7 +49040,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_MiningLuck",
@@ -49083,7 +49284,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_SkinningLuck",
@@ -49326,7 +49528,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_LoggingYield",
@@ -49569,7 +49772,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_HarvestingYield",
@@ -49812,7 +50016,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_MiningYield",
@@ -50055,7 +50260,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_SkinningYield",
@@ -50298,7 +50504,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_LoggingXP",
@@ -50541,7 +50748,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_HarvestingXP",
@@ -50784,7 +50992,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_MiningXP",
@@ -51027,7 +51236,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_SkinningXP",
@@ -51270,7 +51480,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_HasteOnGather",
@@ -51513,7 +51724,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_HasteOnGatherApp",
@@ -51756,7 +51968,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_CookingWeight",
@@ -51999,7 +52212,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_MiningOre",
@@ -52242,7 +52456,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_StoneWeight",
@@ -52485,7 +52700,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_HarestingWeight",
@@ -52728,7 +52944,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_SkinningWeight",
@@ -52971,7 +53188,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_WeaponWeight",
@@ -53214,7 +53432,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_ArmorWeight",
@@ -53457,7 +53676,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_AlchemistWeight",
@@ -53700,7 +53920,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_LoggingWeight",
@@ -53943,7 +54164,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_AzothYield",
@@ -54186,7 +54408,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Bags_FactionGain",
@@ -54429,7 +54652,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_LoggingLuck",
@@ -54672,7 +54896,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_HarvestingLuck",
@@ -54915,7 +55140,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_MiningLuck",
@@ -55158,7 +55384,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_SkinningLuck",
@@ -55401,7 +55628,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Arcanist",
@@ -55644,7 +55872,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Armorer",
@@ -55887,7 +56116,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Cook",
@@ -56130,7 +56360,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Engineer",
@@ -56373,7 +56604,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Jeweler",
@@ -56616,7 +56848,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Weaponsmith",
@@ -56859,7 +57092,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_SmelterYield",
@@ -57102,7 +57336,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_StonecutterYield",
@@ -57345,7 +57580,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_WeaverYield",
@@ -57588,7 +57824,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_LeatherworkingYield",
@@ -57831,7 +58068,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_WoodworkingYield",
@@ -58074,7 +58312,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_StamOnLow",
@@ -58317,7 +58556,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_StamOnLow_Timer",
@@ -58560,7 +58800,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_ManaOnLow_Timer",
@@ -58803,7 +59044,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_RemoveOnLow_Timer",
@@ -59046,7 +59288,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_FortifyOnLow",
@@ -59289,7 +59532,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_FortifyOnLow_Timer",
@@ -59532,7 +59776,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_LoggingLuck",
@@ -59775,7 +60020,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_HarvestingLuck",
@@ -60018,7 +60264,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_MiningLuck",
@@ -60261,7 +60508,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_SkinningLuck",
@@ -60504,7 +60752,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_Healing",
@@ -60747,7 +60996,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Earring_HealthRegen",
@@ -60990,7 +61240,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Earring_ThreatSubOnDodge",
@@ -61233,7 +61484,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Earring_Arcanist",
@@ -61476,7 +61728,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Earring_Armorer",
@@ -61719,7 +61972,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Earring_Cook",
@@ -61962,7 +62216,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Earring_Engineer",
@@ -62205,7 +62460,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Earring_Jeweler",
@@ -62448,7 +62704,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Earring_Weaponsmith",
@@ -62691,7 +62948,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Earring_HealthOnPotion",
@@ -62934,7 +63192,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Earring_ManaOnPotion",
@@ -63177,7 +63436,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_OnCritBleed",
@@ -63420,7 +63680,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_OnCritHaste",
@@ -63663,7 +63924,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_OnCritFortify",
@@ -63906,7 +64168,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_OnCritEmpower",
@@ -64149,7 +64412,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_OnKillHeal",
@@ -64392,7 +64656,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_OnKillStamina",
@@ -64635,7 +64900,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_OnKillFortify",
@@ -64878,7 +65144,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_OnKillEmpower",
@@ -65121,7 +65388,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_BlockSpeed_Haste",
@@ -65364,7 +65632,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_BlockSpeed_Condition",
@@ -65607,7 +65876,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_Attunement_FireDMG",
@@ -65850,7 +66120,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_Attunement_IceDMG",
@@ -66093,7 +66364,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_Attunement_LightningDMG",
@@ -66336,7 +66608,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_Attunement_NatureDMG",
@@ -66579,7 +66852,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_Attunement_VoidDMG",
@@ -66822,7 +67096,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Conditioning_FireDEF",
@@ -67065,7 +67340,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Conditioning_IceDEF",
@@ -67308,7 +67584,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Conditioning_LightningDEF",
@@ -67551,7 +67828,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Conditioning_NatureDEF",
@@ -67794,7 +68072,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_Conditioning_VoidDEF",
@@ -68037,7 +68316,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tools_Efficiency_Logging",
@@ -68280,7 +68560,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tools_Efficiency_Mining",
@@ -68523,7 +68804,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tools_Efficiency_Skinning",
@@ -68766,7 +69048,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tools_Efficiency_Harvesting",
@@ -69009,7 +69292,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DiseaseOnCrit",
@@ -69252,7 +69536,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DiseaseOnHeavy",
@@ -69495,7 +69780,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_ChargedHeavy_Rend",
@@ -69738,7 +70024,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_ChargedHeavy_Rend_Timer",
@@ -69981,7 +70268,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_FireDMG_Tracker",
@@ -70224,7 +70512,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_FireDMG",
@@ -70467,7 +70756,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_NatureDMG_Tracker",
@@ -70710,7 +71000,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_NatureDMG",
@@ -70953,7 +71244,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_IceDMG_Tracker",
@@ -71196,7 +71488,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_IceDMG",
@@ -71439,7 +71732,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_LightningDMG_Tracker",
@@ -71682,7 +71976,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_LightningDMG",
@@ -71925,7 +72220,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_VoidDMG_Tracker",
@@ -72168,7 +72464,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_VoidDMG",
@@ -72411,7 +72708,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_ArcaneDMG_Tracker",
@@ -72654,7 +72952,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_ArcaneDMG",
@@ -72897,7 +73196,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Weapon_DodgeSuccess_Control",
@@ -73140,7 +73440,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_DodgeSuccess_CleanseDoT_Timer",
@@ -73383,7 +73684,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Amulet_DodgeSuccess_CleanseDebilitate_Timer",
@@ -73626,7 +73928,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Armor_DodgeSuccess_Fortify",
@@ -73869,7 +74172,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Head_OnCritTaken_CritChance",
@@ -74112,7 +74416,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Head_OnCritTaken_CritChance_Timer",
@@ -74355,7 +74660,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Chest_OnBlockedHitTaken_StaminaRegen",
@@ -74598,7 +74904,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Hands_OnBlockedHit_EmpowerStack",
@@ -74841,7 +75148,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Legs_DodgeSuccess_Stamina",
@@ -75084,7 +75392,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Legs_DodgeSuccess_Stamina_Timer",
@@ -75327,7 +75636,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tools_GatherProc_GainHealth",
@@ -75570,7 +75880,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SpinAttackDamagePerk1",
@@ -75813,7 +76124,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SpinAttackDamagePerk2",
@@ -76056,7 +76368,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "SpinAttackDamagePerk3",
@@ -76299,7 +76612,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "RetaliateBonusDamagePerk1",
@@ -76542,7 +76856,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "RetaliateBonusDamagePerk2",
@@ -76785,7 +77100,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "RetaliateBonusDamagePerk3",
@@ -77028,7 +77344,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "RetaliateBonusDamagePerk4",
@@ -77271,7 +77588,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "BlockSpeedPerk1",
@@ -77514,7 +77832,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "BlockSpeedPerk2",
@@ -77757,7 +78076,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "BlockSpeedPerk3",
@@ -78000,7 +78320,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "BlockSpeedPerk1Condition",
@@ -78243,7 +78564,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "BlockSpeedPerk2Condition",
@@ -78486,7 +78808,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "BlockSpeedPerk3Condition",
@@ -78729,7 +79052,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ResurgeStaveStatus1",
@@ -78972,7 +79296,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ResurgeStaveStatus2",
@@ -79215,7 +79540,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ResurgeStaveStatus3",
@@ -79458,7 +79784,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "HealthOnHit1",
@@ -79701,7 +80028,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "HealthOnHit2",
@@ -79944,7 +80272,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "HealthOnHit3",
@@ -80187,7 +80516,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ManaOnHit1",
@@ -80430,7 +80760,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ManaOnHit2",
@@ -80673,7 +81004,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "ManaOnHit3",
@@ -80916,7 +81248,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Lucky1",
@@ -81159,7 +81492,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Lucky2",
@@ -81402,7 +81736,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Lucky3",
@@ -81645,7 +81980,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_PvP_Perk_Weapon_BlockBreak_Rend",
@@ -81888,7 +82224,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_PvP_Perk_Weapon_SlowExhausted",
@@ -82131,7 +82468,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_PvP_Perk_Shield_FortifyStack",
@@ -82374,7 +82712,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_PvP_Perk_Armor_DodgeHealStack",
@@ -82617,7 +82956,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_PvP_Perk_OnKill_EmpowerTilDeath",
@@ -82860,7 +83200,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_PvP_Perk_DodgeSuccess_Empower",
@@ -83103,7 +83444,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_MoteFire",
@@ -83346,7 +83688,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_MoteEarth",
@@ -83589,7 +83932,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_MoteAir",
@@ -83832,7 +84176,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_MoteWater",
@@ -84075,7 +84420,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_MoteSpirit",
@@ -84318,7 +84664,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_MoteLife",
@@ -84561,7 +84908,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Tool_MoteDeath",
@@ -84804,16 +85152,17 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_FireDMG",
-        "DisplayName": "",
-        "Description": "",
-        "EffectCategories": "Debuff+DMG",
+        "DisplayName": "@Status_Runeglass_Burn",
+        "Description": "@Status_Runeglass_Burn_Description",
+        "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_BurnT1.png",
-        "ShowInUITray": "0",
-        "ShowTextInDamageNumbers": false,
+        "ShowInUITray": "1",
+        "ShowTextInDamageNumbers": true,
         "FxScriptOn": "Perk_Chain_Fire",
         "FxScriptOff": "",
         "ShouldRefreshFxScript": "",
@@ -85018,7 +85367,7 @@
         "AFACurse": "",
         "AFABlight": "",
         "StackDuration": "",
-        "DurationMax": 2,
+        "DurationMax": 4,
         "InheritDuration": "0",
         "InheritTotalDuration": "0",
         "RefreshDuration": "0",
@@ -85034,9 +85383,9 @@
         "HealRewardGameEventId": "",
         "HealRewardThreshold": "",
         "WeaponMasteryCategoryId": "",
-        "UIPriority": null,
-        "UiNameplatePriority": null,
-        "ShowInNameplates": "0",
+        "UIPriority": 3,
+        "UiNameplatePriority": 3,
+        "ShowInNameplates": "1",
         "ShowTextInNameplates": "",
         "OverrideOtherNameplateText": "",
         "HidesOtherStatusEffectIcons": "",
@@ -85047,16 +85396,17 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": 1
     },
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_IceDMG",
-        "DisplayName": "",
-        "Description": "",
-        "EffectCategories": "Debuff+DMG",
+        "DisplayName": "@Status_Runeglass_Frostburn",
+        "Description": "@Status_Runeglass_Frostburn_Description",
+        "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_IceMagicFreeze.png",
-        "ShowInUITray": "0",
-        "ShowTextInDamageNumbers": false,
+        "ShowInUITray": "1",
+        "ShowTextInDamageNumbers": true,
         "FxScriptOn": "Perk_Chain_Ice",
         "FxScriptOff": "",
         "ShouldRefreshFxScript": "",
@@ -85261,7 +85611,7 @@
         "AFACurse": "",
         "AFABlight": "",
         "StackDuration": "",
-        "DurationMax": 2,
+        "DurationMax": 4,
         "InheritDuration": "0",
         "InheritTotalDuration": "0",
         "RefreshDuration": "0",
@@ -85277,9 +85627,9 @@
         "HealRewardGameEventId": "",
         "HealRewardThreshold": "",
         "WeaponMasteryCategoryId": "",
-        "UIPriority": null,
-        "UiNameplatePriority": null,
-        "ShowInNameplates": "0",
+        "UIPriority": 3,
+        "UiNameplatePriority": 3,
+        "ShowInNameplates": "1",
         "ShowTextInNameplates": "",
         "OverrideOtherNameplateText": "",
         "HidesOtherStatusEffectIcons": "",
@@ -85290,16 +85640,17 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": 1
     },
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_LightningDMG",
-        "DisplayName": "",
-        "Description": "",
-        "EffectCategories": "Debuff+DMG",
+        "DisplayName": "@Status_Runeglass_Surge",
+        "Description": "@Status_Runeglass_Surge_Description",
+        "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_ShockT1.png",
-        "ShowInUITray": "0",
-        "ShowTextInDamageNumbers": false,
+        "ShowInUITray": "1",
+        "ShowTextInDamageNumbers": true,
         "FxScriptOn": "Perk_Chain_Lightning",
         "FxScriptOff": "",
         "ShouldRefreshFxScript": "",
@@ -85504,7 +85855,7 @@
         "AFACurse": "",
         "AFABlight": "",
         "StackDuration": "",
-        "DurationMax": 2,
+        "DurationMax": 4,
         "InheritDuration": "0",
         "InheritTotalDuration": "0",
         "RefreshDuration": "0",
@@ -85520,9 +85871,9 @@
         "HealRewardGameEventId": "",
         "HealRewardThreshold": "",
         "WeaponMasteryCategoryId": "",
-        "UIPriority": null,
-        "UiNameplatePriority": null,
-        "ShowInNameplates": "0",
+        "UIPriority": 3,
+        "UiNameplatePriority": 3,
+        "ShowInNameplates": "1",
         "ShowTextInNameplates": "",
         "OverrideOtherNameplateText": "",
         "HidesOtherStatusEffectIcons": "",
@@ -85533,16 +85884,17 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": 1
     },
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_NatureDMG",
-        "DisplayName": "",
-        "Description": "",
-        "EffectCategories": "Debuff+DMG",
+        "DisplayName": "@Status_Runeglass_Poison",
+        "Description": "@Status_Runeglass_Poison_Description",
+        "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_AngryEarthDMGBonusT1.png",
-        "ShowInUITray": "0",
-        "ShowTextInDamageNumbers": false,
+        "ShowInUITray": "1",
+        "ShowTextInDamageNumbers": true,
         "FxScriptOn": "Perk_Chain_Nature",
         "FxScriptOff": "",
         "ShouldRefreshFxScript": "",
@@ -85747,7 +86099,7 @@
         "AFACurse": "",
         "AFABlight": "",
         "StackDuration": "",
-        "DurationMax": 2,
+        "DurationMax": 4,
         "InheritDuration": "0",
         "InheritTotalDuration": "0",
         "RefreshDuration": "0",
@@ -85763,9 +86115,9 @@
         "HealRewardGameEventId": "",
         "HealRewardThreshold": "",
         "WeaponMasteryCategoryId": "",
-        "UIPriority": null,
-        "UiNameplatePriority": null,
-        "ShowInNameplates": "0",
+        "UIPriority": 3,
+        "UiNameplatePriority": 3,
+        "ShowInNameplates": "1",
         "ShowTextInNameplates": "",
         "OverrideOtherNameplateText": "",
         "HidesOtherStatusEffectIcons": "",
@@ -85776,16 +86128,17 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": 1
     },
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_VoidDMG",
-        "DisplayName": "",
-        "Description": "",
-        "EffectCategories": "Debuff+DMG",
+        "DisplayName": "@Status_Runeglass_Corrosion",
+        "Description": "@Status_Runeglass_Corrosion_Description",
+        "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_CorruptedDMGBonusT1.png",
-        "ShowInUITray": "0",
-        "ShowTextInDamageNumbers": false,
+        "ShowInUITray": "1",
+        "ShowTextInDamageNumbers": true,
         "FxScriptOn": "Perk_Chain_Void",
         "FxScriptOff": "",
         "ShouldRefreshFxScript": "",
@@ -85990,7 +86343,7 @@
         "AFACurse": "",
         "AFABlight": "",
         "StackDuration": "",
-        "DurationMax": 2,
+        "DurationMax": 4,
         "InheritDuration": "0",
         "InheritTotalDuration": "0",
         "RefreshDuration": "0",
@@ -86006,9 +86359,9 @@
         "HealRewardGameEventId": "",
         "HealRewardThreshold": "",
         "WeaponMasteryCategoryId": "",
-        "UIPriority": null,
-        "UiNameplatePriority": null,
-        "ShowInNameplates": "0",
+        "UIPriority": 3,
+        "UiNameplatePriority": 3,
+        "ShowInNameplates": "1",
         "ShowTextInNameplates": "",
         "OverrideOtherNameplateText": "",
         "HidesOtherStatusEffectIcons": "",
@@ -86019,16 +86372,17 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": 1
     },
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_ArcaneDMG",
-        "DisplayName": "",
-        "Description": "",
-        "EffectCategories": "Debuff+DMG",
+        "DisplayName": "@Status_Runeglass_Hex",
+        "Description": "@Status_Runeglass_Hex_Description",
+        "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_ArcanistGearScoreT1.png",
-        "ShowInUITray": "0",
-        "ShowTextInDamageNumbers": false,
+        "ShowInUITray": "1",
+        "ShowTextInDamageNumbers": true,
         "FxScriptOn": "Perk_Chain_Arcane",
         "FxScriptOff": "",
         "ShouldRefreshFxScript": "",
@@ -86233,7 +86587,7 @@
         "AFACurse": "",
         "AFABlight": "",
         "StackDuration": "",
-        "DurationMax": 2,
+        "DurationMax": 4,
         "InheritDuration": "0",
         "InheritTotalDuration": "0",
         "RefreshDuration": "0",
@@ -86249,9 +86603,9 @@
         "HealRewardGameEventId": "",
         "HealRewardThreshold": "",
         "WeaponMasteryCategoryId": "",
-        "UIPriority": null,
-        "UiNameplatePriority": null,
-        "ShowInNameplates": "0",
+        "UIPriority": 3,
+        "UiNameplatePriority": 3,
+        "ShowInNameplates": "1",
         "ShowTextInNameplates": "",
         "OverrideOtherNameplateText": "",
         "HidesOtherStatusEffectIcons": "",
@@ -86262,6 +86616,7 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "ApplicationCooldown": 1
     }
 ]

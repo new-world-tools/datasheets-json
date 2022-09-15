@@ -625,5 +625,82 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "NightveilCoinBagLVL1",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "NightveilCoinBagLVL10",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "NightveilCoinBagLVL20",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "NightveilCoinBagLVL30",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "NightveilCoinBagLVL40",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "NightveilCoinBagLVL50",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "NightveilCoinBagLVL60",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
     }
 ]

@@ -1,0 +1,29 @@
+[
+    {
+        "ScheduleId": "test_1",
+        "StartDate": "*-*-*T*:25:00",
+        "EndDate": "*-*-*T*:30:00",
+        "StartWeekday": "",
+        "EndWeekday": "",
+        "UTC": false,
+        "Comments": "For internal testing, do not remove"
+    },
+    {
+        "ScheduleId": "test_2",
+        "StartDate": "",
+        "EndDate": "",
+        "StartWeekday": "Wednesday",
+        "EndWeekday": "Thursday",
+        "UTC": false,
+        "Comments": "For internal testing, do not remove"
+    },
+    {
+        "ScheduleId": "TurkeyTerror",
+        "StartDate": "2022-11-15T*:*:*",
+        "EndDate": "2022-11-29T*:*:*",
+        "StartWeekday": "",
+        "EndWeekday": "",
+        "UTC": null,
+        "Comments": "TurkeyTerror Event"
+    }
+]

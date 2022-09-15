@@ -47320,6 +47320,19 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Legion_Legionnaire_NoShield_DG_BrimstoneSands_00",
+        "DisplayName": "@VC_Legion_Legionnaire_NoShield_DG_BrimstoneSands_00",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Legion_Legionnaire_NoShield_DG_BrimstoneSands_00\"\u003eLegion_Legionnaire_NoShield_DG_BrimstoneSands_00\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Generic",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Legion_Legionnaire_Physical_16BS08c",
         "DisplayName": "@VC_Legion_Legionnaire_Physical_16BS08c",
         "Icon": "",
@@ -76631,7 +76644,7 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\undead_navigator\\undead_navigator_matGroup.mtl",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
@@ -76943,7 +76956,7 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\undead_officer\\undead_officer_var02_matGroup.mtl",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
@@ -77727,8 +77740,21 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Undead_Officer_Named_00_old",
+        "DisplayName": "@VC_Undead_Officer_Named_00_old",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Undead_Officer_Named_00_old\"\u003eUndead_Officer_Named_00_old\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Keelsnap",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\undead_officer\\undead_officer_var01_matGroup.mtl",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Undead_Officer_Named_00",
-        "DisplayName": "@VC_Undead_Officer_Named_00_MSQ2",
+        "DisplayName": "@VC_Undead_Officer_Named_00",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Undead_Officer_Named_00\"\u003eUndead_Officer_Named_00\u003c/string\u003e",
@@ -79586,8 +79612,21 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Undead_Pistoleer_Named_02_old",
+        "DisplayName": "@VC_Undead_Pistoleer_Named_02_old",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Undead_Pistoleer_Named_02_old\"\u003eUndead_Pistoleer_Named_02_old\u003c/string\u003e",
+        "GroupVitalsCategoryId": "swivelshot",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\undead_pistoleer\\undead_pistoleer_var03_matGroup.mtl",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Undead_Pistoleer_Named_02",
-        "DisplayName": "@VC_Undead_Pistoleer_Named_02_MSQ2",
+        "DisplayName": "@VC_Undead_Pistoleer_Named_02",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Undead_Pistoleer_Named_02\"\u003eUndead_Pistoleer_Named_02\u003c/string\u003e",
@@ -80631,6 +80670,19 @@
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_War-torn\"\u003eWar-torn\u003c/string\u003e",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Waterfowl",
+        "DisplayName": "@VC_Waterfowl",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Waterfowl\"\u003eWaterfowl\u003c/string\u003e",
         "GroupVitalsCategoryId": "BASE",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
