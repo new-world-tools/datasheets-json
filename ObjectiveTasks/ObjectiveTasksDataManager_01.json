@@ -5026,7 +5026,7 @@
     },
     {
         "TaskID": "06_skinningknife_SliceSwap_01_Reese_B_On",
-        "Type": "TaskLockAchievement",
+        "Type": "TaskUnlockAchievement",
         "FailOnCondition": null,
         "StayActive": 1,
         "RequiredLevel": "",
@@ -5160,7 +5160,7 @@
     },
     {
         "TaskID": "06_skinningknife_SliceSwap_01_Reese_B_Off",
-        "Type": "TaskUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": null,
         "StayActive": 1,
         "RequiredLevel": "",
@@ -6433,7 +6433,7 @@
     },
     {
         "TaskID": "12_skinningknife_SliceSwap_01_Reese_B_On",
-        "Type": "TaskLockAchievement",
+        "Type": "TaskUnlockAchievement",
         "FailOnCondition": null,
         "StayActive": 1,
         "RequiredLevel": "",
@@ -6567,7 +6567,7 @@
     },
     {
         "TaskID": "12_skinningknife_SliceSwap_01_Reese_B_Off",
-        "Type": "TaskUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": null,
         "StayActive": 1,
         "RequiredLevel": "",
@@ -11082,7 +11082,7 @@
         "TriggerAreaType": "",
         "KillEnemyType": "",
         "KillEnemyWeaponID": "",
-        "Duration": 5,
+        "Duration": 4.5,
         "TaskBuySellType": "",
         "IsPurchaseOrEarn": "",
         "IsExactMatch": "",
@@ -13360,7 +13360,7 @@
         "TriggerAreaType": "",
         "KillEnemyType": "",
         "KillEnemyWeaponID": "",
-        "Duration": 5,
+        "Duration": 4.5,
         "TaskBuySellType": "",
         "IsPurchaseOrEarn": "",
         "IsExactMatch": "",
@@ -16148,7 +16148,7 @@
     },
     {
         "TaskID": "06_recoveritems_SliceSwap_01_ReeseWW_B_Off",
-        "Type": "TaskUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": null,
         "StayActive": 1,
         "RequiredLevel": "",
@@ -17220,7 +17220,7 @@
     },
     {
         "TaskID": "12_recoveritems_SliceSwap_01_ReeseWW_B_Off",
-        "Type": "TaskUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": null,
         "StayActive": 1,
         "RequiredLevel": "",
@@ -18091,7 +18091,7 @@
     },
     {
         "TaskID": "06_demonstorm_SliceSwap_01_ReeseWW_B_Off",
-        "Type": "TaskUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": null,
         "StayActive": 1,
         "RequiredLevel": "",
@@ -19096,7 +19096,7 @@
     },
     {
         "TaskID": "12_demonstorm_SliceSwap_01_ReeseWW_B_Off",
-        "Type": "TaskUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": null,
         "StayActive": 1,
         "RequiredLevel": "",
@@ -20101,7 +20101,7 @@
     },
     {
         "TaskID": "06_demonstorm2_SliceSwap_01_ReeseWW_B_On",
-        "Type": "TaskLockAchievement",
+        "Type": "TaskUnlockAchievement",
         "FailOnCondition": null,
         "StayActive": 1,
         "RequiredLevel": "",
@@ -21106,7 +21106,7 @@
     },
     {
         "TaskID": "12_demonstorm2_SliceSwap_01_ReeseWW_B_On",
-        "Type": "TaskLockAchievement",
+        "Type": "TaskUnlockAchievement",
         "FailOnCondition": null,
         "StayActive": 1,
         "RequiredLevel": "",

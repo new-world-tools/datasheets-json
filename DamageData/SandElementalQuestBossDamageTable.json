@@ -158,7 +158,7 @@
     {
         "DamageID": "Slash_L",
         "WeaponCategory": "Unarmed",
-        "IsRanged": 1,
+        "IsRanged": 0,
         "IgnoreInvulnerable": null,
         "Unblockable": null,
         "NoReaction": null,
@@ -210,7 +210,7 @@
     {
         "DamageID": "Slash_R",
         "WeaponCategory": "Unarmed",
-        "IsRanged": 1,
+        "IsRanged": 0,
         "IgnoreInvulnerable": null,
         "Unblockable": null,
         "NoReaction": null,

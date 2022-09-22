@@ -3758,7 +3758,7 @@
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Phoenix_Bouquet.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Phoenix_Bouquet.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Phoenix_Bouquet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_NoEvil.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Phoenix_Bouquet.png",
         "TypeDescription": "@reward_type_housing_item"
     },
     {
@@ -4147,6 +4147,28 @@
         "TypeDescription": "@reward_type_Apparelskin"
     },
     {
+        "UniqueTagID": "CampSkin_Nightmare_1",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Nightmare01_A_mastername",
+        "Description": "@CampSkin_Nightmare01_A_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Nightmares_Puppet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Nightmares_Puppet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Nightmares_Puppet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Nightmares_Puppet.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "CampSkin_Nightmare_2",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Nightmare02_A_mastername",
+        "Description": "@CampSkin_Nightmare02_A_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Nightmares_SpiderNest.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Nightmares_SpiderNest.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Nightmares_SpiderNest.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Nightmares_SpiderNest.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
         "UniqueTagID": "Bundle_Egyptian_MegaPack",
         "IsEnabled": 1,
         "DisplayName": "@Bundle_Egyptian_MegaPack_name",
@@ -4398,6 +4420,28 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Twitch_Nightmares.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Twitch_Nightmares.png",
         "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Bundle_Decor_Nightmare",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Decor_Nightmare_name",
+        "Description": "@Bundle_Decor_Nightmare_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_Nightveil2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_Nightveil2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_Nightveil2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_Nightveil2022.png",
+        "TypeDescription": "@reward_type_Housing_Set"
+    },
+    {
+        "UniqueTagID": "Pet_Nightmare_Spider",
+        "IsEnabled": 1,
+        "DisplayName": "@House_HousingItem_Pet_Entitlement_Spider_Nightveil_MasterName",
+        "Description": "@House_HousingItem_Pet_Entitlement_Spider_Nightveil_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_NightmareSpider.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Rectangle_NightmareSpider.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_NightmareSpider.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Thumbnail_NightmareSpider.png",
+        "TypeDescription": "@reward_type_house_pet"
     },
     {
         "UniqueTagID": "Bundle_PR_Nightmare_Apparel",

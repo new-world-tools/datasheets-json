@@ -11977,5 +11977,95 @@
         "AmmoPrefabPath": "Items/Weapons/basic_thrown",
         "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
         "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Scarab_CON_1hHatchetT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Scarab_CON_2hSpearT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Scarab_DEX_1hHatchetT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Scarab_DEX_2hSpearT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Scarab_FOC_1hHatchetT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Scarab_FOC_2hSpearT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Scarab_INT_1hHatchetT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Scarab_INT_2hSpearT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Scarab_STR_1hHatchetT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Scarab_STR_2hSpearT5",
+        "AmmoType": "Thrown",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Items/Weapons/basic_thrown_spear",
+        "AmmoWhizByTrigger": "Play_Arrow_WhizzBys",
+        "MeshOverride": ""
     }
 ]
