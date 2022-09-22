@@ -3316,5 +3316,19 @@
         "CategoricalProgressionId": "",
         "RequiredCategoricalProgressionLevel": null,
         "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_SuperDeluxe",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Special_Achievements",
+        "TitleMale": "@ui_playertitle_special_superdeluxe",
+        "TitleFemale": "@ui_playertitle_special_superdeluxe_SHE",
+        "TitleNeutral": "@ui_playertitle_special_superdeluxe_THEY",
+        "Description": "@ui_playertitle_superdeluxe_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
     }
 ]

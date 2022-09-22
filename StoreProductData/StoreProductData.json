@@ -3531,6 +3531,17 @@
         "TypeDescription": "@ui_bundle"
     },
     {
+        "UniqueTagID": "Emote_MicDrop",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_MicDrop_name",
+        "Description": "@ui_emote_MicDrop_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_HeavyMetal_02.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_HeavyMetal_02.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_HeavyMetal_02.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_HeavyMetal_02.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_DrinkCheer",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_DrinkCheer_name",
@@ -3740,6 +3751,28 @@
         "TypeDescription": "@reward_type_emote"
     },
     {
+        "UniqueTagID": "Emote_Vanity",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Vanity_name",
+        "Description": "@ui_emote_Vanity_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_VanityMirror.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_VanityMirror.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_VanityMirror.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_VanityMirror.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_KnightThee",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_KnightThee_name",
+        "Description": "@ui_emote_KnightThee_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_KnightThee.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_KnightThee.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_KnightThee.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_KnightThee.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_CrazyTapDance",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_CrazyTapDance_name",
@@ -3782,5 +3815,258 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Phoenix_1.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Phoenix_1.png",
         "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "Weapon_EgyptianGods_ShieldR",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_ShieldR_EgyptianGods_MasterName",
+        "Description": "@Skin_ShieldR_EgyptianGods_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_EgyptianGods_RoundShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_EgyptianGods_RoundShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_EgyptianGods_RoundShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_EgyptianGods_RoundShield.png",
+        "TypeDescription": "@reward_type_Weaponskin_Shield"
+    },
+    {
+        "UniqueTagID": "Weapon_EgyptianGods_GreatAxe",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_GreatAxe_EgyptianGods_MasterName",
+        "Description": "@Skin_GreatAxe_EgyptianGods_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_EgyptianGods_GreatAxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_EgyptianGods_GreatAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_EgyptianGods_GreatAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_EgyptianGods_GreatAxe.png",
+        "TypeDescription": "@reward_type_Weaponskin_GreatAxe"
+    },
+    {
+        "UniqueTagID": "Weapon_EgyptianGods_Lifestaff",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Lifestaff_EgyptianGods_MasterName",
+        "Description": "@Skin_Lifestaff_EgyptianGods_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_EgyptianGods_LifeStaff.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_EgyptianGods_LifeStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_EgyptianGods_LifeStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_EgyptianGods_LifeStaff.png",
+        "TypeDescription": "@reward_type_Weaponskin_LifeStaff"
+    },
+    {
+        "UniqueTagID": "Weapon_EgyptianGods_VoidGauntlet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_VoidGauntlet_EgyptianGods_MasterName",
+        "Description": "@Skin_VoidGauntlet_EgyptianGods_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_EgyptianGods_VoidGauntlet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_EgyptianGods_VoidGauntlet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_EgyptianGods_VoidGauntlet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_EgyptianGods_VoidGauntlet.png",
+        "TypeDescription": "@reward_type_Weaponskin_VoidGauntlet"
+    },
+    {
+        "UniqueTagID": "Weapon_EgyptianGods_Bow",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Bow_EgyptianGods_MasterName",
+        "Description": "@Skin_Bow_EgyptianGods_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_EgyptianGods_Bow.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_EgyptianGods_Bow.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_EgyptianGods_Bow.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_EgyptianGods_Bow.png",
+        "TypeDescription": "@reward_type_Weaponskin_Bow"
+    },
+    {
+        "UniqueTagID": "Apparel_EgyptianGods_1",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_EgyptianGods_1_name",
+        "Description": "@Apparel_EgyptianGods_1_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_EgyptianGods_Harakhte.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_EgyptianGods_Harakhte.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_EgyptianGods_Harakhte.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_EgyptianGods_Harakhte.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_EgyptianGods_2",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_EgyptianGods_2_name",
+        "Description": "@Apparel_EgyptianGods_2_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_EgyptianGods_Bastet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_EgyptianGods_Bastet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_EgyptianGods_Bastet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_EgyptianGods_Bastet.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_EgyptianGods_3",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_EgyptianGods_3_name",
+        "Description": "@Apparel_EgyptianGods_3_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_EgyptianGods_Anubis.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_EgyptianGods_Anubis.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_EgyptianGods_Anubis.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_EgyptianGods_Anubis.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_EgyptianGods_4",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_EgyptianGods_4_name",
+        "Description": "@Apparel_EgyptianGods_4_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_EgyptianGods_Eset.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_EgyptianGods_Eset.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_EgyptianGods_Eset.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_EgyptianGods_Eset.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Bundle_Tool_EgyptianGods",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Tool_EgyptianGods_name",
+        "Description": "@Bundle_Tool_EgyptianGods_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_EgyptianGods.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_EgyptianGods.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_EgyptianGods.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_EgyptianGods.png",
+        "TypeDescription": "@reward_type_Toolskin_Set"
+    },
+    {
+        "UniqueTagID": "Instrument_EgyptianGods_Drum",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Drum_EgyptianGods_MasterName",
+        "Description": "@Skin_Drum_EgyptianGods_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_Drums_EgyptianGods.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_Drums_EgyptianGods.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_Drums_EgyptianGods.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_EgyptianGods.png",
+        "TypeDescription": "@reward_type_Instrumentskin_Drum"
+    },
+    {
+        "UniqueTagID": "Instrument_EgyptianGods_Guitar",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Guitar_EgyptianGods_MasterName",
+        "Description": "@Skin_Guitar_EgyptianGods_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_Guitar_EgyptianGods.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_Guitar_EgyptianGods.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_Guitar_EgyptianGods.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_Guitar_EgyptianGods.png",
+        "TypeDescription": "@reward_type_Instrumentskin_Guitar"
+    },
+    {
+        "UniqueTagID": "Instrument_EgyptianGods_Mandolin",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Mandolin_EgyptianGods_MasterName",
+        "Description": "@Skin_Mandolin_EgyptianGods_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Portrait_Mandolin_EgyptianGods.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Rectangle_Mandolin_EgyptianGods.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Square_Mandolin_EgyptianGods.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/musicInstrument_Thumbnail_Mandolin_EgyptianGods.png",
+        "TypeDescription": "@reward_type_Instrumentskin_Mandolin"
+    },
+    {
+        "UniqueTagID": "Apparel_SandDune",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_SandDune_name",
+        "Description": "@Apparel_SandDune_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_SandDune.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_SandDune.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_SandDune.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_SandDune.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Bundle_Decor_Egyptian",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Decor_Egyptian_name",
+        "Description": "@Bundle_Decor_Egyptian_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_EgyptianGods2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_EgyptianGods2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_EgyptianGods2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_EgyptianGods2022.png",
+        "TypeDescription": "@reward_type_Housing_Set"
+    },
+    {
+        "UniqueTagID": "Housing_CanopicJar02",
+        "IsEnabled": 1,
+        "DisplayName": "@house_housingitem_entitlement_egyptian2022_canopicjar02_mastername",
+        "Description": "@house_housingitem_entitlement_egyptian2022_canopicjar02_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_EgyptianGods_JarHawk.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_EgyptianGods_JarHawk.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_EgyptianGods_JarHawk.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_EgyptianGods_JarHawk.png",
+        "TypeDescription": "@reward_type_housing_item"
+    },
+    {
+        "UniqueTagID": "Housing_CanopicJar04",
+        "IsEnabled": 1,
+        "DisplayName": "@house_housingitem_entitlement_egyptian2022_canopicjar04_mastername",
+        "Description": "@house_housingitem_entitlement_egyptian2022_canopicjar04_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_EgyptianGods_JarAncient.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_EgyptianGods_JarAncient.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_EgyptianGods_JarAncient.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_EgyptianGods_JarAncient.png",
+        "TypeDescription": "@reward_type_housing_item"
+    },
+    {
+        "UniqueTagID": "CampSkin_EgyptianGods_1",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Egyptian01_A_mastername",
+        "Description": "@CampSkin_Egyptian01_A_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_EgyptianGods01.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_EgyptianGods01.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_EgyptianGods01.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_EgyptianGods01.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "CampSkin_EgyptianGods_2",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Egyptian02_A_mastername",
+        "Description": "@CampSkin_Egyptian02_A_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_EgyptianGods02.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_EgyptianGods02.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_EgyptianGods02.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_EgyptianGods02.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "Housing_Egyptian_Sarcophagus",
+        "IsEnabled": 1,
+        "DisplayName": "@house_housingitem_entitlement_animated_egyptian2022_sarcophagus01_mastername",
+        "Description": "@house_housingitem_entitlement_animated_egyptian2022_sarcophagus01_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_EgyptianGods_Sarcophagus.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_EgyptianGods_Sarcophagus.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_EgyptianGods_Sarcophagus.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_EgyptianGods_Sarcophagus.png",
+        "TypeDescription": "@reward_type_housing_item"
+    },
+    {
+        "UniqueTagID": "Bundle_Crest_Egyptian",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Crest_Egyptian_name",
+        "Description": "@Bundle_Crest_Egyptian_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_EgyptianGods.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_EgyptianGods.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_EgyptianGods.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_EgyptianGods.png",
+        "TypeDescription": "@reward_type_guildcrest_pack"
+    },
+    {
+        "UniqueTagID": "Title_SuperDeluxe",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_playertitle_special_superdeluxe",
+        "Description": "@ui_playertitle_superdeluxe_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Phoenix_1.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Phoenix_1.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Phoenix_1.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Phoenix_1.png",
+        "TypeDescription": "@reward_type_title"
+    },
+    {
+        "UniqueTagID": "Bundle_Egyptian_MegaPack",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Egyptian_MegaPack_name",
+        "Description": "@Bundle_Egyptian_MegaPack_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Mega_Aegyptus2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Mega_Aegyptus2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Mega_Aegyptus2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Mega_Aegyptus2022.png",
+        "TypeDescription": "@ui_bundle"
     }
 ]
