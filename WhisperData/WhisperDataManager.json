@@ -625,5 +625,38 @@
         "VoiceOver": "Play_Lore_Notes_Lochnir_Khalladan2",
         "Subtitle": "",
         "AchievementId": "12A_MB_LoreNote_02"
+    },
+    {
+        "WhisperId": "12A_MSQ_07_Miner1_subtitle",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 7.7892,
+        "GameEvent": "",
+        "VoiceOver": "",
+        "Subtitle": "@Miners_Shazaan_line1",
+        "AchievementId": "12A_MSQ_Miner1_subtitle"
+    },
+    {
+        "WhisperId": "12A_MSQ_07_Miner2_subtitle",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 5.05,
+        "GameEvent": "",
+        "VoiceOver": "",
+        "Subtitle": "@Miners_Tomira_line1",
+        "AchievementId": "12A_MSQ_Miner2_subtitle"
+    },
+    {
+        "WhisperId": "12A_MSQ_07_Miner3_subtitle",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 5.4193,
+        "GameEvent": "",
+        "VoiceOver": "",
+        "Subtitle": "@Miners_Chandu_line1",
+        "AchievementId": "12A_MSQ_Miner3_subtitle"
     }
 ]
