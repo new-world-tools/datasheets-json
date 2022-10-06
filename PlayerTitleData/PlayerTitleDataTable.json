@@ -3416,20 +3416,6 @@
         "RequiredPlayerLevel": null
     },
     {
-        "TitleID": "PlayerTitle_FreshStart",
-        "TitleType": "Account",
-        "UIDisplayCategory": "Player_Actions",
-        "TitleMale": "@ui_playertitle_freshstart",
-        "TitleFemale": "@ui_playertitle_freshstart_SHE",
-        "TitleNeutral": "@ui_playertitle_freshstart_THEY",
-        "Description": "@ui_playertitle_freshstart_description",
-        "MetaAchievementId": "",
-        "AchievementId": "",
-        "CategoricalProgressionId": "",
-        "RequiredCategoricalProgressionLevel": null,
-        "RequiredPlayerLevel": null
-    },
-    {
         "TitleID": "PlayerTitle_Brimstone_AncientGlyphs",
         "TitleType": "Account",
         "UIDisplayCategory": "Lore_Pages",

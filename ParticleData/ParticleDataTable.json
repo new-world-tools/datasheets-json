@@ -656,6 +656,14 @@
         "Constants": null
     },
     {
+        "Effect Name": "wfx_GreatSword.Onslaught.DefenseBreak.Default.WeaponDecalTell",
+        "Group": "impact_Env",
+        "Priority Within Group": 2,
+        "Max Number": 3,
+        "Priority": 1,
+        "Constants": null
+    },
+    {
         "Effect Name": "wFX_Blunderbuss_Containment.Net_Impact_Env",
         "Group": "Impact_Env",
         "Priority Within Group": 1,
@@ -1353,6 +1361,30 @@
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Void.DefenseBreak.Impact_Align_upgrade",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Defiance.Burst.Default.Neutral",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Defiance.Burst.Upgrades.Pull",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Defiance.Burst.Upgrades.Push",
         "Group": "PlayerWeapon_AOE",
         "Priority Within Group": 3,
         "Max Number": 5,
@@ -2712,6 +2744,54 @@
         "Constants": null
     },
     {
+        "Effect Name": "wfx_GreatSword.Status.Default.Defense.Tell",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Status.Default.Defense.Idle",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Status.Default.Defense.Defense_Arm02",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Status.Default.Offense.Idle",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Status.Default.Offense.Offense_Arm02",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Universal.Default.Block",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
         "Effect Name": "wFX_Blunderbuss_Containment.Shrapnel_Tell",
         "Group": "PlayerWeapon_Tells",
         "Priority Within Group": 2,
@@ -3916,119 +3996,119 @@
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
         "Max Number": 10,
-        "Priority": 33,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Universal.Default.Swipe_light",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Universal.Default.Swipe_medium",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Fire.Default.Swipe_light",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Fire.Default.Swipe_heavy",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Ice.Default.Swipe_light",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Ice.Default.Swipe_heavy",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Lightning.Default.Swipe_light",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Lightning.Default.Swipe_heavy",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Magic.Default.Swipe_light",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 78,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Magic.Default.Swipe_heavy",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Nature.Default.Swipe_light",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Nature.Default.Swipe_heavy",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Void.Default.Swipe_light",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
         "Effect Name": "wfx_GreatSword.Gems.Void.Default.Swipe_heavy",
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 33,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {

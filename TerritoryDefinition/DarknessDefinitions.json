@@ -349,5 +349,18 @@
         "RequiredItemId": "",
         "RecommendedLevel": 21,
         "PulseColor": "1 0 0"
+    },
+    {
+        "TerritoryID": 8029,
+        "NameLocalizationKey": "@ui_turkeyterror_worldboss_Turkulon",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Turkey.png",
+        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/Turkey.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_Event_Turkulon.png",
+        "GroupSize": 0,
+        "POITag": "EventEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "110 116 240"
     }
 ]

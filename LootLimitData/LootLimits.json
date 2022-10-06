@@ -451,7 +451,7 @@
         "LimitNotificationLocTag": ""
     },
     {
-        "LootLimitID": "Skin_Feet_TurkeyTerror",
+        "LootLimitID": "Skin_Feet_TurkeyTerror_Box",
         "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
@@ -701,6 +701,17 @@
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "GoldenScarab",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 10,
+        "MinLimitMult": 86400,
+        "MaxLimitMult": 86400,
+        "LimitExpireSeconds": 86400,
         "LimitNotificationLocTag": ""
     }
 ]
