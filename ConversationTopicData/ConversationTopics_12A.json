@@ -1,0 +1,119 @@
+[
+    {
+        "ConversationTopicId": "12A_Don",
+        "PlayerPrompt": "@12A_Don_Prompt",
+        "NPCResponse": "@12A_Don_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Shae",
+        "PlayerPrompt": "@12A_Shae_Prompt",
+        "NPCResponse": "@12A_Shae_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Shazaan",
+        "PlayerPrompt": "@12A_Shazaan_Prompt",
+        "NPCResponse": "@12A_Shazaan_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Tomira",
+        "PlayerPrompt": "@12A_Tomira_Prompt",
+        "NPCResponse": "@12A_Tomira_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Chandu",
+        "PlayerPrompt": "@12A_Chandu_Prompt",
+        "NPCResponse": "@12A_Chandu_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_01_MSQ_04_SerPayneBennett",
+        "PlayerPrompt": "@12A_MSQ_04_TalktoPayne_prompt",
+        "NPCResponse": "@12A_MSQ_04_TalktoPayne",
+        "AchievementUnlock": "12A_PayneTalk01",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_02_MSQ_12_SerPayneBennett",
+        "PlayerPrompt": "@12A_MSQ_12_CampTutorial_TalkTo_Prompt",
+        "NPCResponse": "@12A_MSQ_12_CampTutorial_TalkTo_Response",
+        "AchievementUnlock": "12A_PayneTalk02",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_03_MSQ_10_Lochnir_Explains",
+        "PlayerPrompt": "@12A_MSQ_10_Lochnir_Explains_prompt",
+        "NPCResponse": "@12A_MSQ_10_Lochnir_Explains",
+        "AchievementUnlock": "12A_LochnirTalk01",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_11_MSQ_15_GraceOMalley",
+        "PlayerPrompt": "@12A_MSQ_15_DefeatNavigator_TalkTo_Prompt",
+        "NPCResponse": "@12A_MSQ_15_DefeatNavigator_TalkTo_Response",
+        "AchievementUnlock": "12A_Grace15",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_17_LochnirsNotes_TalkLochnir",
+        "PlayerPrompt": "@12A_MSQ_17_LochnirsNotes_TalkLochnir_Prompt",
+        "NPCResponse": "@12A_MSQ_17_LochnirsNotes_TalkLochnir_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_17_YoungeGeiser",
+        "PlayerPrompt": "@12A_MSQ_17_LochnirsNotes_TalkTo_Prompt",
+        "NPCResponse": "@12A_MSQ_17_LochnirsNotes_TalkTo_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_19_RegentJinJae",
+        "PlayerPrompt": "@12A_MSQ_19_MeetPercilla_TalkTo_Prompt",
+        "NPCResponse": "@12A_MSQ_19_MeetPercilla_TalkTo_Response",
+        "AchievementUnlock": "12A_Regent19",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_12_MSQ_15_GraceOMalley",
+        "PlayerPrompt": "@12A_MSQ_15_DefeatNavigator_Obj_Proposal_Next3_prompt",
+        "NPCResponse": "@12A_MSQ_15_DefeatNavigator_Obj_Proposal_Next3",
+        "AchievementUnlock": "12A_Grace15A",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

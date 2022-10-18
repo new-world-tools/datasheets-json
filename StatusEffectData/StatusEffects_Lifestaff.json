@@ -241,7 +241,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Celestial_Heal_AoE",
@@ -485,7 +488,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Celestial_Mana_Regen",
@@ -729,7 +735,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Celestial_Heal_AoE_Power_Upgrade",
@@ -973,7 +982,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Celestial_Heal_Self",
@@ -1217,7 +1229,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Celestial_Life_DMG_Absorb",
@@ -1461,7 +1476,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Celestial_Life_DMG_Bonus",
@@ -1705,7 +1723,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Celestial_GroupBuff",
@@ -1949,7 +1970,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Celestial_GroupBuff_Upgrade",
@@ -2193,7 +2217,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_DamageEnemy_Super_Siphon",
@@ -2437,7 +2464,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_SlowEnemy_Siphon",
@@ -2681,7 +2711,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_HealFriend_Super_Siphon",
@@ -2925,7 +2958,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_ManaGain_Siphon",
@@ -3169,7 +3205,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_DamageEnemy_Siphon",
@@ -3413,7 +3452,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_ManaDrain_Siphon",
@@ -3657,7 +3699,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_HealFriend_Siphon",
@@ -3901,7 +3946,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_ManaGain_Armor_Siphon",
@@ -4145,7 +4193,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_DamageEnemy_Armor_Siphon",
@@ -4389,7 +4440,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_Heal_OnKill_Passive",
@@ -4633,7 +4687,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_HealingWave_HoT",
@@ -4877,7 +4934,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_HealingWave_HoT_Upgrade",
@@ -5121,7 +5181,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_Heavy_Upgrade_HoT",
@@ -5365,7 +5428,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_IncreasedHealing_Passive",
@@ -5609,7 +5675,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_Aim_Walk_Siphon",
@@ -5853,7 +5922,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_Aim_Walk_Speed_Passive",
@@ -6097,7 +6169,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_StaminaRegen_OnHit",
@@ -6341,7 +6416,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_3sec_Invuln",
@@ -6585,7 +6663,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_Mana_Regen",
@@ -6829,7 +6910,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "PreventResuscitateTimer",
@@ -7073,7 +7157,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_HighHealth_MagicDmgBonus",
@@ -7317,7 +7404,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "MassRezTimer",
@@ -7561,7 +7651,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeResuscitateTimer",
@@ -7805,7 +7898,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_MR_Victim_Effect",
@@ -8049,7 +8145,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_MR_Victim_Effect_Active",
@@ -8293,7 +8392,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "AncientGuardianTimer",
@@ -8537,7 +8639,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_DivineEmbrace_Heal",
@@ -8781,7 +8886,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_DivineEmbrace_Heal_Upgrade",
@@ -9025,7 +9133,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "LifeStaff_DivineEmbrace_Cast_Spell",
@@ -9269,7 +9380,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Ability_Lifestaff_OrbofProtection",
@@ -9513,7 +9627,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Ability_Lifestaff_OrbofProtection_Heal",
@@ -9757,7 +9874,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": 0.433,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_Ability_Lifestaff_OrbofProtection_HealoverTime",
@@ -10001,7 +10121,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": 0.26,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_Ability_Lifestaff_DivineEmbrace",
@@ -10245,7 +10368,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": 0.433,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_Passive_Lifestaff_Healing_HealOnLight",
@@ -10265,8 +10391,8 @@
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "HideHudDurationNumbers": null,
-        "BaseDuration": 1,
-        "TickRate": 2,
+        "BaseDuration": 0.1,
+        "TickRate": 1,
         "DelayInitialTick": "",
         "TickCondition": "",
         "OnTickStatusEffect": "",
@@ -10489,13 +10615,16 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": 0.65,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
-        "StatusID": "Status_Passive_Lifestaff_Healing_RemoveOnHeavy",
+        "StatusID": "Status_Passive_Lifestaff_Healing_RemoveOnHeavy_RuneCharge",
         "DisplayName": "",
         "Description": "",
-        "EffectCategories": "Removal",
+        "EffectCategories": "",
         "PlaceholderIcon": "lyshineui/images/status/SE_HealT4.png",
         "ShowInUITray": false,
         "ShowTextInDamageNumbers": false,
@@ -10515,13 +10644,13 @@
         "TickCondition": "",
         "OnTickStatusEffect": "",
         "KeepOnTickEffectOnEnd": "",
-        "StopOnHitCount": 0,
+        "StopOnHitCount": null,
         "HitCondition": "",
         "RequireReaction": "",
         "OnStackStatusEffect": "",
         "AddOnStackSize": "",
         "AddOnStackSizeComparison": "",
-        "HealThreatMultiplier": 0.5,
+        "HealThreatMultiplier": null,
         "ScaleAmountOverTime": "",
         "ScaleAmountOverTimeMin": "",
         "ScaleAmountOverTimeMax": "",
@@ -10597,7 +10726,7 @@
         "EffectDurationMods": "",
         "EffectPotencyMods": "",
         "RemoveStatusEffects": "",
-        "RemoveStatusEffectCategories": "Debuff",
+        "RemoveStatusEffectCategories": "",
         "GlobalRollMod": "",
         "FishingLineStrength": "",
         "FishSizeRollModifier": "",
@@ -10733,7 +10862,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": 0.65,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Upgrade_Lifestaff_OrbofProtection_Dmg",
@@ -10977,7 +11109,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Lifestaff_Protection_HealingOnDodge",
@@ -11221,7 +11356,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Lifestaff_Protection_HasteWhenLow",
@@ -11465,7 +11603,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Lifestaff_Protection_HasteWhenLow_Timer",
@@ -11709,7 +11850,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_LifeStaff_SplashofLight",
@@ -11953,7 +12097,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": 0.26,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_Passive_Lifestaff_Healing_HealingBuffonBasic",
@@ -12197,7 +12344,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Ability_Lifestaff_LightsEmbrace",
@@ -12441,7 +12591,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": 1.3,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_LifeStaff_DivineEmbrace_Cast_Spell",
@@ -12685,7 +12838,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_LifeStaff_DivineEmbrace_Cast_Spell2",
@@ -12929,7 +13085,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Upgrade_Lifestaff_Protection_GiveStam",
@@ -13173,7 +13332,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Ultimate_Healing",
@@ -13417,7 +13579,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Ability_Lifestaff_LightsEmbrace_perBuff",
@@ -13661,7 +13826,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Ability_Lifestaff_SacredGround",
@@ -13905,7 +14073,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": 0.26,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_Ability_Lifestaff_SacredGround_Upgrade",
@@ -14149,7 +14320,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Ability_Lifestaff_SacredGround_Upgrade2",
@@ -14393,7 +14567,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Lifestaff_Protection_FortifyOnBasic",
@@ -14637,7 +14814,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Upgrade_Lifestaff_Protection_AddHaste",
@@ -14881,7 +15061,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Passive_Lifestaff_Healing_AoeHealWhenHit",
@@ -15125,7 +15308,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": 0.26,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_Passive_Lifestaff_Healing_AoeHealWhenHit_Timer",
@@ -15340,7 +15526,7 @@
         "AFACurse": null,
         "AFABlight": null,
         "StackDuration": null,
-        "DurationMax": 1,
+        "DurationMax": null,
         "InheritDuration": null,
         "InheritTotalDuration": "",
         "RefreshDuration": "",
@@ -15369,7 +15555,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Status_Ability_Lifestaff_Beacon",
@@ -15613,7 +15802,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": 0.26,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Status_Passive_Lifestaff_Healing_CDROnLow_Timer",
@@ -15857,6 +16049,9 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     }
 ]

@@ -48,7 +48,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Invasion_Priest_Fireball_Spell",
@@ -99,7 +101,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_GroundWave_Spell",
@@ -150,7 +154,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Ranged_AOE_Spell",
@@ -201,7 +207,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_BlastAway_Spell",
@@ -252,7 +260,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.55,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Close_Staff_Attack",
@@ -303,7 +313,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Close_Overhead_Staff_Attack",
@@ -354,7 +366,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Doom",
@@ -405,7 +419,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Core_Bump",
@@ -456,7 +472,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -507,7 +525,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -558,6 +578,8 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

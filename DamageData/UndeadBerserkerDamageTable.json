@@ -43,7 +43,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Unarmed_Hook_Swing",
@@ -89,7 +91,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Unarmed_Hook_Uppercut",
@@ -108,14 +112,14 @@
         "DmgCoef": 0.6,
         "DmgCoefHead": 1,
         "DmgCoefCrit": "",
-        "PowerLevel": 4,
-        "BlockPowerLevel": 4,
-        "CritPowerLevel": 4,
+        "PowerLevel": 3,
+        "BlockPowerLevel": 3,
+        "CritPowerLevel": 3,
         "HitStun": 30,
         "BlockHitStun": 34,
         "CritHitStun": 30,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 3.2,
+        "ImpactDistanceY": 1.5,
         "ImpactDistanceZ": 0.5,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
@@ -135,7 +139,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 1.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Sword_Attack360_1",
@@ -181,7 +187,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Sword_Attack360_2",
@@ -227,7 +235,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0.5
+        "StunBreakoutIncrement": 0.5,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Sword_Slash",
@@ -273,7 +283,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Sword_Stab",
@@ -319,7 +331,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Sword_BreakGuard",
@@ -365,7 +379,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Sword_RunOverhead",
@@ -411,7 +427,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Reaction_Breakout",
@@ -457,7 +475,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -503,6 +523,8 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

@@ -44,7 +44,9 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "AG_Reaver_Dash",
@@ -91,7 +93,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "AG_Reaver_Dash_Arcane",
@@ -138,7 +142,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "AG_Spearman_Stab_01",
@@ -185,7 +191,9 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "AG_Spearman_Stab_02",
@@ -232,7 +240,9 @@
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "AG_Spearman_ShieldBash_Sweep",
@@ -248,7 +258,7 @@
         "EffectOnlyOnDamage": null,
         "DeflectDamageID": "",
         "CanCrit": false,
-        "DmgCoef": 0.9,
+        "DmgCoef": 0.65,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
         "PowerLevel": 3,
@@ -279,7 +289,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "AG_Spearman_ShieldBash_Rush",
@@ -295,15 +307,15 @@
         "EffectOnlyOnDamage": null,
         "DeflectDamageID": "",
         "CanCrit": false,
-        "DmgCoef": 0.6,
+        "DmgCoef": 0.45,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 3,
-        "CritPowerLevel": 3,
-        "BlockPowerLevel": 3,
-        "HitStun": 30,
-        "BlockHitStun": 25,
-        "CritHitStun": 30,
+        "PowerLevel": 2,
+        "CritPowerLevel": 2,
+        "BlockPowerLevel": 2,
+        "HitStun": 25,
+        "BlockHitStun": 20,
+        "CritHitStun": 25,
         "ImpactDistanceX": 0,
         "ImpactDistanceY": 2,
         "ImpactDistanceZ": 0,
@@ -326,7 +338,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Fireball_Spell",
@@ -373,7 +387,9 @@
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Mage_Rolling_Spell",
@@ -420,7 +436,9 @@
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Ranged_AOE_Spell",
@@ -467,7 +485,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_BlastAway_Spell",
@@ -514,7 +534,9 @@
         "BlockStaminaDmgMod": 0.55,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Close_Staff_Attack",
@@ -561,7 +583,9 @@
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Close_Overhead_Staff_Attack",
@@ -608,7 +632,9 @@
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Mage_Frigid_Winds_Spell",
@@ -655,7 +681,9 @@
         "BlockStaminaDmgMod": 0.55,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Mage_Arcane_Shield",
@@ -702,7 +730,9 @@
         "BlockStaminaDmgMod": 0.55,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Mage_Iceblock_Spell",
@@ -749,7 +779,9 @@
         "BlockStaminaDmgMod": 0.55,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Stab",
@@ -796,7 +828,9 @@
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Flurry",
@@ -843,7 +877,9 @@
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Throw",
@@ -890,7 +926,9 @@
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Heroic_Throw",
@@ -937,7 +975,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Lunge",
@@ -984,7 +1024,9 @@
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Lunge_Knockback",
@@ -1031,7 +1073,9 @@
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Javelineer_Slash",
@@ -1078,7 +1122,205 @@
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
+    },
+    {
+        "DamageID": "AnubianReaver_InfernoSpinSlash",
+        "WeaponCategory": "Sword",
+        "IgnoreInvulnerable": 0,
+        "NoReaction": 0,
+        "IsRanged": null,
+        "SurfaceImpactEffect": "Bullet",
+        "AttackType": "Light",
+        "DamageType": "Slash",
+        "Affixes": "AI_FireDMG_100",
+        "StatusEffect": "",
+        "EffectOnlyOnDamage": null,
+        "DeflectDamageID": "",
+        "CanCrit": false,
+        "DmgCoef": 0.15,
+        "DmgCoefHead": 1,
+        "DmgCoefCrit": 1,
+        "PowerLevel": 1,
+        "CritPowerLevel": 1,
+        "BlockPowerLevel": 1,
+        "HitStun": 10,
+        "BlockHitStun": 15,
+        "CritHitStun": 10,
+        "ImpactDistanceX": 0,
+        "ImpactDistanceY": 0.5,
+        "ImpactDistanceZ": 0,
+        "ImpactDecayRate": 0.8,
+        "CritImpactDistanceX": 0,
+        "CritImpactDistanceY": 0.5,
+        "CritImpactDistanceZ": 0,
+        "CritImpactDecayRate": 0.8,
+        "BlockImpactDistanceX": 0,
+        "BlockImpactDistanceY": 0,
+        "BlockImpactDistanceZ": 0,
+        "BlockImpactDecayRate": 0.8,
+        "AddDmg": 0,
+        "StaggerDmgModifier": 0,
+        "CritStaggerDmgModifier": 1,
+        "StaggerResistModifier": 1,
+        "CameraShakeID": "Small",
+        "CritCameraShakeID": "Small",
+        "ImpactRating": 0,
+        "BlockStaminaDmgMod": 0.1,
+        "BlockAbsorptionModifier": 1,
+        "StunBreakoutIncrement": 0,
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
+    },
+    {
+        "DamageID": "AnubianReaver_InfernoEruption",
+        "WeaponCategory": "AncientMagic",
+        "IgnoreInvulnerable": 0,
+        "NoReaction": 0,
+        "IsRanged": null,
+        "SurfaceImpactEffect": "Bullet",
+        "AttackType": "Magic",
+        "DamageType": "Fire",
+        "Affixes": "",
+        "StatusEffect": "AI_Anubian_Burn_9",
+        "EffectOnlyOnDamage": true,
+        "DeflectDamageID": "",
+        "CanCrit": false,
+        "DmgCoef": 0.5,
+        "DmgCoefHead": 1,
+        "DmgCoefCrit": 1,
+        "PowerLevel": 0,
+        "CritPowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "HitStun": 30,
+        "BlockHitStun": 25,
+        "CritHitStun": 30,
+        "ImpactDistanceX": 0,
+        "ImpactDistanceY": 1.5,
+        "ImpactDistanceZ": 0,
+        "ImpactDecayRate": 0.8,
+        "CritImpactDistanceX": 0,
+        "CritImpactDistanceY": 1.5,
+        "CritImpactDistanceZ": 0,
+        "CritImpactDecayRate": 0.8,
+        "BlockImpactDistanceX": 0,
+        "BlockImpactDistanceY": 0,
+        "BlockImpactDistanceZ": 0,
+        "BlockImpactDecayRate": 0.8,
+        "AddDmg": 0,
+        "StaggerDmgModifier": 1,
+        "CritStaggerDmgModifier": 1,
+        "StaggerResistModifier": 1,
+        "CameraShakeID": "Small",
+        "CritCameraShakeID": "Small",
+        "ImpactRating": 0,
+        "BlockStaminaDmgMod": 0.4,
+        "BlockAbsorptionModifier": 1,
+        "StunBreakoutIncrement": 0,
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
+    },
+    {
+        "DamageID": "AnubianSpearman_SunbeamLance_01",
+        "WeaponCategory": "AncientMagic",
+        "IgnoreInvulnerable": 0,
+        "NoReaction": 0,
+        "IsRanged": true,
+        "SurfaceImpactEffect": "Bullet",
+        "AttackType": "Magic",
+        "DamageType": "Fire",
+        "Affixes": "",
+        "StatusEffect": "AI_Anubian_Burn_9",
+        "EffectOnlyOnDamage": true,
+        "DeflectDamageID": "",
+        "CanCrit": false,
+        "DmgCoef": 0.5,
+        "DmgCoefHead": 1,
+        "DmgCoefCrit": 1,
+        "PowerLevel": 1,
+        "CritPowerLevel": 1,
+        "BlockPowerLevel": 1,
+        "HitStun": 13,
+        "BlockHitStun": 8,
+        "CritHitStun": 13,
+        "ImpactDistanceX": 0,
+        "ImpactDistanceY": 1,
+        "ImpactDistanceZ": 0,
+        "ImpactDecayRate": 0.8,
+        "CritImpactDistanceX": 0,
+        "CritImpactDistanceY": 1,
+        "CritImpactDistanceZ": 0,
+        "CritImpactDecayRate": 0.8,
+        "BlockImpactDistanceX": 0,
+        "BlockImpactDistanceY": 0,
+        "BlockImpactDistanceZ": 0,
+        "BlockImpactDecayRate": 0.8,
+        "AddDmg": 0,
+        "StaggerDmgModifier": 1,
+        "CritStaggerDmgModifier": 1,
+        "StaggerResistModifier": 1,
+        "CameraShakeID": "Small",
+        "CritCameraShakeID": "Small",
+        "ImpactRating": 0,
+        "BlockStaminaDmgMod": 0.4,
+        "BlockAbsorptionModifier": 1,
+        "StunBreakoutIncrement": 0,
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
+    },
+    {
+        "DamageID": "AnubianSpearman_Sunbeam_Swipe",
+        "WeaponCategory": "Sword",
+        "IgnoreInvulnerable": 0,
+        "NoReaction": 0,
+        "IsRanged": null,
+        "SurfaceImpactEffect": "Bullet",
+        "AttackType": "Magic",
+        "DamageType": "Fire",
+        "Affixes": "",
+        "StatusEffect": "AI_Anubian_Burn_9",
+        "EffectOnlyOnDamage": true,
+        "DeflectDamageID": "",
+        "CanCrit": false,
+        "DmgCoef": 0.8,
+        "DmgCoefHead": 1,
+        "DmgCoefCrit": 1,
+        "PowerLevel": 0,
+        "CritPowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "HitStun": 10,
+        "BlockHitStun": 10,
+        "CritHitStun": 10,
+        "ImpactDistanceX": 0,
+        "ImpactDistanceY": 1,
+        "ImpactDistanceZ": 0,
+        "ImpactDecayRate": 0.8,
+        "CritImpactDistanceX": 0,
+        "CritImpactDistanceY": 1,
+        "CritImpactDistanceZ": 0,
+        "CritImpactDecayRate": 0.8,
+        "BlockImpactDistanceX": 0,
+        "BlockImpactDistanceY": 0,
+        "BlockImpactDistanceZ": 0,
+        "BlockImpactDecayRate": 0.8,
+        "AddDmg": 0,
+        "StaggerDmgModifier": 1,
+        "CritStaggerDmgModifier": 1,
+        "StaggerResistModifier": 1,
+        "CameraShakeID": "Small",
+        "CritCameraShakeID": "Small",
+        "ImpactRating": 0,
+        "BlockStaminaDmgMod": 0.7,
+        "BlockAbsorptionModifier": 1,
+        "StunBreakoutIncrement": 0,
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Mage_Miniboss_Beam",
@@ -1125,7 +1367,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Mage_Miniboss_Orb_AOE",
@@ -1172,25 +1416,27 @@
         "BlockStaminaDmgMod": 0.55,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Heartforge_Guardian_Explosion",
         "WeaponCategory": "AncientMagic",
         "IgnoreInvulnerable": 0,
-        "NoReaction": 0,
+        "NoReaction": 1,
         "IsRanged": null,
         "SurfaceImpactEffect": "Bullet",
         "AttackType": "Magic",
         "DamageType": "Arcane",
         "Affixes": "",
-        "StatusEffect": "AI_Snare_4sec",
+        "StatusEffect": "AI_Weaken",
         "EffectOnlyOnDamage": true,
         "DeflectDamageID": "",
         "CanCrit": false,
-        "DmgCoef": 0.75,
-        "DmgCoefHead": 0.75,
-        "DmgCoefCrit": 0.75,
+        "DmgCoef": 0.15,
+        "DmgCoefHead": 0.15,
+        "DmgCoefCrit": 0.15,
         "PowerLevel": 0,
         "CritPowerLevel": 0,
         "BlockPowerLevel": 0,
@@ -1219,7 +1465,9 @@
         "BlockStaminaDmgMod": 0.55,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -1266,7 +1514,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": null,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -1313,7 +1563,9 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "StaminaDmg": 1
+        "StaminaDmg": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "test",
@@ -1360,6 +1612,8 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "StaminaDmg": 0
+        "StaminaDmg": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

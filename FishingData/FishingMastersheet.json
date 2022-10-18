@@ -2,6 +2,7 @@
     {
         "Id": "FreshWater_VeryShallow",
         "Type": "Water",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -38,6 +39,7 @@
     {
         "Id": "FreshWater_Shallow",
         "Type": "Water",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -74,6 +76,7 @@
     {
         "Id": "FreshWater_Deep",
         "Type": "Water",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -110,6 +113,7 @@
     {
         "Id": "SaltWater_VeryShallow",
         "Type": "Water",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -146,6 +150,7 @@
     {
         "Id": "SaltWater_Shallow",
         "Type": "Water",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -182,6 +187,7 @@
     {
         "Id": "SaltWater_Deep",
         "Type": "Water",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -218,6 +224,7 @@
     {
         "Id": "Hotspot_Broad_1",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_1",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -254,6 +261,7 @@
     {
         "Id": "Hotspot_Broad_2",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_2",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -290,6 +298,7 @@
     {
         "Id": "Hotspot_Broad_3",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_3",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -326,6 +335,7 @@
     {
         "Id": "Hotspot_Broad_4",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_4",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -362,6 +372,7 @@
     {
         "Id": "Hotspot_Broad_5",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_5",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -398,6 +409,7 @@
     {
         "Id": "Hotspot_Broad_6",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_6",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -434,6 +446,7 @@
     {
         "Id": "Hotspot_Broad_7",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_7",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -470,6 +483,7 @@
     {
         "Id": "Hotspot_Broad_8",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_8",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -506,6 +520,7 @@
     {
         "Id": "Hotspot_Broad_9",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_9",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -542,6 +557,7 @@
     {
         "Id": "Hotspot_Broad_10",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_10",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -578,6 +594,7 @@
     {
         "Id": "Hotspot_Broad_11",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_11",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -614,6 +631,7 @@
     {
         "Id": "Hotspot_Broad_12",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_12",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -650,6 +668,7 @@
     {
         "Id": "Hotspot_Broad_13",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_13",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -686,6 +705,7 @@
     {
         "Id": "Hotspot_Broad_14",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_14",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -722,6 +742,7 @@
     {
         "Id": "Hotspot_Broad_15",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_15",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -758,6 +779,7 @@
     {
         "Id": "Hotspot_Broad_16",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_16",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -794,6 +816,7 @@
     {
         "Id": "Hotspot_Broad_17",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_17",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -830,6 +853,7 @@
     {
         "Id": "Hotspot_Broad_18",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_18",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -866,6 +890,7 @@
     {
         "Id": "Hotspot_Broad_19",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_19",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -902,6 +927,7 @@
     {
         "Id": "Hotspot_Broad_20",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_20",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -938,6 +964,7 @@
     {
         "Id": "Hotspot_Broad_21",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_21",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -974,6 +1001,7 @@
     {
         "Id": "Hotspot_Broad_22",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_22",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -1010,6 +1038,7 @@
     {
         "Id": "Hotspot_Broad_23",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_23",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -1046,6 +1075,7 @@
     {
         "Id": "Hotspot_Broad_24",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_24",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -1082,6 +1112,7 @@
     {
         "Id": "Hotspot_Broad_25",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_25",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -1118,6 +1149,7 @@
     {
         "Id": "Hotspot_Broad_26",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_26",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -1154,6 +1186,7 @@
     {
         "Id": "Hotspot_Broad_27",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_27",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -1190,6 +1223,7 @@
     {
         "Id": "Hotspot_Rare_28",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_28",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1226,6 +1260,7 @@
     {
         "Id": "Hotspot_Rare_29",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_29",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1262,6 +1297,7 @@
     {
         "Id": "Hotspot_Rare_30",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_30",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1298,6 +1334,7 @@
     {
         "Id": "Hotspot_Rare_31",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_31",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1334,6 +1371,7 @@
     {
         "Id": "Hotspot_Rare_32",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_32",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1370,6 +1408,7 @@
     {
         "Id": "Hotspot_Rare_33",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_33",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1406,6 +1445,7 @@
     {
         "Id": "Hotspot_Rare_34",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_34",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1442,6 +1482,7 @@
     {
         "Id": "Hotspot_Rare_35",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_35",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1478,6 +1519,7 @@
     {
         "Id": "Hotspot_Rare_36",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_36",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1514,6 +1556,7 @@
     {
         "Id": "Hotspot_Rare_37",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_37",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1550,6 +1593,7 @@
     {
         "Id": "Hotspot_Rare_38",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_38",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1586,6 +1630,7 @@
     {
         "Id": "Hotspot_Rare_39",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_39",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1622,6 +1667,7 @@
     {
         "Id": "Hotspot_Rare_40",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_40",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1658,6 +1704,7 @@
     {
         "Id": "Hotspot_Rare_41",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_41",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1694,6 +1741,7 @@
     {
         "Id": "Hotspot_Rare_42",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_42",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1730,6 +1778,7 @@
     {
         "Id": "Hotspot_Rare_43",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_43",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1766,6 +1815,7 @@
     {
         "Id": "Hotspot_Rare_44",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_44",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1802,6 +1852,7 @@
     {
         "Id": "Hotspot_Rare_45",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_45",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1838,6 +1889,7 @@
     {
         "Id": "Hotspot_Rare_46",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_46",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1874,6 +1926,7 @@
     {
         "Id": "Hotspot_Rare_47",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_47",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1910,6 +1963,7 @@
     {
         "Id": "Hotspot_Rare_48",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_48",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1946,6 +2000,7 @@
     {
         "Id": "Hotspot_Rare_49",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_49",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -1982,6 +2037,7 @@
     {
         "Id": "Hotspot_Rare_50",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_50",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -2018,6 +2074,7 @@
     {
         "Id": "Hotspot_Rare_51",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_51",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -2054,6 +2111,7 @@
     {
         "Id": "Hotspot_Rare_52",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_52",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 15.99,
@@ -2090,6 +2148,7 @@
     {
         "Id": "Hotspot_Secret_53",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_53",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2126,6 +2185,7 @@
     {
         "Id": "Hotspot_Secret_54",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_54",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2162,6 +2222,7 @@
     {
         "Id": "Hotspot_Secret_55",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_55",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2198,6 +2259,7 @@
     {
         "Id": "Hotspot_Secret_56",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_56",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2234,6 +2296,7 @@
     {
         "Id": "Hotspot_Secret_57",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_57",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2270,6 +2333,7 @@
     {
         "Id": "Hotspot_Secret_58",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_58",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2306,6 +2370,7 @@
     {
         "Id": "Hotspot_Secret_59",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_59",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2342,6 +2407,7 @@
     {
         "Id": "Hotspot_Secret_60",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_60",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2378,6 +2444,7 @@
     {
         "Id": "Hotspot_Secret_61",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_61",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2414,6 +2481,7 @@
     {
         "Id": "Hotspot_Secret_62",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_62",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2450,6 +2518,7 @@
     {
         "Id": "Hotspot_Secret_63",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_63",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2486,6 +2555,7 @@
     {
         "Id": "Hotspot_Secret_64",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_64",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2522,6 +2592,7 @@
     {
         "Id": "Hotspot_Secret_65",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_65",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2558,6 +2629,7 @@
     {
         "Id": "Hotspot_Secret_66",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_66",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2594,6 +2666,7 @@
     {
         "Id": "Hotspot_Secret_67",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_67",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2630,6 +2703,7 @@
     {
         "Id": "Hotspot_Secret_68",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_68",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2666,6 +2740,7 @@
     {
         "Id": "Hotspot_Secret_69",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_69",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2702,6 +2777,7 @@
     {
         "Id": "Hotspot_Secret_70",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_70",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2738,6 +2814,7 @@
     {
         "Id": "Hotspot_Secret_71",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_71",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2774,6 +2851,7 @@
     {
         "Id": "Hotspot_Secret_72",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_72",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2810,6 +2888,7 @@
     {
         "Id": "Hotspot_Secret_73",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_73",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2846,6 +2925,7 @@
     {
         "Id": "Hotspot_Secret_74",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_74",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2882,6 +2962,7 @@
     {
         "Id": "Hotspot_Secret_75",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_75",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2918,6 +2999,7 @@
     {
         "Id": "Hotspot_Secret_76",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_76",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2954,6 +3036,7 @@
     {
         "Id": "Hotspot_Secret_77",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_77",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -2990,6 +3073,7 @@
     {
         "Id": "Hotspot_Secret_78",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_78",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -3026,6 +3110,7 @@
     {
         "Id": "Hotspot_Secret_79",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_79",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -3062,6 +3147,7 @@
     {
         "Id": "Hotspot_Secret_80",
         "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_80",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 24.33,
@@ -3096,8 +3182,231 @@
         "RewardGameEventId": ""
     },
     {
+        "Id": "Hotspot_Broad_81",
+        "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_81",
+        "CastDistanceRange": "",
+        "CastDistanceMultiplier": "",
+        "FishRarityRollModifier": 0,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "",
+        "ActiveAtDawn": null,
+        "ActiveAtDaytime": null,
+        "ActiveAtDusk": null,
+        "ActiveAtNight": null,
+        "LootTableId": "FishingHotspotLoot",
+        "LootTag": "Secret",
+        "RequiredLevel": 76,
+        "FishSize": "",
+        "FishWeightRange": "",
+        "FishLengthRange": "",
+        "FishingXp": null,
+        "TimeToNibbleSecondsRange": "3-6",
+        "TimeToNibbleSecondsMultiplier": null,
+        "TimeToBiteSecondsRange": "1-1.5",
+        "FishReelTimeSeconds": null,
+        "FishDistanceSwamAwayPerSecond": null,
+        "LineTensionGainPerSecond": null,
+        "LineTensionGainPerSecondMultiplier": null,
+        "LineTensionRecoverPerSecond": null,
+        "FishBehaviors": "",
+        "FishBehaviorPattern": null,
+        "FishBehaviorLocalizationKey": "",
+        "ZoomCameraOnSuccess": null,
+        "FishCharacterDefinitionPath": "",
+        "FishScale": null,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "Hotspot_Broad_82",
+        "Type": "Hotspot",
+        "DisplayName": "@hotspot_broad_82",
+        "CastDistanceRange": "",
+        "CastDistanceMultiplier": "",
+        "FishRarityRollModifier": 0,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "",
+        "ActiveAtDawn": null,
+        "ActiveAtDaytime": null,
+        "ActiveAtDusk": null,
+        "ActiveAtNight": null,
+        "LootTableId": "FishingHotspotLoot",
+        "LootTag": "Secret",
+        "RequiredLevel": 80,
+        "FishSize": "",
+        "FishWeightRange": "",
+        "FishLengthRange": "",
+        "FishingXp": null,
+        "TimeToNibbleSecondsRange": "3-6",
+        "TimeToNibbleSecondsMultiplier": null,
+        "TimeToBiteSecondsRange": "1-1.5",
+        "FishReelTimeSeconds": null,
+        "FishDistanceSwamAwayPerSecond": null,
+        "LineTensionGainPerSecond": null,
+        "LineTensionGainPerSecondMultiplier": null,
+        "LineTensionRecoverPerSecond": null,
+        "FishBehaviors": "",
+        "FishBehaviorPattern": null,
+        "FishBehaviorLocalizationKey": "",
+        "ZoomCameraOnSuccess": null,
+        "FishCharacterDefinitionPath": "",
+        "FishScale": null,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "Hotspot_Rare_83",
+        "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_83",
+        "CastDistanceRange": "",
+        "CastDistanceMultiplier": "",
+        "FishRarityRollModifier": 15.99,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "",
+        "ActiveAtDawn": null,
+        "ActiveAtDaytime": null,
+        "ActiveAtDusk": null,
+        "ActiveAtNight": null,
+        "LootTableId": "FishingHotspotLoot",
+        "LootTag": "Secret",
+        "RequiredLevel": 105,
+        "FishSize": "",
+        "FishWeightRange": "",
+        "FishLengthRange": "",
+        "FishingXp": null,
+        "TimeToNibbleSecondsRange": "3-6",
+        "TimeToNibbleSecondsMultiplier": null,
+        "TimeToBiteSecondsRange": "1-1.5",
+        "FishReelTimeSeconds": null,
+        "FishDistanceSwamAwayPerSecond": null,
+        "LineTensionGainPerSecond": null,
+        "LineTensionGainPerSecondMultiplier": null,
+        "LineTensionRecoverPerSecond": null,
+        "FishBehaviors": "",
+        "FishBehaviorPattern": null,
+        "FishBehaviorLocalizationKey": "",
+        "ZoomCameraOnSuccess": null,
+        "FishCharacterDefinitionPath": "",
+        "FishScale": null,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "Hotspot_Rare_84",
+        "Type": "Hotspot",
+        "DisplayName": "@hotspot_rare_84",
+        "CastDistanceRange": "",
+        "CastDistanceMultiplier": "",
+        "FishRarityRollModifier": 15.99,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "",
+        "ActiveAtDawn": null,
+        "ActiveAtDaytime": null,
+        "ActiveAtDusk": null,
+        "ActiveAtNight": null,
+        "LootTableId": "FishingHotspotLoot",
+        "LootTag": "Secret",
+        "RequiredLevel": 120,
+        "FishSize": "",
+        "FishWeightRange": "",
+        "FishLengthRange": "",
+        "FishingXp": null,
+        "TimeToNibbleSecondsRange": "3-6",
+        "TimeToNibbleSecondsMultiplier": null,
+        "TimeToBiteSecondsRange": "1-1.5",
+        "FishReelTimeSeconds": null,
+        "FishDistanceSwamAwayPerSecond": null,
+        "LineTensionGainPerSecond": null,
+        "LineTensionGainPerSecondMultiplier": null,
+        "LineTensionRecoverPerSecond": null,
+        "FishBehaviors": "",
+        "FishBehaviorPattern": null,
+        "FishBehaviorLocalizationKey": "",
+        "ZoomCameraOnSuccess": null,
+        "FishCharacterDefinitionPath": "",
+        "FishScale": null,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "Hotspot_Secret_85",
+        "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_85",
+        "CastDistanceRange": "",
+        "CastDistanceMultiplier": "",
+        "FishRarityRollModifier": 24.33,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "",
+        "ActiveAtDawn": null,
+        "ActiveAtDaytime": null,
+        "ActiveAtDusk": null,
+        "ActiveAtNight": null,
+        "LootTableId": "FishingHotspotLoot",
+        "LootTag": "Secret",
+        "RequiredLevel": 150,
+        "FishSize": "",
+        "FishWeightRange": "",
+        "FishLengthRange": "",
+        "FishingXp": null,
+        "TimeToNibbleSecondsRange": "3-6",
+        "TimeToNibbleSecondsMultiplier": null,
+        "TimeToBiteSecondsRange": "1-1.5",
+        "FishReelTimeSeconds": null,
+        "FishDistanceSwamAwayPerSecond": null,
+        "LineTensionGainPerSecond": null,
+        "LineTensionGainPerSecondMultiplier": null,
+        "LineTensionRecoverPerSecond": null,
+        "FishBehaviors": "",
+        "FishBehaviorPattern": null,
+        "FishBehaviorLocalizationKey": "",
+        "ZoomCameraOnSuccess": null,
+        "FishCharacterDefinitionPath": "",
+        "FishScale": null,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "Hotspot_Secret_86",
+        "Type": "Hotspot",
+        "DisplayName": "@hotspot_secret_86",
+        "CastDistanceRange": "",
+        "CastDistanceMultiplier": "",
+        "FishRarityRollModifier": 24.33,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "",
+        "ActiveAtDawn": null,
+        "ActiveAtDaytime": null,
+        "ActiveAtDusk": null,
+        "ActiveAtNight": null,
+        "LootTableId": "FishingHotspotLoot",
+        "LootTag": "Secret",
+        "RequiredLevel": 160,
+        "FishSize": "",
+        "FishWeightRange": "",
+        "FishLengthRange": "",
+        "FishingXp": null,
+        "TimeToNibbleSecondsRange": "3-6",
+        "TimeToNibbleSecondsMultiplier": null,
+        "TimeToBiteSecondsRange": "1-1.5",
+        "FishReelTimeSeconds": null,
+        "FishDistanceSwamAwayPerSecond": null,
+        "LineTensionGainPerSecond": null,
+        "LineTensionGainPerSecondMultiplier": null,
+        "LineTensionRecoverPerSecond": null,
+        "FishBehaviors": "",
+        "FishBehaviorPattern": null,
+        "FishBehaviorLocalizationKey": "",
+        "ZoomCameraOnSuccess": null,
+        "FishCharacterDefinitionPath": "",
+        "FishScale": null,
+        "RewardGameEventId": ""
+    },
+    {
         "Id": "2hFishingPoleT1",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-12",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -3134,6 +3443,7 @@
     {
         "Id": "2hFishingPoleT2",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-14",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0.25,
@@ -3170,6 +3480,7 @@
     {
         "Id": "2hFishingPoleT3",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-16",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0.75,
@@ -3206,6 +3517,7 @@
     {
         "Id": "2hFishingPoleT4",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-18",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1,
@@ -3242,6 +3554,7 @@
     {
         "Id": "2hFishingPoleT5",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-20",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1.25,
@@ -3278,6 +3591,7 @@
     {
         "Id": "2hFishingPole_Ancient",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-20",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1.25,
@@ -3314,6 +3628,7 @@
     {
         "Id": "2hFishingPole_AngryEarth",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-20",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1.25,
@@ -3350,6 +3665,7 @@
     {
         "Id": "2hFishingPole_Corrupted",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-20",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1.25,
@@ -3386,6 +3702,7 @@
     {
         "Id": "2hFishingPole_Lost",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-20",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1.25,
@@ -3422,6 +3739,7 @@
     {
         "Id": "2hFishingPole_LegendaryAzoth",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-20",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1.25,
@@ -3458,6 +3776,7 @@
     {
         "Id": "2hFishingPole_LegendaryStrength",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-20",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1.25,
@@ -3494,6 +3813,7 @@
     {
         "Id": "2hFishingPole_LegendaryTech",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-20",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1.25,
@@ -3530,6 +3850,7 @@
     {
         "Id": "Omega_FishingPole_T5",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-20",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1.25,
@@ -3566,6 +3887,7 @@
     {
         "Id": "2hSummerFishingPoleT2",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-14",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0.25,
@@ -3602,6 +3924,7 @@
     {
         "Id": "2hSummerFishingPoleT3",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-16",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0.75,
@@ -3638,6 +3961,7 @@
     {
         "Id": "2hSummerFishingPoleT4",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-18",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1,
@@ -3674,6 +3998,7 @@
     {
         "Id": "2hSummerCommemorativeFishingPoleT5",
         "Type": "FishingPole",
+        "DisplayName": "",
         "CastDistanceRange": "5-20",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 1.25,
@@ -3710,6 +4035,7 @@
     {
         "Id": "BaitFreshMeatT1",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -3746,6 +4072,7 @@
     {
         "Id": "BaitFreshBreadT1",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0.47,
@@ -3782,6 +4109,7 @@
     {
         "Id": "BaitSaltFishT1",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -3818,6 +4146,7 @@
     {
         "Id": "BaitSaltCheeseT1",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0.47,
@@ -3854,6 +4183,7 @@
     {
         "Id": "BaitFreshClamT2",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -3890,6 +4220,7 @@
     {
         "Id": "BaitFreshWoodliceT2",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0.7,
@@ -3926,6 +4257,7 @@
     {
         "Id": "BaitSaltSnailT2",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -3962,6 +4294,7 @@
     {
         "Id": "BaitSaltNightcrawlerT2",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0.7,
@@ -3998,6 +4331,7 @@
     {
         "Id": "BaitFreshOysterT3",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -4034,6 +4368,7 @@
     {
         "Id": "BaitFreshFireflyT3",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0.85,
@@ -4070,6 +4405,7 @@
     {
         "Id": "BaitSaltElectricEelT3",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0,
@@ -4106,6 +4442,7 @@
     {
         "Id": "BaitSaltGlowwormT3",
         "Type": "Bait",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": 0.85,
@@ -4140,8 +4477,46 @@
         "RewardGameEventId": ""
     },
     {
+        "Id": "BaitLegendaryFishT1",
+        "Type": "Bait",
+        "DisplayName": "",
+        "CastDistanceRange": "",
+        "CastDistanceMultiplier": "",
+        "FishRarityRollModifier": 0,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Fresh,Salt",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "FishingSalmonSpecial",
+        "LootTag": "",
+        "RequiredLevel": null,
+        "FishSize": "",
+        "FishWeightRange": "",
+        "FishLengthRange": "",
+        "FishingXp": null,
+        "TimeToNibbleSecondsRange": "",
+        "TimeToNibbleSecondsMultiplier": 0.5,
+        "TimeToBiteSecondsRange": "",
+        "FishReelTimeSeconds": null,
+        "FishDistanceSwamAwayPerSecond": null,
+        "LineTensionGainPerSecond": null,
+        "LineTensionGainPerSecondMultiplier": null,
+        "LineTensionRecoverPerSecond": null,
+        "FishBehaviors": "",
+        "FishBehaviorPattern": null,
+        "FishBehaviorLocalizationKey": "",
+        "ZoomCameraOnSuccess": null,
+        "FishCharacterDefinitionPath": "",
+        "FishScale": null,
+        "RewardGameEventId": ""
+    },
+    {
         "Id": "FishingBassSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4178,6 +4553,7 @@
     {
         "Id": "FishingBassMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4214,6 +4590,7 @@
     {
         "Id": "FishingBassLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4250,6 +4627,7 @@
     {
         "Id": "FishingPerchSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4286,6 +4664,7 @@
     {
         "Id": "FishingPerchMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4322,6 +4701,7 @@
     {
         "Id": "FishingPerchLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4358,6 +4738,7 @@
     {
         "Id": "FishingPikeSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4394,6 +4775,7 @@
     {
         "Id": "FishingPikeMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4430,6 +4812,7 @@
     {
         "Id": "FishingPikeLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4466,6 +4849,7 @@
     {
         "Id": "FishingTroutSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4502,6 +4886,7 @@
     {
         "Id": "FishingTroutMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4538,6 +4923,7 @@
     {
         "Id": "FishingTroutLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4574,6 +4960,7 @@
     {
         "Id": "FishingSunfishSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4610,6 +4997,7 @@
     {
         "Id": "FishingSunfishMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4646,6 +5034,7 @@
     {
         "Id": "FishingSunfishLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4682,6 +5071,7 @@
     {
         "Id": "FishingSalmonSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4718,6 +5108,7 @@
     {
         "Id": "FishingSalmonMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4754,6 +5145,7 @@
     {
         "Id": "FishingSalmonLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4790,6 +5182,7 @@
     {
         "Id": "FishingMackerelSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4826,6 +5219,7 @@
     {
         "Id": "FishingMackerelMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4862,6 +5256,7 @@
     {
         "Id": "FishingMackerelLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4898,6 +5293,7 @@
     {
         "Id": "FishingSnapperSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4934,6 +5330,7 @@
     {
         "Id": "FishingSnapperMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -4970,6 +5367,7 @@
     {
         "Id": "FishingSnapperLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5006,6 +5404,7 @@
     {
         "Id": "FishingFlounderSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5042,6 +5441,7 @@
     {
         "Id": "FishingFlounderMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5078,6 +5478,7 @@
     {
         "Id": "FishingFlounderLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5114,6 +5515,7 @@
     {
         "Id": "FishingBluefishSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5150,6 +5552,7 @@
     {
         "Id": "FishingBluefishMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5186,6 +5589,7 @@
     {
         "Id": "FishingBluefishLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5222,6 +5626,7 @@
     {
         "Id": "FishingHakeSmallT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5258,6 +5663,7 @@
     {
         "Id": "FishingHakeMediumT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5294,6 +5700,7 @@
     {
         "Id": "FishingHakeLargeT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5330,6 +5737,7 @@
     {
         "Id": "FishingSturgeonSmallT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5366,6 +5774,7 @@
     {
         "Id": "FishingSturgeonMediumT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5402,6 +5811,7 @@
     {
         "Id": "FishingSturgeonLargeT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5438,6 +5848,7 @@
     {
         "Id": "FishingCatfishSmallT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5474,6 +5885,7 @@
     {
         "Id": "FishingCatfishMediumT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5510,6 +5922,7 @@
     {
         "Id": "FishingCatfishLargeT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5546,6 +5959,7 @@
     {
         "Id": "FishingTadpolesSmallT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5582,6 +5996,7 @@
     {
         "Id": "FishingSnailSmallT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5618,6 +6033,7 @@
     {
         "Id": "FishingCodSmallT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5654,6 +6070,7 @@
     {
         "Id": "FishingCodMediumT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5690,6 +6107,7 @@
     {
         "Id": "FishingCodLargeT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5726,6 +6144,7 @@
     {
         "Id": "FishingHalibutSmallT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5762,6 +6181,7 @@
     {
         "Id": "FishingHalibutMediumT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5798,6 +6218,7 @@
     {
         "Id": "FishingHalibutLargeT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5834,6 +6255,7 @@
     {
         "Id": "FishingClamsSmallT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5870,6 +6292,7 @@
     {
         "Id": "FishingSquidSmallT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5906,6 +6329,7 @@
     {
         "Id": "FishingSquidMediumT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5942,6 +6366,7 @@
     {
         "Id": "FishingSquidLargeT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -5978,6 +6403,7 @@
     {
         "Id": "FishingElectricEelSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6014,6 +6440,7 @@
     {
         "Id": "FishingElectricEelMediumT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6050,6 +6477,7 @@
     {
         "Id": "FishingElectricEelLargeT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6086,6 +6514,7 @@
     {
         "Id": "FishingPiranhaSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6122,6 +6551,7 @@
     {
         "Id": "FishingPiranhaMediumT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6158,6 +6588,7 @@
     {
         "Id": "FishingPiranhaLargeT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6194,6 +6625,7 @@
     {
         "Id": "FishingPaddlefishSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6230,6 +6662,7 @@
     {
         "Id": "FishingPaddlefishMediumT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6266,6 +6699,7 @@
     {
         "Id": "FishingPaddlefishLargeT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6302,6 +6736,7 @@
     {
         "Id": "FishingSpeartoothSharkSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6338,6 +6773,7 @@
     {
         "Id": "FishingSpeartoothSharkMediumT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6374,6 +6810,7 @@
     {
         "Id": "FishingSpeartoothSharkLargeT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6410,6 +6847,7 @@
     {
         "Id": "FishingMadtomSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6446,6 +6884,7 @@
     {
         "Id": "FishingMadtomMediumT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6482,6 +6921,7 @@
     {
         "Id": "FishingMadtomLargeT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6518,6 +6958,7 @@
     {
         "Id": "FishingFrogfishSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6554,6 +6995,7 @@
     {
         "Id": "FishingFrogfishMediumT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6590,6 +7032,7 @@
     {
         "Id": "FishingFrogfishLargeT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6626,6 +7069,7 @@
     {
         "Id": "FishingDragonFishSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6662,6 +7106,7 @@
     {
         "Id": "FishingDragonFishMediumT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6698,6 +7143,7 @@
     {
         "Id": "FishingDragonFishLargeT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6734,6 +7180,7 @@
     {
         "Id": "FishingPearlOysterSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6770,6 +7217,7 @@
     {
         "Id": "FishingStarfishSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6806,6 +7254,7 @@
     {
         "Id": "StarfishT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6842,6 +7291,7 @@
     {
         "Id": "FishingStingRaySmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6878,6 +7328,7 @@
     {
         "Id": "FishingStingRayMediumT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6914,6 +7365,7 @@
     {
         "Id": "FishingStingRayLargeT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6950,6 +7402,7 @@
     {
         "Id": "FishingSculpinSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -6986,6 +7439,7 @@
     {
         "Id": "FishingSculpinMediumT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7022,6 +7476,7 @@
     {
         "Id": "FishingSculpinLargeT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7058,6 +7513,7 @@
     {
         "Id": "FishingSwordfishSmallT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7094,6 +7550,7 @@
     {
         "Id": "FishingSwordfishMediumT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7130,6 +7587,7 @@
     {
         "Id": "FishingSwordfishLargeT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7166,6 +7624,7 @@
     {
         "Id": "FishingMerrowT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7202,6 +7661,7 @@
     {
         "Id": "FishingAnglerFishT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7238,6 +7698,7 @@
     {
         "Id": "FishingBishopFishT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7267,13 +7728,14 @@
         "FishBehaviorPattern": null,
         "FishBehaviorLocalizationKey": "",
         "ZoomCameraOnSuccess": true,
-        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\VeryRareFish_D1\\Jav_Prp_VeryRareFish_D1.cdf",
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\VeryRareFish_D1\\Jav_Prp_VeryRareFish_D3.cdf",
         "FishScale": 1,
         "RewardGameEventId": ""
     },
     {
         "Id": "FishingMoragT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7310,6 +7772,7 @@
     {
         "Id": "FishingSelkieT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7346,6 +7809,7 @@
     {
         "Id": "FishingMandjeMandjeT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7382,6 +7846,7 @@
     {
         "Id": "FishingEgedeSerpeT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7418,6 +7883,7 @@
     {
         "Id": "FishingNamazuT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7447,13 +7913,14 @@
         "FishBehaviorPattern": null,
         "FishBehaviorLocalizationKey": "",
         "ZoomCameraOnSuccess": true,
-        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\VeryRareFish_D1\\Jav_Prp_VeryRareFish_D3.cdf",
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\VeryRareFish_D1\\Jav_Prp_VeryRareFish_D1.cdf",
         "FishScale": 1,
         "RewardGameEventId": ""
     },
     {
         "Id": "FishingOgopogoT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7490,6 +7957,7 @@
     {
         "Id": "FishingTessieT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7526,6 +7994,7 @@
     {
         "Id": "FishingHafgufaT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7562,6 +8031,7 @@
     {
         "Id": "FishingAbaiaT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7598,6 +8068,7 @@
     {
         "Id": "FishingMerlionT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7627,13 +8098,14 @@
         "FishBehaviorPattern": null,
         "FishBehaviorLocalizationKey": "",
         "ZoomCameraOnSuccess": true,
-        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\VeryRareFish_D1\\Jav_Prp_VeryRareFish_D1.cdf",
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\VeryRareFish_D1\\Jav_Prp_VeryRareFish_D2.cdf",
         "FishScale": 1,
         "RewardGameEventId": ""
     },
     {
         "Id": "FishingMishipeshuT5",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7668,8 +8140,46 @@
         "RewardGameEventId": ""
     },
     {
+        "Id": "FishingAnmisemaT5",
+        "Type": "Catchables",
+        "DisplayName": "",
+        "CastDistanceRange": "",
+        "CastDistanceMultiplier": "",
+        "FishRarityRollModifier": null,
+        "FishSizeRollModifier": null,
+        "SummerFishRarityRollModifier": null,
+        "RequiredWaterTags": "",
+        "ActiveAtDawn": null,
+        "ActiveAtDaytime": null,
+        "ActiveAtDusk": null,
+        "ActiveAtNight": null,
+        "LootTableId": "",
+        "LootTag": "",
+        "RequiredLevel": null,
+        "FishSize": "None",
+        "FishWeightRange": "57",
+        "FishLengthRange": "60",
+        "FishingXp": 550,
+        "TimeToNibbleSecondsRange": "",
+        "TimeToNibbleSecondsMultiplier": null,
+        "TimeToBiteSecondsRange": "",
+        "FishReelTimeSeconds": null,
+        "FishDistanceSwamAwayPerSecond": 0.2,
+        "LineTensionGainPerSecond": null,
+        "LineTensionGainPerSecondMultiplier": 1.4,
+        "LineTensionRecoverPerSecond": null,
+        "FishBehaviors": "EarlyAggressive,TotalAggressive",
+        "FishBehaviorPattern": null,
+        "FishBehaviorLocalizationKey": "",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\VeryRareFish_C1\\Jav_Prp_VeryRareFish_C2.cdf",
+        "FishScale": 1.2,
+        "RewardGameEventId": ""
+    },
+    {
         "Id": "FishingSeaweedT1",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7706,6 +8216,7 @@
     {
         "Id": "FishingBootT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7742,6 +8253,7 @@
     {
         "Id": "FishingAnchorT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7778,6 +8290,7 @@
     {
         "Id": "FishingFishSwordT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7814,6 +8327,7 @@
     {
         "Id": "FishingHeadedHammerT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7850,6 +8364,7 @@
     {
         "Id": "FishingOarT2",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7886,6 +8401,7 @@
     {
         "Id": "FishingTreasureChestT3",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7922,6 +8438,7 @@
     {
         "Id": "1323_0101_SlimyBoot",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7958,6 +8475,7 @@
     {
         "Id": "1424_0101_AzothTingedFish",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -7994,6 +8512,7 @@
     {
         "Id": "0223_0101_BarbedCatfish",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -8030,6 +8549,7 @@
     {
         "Id": "0223_0101_HookedSquid",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -8066,6 +8586,7 @@
     {
         "Id": "0724_0101_CorruptionTingedFish",
         "Type": "Catchables",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -8100,8 +8621,46 @@
         "RewardGameEventId": ""
     },
     {
+        "Id": "16_Side_11_TastyFish",
+        "Type": "Catchables",
+        "DisplayName": "",
+        "CastDistanceRange": "",
+        "CastDistanceMultiplier": "",
+        "FishRarityRollModifier": null,
+        "FishSizeRollModifier": null,
+        "SummerFishRarityRollModifier": null,
+        "RequiredWaterTags": "",
+        "ActiveAtDawn": null,
+        "ActiveAtDaytime": null,
+        "ActiveAtDusk": null,
+        "ActiveAtNight": null,
+        "LootTableId": "",
+        "LootTag": "",
+        "RequiredLevel": null,
+        "FishSize": "None",
+        "FishWeightRange": "40-50",
+        "FishLengthRange": "40-70",
+        "FishingXp": 100,
+        "TimeToNibbleSecondsRange": "",
+        "TimeToNibbleSecondsMultiplier": null,
+        "TimeToBiteSecondsRange": "",
+        "FishReelTimeSeconds": null,
+        "FishDistanceSwamAwayPerSecond": 0.2,
+        "LineTensionGainPerSecond": null,
+        "LineTensionGainPerSecondMultiplier": 1.3,
+        "LineTensionRecoverPerSecond": null,
+        "FishBehaviors": "Sporadic",
+        "FishBehaviorPattern": null,
+        "FishBehaviorLocalizationKey": "",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\VeryRareFish_E1\\Jav_Prp_VeryRareFish_E2.cdf",
+        "FishScale": 0.5,
+        "RewardGameEventId": ""
+    },
+    {
         "Id": "Lazy",
         "Type": "FishBehavior",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -8138,6 +8697,7 @@
     {
         "Id": "EarlyAggressive",
         "Type": "FishBehavior",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -8174,6 +8734,7 @@
     {
         "Id": "LateAggressive",
         "Type": "FishBehavior",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -8210,6 +8771,7 @@
     {
         "Id": "TotalAggressive",
         "Type": "FishBehavior",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -8246,6 +8808,7 @@
     {
         "Id": "Sporadic",
         "Type": "FishBehavior",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,
@@ -8282,6 +8845,7 @@
     {
         "Id": "SporadicEasy",
         "Type": "FishBehavior",
+        "DisplayName": "",
         "CastDistanceRange": "",
         "CastDistanceMultiplier": "",
         "FishRarityRollModifier": null,

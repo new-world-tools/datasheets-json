@@ -148,5 +148,23 @@
         "CategoryDamageMod": 1,
         "CategoryHealthMod": 1,
         "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Solo_StarterBeach",
+        "CategoryDamageMod": 1,
+        "CategoryHealthMod": 1,
+        "CategoryDropChanceMod": 0.085
+    },
+    {
+        "CategoryId": "Solo-_StarterBeach",
+        "CategoryDamageMod": 0.6,
+        "CategoryHealthMod": 0.6,
+        "CategoryDropChanceMod": 0.05
+    },
+    {
+        "CategoryId": "Solo+_StarterBeach",
+        "CategoryDamageMod": 1.25,
+        "CategoryHealthMod": 2,
+        "CategoryDropChanceMod": 0.25
     }
 ]

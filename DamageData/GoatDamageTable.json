@@ -24,22 +24,24 @@
         "ImpactDistanceX": 0,
         "ImpactDistanceY": 5,
         "ImpactDistanceZ": 0,
-        "ImpactDecayRate": 0.8,
+        "ImpactDecayRate": 0.9,
         "BlockImpactDistanceX": 0,
         "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
-        "BlockImpactDecayRate": 0.8,
+        "BlockImpactDecayRate": 0.9,
         "CritImpactDistanceX": 0,
         "CritImpactDistanceY": 5,
         "CritImpactDistanceZ": 0,
-        "CritImpactDecayRate": 0.8,
+        "CritImpactDecayRate": 0.9,
         "AddDmg": 0,
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.25,
         "BlockAbsorptionModifier": 1,
         "StaggerDmgModifier": 1.5,
         "CritStaggerDmgModifier": "",
-        "StaggerResistModifier": 1.6
+        "StaggerResistModifier": 1.6,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -81,6 +83,8 @@
         "BlockAbsorptionModifier": 1,
         "StaggerDmgModifier": 0,
         "CritStaggerDmgModifier": "",
-        "StaggerResistModifier": 0
+        "StaggerResistModifier": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

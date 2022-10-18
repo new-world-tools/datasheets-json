@@ -656,6 +656,14 @@
         "Constants": null
     },
     {
+        "Effect Name": "wfx_GreatSword.Onslaught.DefenseBreak.Default.WeaponDecalTell",
+        "Group": "impact_Env",
+        "Priority Within Group": 2,
+        "Max Number": 3,
+        "Priority": 1,
+        "Constants": null
+    },
+    {
         "Effect Name": "wFX_Blunderbuss_Containment.Net_Impact_Env",
         "Group": "Impact_Env",
         "Priority Within Group": 1,
@@ -858,9 +866,9 @@
     {
         "Effect Name": "wFX_Bow_Bowman.Poison_AOE",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 5,
+        "Priority Within Group": 6,
         "Max Number": 5,
-        "Priority": 105,
+        "Priority": 106,
         "Constants": null
     },
     {
@@ -906,9 +914,9 @@
     {
         "Effect Name": "wFX_GreatAxe_Reaper.Maelstrom_Reach",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 3,
+        "Priority Within Group": 2,
         "Max Number": 5,
-        "Priority": 103,
+        "Priority": 102,
         "Constants": null
     },
     {
@@ -922,17 +930,17 @@
     {
         "Effect Name": "wFX_GreatAxe_Reaper.JudgeReach_Pull_5m",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 4,
+        "Priority Within Group": 2,
         "Max Number": 5,
-        "Priority": 104,
+        "Priority": 102,
         "Constants": null
     },
     {
         "Effect Name": "wFX_GreatAxe_Reaper.JudgeReach_Pull_8m",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 4,
+        "Priority Within Group": 2,
         "Max Number": 5,
-        "Priority": 104,
+        "Priority": 102,
         "Constants": null
     },
     {
@@ -954,25 +962,25 @@
     {
         "Effect Name": "wFX_IceGaunt_Builder.IceShower_AOE_Footer",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 2,
-        "Max Number": 5,
-        "Priority": 102,
-        "Constants": null
-    },
-    {
-        "Effect Name": "wFX_IceGaunt_Tempest.Blizzard_AOE",
-        "Group": "PlayerWeapon_AOE",
         "Priority Within Group": 6,
         "Max Number": 5,
         "Priority": 106,
         "Constants": null
     },
     {
+        "Effect Name": "wFX_IceGaunt_Tempest.Blizzard_AOE",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 7,
+        "Max Number": 10,
+        "Priority": 107,
+        "Constants": null
+    },
+    {
         "Effect Name": "wFX_IceGaunt_Tempest.WindChill_1",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 3,
+        "Priority Within Group": 5,
         "Max Number": 5,
-        "Priority": 103,
+        "Priority": 105,
         "Constants": null
     },
     {
@@ -986,9 +994,9 @@
     {
         "Effect Name": "wFX_LifeStaff_Protector.LightsEmbrace_targeted",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 3,
+        "Priority Within Group": 2,
         "Max Number": 5,
-        "Priority": 103,
+        "Priority": 102,
         "Constants": null
     },
     {
@@ -1002,17 +1010,17 @@
     {
         "Effect Name": "wFX_LifeStaff_Healer.HealWave_Hld",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 7,
+        "Priority Within Group": 5,
         "Max Number": 10,
-        "Priority": 107,
+        "Priority": 105,
         "Constants": null
     },
     {
         "Effect Name": "wFX_LifeStaff_Healer.Divine_Hld",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 3,
+        "Priority Within Group": 2,
         "Max Number": 5,
-        "Priority": 103,
+        "Priority": 102,
         "Constants": null
     },
     {
@@ -1050,25 +1058,25 @@
     {
         "Effect Name": "wFX_Rapier_Bleed.Appel_Swipe_Range",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 5,
+        "Priority Within Group": 4,
         "Max Number": 5,
-        "Priority": 105,
+        "Priority": 104,
         "Constants": null
     },
     {
         "Effect Name": "wFX_Rapier_Bleed.Flourish_Swipe",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 5,
+        "Priority Within Group": 3,
         "Max Number": 5,
-        "Priority": 105,
+        "Priority": 103,
         "Constants": null
     },
     {
         "Effect Name": "wFX_Spear_Zoner.Cyclone_Twist",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 5,
+        "Priority Within Group": 4,
         "Max Number": 5,
-        "Priority": 105,
+        "Priority": 104,
         "Constants": null
     },
     {
@@ -1090,9 +1098,9 @@
     {
         "Effect Name": "wFX_Warhammer_CrowdCrusher.POD_impact_Align",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 5,
+        "Priority Within Group": 4,
         "Max Number": 10,
-        "Priority": 105,
+        "Priority": 104,
         "Constants": null
     },
     {
@@ -1146,9 +1154,9 @@
     {
         "Effect Name": "wFX_VoidGaunt_Annihilation.VoidAura_AOE",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 7,
+        "Priority Within Group": 6,
         "Max Number": 10,
-        "Priority": 107,
+        "Priority": 106,
         "Constants": null
     },
     {
@@ -1162,17 +1170,265 @@
     {
         "Effect Name": "wFX_VoidGaunt_Decay.DecayOrb_Heal_Expl",
         "Group": "PlayerWeapon_AOE",
-        "Priority Within Group": 7,
-        "Max Number": 10,
-        "Priority": 107,
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 105,
         "Constants": null
     },
     {
         "Effect Name": "wFX_VoidGaunt_Decay.Rupture_Target_AOE",
         "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 105,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wFX_FireStaff_Pyromaniac.FlameThrow_Proj_Hld1",
+        "Group": "PlayerWeapon_AOE",
         "Priority Within Group": 6,
         "Max Number": 5,
         "Priority": 106,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wFX_FireStaff_Pyromaniac.FlameThrow_Proj_Hld2",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 6,
+        "Max Number": 5,
+        "Priority": 106,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Onslaught.Combo.Default.Impact",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.Combo.Impact",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.Combo.impact",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.Combo.Impact",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.Combo.Impact",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.Combo.Impact",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.Combo.Impact",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Onslaught.DefenseBreak.Default.Impact_Align",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Onslaught.DefenseBreak.Default.Impact_Align_upgrade",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.DefenseBreak.Impact_Align",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.DefenseBreak.Impact_Align_upgrade",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.DefenseBreak.Impact_Align",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.DefenseBreak.Impact_Align_upgrade",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.DefenseBreak.Impact_Align",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.DefenseBreak.Impact_Align_upgrade",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.DefenseBreak.Impact_Align",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.DefenseBreak.Impact_Align_upgrade",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.DefenseBreak.Impact_Align",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.DefenseBreak.Impact_Align_upgrade",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.DefenseBreak.Impact_Align",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.DefenseBreak.Impact_Align_upgrade",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Defiance.Burst.Default.Neutral",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Defiance.Burst.Upgrades.Pull",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Defiance.Burst.Upgrades.Push",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_vines.vines",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_heretic.hit",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_detonate.denotation_end",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_stone_skin.stoneskin_dominator",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wFX_rune_ability_cannon_blast.DominatorExplosion",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 3,
+        "Max Number": 5,
+        "Priority": 103,
         "Constants": null
     },
     {
@@ -1185,14 +1441,6 @@
     },
     {
         "Effect Name": "wFX_VoidGaunt_Annihilation.Blade_Swipe",
-        "Group": "PlayerWeapon_Abilities",
-        "Priority Within Group": 3,
-        "Max Number": 5,
-        "Priority": 43,
-        "Constants": null
-    },
-    {
-        "Effect Name": "wFX_VoidGaunt_Annihilation.Blade_Stab",
         "Group": "PlayerWeapon_Abilities",
         "Priority Within Group": 3,
         "Max Number": 5,
@@ -1221,22 +1469,6 @@
         "Priority Within Group": 1,
         "Max Number": 5,
         "Priority": 41,
-        "Constants": null
-    },
-    {
-        "Effect Name": "wFX_FireStaff_Pyromaniac.FlameThrow_Proj_Hld1",
-        "Group": "PlayerWeapon_Abilities",
-        "Priority Within Group": 5,
-        "Max Number": 5,
-        "Priority": 45,
-        "Constants": null
-    },
-    {
-        "Effect Name": "wFX_FireStaff_Pyromaniac.FlameThrow_Proj_Hld2",
-        "Group": "PlayerWeapon_Abilities",
-        "Priority Within Group": 5,
-        "Max Number": 5,
-        "Priority": 45,
         "Constants": null
     },
     {
@@ -1728,6 +1960,318 @@
         "Constants": null
     },
     {
+        "Effect Name": "wfx_GreatSword.Defiance.Counter.Default.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Defiance.Counter.Default.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.Counter.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.Counter.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.Counter.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.Counter.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.Counter.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.Counter.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.Counter.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.Counter.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.Counter.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.Counter.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.Counter.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.Counter.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Defiance.DrainAttack.Default.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Defiance.DrainAttack.Default.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.DrainAttack.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.DrainAttack.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.DrainAttack.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.DrainAttack.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.DrainAttack.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.DrainAttack.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.DrainAttack.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.DrainAttack.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.DrainAttack.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.DrainAttack.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.DrainAttack.Tell",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.DrainAttack.End",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_stone_skin.stoneaura",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_stone_skin.stoneskin_01",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_stone_skin.stoneskin_02",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_stone_skin.stoneskin_03",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_stone_skin.stoneskin_end",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_heretic.leap_ground_cloud",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_heretic.wing",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_heretic.leap_trail_wing",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_heretic.dive",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_detonate.denotation_warning",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wFX_rune_ability_cannon_blast.muzzle_flash",
+        "Group": "PlayerWeapon_Abilities",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 45,
+        "Constants": null
+    },
+    {
         "Effect Name": "wFX_VoidGaunt_Decay.Drain_Tell",
         "Group": "PlayerWeapon_Tells",
         "Priority Within Group": 2,
@@ -2081,6 +2625,166 @@
     },
     {
         "Effect Name": "wFX_Musket_Sharpshooter.Stopping_Ready_2b",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Universal.Default.Charge_tell",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Universal.Default.Charge_tell_light",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.Default.Charge_tell",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.Default.Charge_tell_light",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.Default.Charge_tell",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.Default.Charge_tell_light",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.Default.Charge_tell",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.Default.Charge_tell_light",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.Default.Charge_tell",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.Default.Charge_tell_light",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.Default.Charge_tell",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.Default.Charge_tell_light",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.Default.Charge_tell",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.Default.Charge_tell_light",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Status.Default.Defense.Tell",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Status.Default.Defense.Idle",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Status.Default.Defense.Defense_Arm02",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Status.Default.Offense.Idle",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Status.Default.Offense.Offense_Arm02",
+        "Group": "PlayerWeapon_Tells",
+        "Priority Within Group": 1,
+        "Max Number": 5,
+        "Priority": 21,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Universal.Default.Block",
         "Group": "PlayerWeapon_Tells",
         "Priority Within Group": 1,
         "Max Number": 5,
@@ -3292,7 +3996,119 @@
         "Group": "PlayerWeapon_Default",
         "Priority Within Group": 3,
         "Max Number": 10,
-        "Priority": 33,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Universal.Default.Swipe_light",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Universal.Default.Swipe_medium",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.Default.Swipe_light",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.Default.Swipe_heavy",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.Default.Swipe_light",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.Default.Swipe_heavy",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.Default.Swipe_light",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.Default.Swipe_heavy",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.Default.Swipe_light",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 78,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.Default.Swipe_heavy",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.Default.Swipe_light",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.Default.Swipe_heavy",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.Default.Swipe_light",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.Default.Swipe_heavy",
+        "Group": "PlayerWeapon_Default",
+        "Priority Within Group": 3,
+        "Max Number": 10,
+        "Priority": 77,
         "Constants": null
     },
     {
@@ -5061,6 +5877,54 @@
         "Priority Within Group": 1,
         "Max Number": 5,
         "Priority": 28,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Fire.Default.Weapon_idle",
+        "Group": "Weapon_Perks",
+        "Priority Within Group": 2,
+        "Max Number": 3,
+        "Priority": 29,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Ice.Default.Weapon_idle",
+        "Group": "Weapon_Perks",
+        "Priority Within Group": 2,
+        "Max Number": 3,
+        "Priority": 29,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Lightning.Default.Weapon_idle",
+        "Group": "Weapon_Perks",
+        "Priority Within Group": 2,
+        "Max Number": 3,
+        "Priority": 29,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Magic.Default.Weapon_idle",
+        "Group": "Weapon_Perks",
+        "Priority Within Group": 2,
+        "Max Number": 3,
+        "Priority": 29,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Nature.Default.Weapon_idle",
+        "Group": "Weapon_Perks",
+        "Priority Within Group": 2,
+        "Max Number": 3,
+        "Priority": 29,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_GreatSword.Gems.Void.Default.Weapon_idle",
+        "Group": "Weapon_Perks",
+        "Priority Within Group": 2,
+        "Max Number": 3,
+        "Priority": 29,
         "Constants": null
     },
     {

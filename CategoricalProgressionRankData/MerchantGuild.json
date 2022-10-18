@@ -1,7 +1,7 @@
 [
     {
         "Rank": 0,
-        "DisplayName": "@owg_rank_unafilliated",
+        "DisplayName": "@owg_rank_merchant_1",
         "MaximumInfluence": 3000,
         "RequiredLevel": 10,
         "InfluenceCost": 0,
@@ -13,7 +13,7 @@
     },
     {
         "Rank": 1,
-        "DisplayName": "@owg_rank_merchant_1",
+        "DisplayName": "@owg_rank_merchant_2",
         "MaximumInfluence": 11000,
         "RequiredLevel": 20,
         "InfluenceCost": 0,
@@ -25,7 +25,7 @@
     },
     {
         "Rank": 2,
-        "DisplayName": "@owg_rank_merchant_2",
+        "DisplayName": "@owg_rank_merchant_3",
         "MaximumInfluence": 26000,
         "RequiredLevel": 35,
         "InfluenceCost": 0,
@@ -37,7 +37,7 @@
     },
     {
         "Rank": 3,
-        "DisplayName": "@owg_rank_merchant_3",
+        "DisplayName": "@owg_rank_merchant_4",
         "MaximumInfluence": 49000,
         "RequiredLevel": 50,
         "InfluenceCost": 0,
@@ -49,7 +49,7 @@
     },
     {
         "Rank": 4,
-        "DisplayName": "@owg_rank_merchant_4",
+        "DisplayName": "@owg_rank_merchant_5",
         "MaximumInfluence": 49000,
         "RequiredLevel": 60,
         "InfluenceCost": 0,

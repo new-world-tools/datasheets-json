@@ -42,6 +42,18 @@
         "Description": ""
     },
     {
+        "CategoryID": "ScarabMeleeWeapons",
+        "ImagePath": "Icons/Items/Drawing/placeholder",
+        "DisplayText": "@ScarabMeleeWeapons_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabRangedWeapons",
+        "ImagePath": "Icons/Items/Drawing/placeholder",
+        "DisplayText": "@ScarabRangedWeapons_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "Ingredient",
         "ImagePath": "Icons/Items/Drawing/placeholder",
         "DisplayText": "@CategoryData_Ingredient",
@@ -1686,6 +1698,24 @@
         "Description": "@StaffFire_GroupDesc"
     },
     {
+        "CategoryID": "ScarabMagicStaves",
+        "ImagePath": "",
+        "DisplayText": "@ScarabMagicStaves_GroupName",
+        "Description": "@ScarabMagicStaves_GroupName"
+    },
+    {
+        "CategoryID": "ScarabStaffLife",
+        "ImagePath": "Icons/Items/Drawing/StaffLife",
+        "DisplayText": "@ScarabStaffLife_GroupName",
+        "Description": "@ScarabStaffLife_GroupName"
+    },
+    {
+        "CategoryID": "ScarabStaffFire",
+        "ImagePath": "Icons/Items/Drawing/StaffFire",
+        "DisplayText": "@ScarabStaffFire_GroupName",
+        "Description": "@ScarabStaffFire_GroupName"
+    },
+    {
         "CategoryID": "WeaponCoatings",
         "ImagePath": "",
         "DisplayText": "@CategoryData_WeaponCoatings",
@@ -2649,6 +2679,24 @@
         "CategoryID": "Earrings",
         "ImagePath": "Icons/items/Drawing/trinketO",
         "DisplayText": "@Earrings_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabAmulets",
+        "ImagePath": "Icons/items/Drawing/trinketA",
+        "DisplayText": "@ScarabAmulets_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabRings",
+        "ImagePath": "Icons/items/Drawing/trinketG",
+        "DisplayText": "@ScarabRings_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabEarrings",
+        "ImagePath": "Icons/items/Drawing/trinketO",
+        "DisplayText": "@ScarabEarrings_GroupName",
         "Description": ""
     },
     {
@@ -3636,6 +3684,42 @@
         "Description": ""
     },
     {
+        "CategoryID": "ScarabArmorPlate",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorPlate_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorLeather",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorLeather_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorCloth",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorCloth_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorPlateHeavy",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorPlateHeavy_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorFur",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorFur_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabArmorRobe",
+        "ImagePath": "",
+        "DisplayText": "@ScarabArmorRobe_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "BagsGeneral",
         "ImagePath": "",
         "DisplayText": "@BagsGeneral_GroupName",
@@ -3903,6 +3987,12 @@
         "CategoryID": "LeatherT51",
         "ImagePath": "Icons/Items/Drawing/leather",
         "DisplayText": "@LeatherT51_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "HideT5",
+        "ImagePath": "Icons/Items/Drawing/leather",
+        "DisplayText": "@HideT5_GroupName",
         "Description": ""
     },
     {
@@ -4602,6 +4692,12 @@
         "Description": ""
     },
     {
+        "CategoryID": "AlchemyAlkahestT1",
+        "ImagePath": "",
+        "DisplayText": "@AlchemyAlkahestT1_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "MaterialConversion",
         "ImagePath": "",
         "DisplayText": "@MaterialConversion_GroupName",
@@ -4794,6 +4890,18 @@
         "Description": ""
     },
     {
+        "CategoryID": "ScarabGauntletIce",
+        "ImagePath": "",
+        "DisplayText": "@ScarabGauntletIce_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ScarabGauntletVoid",
+        "ImagePath": "",
+        "DisplayText": "@ScarabGauntletVoid_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "TrinketBand",
         "ImagePath": "Icons/Items/Drawing/TrinketBand",
         "DisplayText": "@TrinketBand_GroupName",
@@ -4977,6 +5085,78 @@
         "CategoryID": "DungeonReps12",
         "ImagePath": "",
         "DisplayText": "@DungeonReps12_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonNamedReplicas",
+        "ImagePath": "",
+        "DisplayText": "@DungeonNamedReplicas_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps1",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps1_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps2",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps2_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps3",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps3_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps4",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps5",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps5_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps6",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps6_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps7",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps7_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps8",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps8_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps9",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps9_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps10",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps10_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueDungeonReps11",
+        "ImagePath": "",
+        "DisplayText": "@UniqueDungeonReps11_GroupName",
         "Description": ""
     },
     {
@@ -5239,7 +5419,7 @@
     },
     {
         "CategoryID": "Lodestone",
-        "ImagePath": "",
+        "ImagePath": "Icons\\Items\\Drawing\\lodestone",
         "DisplayText": "@Lodestone",
         "Description": ""
     },
@@ -5265,6 +5445,12 @@
         "CategoryID": "GypsumCasts",
         "ImagePath": "",
         "DisplayText": "@GypsumCasts_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InfusedCasts",
+        "ImagePath": "",
+        "DisplayText": "@InfusedCasts_GroupName",
         "Description": ""
     },
     {
@@ -5331,6 +5517,42 @@
         "CategoryID": "TimelessShardsCon",
         "ImagePath": "",
         "DisplayText": "@TimelessShardsCon",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GoldenScarabStr",
+        "ImagePath": "",
+        "DisplayText": "@GoldenScarabStr_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GoldenScarabDex",
+        "ImagePath": "",
+        "DisplayText": "@GoldenScarabDex_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GoldenScarabInt",
+        "ImagePath": "",
+        "DisplayText": "@GoldenScarabInt_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GoldenScarabFoc",
+        "ImagePath": "",
+        "DisplayText": "@GoldenScarabFoc_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GoldenScarabCon",
+        "ImagePath": "",
+        "DisplayText": "@GoldenScarabCon_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Scarab",
+        "ImagePath": "",
+        "DisplayText": "@Scarab_GroupName",
         "Description": ""
     },
     {
@@ -5442,6 +5664,12 @@
         "Description": ""
     },
     {
+        "CategoryID": "Summer",
+        "ImagePath": "",
+        "DisplayText": "@Summer",
+        "Description": ""
+    },
+    {
         "CategoryID": "Instruments",
         "ImagePath": "",
         "DisplayText": "@Instruments_GroupName",
@@ -5487,6 +5715,198 @@
         "CategoryID": "Mandolins",
         "ImagePath": "",
         "DisplayText": "@Mandolins_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentGuitarPick",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentGuitarPick_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentDrumHead",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentDrumHead_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentReed",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentReed_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentSoundhole",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentSoundhole_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentFingerboard",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentFingerboard_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentGuitarPickT4",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentGuitarPickT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentDrumHeadT4",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentDrumHeadT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentReedT4",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentReedT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentSoundholeT4",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentSoundholeT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "InstrumentFingerboardT4",
+        "ImagePath": "",
+        "DisplayText": "@InstrumentFingerboardT4_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassFamily",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassFamily_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassEmpty",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassEmpty_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassAmber",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassAmber_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassAmethyst",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassAmethyst_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassAquamarine",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassAquamarine_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassCarnelian",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassCarnelian_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassDiamond",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassDiamond_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassEmerald",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassEmerald_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassJasper",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassJasper_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassMalachite",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassMalachite_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassMoonstone",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassMoonstone_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassOnyx",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassOnyx_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassOpal",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassOpal_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassRuby",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassRuby_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassSapphire",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassSapphire_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RuneglassTopaz",
+        "ImagePath": "",
+        "DisplayText": "@RuneglassTopaz_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Glasswares",
+        "ImagePath": "",
+        "DisplayText": "@Glasswares_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Sulfur",
+        "ImagePath": "",
+        "DisplayText": "@Sulfur_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Rune",
+        "ImagePath": "",
+        "DisplayText": "@Rune_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "WinterConvergence",
+        "ImagePath": "",
+        "DisplayText": "@WinterConvergence_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "NightveilHallow",
+        "ImagePath": "",
+        "DisplayText": "@NightveilHallow_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SummerMedleyfaire",
+        "ImagePath": "",
+        "DisplayText": "@SummerMedleyfaire_GroupName",
         "Description": ""
     }
 ]

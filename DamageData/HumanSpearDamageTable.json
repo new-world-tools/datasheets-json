@@ -43,7 +43,9 @@
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 30
+        "LOSCheckVerticalAngleOffset": 30,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Heavy_Stab",
@@ -89,7 +91,9 @@
         "BlockStaminaDmgMod": 1.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 30
+        "LOSCheckVerticalAngleOffset": 30,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Perforate",
@@ -135,7 +139,9 @@
         "BlockStaminaDmgMod": 0.3,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 30
+        "LOSCheckVerticalAngleOffset": 30,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Leg_Sweep",
@@ -181,7 +187,9 @@
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 30
+        "LOSCheckVerticalAngleOffset": 30,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Leg_Sweep_FollowUp",
@@ -227,7 +235,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 30
+        "LOSCheckVerticalAngleOffset": 30,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -273,7 +283,9 @@
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -319,7 +331,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -365,6 +379,8 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

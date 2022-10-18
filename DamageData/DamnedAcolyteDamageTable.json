@@ -44,7 +44,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 3,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Acolyte_EnergyDash",
@@ -91,7 +93,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Acolyte_Corruption_Bolt_Spell",
@@ -138,7 +142,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Acolyte_Fireball_Spell",
@@ -185,7 +191,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Acolyte_Fireball_Spell_Minion",
@@ -232,7 +240,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Close_Staff_Attack",
@@ -279,7 +289,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Close_Overhead_Staff_Attack",
@@ -326,7 +338,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Acolyte_BlastAway_Spell",
@@ -373,7 +387,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_BlastAway_Spell",
@@ -420,7 +436,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 1.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -467,7 +485,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -514,6 +534,8 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

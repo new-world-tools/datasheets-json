@@ -657,15 +657,6 @@
         "Timeline": "AZF_ANCIENT_100"
     },
     {
-        "SheetId": "Ancient_AzothFlute_Part1_Hard",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "@ui_music_flute_part_1",
-        "Pages": "MP_Ancient_AzothFlute_Part1_Page1",
-        "AudioEvent": "AZF_ANCIENT_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_ANCIENT_100"
-    },
-    {
         "SheetId": "Ancient_AzothFlute_Part2_Easy",
         "Instrument": "instrument-flute-slot",
         "SheetName": "@ui_music_flute_part_2",
@@ -711,15 +702,6 @@
         "Timeline": "AZF_BREATHE_100"
     },
     {
-        "SheetId": "Breathe_AzothFlute_Part1_Hard",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "",
-        "AudioEvent": "AZF_BREATHE_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_BREATHE_100"
-    },
-    {
         "SheetId": "Flourish_AzothFlute_Part1_Easy",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
@@ -730,15 +712,6 @@
     },
     {
         "SheetId": "Flourish_AzothFlute_Part1_Medium",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "MP_Flourish_AzothFlute_Part1_Page1",
-        "AudioEvent": "AZF_FLOURISH_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_FLOURISH_100"
-    },
-    {
-        "SheetId": "Flourish_AzothFlute_Part1_Hard",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
         "Pages": "MP_Flourish_AzothFlute_Part1_Page1",
@@ -765,15 +738,6 @@
         "Timeline": "AZF_FOG_100"
     },
     {
-        "SheetId": "Fog_AzothFlute_Part1_Hard",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "MP_Fog_AzothFlute_Part1_Page1",
-        "AudioEvent": "AZF_FOG_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_FOG_100"
-    },
-    {
         "SheetId": "Grow_AzothFlute_Part1_Easy",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
@@ -784,15 +748,6 @@
     },
     {
         "SheetId": "Grow_AzothFlute_Part1_Medium",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "MP_Grow_AzothFlute_Part1_Page1",
-        "AudioEvent": "AZF_GROW_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_GROW_100"
-    },
-    {
-        "SheetId": "Grow_AzothFlute_Part1_Hard",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
         "Pages": "MP_Grow_AzothFlute_Part1_Page1",
@@ -819,15 +774,6 @@
         "Timeline": "AZF_GIFT_100"
     },
     {
-        "SheetId": "Gift_AzothFlute_Part1_Hard",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "MP_Gift_AzothFlute_Part1_Page1,MP_Gift_AzothFlute_Part1_Page2",
-        "AudioEvent": "AZF_GIFT_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_GIFT_100"
-    },
-    {
         "SheetId": "Harvest_AzothFlute_Part1_Easy",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
@@ -838,15 +784,6 @@
     },
     {
         "SheetId": "Harvest_AzothFlute_Part1_Medium",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "MP_Harvest_AzothFlute_Part1_Page1",
-        "AudioEvent": "AZF_HARVEST_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_HARVEST_100"
-    },
-    {
-        "SheetId": "Harvest_AzothFlute_Part1_Hard",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
         "Pages": "MP_Harvest_AzothFlute_Part1_Page1",
@@ -927,15 +864,6 @@
         "Timeline": "AZF_PONDER_100"
     },
     {
-        "SheetId": "Ponder_AzothFlute_Part1_Hard",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "MP_Ponder_AzothFlute_Part1_Page1,MP_Ponder_AzothFlute_Part1_Page2",
-        "AudioEvent": "AZF_PONDER_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_PONDER_100"
-    },
-    {
         "SheetId": "WindsBrightwood_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
         "SheetName": "",
@@ -981,15 +909,6 @@
         "Timeline": "AZF_PYRE_100"
     },
     {
-        "SheetId": "Pyre_AzothFlute_Part1_Hard",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "MP_Pyre_AzothFlute_Part1_Page1",
-        "AudioEvent": "AZF_PYRE_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_PYRE_100"
-    },
-    {
         "SheetId": "Rise_AzothFlute_Part1_Easy",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
@@ -1000,15 +919,6 @@
     },
     {
         "SheetId": "Rise_AzothFlute_Part1_Medium",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "MP_Rise_AzothFlute_Part1_Page1",
-        "AudioEvent": "AZF_RISE_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_RISE_100"
-    },
-    {
-        "SheetId": "Rise_AzothFlute_Part1_Hard",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
         "Pages": "MP_Rise_AzothFlute_Part1_Page1",
@@ -1035,15 +945,6 @@
         "Timeline": "AZF_SEED_100"
     },
     {
-        "SheetId": "Seed_AzothFlute_Part1_Hard",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "MP_Seed_AzothFlute_Part1_Page1",
-        "AudioEvent": "AZF_SEED_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_SEED_100"
-    },
-    {
         "SheetId": "Set_AzothFlute_Part1_Easy",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
@@ -1054,15 +955,6 @@
     },
     {
         "SheetId": "Set_AzothFlute_Part1_Medium",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "MP_Set_AzothFlute_Part1_Page1,MP_Set_AzothFlute_Part1_Page2",
-        "AudioEvent": "AZF_SET_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_SET_100"
-    },
-    {
-        "SheetId": "Set_AzothFlute_Part1_Hard",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
         "Pages": "MP_Set_AzothFlute_Part1_Page1,MP_Set_AzothFlute_Part1_Page2",
@@ -1324,15 +1216,6 @@
     },
     {
         "SheetId": "Trust_AzothFlute_Part1_Medium",
-        "Instrument": "instrument-flute-slot",
-        "SheetName": "",
-        "Pages": "",
-        "AudioEvent": "AZF_TRUST_100",
-        "ErrorEvent": "AZF_MISTAKE",
-        "Timeline": "AZF_TRUST_100"
-    },
-    {
-        "SheetId": "Trust_AzothFlute_Part1_Hard",
         "Instrument": "instrument-flute-slot",
         "SheetName": "",
         "Pages": "",
@@ -1663,5 +1546,896 @@
         "AudioEvent": "URB_SALTY_BARNICLE_CRUST_75",
         "ErrorEvent": "URB_MISTAKE",
         "Timeline": "URB_SALTY_BARNICLE_CRUST_75"
+    },
+    {
+        "SheetId": "DownLane_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_DownLane_Guitar_Part1_Page1",
+        "AudioEvent": "AG_DOWN_THE_LANE_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_DownLane_Guitar_Part1_Page1",
+        "AudioEvent": "AG_DOWN_THE_LANE_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_DownLane_Guitar_Part1_Page1",
+        "AudioEvent": "AG_DOWN_THE_LANE_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Guitar_Part2_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_DownLane_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_DOWN_THE_LANE_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Guitar_Part2_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_DownLane_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_DOWN_THE_LANE_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Guitar_Part2_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_DownLane_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_DOWN_THE_LANE_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Mandolin_Part1_Easy",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_DownLane_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_DOWN_THE_LANE_112",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Mandolin_Part1_Medium",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_DownLane_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_DOWN_THE_LANE_112",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Mandolin_Part1_Hard",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_DownLane_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_DOWN_THE_LANE_112",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_URBass_Part1_Easy",
+        "Instrument": "instrument-uprightbass-slot",
+        "SheetName": "",
+        "Pages": "MP_DownLane_URBass_Part1_Page1",
+        "AudioEvent": "URB_DOWN_THE_LANE_112",
+        "ErrorEvent": "URB_MISTAKE",
+        "Timeline": "URB_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_URBass_Part1_Medium",
+        "Instrument": "instrument-uprightbass-slot",
+        "SheetName": "",
+        "Pages": "MP_DownLane_URBass_Part1_Page1",
+        "AudioEvent": "URB_DOWN_THE_LANE_112",
+        "ErrorEvent": "URB_MISTAKE",
+        "Timeline": "URB_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_URBass_Part1_Hard",
+        "Instrument": "instrument-uprightbass-slot",
+        "SheetName": "",
+        "Pages": "MP_DownLane_URBass_Part1_Page1",
+        "AudioEvent": "URB_DOWN_THE_LANE_112",
+        "ErrorEvent": "URB_MISTAKE",
+        "Timeline": "URB_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Drums_Part1_Easy",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_DownLane_Drums_Part1_Page1",
+        "AudioEvent": "DRM_DOWN_THE_LANE_112",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Drums_Part1_Medium",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_DownLane_Drums_Part1_Page1",
+        "AudioEvent": "DRM_DOWN_THE_LANE_112",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "DownLane_Drums_Part1_Hard",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_DownLane_Drums_Part1_Page1",
+        "AudioEvent": "DRM_DOWN_THE_LANE_112",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_DOWN_THE_LANE_112"
+    },
+    {
+        "SheetId": "HowToday_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_HowToday_Guitar_Part1_Page1",
+        "AudioEvent": "AG_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_HowToday_Guitar_Part1_Page1",
+        "AudioEvent": "AG_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_HowToday_Guitar_Part1_Page1",
+        "AudioEvent": "AG_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Guitar_Part2_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_HowToday_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Guitar_Part2_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_HowToday_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Guitar_Part2_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_HowToday_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Mandolin_Part1_Easy",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_HowToday_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Mandolin_Part1_Medium",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_HowToday_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Mandolin_Part1_Hard",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_HowToday_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Drums_Part1_Easy",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_HowToday_Drums_Part1_Page1",
+        "AudioEvent": "DRM_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Drums_Part1_Medium",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_HowToday_Drums_Part1_Page1",
+        "AudioEvent": "DRM_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "HowToday_Drums_Part1_Hard",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_HowToday_Drums_Part1_Page1",
+        "AudioEvent": "DRM_HOW_ORE_YOU_TODAY_112",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_HOW_ORE_YOU_TODAY_112"
+    },
+    {
+        "SheetId": "Camp_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Camp_Guitar_Part1_Page1,MP_Camp_Guitar_Part1_Page2,MP_Camp_Guitar_Part1_Page3",
+        "AudioEvent": "AG_THE_CAMP_101",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THE_CAMP_101"
+    },
+    {
+        "SheetId": "Camp_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Camp_Guitar_Part1_Page1,MP_Camp_Guitar_Part1_Page2,MP_Camp_Guitar_Part1_Page3",
+        "AudioEvent": "AG_THE_CAMP_101",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THE_CAMP_101"
+    },
+    {
+        "SheetId": "Camp_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Camp_Guitar_Part1_Page1,MP_Camp_Guitar_Part1_Page2,MP_Camp_Guitar_Part1_Page3",
+        "AudioEvent": "AG_THE_CAMP_101",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THE_CAMP_101"
+    },
+    {
+        "SheetId": "CampGrows_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_CampGrows_Guitar_Part1_Page1",
+        "AudioEvent": "AG_THE_CAMP_GROWS_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_CampGrows_Guitar_Part1_Page1",
+        "AudioEvent": "AG_THE_CAMP_GROWS_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_CampGrows_Guitar_Part1_Page1",
+        "AudioEvent": "AG_THE_CAMP_GROWS_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Guitar_Part2_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_CampGrows_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_THE_CAMP_GROWS_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Guitar_Part2_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_CampGrows_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_THE_CAMP_GROWS_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Guitar_Part2_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_CampGrows_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_THE_CAMP_GROWS_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Mandolin_Part1_Easy",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_CampGrows_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_THE_CAMP_GROWS_95",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Mandolin_Part1_Medium",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_CampGrows_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_THE_CAMP_GROWS_95",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Mandolin_Part1_Hard",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_CampGrows_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_THE_CAMP_GROWS_95",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Drums_Part1_Easy",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_CampGrows_Drums_Part1_Page1",
+        "AudioEvent": "DRM_THE_CAMP_GROWS_95",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Drums_Part1_Medium",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_CampGrows_Drums_Part1_Page1",
+        "AudioEvent": "DRM_THE_CAMP_GROWS_95",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "CampGrows_Drums_Part1_Hard",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_CampGrows_Drums_Part1_Page1",
+        "AudioEvent": "DRM_THE_CAMP_GROWS_95",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_THE_CAMP_GROWS_95"
+    },
+    {
+        "SheetId": "Blue_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Blue_Guitar_Part1_Page1,MP_Blue_Guitar_Part1_Page2",
+        "AudioEvent": "AG_BLUE_LEAVES_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_BLUE_LEAVES_95"
+    },
+    {
+        "SheetId": "Blue_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Blue_Guitar_Part1_Page1,MP_Blue_Guitar_Part1_Page2",
+        "AudioEvent": "AG_BLUE_LEAVES_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_BLUE_LEAVES_95"
+    },
+    {
+        "SheetId": "Blue_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Blue_Guitar_Part1_Page1,MP_Blue_Guitar_Part1_Page2",
+        "AudioEvent": "AG_BLUE_LEAVES_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_BLUE_LEAVES_95"
+    },
+    {
+        "SheetId": "Sounds_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Sounds_Guitar_Part1_Page1,MP_Sounds_Guitar_Part1_Page2,MP_Sounds_Guitar_Part1_Page3",
+        "AudioEvent": "AG_SOUNDS_OF_BELLS_70",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_SOUNDS_OF_BELLS_70"
+    },
+    {
+        "SheetId": "Sounds_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Sounds_Guitar_Part1_Page1,MP_Sounds_Guitar_Part1_Page2,MP_Sounds_Guitar_Part1_Page3",
+        "AudioEvent": "AG_SOUNDS_OF_BELLS_70",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_SOUNDS_OF_BELLS_70"
+    },
+    {
+        "SheetId": "Sounds_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Sounds_Guitar_Part1_Page1,MP_Sounds_Guitar_Part1_Page2,MP_Sounds_Guitar_Part1_Page3",
+        "AudioEvent": "AG_SOUNDS_OF_BELLS_70",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_SOUNDS_OF_BELLS_70"
+    },
+    {
+        "SheetId": "Weavers_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_Weavers_Guitar_Part1_Page1",
+        "AudioEvent": "AG_WEAVERS_WEBB_108",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_Weavers_Guitar_Part1_Page1",
+        "AudioEvent": "AG_WEAVERS_WEBB_108",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_Weavers_Guitar_Part1_Page1",
+        "AudioEvent": "AG_WEAVERS_WEBB_108",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Guitar_Part2_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_Weavers_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_WEAVERS_WEBB_108",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Guitar_Part2_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_Weavers_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_WEAVERS_WEBB_108",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Guitar_Part2_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_Weavers_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_WEAVERS_WEBB_108",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Mandolin_Part1_Easy",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_Weavers_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_WEAVERS_WEBB_108",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Mandolin_Part1_Medium",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_Weavers_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_WEAVERS_WEBB_108",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Mandolin_Part1_Hard",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_Weavers_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_WEAVERS_WEBB_108",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_URBass_Part1_Easy",
+        "Instrument": "instrument-uprightbass-slot",
+        "SheetName": "",
+        "Pages": "MP_Weavers_URBass_Part1_Page1",
+        "AudioEvent": "URB_WEAVERS_WEBB_108",
+        "ErrorEvent": "URB_MISTAKE",
+        "Timeline": "URB_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_URBass_Part1_Medium",
+        "Instrument": "instrument-uprightbass-slot",
+        "SheetName": "",
+        "Pages": "MP_Weavers_URBass_Part1_Page1",
+        "AudioEvent": "URB_WEAVERS_WEBB_108",
+        "ErrorEvent": "URB_MISTAKE",
+        "Timeline": "URB_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_URBass_Part1_Hard",
+        "Instrument": "instrument-uprightbass-slot",
+        "SheetName": "",
+        "Pages": "MP_Weavers_URBass_Part1_Page1",
+        "AudioEvent": "URB_WEAVERS_WEBB_108",
+        "ErrorEvent": "URB_MISTAKE",
+        "Timeline": "URB_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Drums_Part1_Easy",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_Weavers_Drums_Part1_Page1",
+        "AudioEvent": "DRM_WEAVERS_WEBB_108",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Drums_Part1_Medium",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_Weavers_Drums_Part1_Page1",
+        "AudioEvent": "DRM_WEAVERS_WEBB_108",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "Weavers_Drums_Part1_Hard",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_Weavers_Drums_Part1_Page1",
+        "AudioEvent": "DRM_WEAVERS_WEBB_108",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_WEAVERS_WEBB_108"
+    },
+    {
+        "SheetId": "TheKid_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_TheKid_Guitar_Part1_Page1",
+        "AudioEvent": "AG_THE_KID_ON_THE_MOUNTAIN_120",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THE_KID_ON_THE_MOUNTAIN_120"
+    },
+    {
+        "SheetId": "TheKid_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_TheKid_Guitar_Part1_Page1",
+        "AudioEvent": "AG_THE_KID_ON_THE_MOUNTAIN_120",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THE_KID_ON_THE_MOUNTAIN_120"
+    },
+    {
+        "SheetId": "TheKid_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_TheKid_Guitar_Part1_Page1",
+        "AudioEvent": "AG_THE_KID_ON_THE_MOUNTAIN_120",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THE_KID_ON_THE_MOUNTAIN_120"
+    },
+    {
+        "SheetId": "Brown_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Brown_Guitar_Part1_Page1,MP_Brown_Guitar_Part1_Page2",
+        "AudioEvent": "AG_BROWN_LEAVES_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_BROWN_LEAVES_95"
+    },
+    {
+        "SheetId": "Brown_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Brown_Guitar_Part1_Page1,MP_Brown_Guitar_Part1_Page2",
+        "AudioEvent": "AG_BROWN_LEAVES_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_BROWN_LEAVES_95"
+    },
+    {
+        "SheetId": "Brown_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Brown_Guitar_Part1_Page1,MP_Brown_Guitar_Part1_Page2",
+        "AudioEvent": "AG_BROWN_LEAVES_95",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_BROWN_LEAVES_95"
+    },
+    {
+        "SheetId": "DamnFish_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_DamnFish_Guitar_Part1_Page1",
+        "AudioEvent": "AG_THAT_DAMN_FISH_90",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_DamnFish_Guitar_Part1_Page1",
+        "AudioEvent": "AG_THAT_DAMN_FISH_90",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_1",
+        "Pages": "MP_DamnFish_Guitar_Part1_Page1",
+        "AudioEvent": "AG_THAT_DAMN_FISH_90",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Guitar_Part2_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_DamnFish_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_THAT_DAMN_FISH_90",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Guitar_Part2_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_DamnFish_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_THAT_DAMN_FISH_90",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Guitar_Part2_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_2",
+        "Pages": "MP_DamnFish_Guitar_Part2_Page1",
+        "AudioEvent": "AG_B_THAT_DAMN_FISH_90",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_B_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Guitar_Part3_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_3",
+        "Pages": "MP_DamnFish_Guitar_Part3_Page1",
+        "AudioEvent": "AG_C_THAT_DAMN_FISH_90",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_C_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Guitar_Part3_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_3",
+        "Pages": "MP_DamnFish_Guitar_Part3_Page1",
+        "AudioEvent": "AG_C_THAT_DAMN_FISH_90",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_C_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Guitar_Part3_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "@ui_music_guitar_part_3",
+        "Pages": "MP_DamnFish_Guitar_Part3_Page1",
+        "AudioEvent": "AG_C_THAT_DAMN_FISH_90",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_C_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Mandolin_Part1_Easy",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_DamnFish_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_THAT_DAMN_FISH_90",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Mandolin_Part1_Medium",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_DamnFish_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_THAT_DAMN_FISH_90",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Mandolin_Part1_Hard",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_DamnFish_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_THAT_DAMN_FISH_90",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Drums_Part1_Easy",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_DamnFish_Drums_Part1_Page1",
+        "AudioEvent": "DRM_THAT_DAMN_FISH_90",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Drums_Part1_Medium",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_DamnFish_Drums_Part1_Page1",
+        "AudioEvent": "DRM_THAT_DAMN_FISH_90",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "DamnFish_Drums_Part1_Hard",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_DamnFish_Drums_Part1_Page1",
+        "AudioEvent": "DRM_THAT_DAMN_FISH_90",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_THAT_DAMN_FISH_90"
+    },
+    {
+        "SheetId": "SoupDay_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_Guitar_Part1_Page1",
+        "AudioEvent": "AG_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_Guitar_Part1_Page1",
+        "AudioEvent": "AG_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_Guitar_Part1_Page1",
+        "AudioEvent": "AG_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_Mandolin_Part1_Easy",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_Mandolin_Part1_Medium",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_Mandolin_Part1_Hard",
+        "Instrument": "instrument-mandolin-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_Mandolin_Part1_Page1",
+        "AudioEvent": "MAN_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "MAN_MISTAKE",
+        "Timeline": "MAN_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_Drums_Part1_Easy",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_Drums_Part1_Page1",
+        "AudioEvent": "DRM_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_Drums_Part1_Medium",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_Drums_Part1_Page1",
+        "AudioEvent": "DRM_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_Drums_Part1_Hard",
+        "Instrument": "instrument-drums-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_Drums_Part1_Page1",
+        "AudioEvent": "DRM_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "DRM_MISTAKE",
+        "Timeline": "DRM_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_URBass_Part1_Easy",
+        "Instrument": "instrument-uprightbass-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_URBass_Part1_Page1",
+        "AudioEvent": "URB_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "URB_MISTAKE",
+        "Timeline": "URB_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_URBass_Part1_Medium",
+        "Instrument": "instrument-uprightbass-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_URBass_Part1_Page1",
+        "AudioEvent": "URB_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "URB_MISTAKE",
+        "Timeline": "URB_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "SoupDay_URBass_Part1_Hard",
+        "Instrument": "instrument-uprightbass-slot",
+        "SheetName": "",
+        "Pages": "MP_SoupDay_URBass_Part1_Page1",
+        "AudioEvent": "URB_SOUP_OF_THE_DAY_129",
+        "ErrorEvent": "URB_MISTAKE",
+        "Timeline": "URB_SOUP_OF_THE_DAY_129"
+    },
+    {
+        "SheetId": "Canarios_Guitar_Part1_Easy",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Canarios_Guitar_Part1_Page1",
+        "AudioEvent": "AG_CANARIOS_100",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_CANARIOS_100"
+    },
+    {
+        "SheetId": "Canarios_Guitar_Part1_Medium",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Canarios_Guitar_Part1_Page1",
+        "AudioEvent": "AG_CANARIOS_100",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_CANARIOS_100"
+    },
+    {
+        "SheetId": "Canarios_Guitar_Part1_Hard",
+        "Instrument": "instrument-guitar-slot",
+        "SheetName": "",
+        "Pages": "MP_Canarios_Guitar_Part1_Page1",
+        "AudioEvent": "AG_CANARIOS_100",
+        "ErrorEvent": "AG_MISTAKE",
+        "Timeline": "AG_CANARIOS_100"
     }
 ]

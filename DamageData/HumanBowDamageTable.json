@@ -41,7 +41,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_2H_Ranged_Bow_Heavy",
@@ -85,7 +87,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Explosive_Arrow",
@@ -129,7 +133,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Charged_Melee",
@@ -173,7 +179,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -217,7 +225,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -261,7 +271,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -305,6 +317,8 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

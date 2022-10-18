@@ -50,7 +50,9 @@
         "TargetCameraShakeID": "Small",
         "BlockTargetCameraShakeID": "Small",
         "CritTargetCameraShakeID": "Small",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Slam",
@@ -103,7 +105,9 @@
         "TargetCameraShakeID": "Large_short",
         "BlockTargetCameraShakeID": "Small",
         "CritTargetCameraShakeID": "Large_short",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Slam_Ooze",
@@ -156,7 +160,9 @@
         "TargetCameraShakeID": "Large_short",
         "BlockTargetCameraShakeID": "Small",
         "CritTargetCameraShakeID": "Large_short",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_BurrowStrike",
@@ -209,7 +215,9 @@
         "TargetCameraShakeID": "Large_short",
         "BlockTargetCameraShakeID": "Small",
         "CritTargetCameraShakeID": "Large_short",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_OozeFling",
@@ -262,7 +270,9 @@
         "TargetCameraShakeID": "Large_short",
         "BlockTargetCameraShakeID": "Small",
         "CritTargetCameraShakeID": "Large_short",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Sweep",
@@ -315,7 +325,9 @@
         "TargetCameraShakeID": "Large_short",
         "BlockTargetCameraShakeID": "Small",
         "CritTargetCameraShakeID": "Large_short",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Thrash",
@@ -368,6 +380,8 @@
         "TargetCameraShakeID": "Large_short",
         "BlockTargetCameraShakeID": "Small",
         "CritTargetCameraShakeID": "Large_short",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

@@ -2525,7 +2525,7 @@
         "Description": "@House_HousingItem_Pet_Entitlement_Rabbit_Spring_description",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_SpringHare2022.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Rectangle_SpringHare2022.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_SpringHare2022",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_SpringHare2022.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Thumbnail_SpringHare2022.png",
         "TypeDescription": "@reward_type_house_pet"
     },
@@ -3212,6 +3212,17 @@
         "TypeDescription": "@reward_type_Housing_Set"
     },
     {
+        "UniqueTagID": "Emote_Panic",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Panic_name",
+        "Description": "@ui_emote_Panic_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Panic.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Panic.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Panic.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Panic.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_BaladiDance",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_BaladiDance_name",
@@ -3531,6 +3542,17 @@
         "TypeDescription": "@ui_bundle"
     },
     {
+        "UniqueTagID": "Emote_Stab",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Stab_name",
+        "Description": "@ui_emote_Stab_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_CreepyStabbingPsycho.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_CreepyStabbingPsycho.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_CreepyStabbingPsycho.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_CreepyStabbingPsycho.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_MicDrop",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_MicDrop_name",
@@ -3740,6 +3762,28 @@
         "TypeDescription": "@reward_type_housing_item"
     },
     {
+        "UniqueTagID": "Emote_HearSeeSpeakNoEvil",
+        "IsEnabled": 1,
+        "DisplayName": "@Emote_HearSeeSpeakNoEvil_name",
+        "Description": "@Emote_HearSeeSpeakNoEvil_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_NoEvil.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_NoEvil.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_NoEvil.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_NoEvil.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_DigGrave",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_DigGrave_name",
+        "Description": "@ui_emote_DigGrave_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_DigGrave.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_DigGrave.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_DigGrave.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_DigGrave.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_TableFlip",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_TableFlip_name",
@@ -3815,6 +3859,17 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Phoenix_1.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Phoenix_1.png",
         "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "Weapon_EgyptianGods_Greatsword",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Greatsword_EgyptianGods_MasterName",
+        "Description": "@Skin_Greatsword_EgyptianGods_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_EgyptianGods_GreatSword.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_EgyptianGods_GreatSword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_EgyptianGods_GreatSword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_EgyptianGods_GreatSword.png",
+        "TypeDescription": "@reward_type_Weaponskin_Greatsword"
     },
     {
         "UniqueTagID": "Weapon_EgyptianGods_ShieldR",
@@ -3971,6 +4026,17 @@
         "TypeDescription": "@reward_type_Apparelskin"
     },
     {
+        "UniqueTagID": "Bundle_SuperDeluxePack",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_SuperDeluxePack_name",
+        "Description": "@Bundle_SuperDeluxePack_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_SuperDeluxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_SuperDeluxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_SuperDeluxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_SuperDeluxe.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
         "UniqueTagID": "Bundle_Decor_Egyptian",
         "IsEnabled": 1,
         "DisplayName": "@Bundle_Decor_Egyptian_name",
@@ -4037,6 +4103,17 @@
         "TypeDescription": "@reward_type_housing_item"
     },
     {
+        "UniqueTagID": "Bundle_Weapon_Wicked",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Weapon_Wicked_name",
+        "Description": "@Bundle_Weapon_Wicked_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Weapon_Wicked.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_Wicked.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_Wicked.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_Wicked.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
         "UniqueTagID": "Bundle_Crest_Egyptian",
         "IsEnabled": 1,
         "DisplayName": "@Bundle_Crest_Egyptian_name",
@@ -4059,6 +4136,39 @@
         "TypeDescription": "@reward_type_title"
     },
     {
+        "UniqueTagID": "Apparel_RomanSoldier",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_RomanSoldier_name",
+        "Description": "@Apparel_RomanSoldier_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_RomanSoldier.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_RomanSoldier.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_RomanSoldier.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_RomanSoldier.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "CampSkin_Nightmare_1",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Nightmare01_A_mastername",
+        "Description": "@CampSkin_Nightmare01_A_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Nightmares_Puppet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Nightmares_Puppet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Nightmares_Puppet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Nightmares_Puppet.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
+        "UniqueTagID": "CampSkin_Nightmare_2",
+        "IsEnabled": 1,
+        "DisplayName": "@CampSkin_Nightmare02_A_mastername",
+        "Description": "@CampSkin_Nightmare02_A_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_Nightmares_SpiderNest.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_Nightmares_SpiderNest.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_Nightmares_SpiderNest.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_Nightmares_SpiderNest.png",
+        "TypeDescription": "@reward_type_campskin"
+    },
+    {
         "UniqueTagID": "Bundle_Egyptian_MegaPack",
         "IsEnabled": 1,
         "DisplayName": "@Bundle_Egyptian_MegaPack_name",
@@ -4067,6 +4177,336 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Mega_Aegyptus2022.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Mega_Aegyptus2022.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Mega_Aegyptus2022.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Apparel_Mask_NightmareBlue",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Head_NightmareMaskBlue_MasterName",
+        "Description": "@Skin_Head_NightmareMaskBlue_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Portrait_Nightmares_MaskBlue.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Rectangle_Nightmares_MaskBlue.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Square_Nightmares_MaskBlue.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Thumbnail_Nightmares_MaskBlue.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Mask_NightmareRed",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Head_NightmareMaskRed_MasterName",
+        "Description": "@Skin_Head_NightmareMaskRed_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Portrait_Nightmares_MaskRed.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Rectangle_Nightmares_MaskRed.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Square_Nightmares_MaskRed.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Thumbnail_Nightmares_MaskRed.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Mask_NightmareGreen",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Head_NightmareMaskGreen_MasterName",
+        "Description": "@Skin_Head_NightmareMaskGreen_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Portrait_Nightmares_MaskGreen.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Rectangle_Nightmares_MaskGreen.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Square_Nightmares_MaskGreen.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Thumbnail_Nightmares_MaskGreen.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Mask_NightmarePurple",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Head_NightmareMaskPurple_MasterName",
+        "Description": "@Skin_Head_NightmareMaskPurple_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Portrait_Nightmares_MaskPurple.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Rectangle_Nightmares_MaskPurple.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Square_Nightmares_MaskPurple.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Thumbnail_Nightmares_MaskPurple.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Nightmares_1",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Nightmares_1_name",
+        "Description": "@Apparel_Nightmares_1_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Nightmares_Leatherclad.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Nightmares_Leatherclad.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Nightmares_Leatherclad.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Nightmares_Leatherclad.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Nightmares_2",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Nightmares_2_name",
+        "Description": "@Apparel_Nightmares_2_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Nightmares_BrainKing.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Nightmares_BrainKing.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Nightmares_BrainKing.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Nightmares_BrainKing.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Nightmares_3",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Nightmares_3_name",
+        "Description": "@Apparel_Nightmares_3_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Nightmares_HorseshoeSpike.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Nightmares_HorseshoeSpike.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Nightmares_HorseshoeSpike.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Nightmares_HorseshoeSpike.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_NightmaresDeluxe_1",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_NightmaresDeluxe_1_name",
+        "Description": "@Apparel_NightmaresDeluxe_1_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Nightmares_Deluxe01.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Nightmares_Deluxe01.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Nightmares_Deluxe01.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Nightmares_Deluxe01.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_NightmaresDeluxe_2",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_NightmaresDeluxe_2_name",
+        "Description": "@Apparel_NightmaresDeluxe_2_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Nightmares_Deluxe02.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Nightmares_Deluxe02.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Nightmares_Deluxe02.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Nightmares_Deluxe02.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_Bow",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_Bow_MasterName",
+        "Description": "@Skin_Monster_Bow_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_Bow.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_Bow.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_Bow.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_Bow.png",
+        "TypeDescription": "@reward_type_Weaponskin_Bow"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_ShieldK",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_ShieldK_MasterName",
+        "Description": "@Skin_Monster_ShieldK_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_KiteShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_KiteShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_KiteShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_KiteShield.png",
+        "TypeDescription": "@reward_type_Weaponskin_Shield"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_Longsword",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_Longsword_MasterName",
+        "Description": "@Skin_Monster_Longsword_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_Longsword.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_Longsword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_Longsword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_Longsword.png",
+        "TypeDescription": "@reward_type_Weaponskin_Sword"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_ShieldR",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_ShieldR_MasterName",
+        "Description": "@Skin_Monster_ShieldR_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_RoundShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_RoundShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_RoundShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_RoundShield.png",
+        "TypeDescription": "@reward_type_Weaponskin_Shield"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_Spear",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_Spear_MasterName",
+        "Description": "@Skin_Monster_Spear_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_Spear.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_Spear.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_Spear.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_Spear.png",
+        "TypeDescription": "@reward_type_Weaponskin_Spear"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_Hatchet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_Hatchet_MasterName",
+        "Description": "@Skin_Monster_Hatchet_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_ThrowingAxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_ThrowingAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_ThrowingAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_ThrowingAxe.png",
+        "TypeDescription": "@reward_type_Weaponskin_Hatchet"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_Firestaff",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_Firestaff_MasterName",
+        "Description": "@Skin_Monster_Firestaff_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_FireStaff.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_FireStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_FireStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_FireStaff.png",
+        "TypeDescription": "@reward_type_Weaponskin_FireStaff"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_ShieldT",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_ShieldT_MasterName",
+        "Description": "@Skin_Monster_ShieldT_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_TowerShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_TowerShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_TowerShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_TowerShield.png",
+        "TypeDescription": "@reward_type_Weaponskin_Shield"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_IceGauntlet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_IceGaunt_MasterName",
+        "Description": "@Skin_Monster_IceGaunt_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_IceGauntlet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_IceGauntlet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_IceGauntlet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_IceGauntlet.png",
+        "TypeDescription": "@reward_type_Weaponskin_IceGauntlet"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_Blunderbuss",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_Blunderbuss_MasterName",
+        "Description": "@Skin_Monster_Blunderbuss_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_Blunderbuss.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_Blunderbuss.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_Blunderbuss.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_Blunderbuss.png",
+        "TypeDescription": "@reward_type_Weaponskin_Blunderbuss"
+    },
+    {
+        "UniqueTagID": "Weapon_Nightmares_Greatsword",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Monster_Greatsword_MasterName",
+        "Description": "@Skin_Monster_Greatsword_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_ClassicMonster_Greatsword.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_ClassicMonster_Greatsword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_ClassicMonster_Greatsword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_ClassicMonster_Greatsword.png",
+        "TypeDescription": "@reward_type_Weaponskin_Greatsword"
+    },
+    {
+        "UniqueTagID": "Bundle_Tool_Nightmares",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Tool_Nightmares_name",
+        "Description": "@Bundle_Tool_Nightmares_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_Nightmares.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_Nightmares.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_Nightmares.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_Nightmares.png",
+        "TypeDescription": "@reward_type_Toolskin_Set"
+    },
+    {
+        "UniqueTagID": "Apparel_Nightmares_Twitch",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Nightmares_Twitch_name",
+        "Description": "@Apparel_Nightmares_Twitch_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Twitch_Nightmares.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Twitch_Nightmares.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Twitch_Nightmares.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Twitch_Nightmares.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Bundle_Decor_Nightmare",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Decor_Nightmare_name",
+        "Description": "@Bundle_Decor_Nightmare_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_Nightveil2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_Nightveil2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_Nightveil2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_Nightveil2022.png",
+        "TypeDescription": "@reward_type_Housing_Set"
+    },
+    {
+        "UniqueTagID": "Pet_Nightmare_Spider",
+        "IsEnabled": 1,
+        "DisplayName": "@House_HousingItem_Pet_Entitlement_Spider_Nightveil_MasterName",
+        "Description": "@House_HousingItem_Pet_Entitlement_Spider_Nightveil_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Portrait_NightmareSpider.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Rectangle_NightmareSpider.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Square_NightmareSpider.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/pet_Thumbnail_NightmareSpider.png",
+        "TypeDescription": "@reward_type_house_pet"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_Nightmare_Apparel",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_Nightmare_Apparel_name",
+        "Description": "@Bundle_PR_Nightmare_Apparel_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Armor_Nightmares.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Armor_Nightmares.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Armor_Nightmares.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Armor_Nightmares.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_Nightmare_Weapons",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_Nightmare_Weapons_name",
+        "Description": "@Bundle_PR_Nightmare_Weapons_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Weapon_ClassicMonster.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_ClassicMonster.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_ClassicMonster.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_ClassicMonster.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_ClassicMonster_Apparel",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_ClassicMonster_Apparel_name",
+        "Description": "@Bundle_PR_ClassicMonster_Apparel_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Armor_ClassicMonster.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Armor_ClassicMonster.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Armor_ClassicMonster.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Armor_ClassicMonster.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_ClassicMonster_Weapons",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_ClassicMonster_Weapons_name",
+        "Description": "@Bundle_PR_ClassicMonster_Weapons_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Weapon_ClassicMonsterOriginal.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_ClassicMonsterOriginal.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_ClassicMonsterOriginal.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_ClassicMonsterOriginal.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_Crest_Nightmares",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Crest_Nightmares_name",
+        "Description": "@Bundle_Crest_Nightmares_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Portrait_Nightmares.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Rectangle_Nightmares.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Square_Nightmares.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/crestPack_Thumbnail_Nightmares.png",
+        "TypeDescription": "@reward_type_guildcrest_pack"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_Nightmare_Mask_Set",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_Nightmare_Mask_Set_name",
+        "Description": "@Bundle_PR_Nightmare_Mask_Set_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_NightmaresMasks.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_NightmaresMasks.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_NightmaresMasks.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_NightmaresMasks.png",
         "TypeDescription": "@ui_bundle"
     }
 ]

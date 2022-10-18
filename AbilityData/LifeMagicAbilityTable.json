@@ -1628,7 +1628,7 @@
         "CastSpell": "",
         "DisableCastSpellDurability": null,
         "SelfApplyStatusEffect": "",
-        "OtherApplyStatusEffect": "",
+        "OtherApplyStatusEffect": "Status_Passive_Lifestaff_Healing_RemoveOnHeavy_RuneCharge",
         "DoNotUnequipSelfAppliedSE": null,
         "ModifySelfApplyStatusEffectDuration": null,
         "SetPotencyAsCount": "",

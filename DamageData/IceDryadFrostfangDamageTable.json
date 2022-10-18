@@ -44,7 +44,9 @@
         "CameraShakeID": "Small",
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Frostfang_Attack_Sickle_StrongSlash",
@@ -91,7 +93,9 @@
         "CameraShakeID": "Small",
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.2,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Frostfang_Attack_Sickle_FierceThrust",
@@ -138,7 +142,9 @@
         "CameraShakeID": "Small",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.25,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Frostfang_Attack_Sickles_DualStrike",
@@ -185,7 +191,9 @@
         "CameraShakeID": "Large",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.15,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Frostfang_Attack_Sickles_DualSlash",
@@ -232,7 +240,9 @@
         "CameraShakeID": "Large",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.25,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Frostfang_Attack_Sickles_DualThrust",
@@ -279,7 +289,9 @@
         "CameraShakeID": "Large",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.3,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Frostfang_Attack_Sickle_InflictWeaken",
@@ -326,7 +338,9 @@
         "CameraShakeID": "Small",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Frostfang_Attack_FrostBiter_Nav_Hit",
@@ -373,7 +387,9 @@
         "CameraShakeID": "Large",
         "ImpactRating": 2,
         "BlockStaminaDmgMod": 0.25,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Frostfang_Attack_FrostBiter_Ender_Hit",
@@ -420,7 +436,9 @@
         "CameraShakeID": "Large",
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.25,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Frostfang_Attack_FrostBiter_CrossSlash",
@@ -467,7 +485,9 @@
         "CameraShakeID": "Small",
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -514,7 +534,9 @@
         "CameraShakeID": "Small",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 0
+        "BlockAbsorptionModifier": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_BreakoutAttack_Light",
@@ -561,7 +583,9 @@
         "CameraShakeID": "Small",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 0
+        "BlockAbsorptionModifier": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_BreakoutAttack_Heavy",
@@ -608,7 +632,9 @@
         "CameraShakeID": "Large",
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 1,
-        "BlockAbsorptionModifier": 0
+        "BlockAbsorptionModifier": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Frostfang_Grit_StaggerResist",
@@ -655,7 +681,9 @@
         "CameraShakeID": "Small",
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0,
-        "BlockAbsorptionModifier": 0
+        "BlockAbsorptionModifier": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -702,6 +730,8 @@
         "CameraShakeID": "",
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0,
-        "BlockAbsorptionModifier": 1
+        "BlockAbsorptionModifier": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

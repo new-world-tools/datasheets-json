@@ -42,7 +42,9 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Dryad_Shaman_Rolling_Spell",
@@ -87,7 +89,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Ranged_AOE_Spell",
@@ -132,7 +136,9 @@
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Close_Staff_Attack",
@@ -177,7 +183,9 @@
         "BlockStaminaDmgMod": 0.3,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_Priest_Close_Overhead_Staff_Attack",
@@ -222,7 +230,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Dryad_Shaman_BlastAway_Spell",
@@ -267,7 +277,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": null,
-        "LOSCheckVerticalAngleOffset": 20
+        "LOSCheckVerticalAngleOffset": 20,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Dryad_Shaman_AOE_Combo",
@@ -312,7 +324,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Mushroom",
@@ -357,7 +371,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Shaman_Swamp_Mud_Jets",
@@ -402,7 +418,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 20
+        "LOSCheckVerticalAngleOffset": 20,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swamp_Shaman_Ranged_AOE",
@@ -447,7 +465,9 @@
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Shaman_Swamp_Thorn_Shot",
@@ -492,7 +512,9 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Shaman_Swamp_Thorn_Shot_Minion",
@@ -537,7 +559,9 @@
         "BlockStaminaDmgMod": 0.05,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Shaman_Swamp_Mud_Heal",
@@ -582,7 +606,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 20
+        "LOSCheckVerticalAngleOffset": 20,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -627,6 +653,8 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

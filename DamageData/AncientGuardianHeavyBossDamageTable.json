@@ -47,7 +47,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -97,7 +99,9 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Elite_GRIT",
@@ -147,7 +151,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Double_Slash_1st_Hit",
@@ -197,7 +203,9 @@
         "BlockStaminaDmgMod": 1.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Double_Slash_2nd_Hit",
@@ -247,7 +255,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Charge",
@@ -297,7 +307,9 @@
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Charge_Stab",
@@ -347,7 +359,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Flurry",
@@ -397,7 +411,9 @@
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Swipe_R_L_1st_Hit",
@@ -447,7 +463,9 @@
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Swipe_R_L_2nd_Hit",
@@ -497,7 +515,9 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Stab",
@@ -547,7 +567,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Swipe_L_R_1st_Hit",
@@ -597,7 +619,9 @@
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Swipe_L_R_2nd_Hit",
@@ -647,7 +671,9 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Swipe_L",
@@ -697,7 +723,9 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Backhand_R",
@@ -747,7 +775,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Overhead",
@@ -797,7 +827,9 @@
         "BlockStaminaDmgMod": 1.85,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Elite_Overhead_Burning_2nd_Hit",
@@ -847,7 +879,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Spawn_Landing",
@@ -897,7 +931,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_ScrapingUppercut",
@@ -947,7 +983,9 @@
         "BlockStaminaDmgMod": 1.25,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_ClearingSweep",
@@ -997,7 +1035,9 @@
         "BlockStaminaDmgMod": 1.25,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_ShoulderRush",
@@ -1047,7 +1087,9 @@
         "BlockStaminaDmgMod": 0.35,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "HeavyJump_Stab",
@@ -1097,7 +1139,9 @@
         "BlockStaminaDmgMod": 10,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "HeavyJump_Shockwave",
@@ -1147,7 +1191,9 @@
         "BlockStaminaDmgMod": 10,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "BoneThrow_1",
@@ -1197,7 +1243,9 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
         "StunBreakoutIncrement": null,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "BoneThrow_2",
@@ -1247,7 +1295,9 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
         "StunBreakoutIncrement": null,
-        "DamageGuildAndGroup": null
+        "DamageGuildAndGroup": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Adds_Wipe",
@@ -1297,6 +1347,8 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageGuildAndGroup": true
+        "DamageGuildAndGroup": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

@@ -44,7 +44,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Greataxe_Execution",
@@ -91,7 +93,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Greataxe_Judgements_Reach",
@@ -138,7 +142,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Greataxe_Judgements_Reach_FollowUp",
@@ -185,7 +191,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Anchor_Toss",
@@ -232,7 +240,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Overhead",
@@ -279,7 +289,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Damned_2H_GreatAxe_Melee_Light",
@@ -326,7 +338,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -373,7 +387,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -420,6 +436,8 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

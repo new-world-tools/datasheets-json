@@ -44,7 +44,9 @@
         "BlockStaminaDmgMod": 0.28,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Shaman_Stab_02",
@@ -91,7 +93,9 @@
         "BlockStaminaDmgMod": 0.34,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Shaman_Overhead_01",
@@ -138,7 +142,9 @@
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Shaman_Lightning_Strike",
@@ -185,7 +191,9 @@
         "BlockStaminaDmgMod": 0.65,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": true
+        "UseAttackerPosForReaction": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Shaman_Lightning_Bolt",
@@ -232,7 +240,9 @@
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Shaman_Chain_Lightning",
@@ -279,7 +289,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -326,7 +338,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": null,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -373,6 +387,8 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

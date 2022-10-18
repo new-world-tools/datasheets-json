@@ -44,7 +44,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Minion_Left_Hand_Ground_Pound",
@@ -91,7 +93,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Overhead_Slam",
@@ -138,7 +142,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Minion_Swipe_Left",
@@ -185,7 +191,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.35,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Minion_Swipe_Left_Combo",
@@ -232,7 +240,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Minion_Swipe_Right",
@@ -279,7 +289,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Minion_Swipe_Right_Combo",
@@ -326,7 +338,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.25,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Left_Hand_Ground_Pound",
@@ -373,7 +387,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Left",
@@ -420,7 +436,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.35,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Left_Combo",
@@ -467,7 +485,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Right",
@@ -514,7 +534,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swipe_Right_Combo",
@@ -561,7 +583,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.25,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Tail_Swipe_Windup",
@@ -608,7 +632,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.3,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Tail_Swipe",
@@ -655,7 +681,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Shoulder_Charge",
@@ -702,7 +730,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Structure",
@@ -749,7 +779,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -796,6 +828,8 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": null
+        "StunBreakoutIncrement": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

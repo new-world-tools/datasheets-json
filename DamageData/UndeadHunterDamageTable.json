@@ -43,7 +43,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Bow_Special",
@@ -89,7 +91,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Bow_Special_Explosion",
@@ -135,7 +139,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.75,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_WispFire_Explosion",
@@ -181,7 +187,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.75,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_SpitFire",
@@ -227,7 +235,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0.667
+        "StunBreakoutIncrement": 0.667,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Torch_Swing",
@@ -273,7 +283,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Torch_Swing_Combo",
@@ -319,7 +331,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Swing_Breakout",
@@ -365,7 +379,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Bow_Breakout",
@@ -411,7 +427,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Reaction_Breakout",
@@ -457,7 +475,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -503,6 +523,8 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

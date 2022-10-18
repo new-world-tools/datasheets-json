@@ -170,7 +170,7 @@
     {
         "FactionControlBuffID": "Pvp_Track_Exp_Modifier",
         "IsTerritoryBuff": false,
-        "Value": 0.05,
+        "Value": 0.1,
         "Name": "@ui_pvp_track_exp_modifier_name",
         "Description": "@ui_pvp_track_exp_modifier_desc",
         "Comments": "Percentage increase to experience gained in PvP Rewards track"

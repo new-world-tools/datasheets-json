@@ -86,5 +86,145 @@
     {
         "EffectName": "ENV_Dungeon_Ancient_Gate.Seal_break_large",
         "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "wFX_rune_ability_cannon_blast.muzzle_flash",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wFX_rune_ability_cannon_blast.DominatorExplosion",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_rune_ability_heretic.wing",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_rune_ability_heretic.hit",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_rune_ability_vines.vines",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Onslaught.Combo.Default.Impact",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Onslaught.DefenseBreak.Default.Impact_Align",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Defiance.Burst.Upgrades.Pull",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Defiance.Burst.Default.Neutral",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Defiance.Burst.Upgrades.Push",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Defiance.Counter.Default.End",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Fire.Combo.Impact",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Ice.Combo.impact",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Void.Combo.Impact",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Lightning.Combo.Impact",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Magic.Combo.Impact",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Nature.Combo.Impact",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Lightning.DefenseBreak.Impact_Align",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Ice.DefenseBreak.Impact_Align",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Void.DefenseBreak.Impact_Align",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Magic.DefenseBreak.Impact_Align",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Nature.DefenseBreak.Impact_Align",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Onslaught.DefenseBreak.Default.Impact_Align_upgrade",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Fire.DefenseBreak.Impact_Align_upgrade",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Ice.DefenseBreak.Impact_Align_upgrade",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Lightning.DefenseBreak.Impact_Align_upgrade",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Magic.DefenseBreak.Impact_Align_upgrade",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Nature.DefenseBreak.Impact_Align_upgrade",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Void.DefenseBreak.Impact_Align_upgrade",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Fire.Counter.End",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Ice.Counter.End",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Lightning.Counter.End",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Magic.Counter.End",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Nature.Counter.End",
+        "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "wfx_GreatSword.Gems.Void.Counter.End",
+        "PriorityOverride": "High"
     }
 ]

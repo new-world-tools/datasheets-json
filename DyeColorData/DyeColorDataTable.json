@@ -1294,5 +1294,41 @@
         "SpecColor": "#a363ad",
         "SpecAmount": 0.3,
         "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 173,
+        "Name": "Turquoise Oasis",
+        "Color": "#40e0d0",
+        "Category": "Cyan",
+        "IsEntitlement": 0,
+        "ColorAmount": 1,
+        "ColorOverride": 0.1,
+        "SpecColor": "#40e0d0",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 174,
+        "Name": "Cactus Sage",
+        "Color": "#90a58a",
+        "Category": "Green",
+        "IsEntitlement": 0,
+        "ColorAmount": 1,
+        "ColorOverride": 0.1,
+        "SpecColor": "#90a58a",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 175,
+        "Name": "Baked Red Clay",
+        "Color": "#c2452d",
+        "Category": "Red",
+        "IsEntitlement": 0,
+        "ColorAmount": 1,
+        "ColorOverride": 0.1,
+        "SpecColor": "#c2452d",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
     }
 ]

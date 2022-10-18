@@ -46,7 +46,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_HeavyStab",
@@ -95,7 +97,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Slash",
@@ -144,7 +148,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Sweep",
@@ -193,7 +199,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_SweepAdditive",
@@ -242,7 +250,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_SweepFinisher",
@@ -291,7 +301,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_DodgeStab",
@@ -340,7 +352,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_KneeLeap",
@@ -389,7 +403,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Kick",
@@ -438,7 +454,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_LightningSpear",
@@ -487,7 +505,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_SpinSpear",
@@ -536,7 +556,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_SpinBody",
@@ -585,7 +607,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_SpinIntro",
@@ -634,7 +658,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_LightningSpearPlantedSmall",
@@ -683,7 +709,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_LightningSpearPlantedBig",
@@ -732,7 +760,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_CallLightningStorm",
@@ -781,7 +811,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_CallLightningBurst",
@@ -830,7 +862,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Spawn",
@@ -879,7 +913,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Transition_P2",
@@ -928,7 +964,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Transition_P3",
@@ -977,7 +1015,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Tornado",
@@ -1026,7 +1066,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_GustingSlashProj",
@@ -1075,7 +1117,9 @@
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_GustingSlash",
@@ -1124,7 +1168,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_SpinGust",
@@ -1173,7 +1219,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -1222,7 +1270,9 @@
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -1271,6 +1321,8 @@
         "BlockAbsorptionModifier": 0,
         "StunBreakoutIncrement": 0,
         "StaminaDmg": 0,
-        "DamageGuildAndGroup": ""
+        "DamageGuildAndGroup": "",
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

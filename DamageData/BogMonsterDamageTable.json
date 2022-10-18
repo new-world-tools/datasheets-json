@@ -45,7 +45,9 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Claw_Overhead",
@@ -93,7 +95,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Claw_Combo_1",
@@ -141,7 +145,9 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Claw_Combo_2",
@@ -189,7 +195,9 @@
         "BlockStaminaDmgMod": 0.6,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Claw_Combo_3",
@@ -237,7 +245,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Slithering_Arm",
@@ -285,7 +295,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Bug_Swarm",
@@ -333,7 +345,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Boiling_Bog",
@@ -381,7 +395,9 @@
         "BlockStaminaDmgMod": 2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swamps_Revenge",
@@ -429,7 +445,9 @@
         "BlockStaminaDmgMod": 1.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swamps_Revenge_Splash",
@@ -477,7 +495,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Muddy_Roots",
@@ -525,7 +545,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Muddy_Roots_Wipe",
@@ -573,7 +595,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Muddy_Roots_KnockBack",
@@ -621,7 +645,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": true
+        "UseAttackerPosForReaction": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Adds_Wipe",
@@ -669,7 +695,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -717,6 +745,8 @@
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "UseAttackerPosForReaction": null
+        "UseAttackerPosForReaction": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

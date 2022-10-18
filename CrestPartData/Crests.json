@@ -3680,5 +3680,47 @@
         "Faction": "Any",
         "Notes": "",
         "Intent": ""
+    },
+    {
+        "Index": 267,
+        "OldIndex": 221,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_222",
+        "EntitlementId": "icon_crest_222",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_222_nightmares_crest_1.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "",
+        "Intent": ""
+    },
+    {
+        "Index": 268,
+        "OldIndex": 222,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_223",
+        "EntitlementId": "icon_crest_223",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_223_nightmares_crest_2.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "",
+        "Intent": ""
+    },
+    {
+        "Index": 269,
+        "OldIndex": 223,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_224",
+        "EntitlementId": "icon_crest_224",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_224_nightmares_crest_3.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "",
+        "Intent": ""
     }
 ]

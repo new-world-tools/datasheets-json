@@ -47,7 +47,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Melee_Primary",
@@ -97,7 +99,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Melee_Heavy",
@@ -147,7 +151,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_GreatAxe_Melee_Light",
@@ -197,7 +203,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_GreatAxe_Melee_Medium",
@@ -247,7 +255,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_GreatAxe_Melee_Heavy",
@@ -297,7 +307,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Shield_Bash",
@@ -347,7 +359,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "UndeadVillager_1H_Melee_Primary",
@@ -397,7 +411,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_Melee_Primary",
@@ -447,7 +463,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_Melee_Spear",
@@ -497,7 +515,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_Melee_Spear_Heavy",
@@ -547,7 +567,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "UndeadVillager_2H_Melee_Primary",
@@ -597,7 +619,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Unarmed_Kick",
@@ -647,7 +671,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Melee_Alternate",
@@ -697,7 +723,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_Melee_Alternate",
@@ -747,7 +775,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_Melee_Heavy",
@@ -797,7 +827,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.99,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Sword_Attack1",
@@ -847,7 +879,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_Ranged_Musket",
@@ -897,7 +931,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_Ranged_Melee_Knockdown",
@@ -947,7 +983,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_Ranged_Bow",
@@ -997,7 +1035,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Ranged_Pistol_Aimed_Shot",
@@ -1047,7 +1087,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Ranged_Pistol_Hip_Shot",
@@ -1097,7 +1139,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Spell_Fireball",
@@ -1147,7 +1191,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Spell_GroundWave",
@@ -1197,7 +1243,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Spell_AOE",
@@ -1247,7 +1295,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "UndeadDeflect_Default",
@@ -1297,7 +1347,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Fireball_Spell",
@@ -1347,7 +1399,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GroundWave_Spell",
@@ -1397,7 +1451,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Ranged_AOE_Spell",
@@ -1447,7 +1503,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_BlastAway_Spell",
@@ -1497,7 +1555,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.55,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Close_Staff_Attack",
@@ -1547,7 +1607,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Close_Overhead_Staff_Attack",
@@ -1597,7 +1659,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Fall",
@@ -1647,7 +1711,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Ranged_Pistol_Hip_BreakGuard",
@@ -1697,7 +1763,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 3,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Sword_Attack360_1",
@@ -1747,7 +1815,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Sword_Attack360_2",
@@ -1797,7 +1867,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Unarmed_Hook_Swing",
@@ -1847,7 +1919,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Unarmed_Hook_Uppercut",
@@ -1897,7 +1971,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Flying_Attack",
@@ -1947,7 +2023,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_1H_Sword_BreakGuard",
@@ -1997,7 +2075,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Dash_Melee",
@@ -2047,7 +2127,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Blade_Single",
@@ -2097,7 +2179,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Blade_Combo_Straight",
@@ -2147,7 +2231,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Blade_LR_Combo",
@@ -2197,7 +2283,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.3,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Blade_LR",
@@ -2247,7 +2335,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Breakout_Dash",
@@ -2297,7 +2387,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Breakout_Slash",
@@ -2347,7 +2439,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Spell_GRIT",
@@ -2397,7 +2491,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Pistol_Hip_Shot",
@@ -2447,7 +2543,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Pistol_Rapid_Fire",
@@ -2497,7 +2595,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Bow_Normal",
@@ -2547,7 +2647,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Bow_Special",
@@ -2597,7 +2699,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_SpitFire",
@@ -2647,7 +2751,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Torch_Swing",
@@ -2697,7 +2803,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Swing_Breakout",
@@ -2747,7 +2855,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Bow_Breakout",
@@ -2797,7 +2907,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Bow_Special_Explosion",
@@ -2847,7 +2959,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Hunter_Swing_Single",
@@ -2897,7 +3011,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_Swing",
@@ -2947,7 +3063,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_Charge",
@@ -2997,7 +3115,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_Stab",
@@ -3047,7 +3167,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_2H_GraveDigger_Melee_Heavy",
@@ -3097,7 +3219,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_Syphon",
@@ -3147,7 +3271,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Drowned_Miner_Bomb",
@@ -3197,7 +3323,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Drowned_Miner_Bomb_Explosion",
@@ -3247,7 +3375,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Drowned_Miner_Breakout",
@@ -3297,7 +3427,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Drowned_Miner_Breakout_Explosion",
@@ -3347,7 +3479,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Drowned_Miner_Breakout_Explosion_Self",
@@ -3397,7 +3531,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Pistoleer_Pistol_Whip",
@@ -3447,7 +3583,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.33,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Reaction_Breakout",
@@ -3497,7 +3635,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -3547,6 +3687,8 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

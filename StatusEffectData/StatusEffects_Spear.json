@@ -238,7 +238,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.65,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Spear_Skewer_Bleed_Upgrade",
@@ -479,7 +482,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.65,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Spear_Skewer_EmpowerOnCrit",
@@ -720,7 +726,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_Perforate_Rend",
@@ -961,7 +970,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_Perforate_Rend_Upgrade",
@@ -1202,7 +1214,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_Cyclone_Slow",
@@ -1443,7 +1458,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_Cyclone_BonusStaminaOnMultiHit",
@@ -1684,7 +1702,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_VaultKick_Stun",
@@ -1925,7 +1946,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_VaultKick_EmpowerVsLowHP",
@@ -2166,7 +2190,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_BonusStaminaOnCrit",
@@ -2407,7 +2434,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_BonusDmgAfterDodge",
@@ -2648,7 +2678,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_ReducedDodgeStamCost",
@@ -2889,7 +2922,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_FortifyOnHvyHit",
@@ -3130,7 +3166,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_BonusStamRegenOnLowStam",
@@ -3371,7 +3410,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_SlowOnLightVsLowHP",
@@ -3612,7 +3654,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Spear_CDROnHitAfterDodge",
@@ -3853,6 +3898,9 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     }
 ]

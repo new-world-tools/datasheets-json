@@ -239,7 +239,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_Incinerate_Stun5s",
@@ -481,7 +485,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_FlameThrower",
@@ -723,7 +731,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_DoT_Upgrade_Slow",
@@ -965,7 +977,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_ScorchedEarth_DOT",
@@ -1207,7 +1223,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.26,
+        "SourceRuneChargeOnHealthChangeOnly": true,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_Burnout_DOT",
@@ -1449,7 +1469,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_Burnout_DMG_DOT",
@@ -1691,7 +1715,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_FireRes_Aura_Passive",
@@ -1933,7 +1961,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_Damaging_Aura_Passive",
@@ -2175,7 +2207,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.43,
+        "SourceRuneChargeOnHealthChangeOnly": true,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "TrialByFireTimer",
@@ -2417,7 +2453,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_FireDMG_Aura_Passive",
@@ -2659,7 +2699,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_LowHealth_FireDmgBonus",
@@ -2901,7 +2945,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Elemental_Fire_AoE",
@@ -3143,7 +3191,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Elemental_CC_Slow",
@@ -3385,7 +3437,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Elemental_CC_Silenced",
@@ -3627,7 +3683,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Elemental_CC_Weakness",
@@ -3869,7 +3929,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "FireStaff_Pyro_DOT",
@@ -4111,7 +4175,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.065,
+        "SourceRuneChargeOnHealthChangeOnly": true,
+        "ApplicationCooldown": 0.5
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_FortOnBurn",
@@ -4353,7 +4421,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": 1
     },
     {
         "StatusID": "Status_Passive_Firestaff_FireMage_DmgFullMana",
@@ -4595,7 +4667,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_FireMage_DmgNoDmg_Timer",
@@ -4808,14 +4884,14 @@
         "AFACurse": "",
         "AFABlight": "",
         "StackDuration": null,
-        "DurationMax": 1,
+        "DurationMax": 3,
         "InheritDuration": "",
         "InheritTotalDuration": "",
-        "RefreshDuration": "",
+        "RefreshDuration": "TRUE",
         "StackMax": 1,
         "InitialStackSize": "",
         "RemoveUnappliedStacks": "1",
-        "PotencyMax": null,
+        "PotencyMax": 1,
         "DontReplaceStack": "",
         "MoveSpeedMod": null,
         "SprintSpeedMod": null,
@@ -4837,7 +4913,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_FireMage_DmgNoDmg",
@@ -5079,7 +5159,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Haste",
@@ -5173,7 +5257,7 @@
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
         "RemoveOnGameModeExit": "",
-        "IgnoreDiminishingReturns": null,
+        "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
         "Afflictions": "",
         "OnHitAffixes": "",
@@ -5321,7 +5405,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Haste_Timer",
@@ -5563,7 +5651,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Ultimate_Timer",
@@ -5805,7 +5897,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Ultimate",
@@ -6047,7 +6143,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Ultimate_Removal_Tick",
@@ -6289,7 +6389,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Ultimate_Removal",
@@ -6531,7 +6635,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Ultimate_Firemage",
@@ -6773,7 +6881,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Ultimate_Firemage_DMG",
@@ -7015,7 +7127,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Ultimate_Firemage_Timer",
@@ -7257,7 +7373,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_BurnNearby",
@@ -7499,7 +7619,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.43,
+        "SourceRuneChargeOnHealthChangeOnly": true,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_FireStaff_ScorchedEarth_DOT",
@@ -7741,7 +7865,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.26,
+        "SourceRuneChargeOnHealthChangeOnly": true,
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_FireStaff_MeteorShower_Damage",
@@ -7983,7 +8111,11 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.325,
+        "SourceRuneChargeOnHealthChangeOnly": true,
+        "ApplicationCooldown": 0.5
     },
     {
         "StatusID": "Status_FireStaff_MeteorShower_DamageUpgrade",
@@ -8225,6 +8357,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.325,
+        "SourceRuneChargeOnHealthChangeOnly": true,
+        "ApplicationCooldown": 0.5
     }
 ]

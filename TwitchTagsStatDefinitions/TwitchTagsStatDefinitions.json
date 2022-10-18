@@ -198,6 +198,12 @@
         "DisplayName": "Zone: Great Cleave"
     },
     {
+        "TwitchTagId": "Twitch_Tag_Zone_Brimstone_Sands",
+        "TagGroupId": 4,
+        "KeyValuePair": "Zone:BrimstoneSands",
+        "DisplayName": "Zone: Brimstone Sands"
+    },
+    {
         "TwitchTagId": "Twitch_Tag_Level_Range_None",
         "TagGroupId": 5,
         "KeyValuePair": "LevelRange:None",

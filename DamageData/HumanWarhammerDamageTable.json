@@ -39,9 +39,11 @@
         "StaggerResistModifier": 0,
         "TargetCameraShakeID": "Small",
         "ImpactRating": 2,
-        "BlockStaminaDmgMod": 0.4,
+        "BlockStaminaDmgMod": 0.25,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Mighty_Gavel",
@@ -57,15 +59,15 @@
         "EffectOnlyOnDamage": null,
         "DeflectDamageID": "Deflect_Default",
         "CanCrit": false,
-        "DmgCoef": 0.6,
+        "DmgCoef": 0.5,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 2,
-        "BlockPowerLevel": 2,
-        "CritPowerLevel": 2,
-        "HitStun": 25,
-        "BlockHitStun": 20,
-        "CritHitStun": 25,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 1,
+        "CritPowerLevel": 0,
+        "HitStun": 10,
+        "BlockHitStun": 5,
+        "CritHitStun": 10,
         "ImpactDistanceX": 0,
         "ImpactDistanceY": 2.5,
         "ImpactDistanceZ": 0,
@@ -85,7 +87,9 @@
         "ImpactRating": 2,
         "BlockStaminaDmgMod": 1.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Clearout",
@@ -127,9 +131,11 @@
         "StaggerResistModifier": 0,
         "TargetCameraShakeID": "Small",
         "ImpactRating": 2,
-        "BlockStaminaDmgMod": 2,
+        "BlockStaminaDmgMod": 0.25,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Shockwave",
@@ -171,9 +177,11 @@
         "StaggerResistModifier": 0,
         "TargetCameraShakeID": "Small",
         "ImpactRating": 4,
-        "BlockStaminaDmgMod": 1,
+        "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -217,7 +225,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -261,7 +271,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -305,6 +317,8 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

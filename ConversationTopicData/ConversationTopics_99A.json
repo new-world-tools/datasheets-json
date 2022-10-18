@@ -1,0 +1,83 @@
+[
+    {
+        "ConversationTopicId": "GuardCaptain_TaskTopic_DeliverPotions",
+        "PlayerPrompt": "@04A_Side08_03_DeliverPotions_TalkTo_Franc_prompt",
+        "NPCResponse": "@04A_Side08_03_DeliverPotions_TalkTo_Franc_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "GuardCaptain_TaskTopic_PlayForTown",
+        "PlayerPrompt": "@GuardCaptain_TaskTopic_PlayForTown_Prompt",
+        "NPCResponse": "@GuardCaptain_TaskTopic_PlayForTown_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Captain_TaskTopic_RumorsMSQ",
+        "PlayerPrompt": "@99A_MSQ_02_02d_Captain_Prompt",
+        "NPCResponse": "@99A_MSQ_02_02d_Captain_Response",
+        "AchievementUnlock": "99A_Faction_Vector_Enable",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Captain_TaskTopic_AskAboutAdiana",
+        "PlayerPrompt": "@99A_MSQ_04_02d_Captain_Prompt",
+        "NPCResponse": "@99A_MSQ_04_02d_Captain_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Grace_TaskTopic_AskAboutAdiana",
+        "PlayerPrompt": "@99A_MSQ_04_02c_Grace_Prompt",
+        "NPCResponse": "@99A_MSQ_04_02c_Grace_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Grace_TaskTopic_ReturnStaff",
+        "PlayerPrompt": "@99A_MSQ_12_02b_Grace_ReturnStaff_Prompt",
+        "NPCResponse": "@99A_MSQ_12_02b_Grace_ReturnStaff_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Yonas_TaskTopic_BearCave",
+        "PlayerPrompt": "@99A_MSQ_01_01E_Yonas_Prompt",
+        "NPCResponse": "@99A_MSQ_01_01E_Yonas_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Yonas_TaskTopic_ToAlioth",
+        "PlayerPrompt": "@99A_MSQ_01_04_Yonas_Prompt",
+        "NPCResponse": "@99A_MSQ_01_04_Yonas_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Yonas_TaskTopic_AmrineSkip",
+        "PlayerPrompt": "@9901_0021_AmrineSkip_Prompt",
+        "NPCResponse": "@9901_0021_AmrineSkip_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

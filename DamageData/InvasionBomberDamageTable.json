@@ -44,7 +44,9 @@
         "TargetCameraShakeID": "",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Self_Destruct_Hit_Self",
@@ -91,6 +93,8 @@
         "TargetCameraShakeID": "",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

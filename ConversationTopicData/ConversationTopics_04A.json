@@ -1,0 +1,191 @@
+[
+    {
+        "ConversationTopicId": "0402a_Magistrate_TaskTopic_ChooseInstrument",
+        "PlayerPrompt": "@0402a_Magistrate_TaskTopic_ChooseInstrument_Prompt",
+        "NPCResponse": "@0402a_Magistrate_TaskTopic_ChooseInstrument_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0402a_Magistrate_TaskTopic_PlayForTown",
+        "PlayerPrompt": "@0402a_Magistrate_TaskTopic_PlayForTown_Prompt",
+        "NPCResponse": "@0402a_Magistrate_TaskTopic_PlayForTown_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0403a_Huntsman_TaskTopic_DeliverPotions",
+        "PlayerPrompt": "@04A_Side08_03_DeliverPotions_TalkTo_Odnell_prompt",
+        "NPCResponse": "@04A_Side08_03_DeliverPotions_TalkTo_Odnell_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0404a_Constable_TaskTopic_ChooseInstrument",
+        "PlayerPrompt": "@0404a_Constable_TaskTopic_ChooseInstrument_Prompt",
+        "NPCResponse": "@0404a_Constable_TaskTopic_ChooseInstrument_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0404a_Constable_TaskTopic_PlayForTown",
+        "PlayerPrompt": "@0404a_Constable_TaskTopic_PlayForTown_Prompt",
+        "NPCResponse": "@0404a_Constable_TaskTopic_PlayForTown_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0440a_00_AtticusDelphi_TaskTopic_DeliverPotions",
+        "PlayerPrompt": "@04A_Side08_03_DeliverPotions_TalkTo_Atticus_prompt",
+        "NPCResponse": "@04A_Side08_03_DeliverPotions_TalkTo_Atticus_next",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0410_Barkeep_TaskTopic_PlayForTown",
+        "PlayerPrompt": "@0410_Barkeep_TaskTopic_PlayForTown_Prompt",
+        "NPCResponse": "@0410_Barkeep_TaskTopic_PlayForTown_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0410a_Barkeep_TaskTopic_SaveBar",
+        "PlayerPrompt": "@0410a_Barkeep_TaskTopic_SaveBar_prompt",
+        "NPCResponse": "@0410a_Barkeep_TaskTopic_SaveBar_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0441a_SairaYangandul_TaskTopic_EarnAudience",
+        "PlayerPrompt": "@0441a_SairaYangandul_TaskTopic_EarnAudience_Prompt",
+        "NPCResponse": "@0441a_SairaYangandul_TaskTopic_EarnAudience_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0441a_SairaYangandul_TaskTopic_EarnAudience_02",
+        "PlayerPrompt": "@0441a_SairaYangandul_TaskTopic_EarnAudience_02_Prompt",
+        "NPCResponse": "@0441a_SairaYangandul_TaskTopic_EarnAudience_02_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0442a_ConcettaSacco_TaskTopic_EarnPatron",
+        "PlayerPrompt": "@0442a_ConcettaSacco_TaskTopic_EarnPatron_Prompt",
+        "NPCResponse": "@0442a_ConcettaSacco_TaskTopic_EarnPatron_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0442a_ConcettaSacco_TaskTopic_EarnPatron_02",
+        "PlayerPrompt": "@0442a_ConcettaSacco_TaskTopic_EarnPatron_02_Prompt",
+        "NPCResponse": "@0442a_ConcettaSacco_TaskTopic_EarnPatron_02_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0432a_OuShen_TaskTopic_EarnPatron",
+        "PlayerPrompt": "@0443a_OuShen_TaskTopic_EarnPatron_Prompt",
+        "NPCResponse": "@0443a_OuShen_TaskTopic_EarnPatron_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0432a_OuShen_TaskTopic_EarnPatron_02",
+        "PlayerPrompt": "@0443a_OuShen_TaskTopic_EarnPatron_02_Prompt",
+        "NPCResponse": "@0443a_OuShen_TaskTopic_EarnPatron_02_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0402a_Magistrate_TaskTopic_ReturnStaff",
+        "PlayerPrompt": "@99A_MSQ_12_02a_Magistrate_ReturnStaff_Prompt",
+        "NPCResponse": "@99A_MSQ_12_02a_Magistrate_ReturnStaff_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0403a_Huntsman_TaskTopic_AskAboutAdiana",
+        "PlayerPrompt": "@99A_MSQ_04_2a_Huntsman_Prompt",
+        "NPCResponse": "@99A_MSQ_04_2a_Huntsman_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0404a_Constable_TaskTopic_ReturnStaff",
+        "PlayerPrompt": "@99A_MSQ_12_02c_Constable_ReturnStaff_Prompt",
+        "NPCResponse": "@99A_MSQ_12_02c_Constable_ReturnStaff_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0405a_Artificer_TaskTopic_AskAboutAdiana",
+        "PlayerPrompt": "@99A_MSQ_04_2b_Artificer_Prompt",
+        "NPCResponse": "@99A_MSQ_04_2b_Artificer_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0440a_Atticus_TaskTopic_RumorsMSQ",
+        "PlayerPrompt": "@99A_MSQ_02_02c_Atticus_Prompt",
+        "NPCResponse": "@99A_MSQ_02_02c_Atticus_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0441a_Saira_TaskTopic_RumorsMSQ",
+        "PlayerPrompt": "@99A_MSQ_02_02b_Saira_Prompt",
+        "NPCResponse": "@99A_MSQ_02_02b_Saira_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0450a_TownGuard_TaskTopic_RumorsMSQ",
+        "PlayerPrompt": "@99A_MSQ_02_02a_TownGuard_Prompt",
+        "NPCResponse": "@99A_MSQ_02_02a_TownGuard_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

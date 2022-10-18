@@ -2,13 +2,19 @@
     {
         "VariantID": "CrownChamber_Test",
         "InteractTag": "IO_0601_DirtHoleB",
-        "RequiredAchievementId": "",
+        "RequiredAchievementConditional": "",
         "InteractGatherableSlice": "slices\\WorldEvents\\MonarchsBluffs\\CrownChamberDoor\\IO_LightsHope_CrownChamberDoor.dynamicslice"
     },
     {
-        "VariantID": "CrownChamber_Test_Achievement",
+        "VariantID": "CrownChamber_LightsHope",
         "InteractTag": "",
-        "RequiredAchievementId": "12A_MB_Daggers_Complete",
-        "InteractGatherableSlice": "slices\\WorldEvents\\MonarchsBluffs\\CrownChamberDoor\\IO_LightsHope_CrownChamberDoor.dynamicslice"
+        "RequiredAchievementConditional": "12A_MB_Daggers_Complete",
+        "InteractGatherableSlice": "slices\\WorldEvents\\MonarchsBluffs\\CrownChamberDoor\\IO_LightsHope_CrownChamberDoor.slice"
+    },
+    {
+        "VariantID": "CrownChamber_Gawains",
+        "InteractTag": "",
+        "RequiredAchievementConditional": "12A_GawainDoor_Active",
+        "InteractGatherableSlice": "slices\\WorldEvents\\MonarchsBluffs\\CrownChamberDoor\\IO_CorbenicCastle_CrownChamberDoor_Active.slice"
     }
 ]

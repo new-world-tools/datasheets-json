@@ -43,7 +43,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Blade_LR",
@@ -62,14 +64,14 @@
         "DmgCoef": 0.5,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 1,
-        "BlockPowerLevel": 1,
-        "CritPowerLevel": 1,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
         "HitStun": 15,
         "BlockHitStun": 15,
         "CritHitStun": 15,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 1,
+        "ImpactDistanceY": 0.7,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
@@ -89,7 +91,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0.5
+        "StunBreakoutIncrement": 0.5,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Blade_LR_Combo",
@@ -108,14 +112,14 @@
         "DmgCoef": 0.6,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 3,
-        "BlockPowerLevel": 3,
-        "CritPowerLevel": 3,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
         "HitStun": 30,
         "BlockHitStun": 30,
         "CritHitStun": 30,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 2.5,
+        "ImpactDistanceY": 1.25,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
@@ -135,7 +139,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.3,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0.5
+        "StunBreakoutIncrement": 0.5,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Blade_Combo_Straight",
@@ -154,9 +160,9 @@
         "DmgCoef": 0.2,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 1,
-        "BlockPowerLevel": 1,
-        "CritPowerLevel": 1,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
         "HitStun": 10,
         "BlockHitStun": 15,
         "CritHitStun": 10,
@@ -181,7 +187,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0.5
+        "StunBreakoutIncrement": 0.5,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Pistol_Rapid_Fire",
@@ -227,7 +235,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Pistol_Hip_Shot",
@@ -273,7 +283,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Spell_GRIT",
@@ -319,7 +331,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Breakout_Dash",
@@ -365,7 +379,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Navigator_Breakout_Slash",
@@ -411,7 +427,9 @@
         "ImpactRating": 4,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Reaction_Breakout",
@@ -457,7 +475,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -503,6 +523,8 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

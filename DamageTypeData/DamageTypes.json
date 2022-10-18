@@ -180,5 +180,31 @@
         "DamageBonusAgainst": "NONE",
         "DamageBonusFrac": 0,
         "UseAllDamageModifiers": "TRUE"
+    },
+    {
+        "TypeID": "Acid",
+        "IntID": 15,
+        "DisplayName": "@Acid_DamageName",
+        "Category": "True",
+        "Affliction": "",
+        "AfflictionFrac": 0,
+        "DefenseBonusFrac": 0,
+        "MitigationBonusFrac": 0,
+        "DamageBonusAgainst": "NONE",
+        "DamageBonusFrac": 0,
+        "UseAllDamageModifiers": "TRUE"
+    },
+    {
+        "TypeID": "Brimstone",
+        "IntID": 16,
+        "DisplayName": "@True_DamageName",
+        "Category": "True",
+        "Affliction": "",
+        "AfflictionFrac": 0,
+        "DefenseBonusFrac": 0,
+        "MitigationBonusFrac": 0,
+        "DamageBonusAgainst": "NONE",
+        "DamageBonusFrac": 0,
+        "UseAllDamageModifiers": ""
     }
 ]

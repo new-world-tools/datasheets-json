@@ -240,7 +240,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": 0.086,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "IceMagic_IceStorm_Damage",
@@ -483,7 +486,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": 0.086,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "IceMagic_IceStorm_UT",
@@ -726,7 +732,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": 0.086,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "IceMagic_IceStorm_UT_Damage",
@@ -969,7 +978,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": 0.086,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "IceMagic_IceStorm_UT_Duration",
@@ -1212,7 +1224,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": 0.086,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "IceMagic_Frostbite",
@@ -1455,7 +1470,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": true,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": 1.3,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Frostbite_Rend",
@@ -1698,7 +1716,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": true,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": 1.3,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Frostbite_Dur3",
@@ -1941,7 +1962,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Frostbite_Dur3_Rend",
@@ -2184,7 +2208,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Frostbite_Rend_DeadlyFrost",
@@ -2427,7 +2454,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": true,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": 1.3,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Frostbite_Dur3_Rend_DeadlyFrost",
@@ -2670,7 +2700,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Frostbite_DeadlyFrost",
@@ -2913,7 +2946,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": 1.3,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Frostbite_DeadlyFrost_Dur3",
@@ -3156,7 +3192,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_QuickShower",
@@ -3399,7 +3438,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_QuickShower_Dur2",
@@ -3642,7 +3684,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Frost",
@@ -3885,7 +3930,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Freeze",
@@ -4128,7 +4176,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Freeze_Cooldown",
@@ -4371,7 +4422,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_UltimateChill_Cast",
@@ -4614,7 +4668,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_UltimateChill",
@@ -4805,7 +4862,7 @@
         "WKNThrust": null,
         "WKNArcane": null,
         "WKNFire": null,
-        "WKNIce": 0.25,
+        "WKNIce": null,
         "WKNNature": null,
         "WKNLightning": null,
         "WKNCorruption": null,
@@ -4857,7 +4914,256 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
+    },
+    {
+        "StatusID": "IceMagic_UltimateChill_Self",
+        "DisplayName": "",
+        "Description": "",
+        "EffectCategories": "",
+        "PlaceholderIcon": "",
+        "ShowInUITray": false,
+        "ShowTextInDamageNumbers": false,
+        "FxScriptOn": "",
+        "FxScriptOff": "",
+        "ShouldRefreshFxScript": "",
+        "WeaponEffectType": "",
+        "Notification": "",
+        "DisableTelemetry": "",
+        "IsClientPredicted": "",
+        "UseLightweightReplication": null,
+        "PotencyPerLevel": "",
+        "ApplicationCooldown": 1,
+        "BaseDuration": 3,
+        "TickRate": 1,
+        "DelayInitialTick": null,
+        "TickCondition": "",
+        "OnTickStatusEffect": "",
+        "KeepOnTickEffectOnEnd": null,
+        "StopOnHitCount": 0,
+        "HitCondition": "",
+        "RequireReaction": "",
+        "OnStackStatusEffect": "",
+        "AddOnStackSize": "",
+        "AddOnStackSizeComparison": "",
+        "HealThreatMultiplier": "",
+        "ScaleAmountOverTime": "",
+        "ScaleAmountOverTimeMin": "",
+        "ScaleAmountOverTimeMax": "",
+        "DamageSkipsDeathsDoor": "",
+        "Health": 0,
+        "HealthMin": "",
+        "HealthModifierPercent": 0,
+        "HealthModifierBasePercent": null,
+        "HealthModifierDamageBased": null,
+        "UseHealScalingValue": "",
+        "HealScalingValueMultiplier": "",
+        "StaminaDamageModifier": "",
+        "ManaModifierDamageBased": "",
+        "DamageType": "",
+        "CritChanceModifier": "",
+        "CritDamageModifier": "",
+        "OnEndStatusEffect": "",
+        "CastSpell": "",
+        "TargetOwnsSpell": "",
+        "UseSourceWeaponForSpell": "",
+        "FromAlchemy": 0,
+        "FromSpell": 0,
+        "NoHealthRegen": 0,
+        "HealMod": 0,
+        "MaxHealthMod": 0,
+        "HealthRate": 0,
+        "CoreTempMod": 0,
+        "TempMod": 0,
+        "Stamina": 0,
+        "StaminaRate": 0,
+        "Mana": 0,
+        "ManaRate": 0,
+        "Food": 0,
+        "FoodBurn": 0,
+        "Drink": 0,
+        "DrinkBurn": 0,
+        "Encumbrance": 0,
+        "ItemClassWeightMods": "",
+        "XPIncreases": "",
+        "AzothMod": "",
+        "FactionReputationMod": "",
+        "FactionTokensMod": "",
+        "EXPLogging": "",
+        "EXPMining": "",
+        "EXPHarvesting": "",
+        "EXPSkinning": "",
+        "EXPSmelting": "",
+        "EXPWoodworking": "",
+        "EXPLeatherworking": "",
+        "EXPWeaving": "",
+        "EXPStonecutting": "",
+        "GrantSanctuary": 0,
+        "NoSprint": 0,
+        "NoRun": 0,
+        "NoDodge": 0,
+        "NoNav": 0,
+        "Silenced": 0,
+        "Stunned": 0,
+        "RemoveOnDeath": 1,
+        "RemoveOnDeathsDoor": 1,
+        "RemoveOnRespawn": "",
+        "RemoveOnGameModeExit": "",
+        "IgnoreDiminishingReturns": true,
+        "OnlyChangeOwnedStatusEffects": "",
+        "Afflictions": "",
+        "OnHitAffixes": "",
+        "EquipAbility": "",
+        "UseSourceWeaponForAbilityEffect": "",
+        "IsNegative": true,
+        "RespecTradeskills": "",
+        "RespecAttributes": "",
+        "EffectDurationMods": "",
+        "EffectPotencyMods": "",
+        "RemoveStatusEffects": "",
+        "RemoveStatusEffectCategories": "",
+        "GlobalRollMod": "",
+        "FishingLineStrength": "",
+        "FishSizeRollModifier": "",
+        "MODConstitution": "",
+        "MODFocus": "",
+        "MODStrength": "",
+        "MODDexterity": "",
+        "MODIntelligence": "",
+        "MGSArcana": "",
+        "MGSWeaponsmithing": "",
+        "MGSJewelcrafting": "",
+        "MGSEngineering": "",
+        "MGSArmoring": "",
+        "MaxGSArcana": "",
+        "MaxGSWeaponsmithing": "",
+        "MaxGSJewelcrafting": "",
+        "MaxGSEngineering": "",
+        "MaxGSArmoring": "",
+        "ROLCooking": "",
+        "ROLWeaving": "",
+        "ROLStonecutting": "",
+        "ROLSmelting": "",
+        "ROLLeatherworking": "",
+        "ROLWoodworking": "",
+        "ROLLogging": "",
+        "ROLMining": "",
+        "ROLSkinning": "",
+        "ROLHarvesting": "",
+        "ROLFishing": "",
+        "MULTLogging": "",
+        "MULTMining": "",
+        "MULTSkinning": "",
+        "MULTHarvesting": "",
+        "MULTFishing": "",
+        "EFFLogging": "",
+        "EFFMining": "",
+        "EFFSkinning": "",
+        "EFFHarvesting": "",
+        "INSLogging": "",
+        "INSMining": "",
+        "INSSkinning": "",
+        "INSHarvesting": "",
+        "ABSStandard": null,
+        "ABSSiege": null,
+        "ABSStrike": null,
+        "ABSSlash": null,
+        "ABSThrust": null,
+        "ABSArcane": null,
+        "ABSFire": null,
+        "ABSIce": null,
+        "ABSNature": null,
+        "ABSLightning": null,
+        "ABSCorruption": null,
+        "ABSVitalsCategory": null,
+        "RESPoison": null,
+        "RESDisease": null,
+        "RESBleed": null,
+        "RESFrostbite": null,
+        "RESCurse": null,
+        "RESBlight": null,
+        "BLAStandard": "",
+        "BLASiege": "",
+        "BLAStrike": "",
+        "BLASlash": "",
+        "BLAThrust": "",
+        "BLAArcane": "",
+        "BLAFire": "",
+        "BLAIce": "",
+        "BLALightning": "",
+        "BLACorruption": "",
+        "ABAPoison": "",
+        "ABADisease": "",
+        "ABABleed": "",
+        "ABAFrostbite": "",
+        "ABACurse": "",
+        "ABABlight": "",
+        "WKNStandard": null,
+        "WKNSiege": null,
+        "WKNStrike": null,
+        "WKNSlash": null,
+        "WKNThrust": null,
+        "WKNArcane": null,
+        "WKNFire": null,
+        "WKNIce": null,
+        "WKNNature": null,
+        "WKNLightning": null,
+        "WKNCorruption": null,
+        "DMGStandard": "",
+        "DMGSiege": "",
+        "DMGStrike": "",
+        "DMGSlash": "",
+        "DMGThrust": "",
+        "DMGArcane": "",
+        "DMGFire": "",
+        "DMGIce": "",
+        "DMGNature": "",
+        "DMGLightning": "",
+        "DMGCorruption": "",
+        "DMGVitalsCategory": "",
+        "AFAPoison": "",
+        "AFADisease": "",
+        "AFABleed": "",
+        "AFAFrostbite": "",
+        "AFACurse": "",
+        "AFABlight": "",
+        "StackDuration": 1,
+        "DurationMax": 3,
+        "InheritDuration": "",
+        "InheritTotalDuration": "",
+        "RefreshDuration": false,
+        "StackMax": 1,
+        "InitialStackSize": "",
+        "RemoveUnappliedStacks": "TRUE",
+        "PotencyMax": 1,
+        "DontReplaceStack": null,
+        "MoveSpeedMod": null,
+        "SprintSpeedMod": null,
+        "FastTravelEncumbranceMod": "",
+        "GameEventId": "",
+        "HealRewardGameEventId": "",
+        "HealRewardThreshold": "",
+        "WeaponMasteryCategoryId": "",
+        "UIPriority": 2,
+        "UiNameplatePriority": 2,
+        "ShowInNameplates": false,
+        "ShowTextInNameplates": "",
+        "OverrideOtherNameplateText": "",
+        "HidesOtherStatusEffectIcons": "",
+        "DynamicModelScaleFactor": "",
+        "DynamicModelScaleRampTimeSecs": "",
+        "SpawnSlice": "",
+        "DisableSupportContributionRewards": "",
+        "BlockMultipleEffectsFromSameSource": "",
+        "AllowSelfOnlyAsSourceForAbilities": "",
+        "IgnoreInvulnerable": null,
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Entombed",
@@ -5100,7 +5406,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_Entombed_Cleanse",
@@ -5343,7 +5652,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_StrengthenedTomb",
@@ -5586,7 +5898,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_IceStorm_Weaken",
@@ -5829,7 +6144,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_IceShower_Freeze_Cooldown",
@@ -6072,7 +6390,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_IceShower_Freeze",
@@ -6315,7 +6636,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_WindChill_Shatter",
@@ -6558,7 +6882,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_BlockingStamina",
@@ -6801,7 +7128,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_QuickFrost",
@@ -7044,7 +7374,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_QuickFrostUltimate",
@@ -7287,7 +7620,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_EmpoweredFrost",
@@ -7530,7 +7866,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_EmpoweredFrostUltimate",
@@ -7773,7 +8112,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_FrozenTouch",
@@ -7792,7 +8134,7 @@
         "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
-        "ApplicationCooldown": null,
+        "ApplicationCooldown": 1,
         "BaseDuration": 2,
         "TickRate": 1,
         "DelayInitialTick": null,
@@ -8016,7 +8358,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_DefiantFreeze",
@@ -8259,7 +8604,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_UnbrokenWindsPerk",
@@ -8502,7 +8850,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_HealingTombPerk",
@@ -8745,7 +9096,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_PylonHitCheck",
@@ -8988,7 +9342,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_PylonRefresh",
@@ -9231,7 +9588,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "IceMagic_PylonCooldownSafety",
@@ -9474,6 +9834,9 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": null,
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": null,
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     }
 ]

@@ -41,7 +41,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_Slash_L_Frenzy",
@@ -85,7 +87,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_Slash_L_R",
@@ -129,7 +133,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_Slash_L_R_Frenzy",
@@ -173,7 +179,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.15,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_TurnAround_Overhead",
@@ -189,17 +197,17 @@
         "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
-        "DmgCoef": 1,
+        "DmgCoef": 0.3,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 3,
-        "BlockPowerLevel": 3,
-        "CritPowerLevel": 3,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
         "HitStun": 35,
         "BlockHitStun": 30,
         "CritHitStun": 35,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 1.8,
+        "ImpactDistanceY": 1.2,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -217,7 +225,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_TurnAround_Slash",
@@ -233,17 +243,17 @@
         "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
-        "DmgCoef": 1,
+        "DmgCoef": 0.3,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 4,
-        "BlockPowerLevel": 4,
-        "CritPowerLevel": 4,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
         "HitStun": 35,
         "BlockHitStun": 30,
         "CritHitStun": 35,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 3,
+        "ImpactDistanceY": 1.2,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -261,7 +271,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_TurnAround_Slash_Frenzy",
@@ -277,17 +289,17 @@
         "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
-        "DmgCoef": 1,
+        "DmgCoef": 0.3,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 4,
-        "BlockPowerLevel": 4,
-        "CritPowerLevel": 4,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
         "HitStun": 35,
         "BlockHitStun": 30,
         "CritHitStun": 35,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 3,
+        "ImpactDistanceY": 1.2,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -305,7 +317,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_Overhead",
@@ -321,17 +335,17 @@
         "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
-        "DmgCoef": 1,
+        "DmgCoef": 0.4,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 3,
-        "BlockPowerLevel": 3,
-        "CritPowerLevel": 3,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
         "HitStun": 25,
         "BlockHitStun": 20,
         "CritHitStun": 25,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 1.5,
+        "ImpactDistanceY": 0.8,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -349,7 +363,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_Overhead_Frenzy",
@@ -365,17 +381,17 @@
         "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
-        "DmgCoef": 1,
+        "DmgCoef": 0.4,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 3,
-        "BlockPowerLevel": 3,
-        "CritPowerLevel": 3,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
         "HitStun": 25,
         "BlockHitStun": 20,
         "CritHitStun": 25,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 1.5,
+        "ImpactDistanceY": 0.8,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -393,7 +409,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_Whirlwind",
@@ -412,14 +430,14 @@
         "DmgCoef": 0.45,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 1,
-        "BlockPowerLevel": 1,
-        "CritPowerLevel": 1,
-        "HitStun": 25,
+        "PowerLevel": 2,
+        "BlockPowerLevel": 2,
+        "CritPowerLevel": 2,
+        "HitStun": 20,
         "BlockHitStun": 20,
         "CritHitStun": 25,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 0.5,
+        "ImpactDistanceY": 1,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -437,7 +455,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_Whirlwind_Frenzy",
@@ -456,14 +476,14 @@
         "DmgCoef": 0.45,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 1,
-        "BlockPowerLevel": 1,
-        "CritPowerLevel": 1,
-        "HitStun": 25,
+        "PowerLevel": 2,
+        "BlockPowerLevel": 2,
+        "CritPowerLevel": 2,
+        "HitStun": 20,
         "BlockHitStun": 20,
         "CritHitStun": 25,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 0.5,
+        "ImpactDistanceY": 1,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
@@ -481,7 +501,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_1H_Running_Slash",
@@ -525,7 +547,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_2H_Slash_L_Breakout",
@@ -569,7 +593,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Kick",
@@ -613,7 +639,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 20,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_1H_Ground_Pound",
@@ -657,7 +685,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_1H_Ground_Pound_Frenzy",
@@ -701,7 +731,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_1H_Ground_Pound_Uppercut_Frenzy",
@@ -745,7 +777,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Broken_1H_Ground_Pound_Uppercut",
@@ -789,7 +823,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -833,7 +869,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -877,6 +915,8 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

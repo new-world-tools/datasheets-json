@@ -44,7 +44,9 @@
         "TargetCameraShakeID": "Small ",
         "BlockTargetCameraShakeID": "Small",
         "CritTargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Rampage",
@@ -91,7 +93,9 @@
         "TargetCameraShakeID": "Small ",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Run_Flurry",
@@ -138,7 +142,9 @@
         "TargetCameraShakeID": "Small ",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 0.4
+        "StunBreakoutIncrement": 0.4,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Run_Flurry_Slam",
@@ -185,7 +191,9 @@
         "TargetCameraShakeID": "Small ",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 0.4
+        "StunBreakoutIncrement": 0.4,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Stretch_Smash",
@@ -194,7 +202,7 @@
         "NoReaction": 0,
         "IsRanged": null,
         "SurfaceImpactEffect": "Bullet",
-        "AttackType": "Heavy",
+        "AttackType": "Light",
         "DamageType": "Strike",
         "Affixes": "",
         "StatusEffect": "",
@@ -204,12 +212,12 @@
         "DmgCoef": 0.75,
         "DmgCoefHead": 0.65,
         "DmgCoefCrit": 1,
-        "PowerLevel": 2,
-        "BlockPowerLevel": 2,
-        "CritPowerLevel": 2,
-        "HitStun": 20,
+        "PowerLevel": 0,
+        "BlockPowerLevel": 0,
+        "CritPowerLevel": 0,
+        "HitStun": 10,
         "BlockHitStun": 15,
-        "CritHitStun": 20,
+        "CritHitStun": 10,
         "ImpactDistanceX": 0,
         "ImpactDistanceY": 1,
         "ImpactDistanceZ": 0,
@@ -232,7 +240,9 @@
         "TargetCameraShakeID": "Large",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "Large",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Grab",
@@ -279,7 +289,9 @@
         "TargetCameraShakeID": "Small ",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 0.5
+        "StunBreakoutIncrement": 0.5,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Grab_Bite",
@@ -326,7 +338,9 @@
         "TargetCameraShakeID": "Large",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "Large",
-        "StunBreakoutIncrement": 0.5
+        "StunBreakoutIncrement": 0.5,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Impaler_Spike",
@@ -373,7 +387,9 @@
         "TargetCameraShakeID": "Small ",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Impaler_Swipe",
@@ -420,7 +436,9 @@
         "TargetCameraShakeID": "Small ",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Impaler_SpikeSwipe",
@@ -467,7 +485,9 @@
         "TargetCameraShakeID": "Small ",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 0.5
+        "StunBreakoutIncrement": 0.5,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -514,7 +534,9 @@
         "TargetCameraShakeID": "",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -561,7 +583,9 @@
         "TargetCameraShakeID": "",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -608,6 +632,8 @@
         "TargetCameraShakeID": "Small",
         "BlockTargetCameraShakeID": "",
         "CritTargetCameraShakeID": "Small",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

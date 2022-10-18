@@ -98,6 +98,27 @@
         "Notes": "LOOPING - Pet the bird's head"
     },
     {
+        "InteractionAnimationID": "HousingItemWatering",
+        "PlayerMannequinFragmentStartInteraction": "Interact_Watering",
+        "InteractableTimelineStartInteraction": "Interact_Start",
+        "InteractableTimelineEndInteraction": "Interact_End",
+        "Notes": "LOOPING - Watering a Pumpklin"
+    },
+    {
+        "InteractionAnimationID": "HousingItemSpiderTricks",
+        "PlayerMannequinFragmentStartInteraction": "Interact_Pet_Spider",
+        "InteractableTimelineStartInteraction": "Interact_Start",
+        "InteractableTimelineEndInteraction": "Interact_End",
+        "Notes": "LOOPING - Player having a pet Spider do Tricks"
+    },
+    {
+        "InteractionAnimationID": "HousingItemSpookyBook",
+        "PlayerMannequinFragmentStartInteraction": "Interact_SpookyBook",
+        "InteractableTimelineStartInteraction": "Interact_Start",
+        "InteractableTimelineEndInteraction": "Interact_End",
+        "Notes": "LOOPING - Player uses the looping Etching animations to interact with the book. "
+    },
+    {
         "InteractionAnimationID": "HousingItemSitOnChair",
         "PlayerMannequinFragmentStartInteraction": "Interact_Chair",
         "InteractableTimelineStartInteraction": "Interact_Start",

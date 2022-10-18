@@ -41,7 +41,9 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_02_Lunge",
@@ -85,7 +87,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_01_Bite_Turn",
@@ -129,7 +133,9 @@
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_01_Bite_Frenzy",
@@ -173,7 +179,9 @@
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_03_Bite_Combo",
@@ -217,7 +225,9 @@
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Hamstring",
@@ -261,7 +271,9 @@
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Hamstring_Windup",
@@ -305,7 +317,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 0.1
+        "StunBreakoutIncrement": 0.1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -349,7 +363,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -393,7 +409,9 @@
         "BlockStaminaDmgMod": 10,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Mage_Rolling_Spell",
@@ -437,7 +455,9 @@
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0.33,
         "TargetCameraShakeID": "1",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Breakout",
@@ -481,7 +501,9 @@
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -525,6 +547,8 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

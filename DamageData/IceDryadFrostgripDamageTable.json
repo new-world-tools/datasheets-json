@@ -42,7 +42,9 @@
         "BlockStaminaDmgMod": 0.25,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "IceDryad_FrostGrip_IceBreedProjectile",
@@ -87,7 +89,9 @@
         "BlockStaminaDmgMod": 0.85,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "IceDryad_Frostgrip_BlastAway_Spell",
@@ -132,7 +136,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": null,
-        "LOSCheckVerticalAngleOffset": 20
+        "LOSCheckVerticalAngleOffset": 20,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "IceDryad_FrostGrip_Close_Staff_Attack",
@@ -177,7 +183,9 @@
         "BlockStaminaDmgMod": 0.3,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "IceDryad_FrostGrip_Close_Overhead_Staff_Attack",
@@ -222,7 +230,9 @@
         "BlockStaminaDmgMod": 0.7,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "IceDryad_Reaction_Breakout",
@@ -267,7 +277,9 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "IceDryad_FrostGrip_Grit_Stagger",
@@ -312,7 +324,9 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": null
+        "LOSCheckVerticalAngleOffset": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "IceDryad_FrostGrip_ColdVein_AoePushback",
@@ -357,6 +371,8 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": null,
-        "LOSCheckVerticalAngleOffset": 20
+        "LOSCheckVerticalAngleOffset": 20,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

@@ -153,7 +153,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_VoidBlade_Fortify",
@@ -309,7 +310,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_VoidBlade_CritDmg",
@@ -465,7 +467,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_VoidBlade_HealOnHvy",
@@ -621,7 +624,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Ability_VoidGauntlet_NullChamber",
@@ -777,7 +781,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_NullChamber_WeakenOnHit",
@@ -933,7 +938,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_NullChamber_BonusStamina",
@@ -1089,7 +1095,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Ability_VoidGauntlet_Scream",
@@ -1245,7 +1252,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_Scream_BonusDurVsLowHP",
@@ -1401,7 +1409,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_Scream_FortifyPerHit",
@@ -1557,7 +1566,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_BonusDmgLowMana",
@@ -1713,7 +1723,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_BonusCritChanceHighHP",
@@ -1869,7 +1880,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_BonusCritChanceOnCooldown",
@@ -2025,7 +2037,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_CDROnCrit",
@@ -2181,7 +2194,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_EmpowerCloseRange",
@@ -2337,7 +2351,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_HarvestReducedCostLowMana",
@@ -2493,7 +2508,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_HealOnCrit",
@@ -2649,7 +2665,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_CDRVsDebuff",
@@ -2805,7 +2822,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Ultimate_VoidGauntlet_DotHealAura",
@@ -2961,7 +2979,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Ability_VoidGauntlet_DecayingOrb",
@@ -3117,7 +3136,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_DecayingOrb_ManaPerHit",
@@ -3273,7 +3293,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_DecayingOrb_SlowVsDebuff",
@@ -3429,7 +3450,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_DecayingOrb_ManualDetonate",
@@ -3585,7 +3607,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Ability_VoidGauntlet_DrainingTether",
@@ -3741,7 +3764,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_DrainingTether_CDROnHit",
@@ -3897,7 +3921,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_DrainingTether_ManaRegen",
@@ -4053,7 +4078,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_DrainingTether_HealthOnDeath",
@@ -4209,7 +4235,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Ability_VoidGauntlet_EssenceRupture",
@@ -4365,7 +4392,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_EssenceRupture_StaminaOnHit",
@@ -4521,7 +4549,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": 0.25
     },
     {
         "AbilityID": "Upgrade_VoidGauntlet_EssenceRupture_HealAoEOnEnd",
@@ -4677,7 +4706,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_BonusHvyDmgVsRange",
@@ -4833,7 +4863,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_ManaPerLightVsDebuff",
@@ -4989,7 +5020,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_ReducedManaCostHighMana",
@@ -5145,7 +5177,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_CDRWhileHarvest",
@@ -5301,7 +5334,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_BonusHvyHealVsLowHP",
@@ -5457,7 +5491,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_BonusDebuffDurOnHvy",
@@ -5613,7 +5648,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_HealOnDodgeMaxMana",
@@ -5769,7 +5805,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Ultimate_VoidGauntlet_CDROnStackConsume",
@@ -5925,7 +5962,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_HealOnHeavy",
@@ -6081,7 +6119,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_ApplySiphonAuraStacks",
@@ -6237,7 +6276,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     },
     {
         "AbilityID": "Passive_VoidGauntlet_ApplyConversionStacks",
@@ -6393,6 +6433,7 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "ActivationCooldown": null
     }
 ]

@@ -91,8 +91,8 @@
     },
     {
         "StatusEffectCategoryID": "Haste",
-        "DurationDiminishingMod": -0.2,
-        "DurationModMin": -0.8,
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
         "DurationModMax": 0,
         "PotencyDiminishingMod": 0,
         "PotencyModMin": 0,
@@ -153,11 +153,11 @@
         "StatusEffectCategoryID": "MutatorHearty",
         "DurationDiminishingMod": null,
         "DurationModMin": null,
-        "DurationModMax": null,
-        "PotencyDiminishingMod": null,
-        "PotencyModMin": null,
-        "PotencyModMax": null,
-        "ValueLimits": "MaxHealthMod:5.0"
+        "DurationModMax": 0,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
+        "ValueLimits": "MaxHealth:5.0"
     },
     {
         "StatusEffectCategoryID": "MutatorDisease",
@@ -298,5 +298,35 @@
         "PotencyModMin": null,
         "PotencyModMax": null,
         "ValueLimits": "SummerFishRarityRollModifier:0.5"
+    },
+    {
+        "StatusEffectCategoryID": "Hearty",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": 0,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
+        "ValueLimits": "MaxHealth:5.0"
+    },
+    {
+        "StatusEffectCategoryID": "NonDispellableWeaken",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "DMGStandard:0.5,DMGSiege:0.5,DMGStrike:0.5,DMGSlash:0.5,DMGThrust:0.5,DMGArcane:0.5,DMGFire:0.5,DMGIce:0.5,DMGNature:0.5,DMGLightning:0.5,DMGCorruption:0.5"
+    },
+    {
+        "StatusEffectCategoryID": "NonDispellableEmpower",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "DMGStandard:1.5,DMGSiege:1.5,DMGStrike:1.5,DMGSlash:1.5,DMGThrust:1.5,DMGArcane:1.5,DMGFire:1.5,DMGIce:1.5,DMGNature:1.5,DMGLightning:1.5,DMGCorruption:1.5"
     }
 ]

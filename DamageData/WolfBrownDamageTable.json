@@ -9,7 +9,7 @@
         "DamageType": "Slash",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": null,
+        "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
         "DmgCoef": 0.4,
@@ -40,7 +40,9 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_02_Lunge",
@@ -51,19 +53,19 @@
         "AttackType": "Heavy",
         "DamageType": "Slash",
         "Affixes": "",
-        "StatusEffect": "AI_Bleed_9",
-        "EffectOnlyOnDamage": true,
+        "StatusEffect": "",
+        "EffectOnlyOnDamage": "",
         "DeflectDamageID": "Deflect_Default",
         "CanCrit": false,
         "DmgCoef": 0.75,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 3,
-        "BlockPowerLevel": 3,
-        "CritPowerLevel": 3,
-        "HitStun": 30,
+        "PowerLevel": 2,
+        "BlockPowerLevel": 2,
+        "CritPowerLevel": 2,
+        "HitStun": 20,
         "BlockHitStun": 25,
-        "CritHitStun": 30,
+        "CritHitStun": 20,
         "ImpactDistanceX": 2,
         "ImpactDistanceY": 1.5,
         "ImpactDistanceZ": 0,
@@ -83,7 +85,9 @@
         "BlockStaminaDmgMod": 0.8,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Large",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_01_Bite_Turn",
@@ -95,7 +99,7 @@
         "DamageType": "Slash",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": null,
+        "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
         "DmgCoef": 0.55,
@@ -126,7 +130,9 @@
         "BlockStaminaDmgMod": 0.3,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_01_Bite_Frenzy",
@@ -138,7 +144,7 @@
         "DamageType": "Slash",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": null,
+        "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
         "DmgCoef": 0.55,
@@ -169,7 +175,9 @@
         "BlockStaminaDmgMod": 0.3,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_03_Bite_Combo",
@@ -181,7 +189,7 @@
         "DamageType": "Slash",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": null,
+        "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
         "DmgCoef": 0.5,
@@ -212,7 +220,9 @@
         "BlockStaminaDmgMod": 0.3,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -224,7 +234,7 @@
         "DamageType": "Falling",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": null,
+        "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
         "DmgCoef": 1,
@@ -255,7 +265,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -267,7 +279,7 @@
         "DamageType": "Falling",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": null,
+        "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": false,
         "DmgCoef": 0,
@@ -298,7 +310,9 @@
         "BlockStaminaDmgMod": 10,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Breakout",
@@ -310,7 +324,7 @@
         "DamageType": "Slash",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": null,
+        "EffectOnlyOnDamage": "",
         "DeflectDamageID": "Deflect_Default",
         "CanCrit": false,
         "DmgCoef": 0.9,
@@ -341,7 +355,9 @@
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "Small ",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -353,7 +369,7 @@
         "DamageType": "Deflect",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": null,
+        "EffectOnlyOnDamage": "",
         "DeflectDamageID": "",
         "CanCrit": null,
         "DmgCoef": 0,
@@ -384,6 +400,8 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

@@ -1,0 +1,38 @@
+[
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_WW",
+        "PlayerPrompt": "@01_Grace_Goodbye_prompt",
+        "NPCResponse": "@01_Grace_Goodbye",
+        "AchievementUnlock": "01_Grace_Goodbye_WW",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_MB",
+        "PlayerPrompt": "@01_Grace_Goodbye_prompt",
+        "NPCResponse": "@01_Grace_Goodbye",
+        "AchievementUnlock": "01_Grace_Goodbye_MB",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_WW_Final",
+        "PlayerPrompt": "@01_Grace_Goodbye_next2_prompt",
+        "NPCResponse": "@01_Grace_Greet_04",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "01_Grace_Goodbye_WW",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_MB_Final",
+        "PlayerPrompt": "@01_Grace_Goodbye_next2_prompt",
+        "NPCResponse": "@01_Grace_Greet_04",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "01_Grace_Goodbye_MB",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

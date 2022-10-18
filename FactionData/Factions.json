@@ -6,7 +6,9 @@
         "ForegroundColorIndex": 0,
         "ForegroundCrestIndex": 0,
         "BackgroundColorIndex": 0,
-        "BackgroundCrestIndex": 0
+        "BackgroundCrestIndex": 0,
+        "RequiredAchievementId": "",
+        "RequiredLegacyAchievementId": ""
     },
     {
         "FactionType": "Faction1",
@@ -15,7 +17,9 @@
         "ForegroundColorIndex": 0,
         "ForegroundCrestIndex": 2,
         "BackgroundColorIndex": 0,
-        "BackgroundCrestIndex": 2
+        "BackgroundCrestIndex": 2,
+        "RequiredAchievementId": "FactionIntro_Syndicate_Recruitment",
+        "RequiredLegacyAchievementId": "S_syndicatequest_1"
     },
     {
         "FactionType": "Faction2",
@@ -24,7 +28,9 @@
         "ForegroundColorIndex": 0,
         "ForegroundCrestIndex": 3,
         "BackgroundColorIndex": 0,
-        "BackgroundCrestIndex": 3
+        "BackgroundCrestIndex": 3,
+        "RequiredAchievementId": "FactionIntro_Marauders_Recruitment",
+        "RequiredLegacyAchievementId": "S_marauderquest_1"
     },
     {
         "FactionType": "Faction3",
@@ -33,6 +39,8 @@
         "ForegroundColorIndex": 0,
         "ForegroundCrestIndex": 4,
         "BackgroundColorIndex": 0,
-        "BackgroundCrestIndex": 4
+        "BackgroundCrestIndex": 4,
+        "RequiredAchievementId": "FactionIntro_Covenant_Recruitment",
+        "RequiredLegacyAchievementId": "S_covenantquest_1"
     }
 ]

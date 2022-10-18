@@ -47,5 +47,19 @@
         "Value": 100,
         "Shared": true,
         "Expires": false
+    },
+    {
+        "ContributionId": "Spawn_Interacted:98_Syndicate_03_Well_A",
+        "Category": "interaction",
+        "Value": 100,
+        "Shared": true,
+        "Expires": false
+    },
+    {
+        "ContributionId": "Spawn_Interacted:98_Syndicate_03_Well_B",
+        "Category": "interaction",
+        "Value": 100,
+        "Shared": true,
+        "Expires": false
     }
 ]

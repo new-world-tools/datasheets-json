@@ -238,7 +238,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_NetShot",
@@ -479,7 +482,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_NetShot_Upgraded",
@@ -720,7 +726,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_ClawShot_Homing",
@@ -961,7 +970,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_ClawShot_Homing_Disabled",
@@ -1202,7 +1214,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_ClawShot_Mod1",
@@ -1443,7 +1458,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_BarbedNet",
@@ -1684,7 +1702,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.65,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Blunderbuss_LingeringFlow",
@@ -1925,7 +1946,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_Increase_Damage_Taken",
@@ -2166,7 +2190,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_HitBySplittingGrenade",
@@ -2407,7 +2434,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_Azoth_Shrapnel_Reduce",
@@ -2648,7 +2678,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_SplittingGrenade_Movespeed",
@@ -2889,7 +2922,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_SplittingGrenade_Burn",
@@ -3130,7 +3166,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.086,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Blunderbuss_HitByMortar",
@@ -3371,7 +3410,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_Freedom",
@@ -3612,7 +3654,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_SmallStam",
@@ -3853,7 +3898,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_GunButtStamCost",
@@ -4094,7 +4142,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_ClawShot_Root",
@@ -4335,7 +4386,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_Run_And_Gun",
@@ -4367,7 +4421,7 @@
         "AddOnStackSize": "",
         "AddOnStackSizeComparison": "",
         "HealThreatMultiplier": "",
-        "ScaleAmountOverTime": -0.1,
+        "ScaleAmountOverTime": null,
         "ScaleAmountOverTimeMin": "",
         "ScaleAmountOverTimeMax": "",
         "DamageSkipsDeathsDoor": "",
@@ -4576,7 +4630,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_FutureEndeavor_Stam",
@@ -4817,7 +4874,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_Ramp",
@@ -5058,7 +5118,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_LastChance",
@@ -5299,7 +5362,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_LastChanceCooldown",
@@ -5540,7 +5606,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_Nine",
@@ -5781,7 +5850,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_GunButt",
@@ -6022,7 +6094,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_ChargeCooldown",
@@ -6263,7 +6338,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_ChargeCooldownOnCooldown",
@@ -6504,7 +6582,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_MortarShotActiveTimer",
@@ -6745,7 +6826,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_MortarShotFired",
@@ -6986,7 +7070,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_ChargedMortarShot",
@@ -7227,7 +7314,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_ChargeMortarUsedSignal",
@@ -7468,7 +7558,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_Buckshot",
@@ -7709,7 +7802,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_Buckshot_SelfTracker",
@@ -7950,7 +8046,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_AbilityRamp",
@@ -8191,7 +8290,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_OverloadTimer",
@@ -8432,7 +8534,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_OverloadTimerHelper",
@@ -8673,7 +8778,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_ClawShot_In_Air_Timer",
@@ -8914,7 +9022,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_ClawShot_Mantle_Disable",
@@ -9155,7 +9266,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Blunderbuss_FortifyCloseRange",
@@ -9396,6 +9510,9 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     }
 ]

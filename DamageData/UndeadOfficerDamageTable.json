@@ -44,7 +44,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Swipe_Water",
@@ -91,7 +93,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Overhead",
@@ -138,7 +142,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Overhead_Water",
@@ -185,7 +191,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Dash",
@@ -232,7 +240,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Dash_Water",
@@ -279,7 +289,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Anchor_Toss",
@@ -326,7 +338,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Anchor_Toss_Water",
@@ -373,7 +387,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Anchor_Toss_Water_Impact",
@@ -420,7 +436,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Spin",
@@ -467,7 +485,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 0.5
+        "StunBreakoutIncrement": 0.5,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Spin_Water",
@@ -514,7 +534,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 0.5
+        "StunBreakoutIncrement": 0.5,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Anchor_Slam",
@@ -561,7 +583,9 @@
         "BlockAbsorptionModifier": 2,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Anchor_Slam_Water",
@@ -608,7 +632,9 @@
         "BlockAbsorptionModifier": 2,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Storm_Shield",
@@ -655,7 +681,9 @@
         "BlockAbsorptionModifier": 2,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Breakout",
@@ -702,7 +730,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Attack_Breakout_Water",
@@ -749,7 +779,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -796,7 +828,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -843,7 +877,9 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -890,6 +926,8 @@
         "BlockAbsorptionModifier": 1,
         "TargetCameraShakeID": "",
         "CritTargetCameraShakeID": "",
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

@@ -45,7 +45,9 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 45
+        "LOSCheckVerticalAngleOffset": 45,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "1H_Knife_Stab_Attack1",
@@ -93,7 +95,9 @@
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "LOSCheckVerticalAngleOffset": 45
+        "LOSCheckVerticalAngleOffset": 45,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Beetle_Charge",
@@ -141,7 +145,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 45
+        "LOSCheckVerticalAngleOffset": 45,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Beetle_Charge_End",
@@ -189,7 +195,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 45
+        "LOSCheckVerticalAngleOffset": 45,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Unleash_Swarm",
@@ -237,7 +245,9 @@
         "BlockStaminaDmgMod": 0.5,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 90
+        "LOSCheckVerticalAngleOffset": 90,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Swarm_Shot",
@@ -285,7 +295,9 @@
         "BlockStaminaDmgMod": 0.2,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 90
+        "LOSCheckVerticalAngleOffset": 90,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -333,6 +345,8 @@
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
         "StunBreakoutIncrement": 1,
-        "LOSCheckVerticalAngleOffset": 0
+        "LOSCheckVerticalAngleOffset": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

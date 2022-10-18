@@ -238,7 +238,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Trap_Root",
@@ -479,16 +482,19 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
-        "StatusID": "Musket_Trap_Root_DMG",
-        "DisplayName": "@Musket_Trap_Root_DisplayName",
-        "Description": "@Musket_Trap_Root_DMG_Description",
-        "EffectCategories": "Debuff+Root+CC+Trapper+Rend+TrapRoot",
-        "PlaceholderIcon": "lyshineui/images/status/SE_TrappedT2.png",
+        "StatusID": "Musket_Trap_Rend",
+        "DisplayName": "@Musket_Trap_Rend_DisplayName",
+        "Description": "@Musket_Trap_Rend_Description",
+        "EffectCategories": "Debuff+Debilitate+Trapper+Rend+TrapRoot",
+        "PlaceholderIcon": "lyshineui/images/status/SE_RendT3.png",
         "ShowInUITray": true,
-        "ShowTextInDamageNumbers": true,
+        "ShowTextInDamageNumbers": false,
         "FxScriptOn": "StatFX_Root_ON",
         "FxScriptOff": "StatFX_Root_OFF",
         "ShouldRefreshFxScript": "",
@@ -562,10 +568,10 @@
         "EXPWeaving": "",
         "EXPStonecutting": "",
         "GrantSanctuary": 0,
-        "NoSprint": 1,
-        "NoRun": 1,
+        "NoSprint": 0,
+        "NoRun": 0,
         "NoDodge": 0,
-        "NoNav": 1,
+        "NoNav": 0,
         "Silenced": 0,
         "Stunned": 0,
         "RemoveOnDeath": 1,
@@ -720,7 +726,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Sticky_StaminaRegen",
@@ -961,7 +970,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Sticky_Slow",
@@ -1202,7 +1214,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_PowerShot_Empower",
@@ -1443,7 +1458,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_StoppingPower_Exhaust",
@@ -1684,7 +1702,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_StoppingPower_Slow",
@@ -1925,7 +1946,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_PowderBurn_Burn",
@@ -2166,7 +2190,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.65,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Musket_PowderBurn_BurnExtend",
@@ -2407,7 +2434,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": 0.65,
+        "SourceRuneChargeOnHealthChangeOnly": true
     },
     {
         "StatusID": "Musket_ShootersStance_IsActive",
@@ -2648,7 +2678,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Pass_HasteOnDodge",
@@ -2889,7 +2922,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Pass_WalkSpeedWhileNearEnemy",
@@ -3130,7 +3166,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Pass_EmpowerOnHeadshot",
@@ -3371,7 +3410,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Pass_EmpowerOnDebuffHit",
@@ -3612,7 +3654,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Pass_StaminaOnDebuffHit",
@@ -3853,7 +3898,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Pass_DodgeReloadSpamPrevention",
@@ -4094,7 +4142,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Pass_Damage_EveryADSShot",
@@ -4335,7 +4386,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Pass_Damage_EveryADSShot_Safety",
@@ -4576,7 +4630,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Pass_HeadshotTracker",
@@ -4817,7 +4874,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_Pass_HeadshotReloadTrigger",
@@ -5058,7 +5118,10 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     },
     {
         "StatusID": "Musket_ReloadStartComplete",
@@ -5299,6 +5362,9 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction ": ""
+        "NotCombatAction ": "",
+        "SourceRuneChargeOnApply": "",
+        "SourceRuneChargeOnTick": null,
+        "SourceRuneChargeOnHealthChangeOnly": null
     }
 ]

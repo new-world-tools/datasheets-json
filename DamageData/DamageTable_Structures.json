@@ -43,7 +43,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "PowderKeg_T1",
@@ -89,7 +91,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Disease",
@@ -135,7 +139,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Tower_T0",
@@ -181,7 +187,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "FireTrebuchet_DoT",
@@ -227,7 +235,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "FireTrebuchet_Explosion",
@@ -273,7 +283,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Cannon_Projectile",
@@ -319,7 +331,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "WitheredTrebuchet_Projectile",
@@ -365,7 +379,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "WitheredTrebuchet_DoT",
@@ -411,7 +427,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "WitheredTrebuchet_Risen_Explosion",
@@ -457,7 +475,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "BallistaTurret_Projectile",
@@ -503,7 +523,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "LandMine_Explosion",
@@ -549,7 +571,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "FireMine_Explosion",
@@ -595,7 +619,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "FireMine_DoT",
@@ -641,7 +667,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": 0.49
+        "DamageReceiverCooldown": 0.49,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "RepeaterTurret_Projectile",
@@ -687,7 +715,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "OR_RepeaterTurret_Projectile",
@@ -733,7 +763,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "FireBarrelDropper_Explosion",
@@ -779,7 +811,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "FireBarrelDropper_DoT",
@@ -825,7 +859,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": 0.49
+        "DamageReceiverCooldown": 0.49,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "BombTurret_Explosion",
@@ -871,7 +907,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "VoidSpike",
@@ -917,7 +955,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "FrostTrebuchet_DoT",
@@ -963,7 +1003,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Darkness_CorruptionEruption_DT1",
@@ -1009,7 +1051,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "DungeonLaserBeam",
@@ -1055,7 +1099,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Gimmick_Explosive_Barrel",
@@ -1083,9 +1129,9 @@
         "BlockHitStun": 30,
         "CritHitStun": 50,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 8,
+        "ImpactDistanceY": 3,
         "ImpactDistanceZ": 0,
-        "ImpactDecayRate": 0.8,
+        "ImpactDecayRate": 0.5,
         "BlockImpactDistanceX": 0,
         "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
@@ -1101,7 +1147,9 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Gimmick_Falling_Rubble",
@@ -1147,7 +1195,105 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
+    },
+    {
+        "DamageID": "Sandworm_BreachEvent_Explosion",
+        "WeaponCategory": "Unarmed",
+        "IgnoreInvulnerable": 0,
+        "NoReaction": 0,
+        "IsRanged": true,
+        "IsSiege": true,
+        "DamageType": "Standard",
+        "Affliction": "AfflictionBleed",
+        "AddAffliction": "",
+        "AfflictionPercent": "",
+        "StatusEffect": "",
+        "EffectOnlyOnDamage": "",
+        "SurfaceImpactEffect": "Bullet",
+        "DeflectDamageID": "",
+        "CanCrit": false,
+        "DmgCoef": 1,
+        "DmgCoefHead": 1,
+        "DmgCoefCrit": 1,
+        "PowerLevel": 4,
+        "BlockPowerLevel": 4,
+        "CritPowerLevel": 4,
+        "HitStun": 100,
+        "BlockHitStun": 100,
+        "CritHitStun": 100,
+        "ImpactDistanceX": 0,
+        "ImpactDistanceY": 100,
+        "ImpactDistanceZ": 0,
+        "ImpactDecayRate": 0.5,
+        "BlockImpactDistanceX": 0,
+        "BlockImpactDistanceY": 0,
+        "BlockImpactDistanceZ": 0,
+        "BlockImpactDecayRate": 0,
+        "AddDmg": 0,
+        "StaggerDmgModifier": 3,
+        "CritStaggerDmgModifier": 3,
+        "CameraShakeID": "",
+        "TargetCameraShakeID": "Large",
+        "BlockCameraShakeID": "Large",
+        "BlockTargetCameraShakeID": "Large",
+        "ImpactRating": 4,
+        "BlockStaminaDmgMod": 1,
+        "BlockAbsorptionModifier": 1,
+        "StunBreakoutIncrement": 1,
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
+    },
+    {
+        "DamageID": "Sandworm_BreachEvent_Fallout",
+        "WeaponCategory": "Unarmed",
+        "IgnoreInvulnerable": 0,
+        "NoReaction": 0,
+        "IsRanged": true,
+        "IsSiege": true,
+        "DamageType": "Standard",
+        "Affliction": "AfflictionBleed",
+        "AddAffliction": "",
+        "AfflictionPercent": "",
+        "StatusEffect": "",
+        "EffectOnlyOnDamage": "",
+        "SurfaceImpactEffect": "Bullet",
+        "DeflectDamageID": "",
+        "CanCrit": false,
+        "DmgCoef": 1,
+        "DmgCoefHead": 1,
+        "DmgCoefCrit": 1,
+        "PowerLevel": 4,
+        "BlockPowerLevel": 4,
+        "CritPowerLevel": 4,
+        "HitStun": 100,
+        "BlockHitStun": 100,
+        "CritHitStun": 100,
+        "ImpactDistanceX": 0,
+        "ImpactDistanceY": 20,
+        "ImpactDistanceZ": 0,
+        "ImpactDecayRate": 0.5,
+        "BlockImpactDistanceX": 0,
+        "BlockImpactDistanceY": 0,
+        "BlockImpactDistanceZ": 0,
+        "BlockImpactDecayRate": 0,
+        "AddDmg": 0,
+        "StaggerDmgModifier": 3,
+        "CritStaggerDmgModifier": 3,
+        "CameraShakeID": "",
+        "TargetCameraShakeID": "Small",
+        "BlockCameraShakeID": "Small",
+        "BlockTargetCameraShakeID": "Small",
+        "ImpactRating": 4,
+        "BlockStaminaDmgMod": 1,
+        "BlockAbsorptionModifier": 1,
+        "StunBreakoutIncrement": 1,
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "DungeonLaserBeamSmall",
@@ -1193,6 +1339,8 @@
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
-        "DamageReceiverCooldown": null
+        "DamageReceiverCooldown": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

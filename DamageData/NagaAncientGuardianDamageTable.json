@@ -44,7 +44,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spear_Flurry_Bump",
@@ -91,7 +93,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spear_Swipe",
@@ -138,7 +142,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.5,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spear_Swipe_Wave",
@@ -185,7 +191,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0.5,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spear_Lunge",
@@ -232,7 +240,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spear_Throw",
@@ -279,7 +289,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spear_Throw_Arc",
@@ -326,7 +338,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Arcane_Bomb",
@@ -373,7 +387,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": true
+        "Unblockable": true,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Arcane_Wave",
@@ -420,7 +436,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Arcane_Bolt",
@@ -467,7 +485,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Arcane_Snare",
@@ -514,7 +534,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Arcane_Arc",
@@ -561,7 +583,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 0,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Dash",
@@ -608,7 +632,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Tail",
@@ -655,7 +681,9 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": 1,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Arcane_Pool_Bump",
@@ -702,7 +730,9 @@
         "BlockAbsorptionModifier": null,
         "StunBreakoutIncrement": 0,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -749,6 +779,8 @@
         "BlockAbsorptionModifier": 1,
         "StunBreakoutIncrement": null,
         "LOSCheckVerticalAngleOffset": "",
-        "Unblockable": null
+        "Unblockable": null,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

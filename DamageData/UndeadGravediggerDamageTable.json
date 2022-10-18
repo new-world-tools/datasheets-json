@@ -43,7 +43,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.75,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_Charge",
@@ -89,7 +91,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.82,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_Overhead",
@@ -135,7 +139,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": 1.55,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_Stab",
@@ -181,7 +187,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_SiphonStab",
@@ -227,7 +235,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.4,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_Storm",
@@ -273,7 +283,9 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": 0.38,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0.25
+        "StunBreakoutIncrement": 0.25,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_Storm_Final",
@@ -319,7 +331,9 @@
         "ImpactRating": 2,
         "BlockStaminaDmgMod": 0.75,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_GraveDigger_Siphon",
@@ -365,7 +379,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0,
         "BlockAbsorptionModifier": 0,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Undead_Reaction_Breakout",
@@ -411,7 +427,9 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -457,6 +475,8 @@
         "ImpactRating": 3,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

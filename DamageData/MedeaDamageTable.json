@@ -10,7 +10,7 @@
         "DamageType": "Ice",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": "",
+        "EffectOnlyOnDamage": null,
         "DeflectDamageID": "Deflect_Default",
         "CanCrit": false,
         "DmgCoef": 0.35,
@@ -41,7 +41,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Ice_Spikes",
@@ -54,7 +56,7 @@
         "DamageType": "Ice",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": "",
+        "EffectOnlyOnDamage": null,
         "DeflectDamageID": "Deflect_Default",
         "CanCrit": false,
         "DmgCoef": 0.75,
@@ -85,7 +87,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Ice_Spikes_End",
@@ -98,7 +102,7 @@
         "DamageType": "Ice",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": "",
+        "EffectOnlyOnDamage": null,
         "DeflectDamageID": "Deflect_Default",
         "CanCrit": false,
         "DmgCoef": 1,
@@ -129,7 +133,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1.2,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 0
+        "StunBreakoutIncrement": 0,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Spell_Frostbolt",
@@ -142,7 +148,7 @@
         "DamageType": "Ice",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": "",
+        "EffectOnlyOnDamage": null,
         "DeflectDamageID": "Deflect_Default",
         "CanCrit": false,
         "DmgCoef": 0.3,
@@ -173,7 +179,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Deflect_Default",
@@ -186,7 +194,7 @@
         "DamageType": "Deflect",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": "",
+        "EffectOnlyOnDamage": null,
         "DeflectDamageID": "",
         "CanCrit": null,
         "DmgCoef": 0,
@@ -217,7 +225,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 0.45,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
@@ -230,7 +240,7 @@
         "DamageType": "Falling",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": "",
+        "EffectOnlyOnDamage": null,
         "DeflectDamageID": "",
         "CanCrit": null,
         "DmgCoef": 1,
@@ -261,7 +271,9 @@
         "ImpactRating": 0,
         "BlockStaminaDmgMod": 1,
         "BlockAbsorptionModifier": 1,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Reaction_Breakout",
@@ -274,7 +286,7 @@
         "DamageType": "Falling",
         "Affixes": "",
         "StatusEffect": "",
-        "EffectOnlyOnDamage": "",
+        "EffectOnlyOnDamage": null,
         "DeflectDamageID": "",
         "CanCrit": null,
         "DmgCoef": 0,
@@ -305,11 +317,13 @@
         "ImpactRating": 1,
         "BlockStaminaDmgMod": null,
         "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Crystal_Stun",
-        "WeaponCategory": "",
+        "WeaponCategory": "Spell",
         "IgnoreInvulnerable": 0,
         "NoReaction": 0,
         "IsRanged": null,
@@ -318,37 +332,39 @@
         "DamageType": "",
         "Affixes": "",
         "StatusEffect": "AI_Stun_10sec",
-        "EffectOnlyOnDamage": "",
+        "EffectOnlyOnDamage": false,
         "DeflectDamageID": "",
         "CanCrit": null,
         "DmgCoef": 1,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
-        "PowerLevel": 4,
-        "BlockPowerLevel": 2,
-        "CritPowerLevel": 2,
-        "HitStun": 25,
-        "BlockHitStun": 20,
-        "CritHitStun": 25,
+        "PowerLevel": 3,
+        "BlockPowerLevel": 1,
+        "CritPowerLevel": 1,
+        "HitStun": 100,
+        "BlockHitStun": 5,
+        "CritHitStun": 15,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 5,
+        "ImpactDistanceY": 1,
         "ImpactDistanceZ": 0,
-        "ImpactDecayRate": 0,
+        "ImpactDecayRate": 0.8,
         "CritImpactDistanceX": 0,
-        "CritImpactDistanceY": 0,
+        "CritImpactDistanceY": 1,
         "CritImpactDistanceZ": 0,
-        "CritImpactDecayRate": 0,
+        "CritImpactDecayRate": 0.8,
         "BlockImpactDistanceX": 0,
         "BlockImpactDistanceY": 0,
         "BlockImpactDistanceZ": 0,
-        "BlockImpactDecayRate": 0,
+        "BlockImpactDecayRate": 0.8,
         "AddDmg": 0,
         "StaggerDmgModifier": 0,
         "StaggerResistModifier": 10,
         "TargetCameraShakeID": "Small",
         "ImpactRating": 1,
-        "BlockStaminaDmgMod": null,
-        "BlockAbsorptionModifier": null,
-        "StunBreakoutIncrement": 1
+        "BlockStaminaDmgMod": 1,
+        "BlockAbsorptionModifier": 1,
+        "StunBreakoutIncrement": 1,
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     }
 ]

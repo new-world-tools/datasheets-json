@@ -3,7 +3,11 @@
         "ThrowableId": "ThrowableItemT1",
         "ActivationTime": 3,
         "SpawnSliceOnActivate": true,
-        "ActivationSlicePath": "slices/items/weapons/ASB_Bomb_Explosion.dynamicslice",
-        "GatherableSlicePath": "slices/Gatherables/Throwable_Gatherable.dynamicslice"
+        "ActivationSlicePath": "slices/items/weapons/Throwable_Base_Explosion.dynamicslice",
+        "GatherableSlicePath": "slices/Gatherables/Master_Throwable_Object.dynamicslice",
+        "SpellName": "Throwable_Base_Projectile",
+        "AttachmentName": "righthandattach",
+        "WarningTime": 2,
+        "AttachmentSlicePath": "slices/Gatherables/Master_Throwable_Object_Equipped.dynamicslice"
     }
 ]
