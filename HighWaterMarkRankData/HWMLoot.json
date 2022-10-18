@@ -1864,7 +1864,7 @@
     {
         "Rank": 598,
         "ExceedMin0": 2,
-        "ExceedMax0": 3,
+        "ExceedMax0": 2,
         "FloorDistance": 10,
         "ChanceToExceed0": 0.01,
         "ChanceBump": 0.001,
@@ -1882,8 +1882,8 @@
     },
     {
         "Rank": 599,
-        "ExceedMin0": 2,
-        "ExceedMax0": 3,
+        "ExceedMin0": 1,
+        "ExceedMax0": 1,
         "FloorDistance": 10,
         "ChanceToExceed0": 0.01,
         "ChanceBump": 0.001,

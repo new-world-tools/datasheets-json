@@ -2,7 +2,7 @@
     {
         "SpellID": "Celestial_Heal_AoE",
         "StatusEffects": "Celestial_Heal_AoE",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -89,7 +89,7 @@
     {
         "SpellID": "Celestial_Heal_AoE_Staff",
         "StatusEffects": "Celestial_Heal_AoE",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -176,7 +176,7 @@
     {
         "SpellID": "Celestial_Heal_Self",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -263,7 +263,7 @@
     {
         "SpellID": "Celestial_Heal_Projectile",
         "StatusEffects": "Celestial_Heal_AoE",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -350,7 +350,7 @@
     {
         "SpellID": "Celestial_Heal_Siphon_Projectile",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -437,7 +437,7 @@
     {
         "SpellID": "Celestial_Heal_Siphon",
         "StatusEffects": "Elemental_Fire_AoE",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -524,7 +524,7 @@
     {
         "SpellID": "Celestial_Revive",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": true,
         "Siphon": null,
         "AttachToOwner": null,
@@ -611,7 +611,7 @@
     {
         "SpellID": "Celestial_Life_DMG_Absorb",
         "StatusEffects": "Celestial_Life_DMG_Absorb",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -698,7 +698,7 @@
     {
         "SpellID": "Celestial_Life_DMG_Bonus",
         "StatusEffects": "Celestial_Life_DMG_Bonus",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -785,7 +785,7 @@
     {
         "SpellID": "LifeStaff_Light_Projectile",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -872,7 +872,7 @@
     {
         "SpellID": "LifeStaff_Heavy_Projectile",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -959,7 +959,7 @@
     {
         "SpellID": "LifeStaff_Heavy_Upgrade_Projectile",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1046,7 +1046,7 @@
     {
         "SpellID": "LifeStaff_Heavy_Heal",
         "StatusEffects": "LifeStaff_Heavy_Upgrade_HoT",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1133,7 +1133,7 @@
     {
         "SpellID": "LifeStaff_HolyShield",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1220,7 +1220,7 @@
     {
         "SpellID": "LifeStaff_HolyShield_Radius_Upgrade",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1307,7 +1307,7 @@
     {
         "SpellID": "LifeStaff_HolyShield_Mana_Upgrade",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1394,7 +1394,7 @@
     {
         "SpellID": "LifeStaff_HealingWave",
         "StatusEffects": "LifeStaff_HealingWave_HoT",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1481,7 +1481,7 @@
     {
         "SpellID": "LifeStaff_HealingWave_Mana_Upgrade",
         "StatusEffects": "LifeStaff_HealingWave_HoT",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1568,7 +1568,7 @@
     {
         "SpellID": "LifeStaff_HealingWave_CastRange_Upgrade",
         "StatusEffects": "LifeStaff_HealingWave_HoT",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1655,7 +1655,7 @@
     {
         "SpellID": "LifeStaff_HealingWave_SpellPower_Upgrade",
         "StatusEffects": "LifeStaff_HealingWave_HoT_Upgrade",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1742,7 +1742,7 @@
     {
         "SpellID": "LifeStaff_HealingWave_Self",
         "StatusEffects": "LifeStaff_HealingWave_HoT",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1829,7 +1829,7 @@
     {
         "SpellID": "LifeStaff_HealingWave_Mana_Upgrade_Self",
         "StatusEffects": "LifeStaff_HealingWave_HoT",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -1916,7 +1916,7 @@
     {
         "SpellID": "LifeStaff_HealingWave_CastRange_Upgrade_Self",
         "StatusEffects": "LifeStaff_HealingWave_HoT",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2003,7 +2003,7 @@
     {
         "SpellID": "LifeStaff_HealingWave_SpellPower_Upgrade_Self",
         "StatusEffects": "LifeStaff_HealingWave_HoT_Upgrade",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2090,7 +2090,7 @@
     {
         "SpellID": "LifeStaff_TouchOfLight",
         "StatusEffects": "LifeStaff_DivineEmbrace_Heal",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2177,7 +2177,7 @@
     {
         "SpellID": "LifeStaff_TouchOfLight_Mana_Upgrade",
         "StatusEffects": "LifeStaff_DivineEmbrace_Heal",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2264,7 +2264,7 @@
     {
         "SpellID": "LifeStaff_TouchOfLight_Buff_Upgrade",
         "StatusEffects": "LifeStaff_DivineEmbrace_Heal_Upgrade",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2351,7 +2351,7 @@
     {
         "SpellID": "LifeStaff_TouchOfLight_Target_Ally_Heal",
         "StatusEffects": "LifeStaff_DivineEmbrace_Heal_Upgrade",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -2438,7 +2438,7 @@
     {
         "SpellID": "LifeStaff_TouchOfLight_Self",
         "StatusEffects": "LifeStaff_DivineEmbrace_Heal",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2525,7 +2525,7 @@
     {
         "SpellID": "LifeStaff_TouchOfLight_Mana_Upgrade_Self",
         "StatusEffects": "LifeStaff_DivineEmbrace_Heal",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2612,7 +2612,7 @@
     {
         "SpellID": "LifeStaff_TouchOfLight_Buff_Upgrade_Self",
         "StatusEffects": "LifeStaff_DivineEmbrace_Heal_Upgrade",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2699,7 +2699,7 @@
     {
         "SpellID": "LifeStaff_Smite",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2786,7 +2786,7 @@
     {
         "SpellID": "LifeStaff_Smite_15prcntDamage_Upgrade",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2873,7 +2873,7 @@
     {
         "SpellID": "LifeStaff_Smite_30prcntDamage_Upgrade",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -2960,7 +2960,7 @@
     {
         "SpellID": "LifeStaff_Heal_Siphon_Super",
         "StatusEffects": "LifeStaff_HealFriend_Super_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3047,7 +3047,7 @@
     {
         "SpellID": "LifeStaff_Heal_Siphon_AoE_Super",
         "StatusEffects": "LifeStaff_ManaDrain_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3134,7 +3134,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_Projectile_Super",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3221,7 +3221,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_Super",
         "StatusEffects": "LifeStaff_DamageEnemy_Super_Siphon,LifeStaff_SlowEnemy_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3308,7 +3308,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_AoE_Super",
         "StatusEffects": "LifeStaff_ManaGain_Armor_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3395,7 +3395,7 @@
     {
         "SpellID": "LifeStaff_Heal_Siphon_Armor",
         "StatusEffects": "LifeStaff_HealFriend_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3482,7 +3482,7 @@
     {
         "SpellID": "LifeStaff_Heal_Siphon_AoE_Armor",
         "StatusEffects": "LifeStaff_ManaDrain_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3569,7 +3569,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_Projectile_Armor",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3656,7 +3656,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_Armor",
         "StatusEffects": "LifeStaff_DamageEnemy_Armor_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3743,7 +3743,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_AoE_Armor",
         "StatusEffects": "LifeStaff_ManaGain_Armor_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3830,7 +3830,7 @@
     {
         "SpellID": "LifeStaff_Heal_Siphon_Range",
         "StatusEffects": "LifeStaff_HealFriend_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -3917,7 +3917,7 @@
     {
         "SpellID": "LifeStaff_Heal_Siphon_AoE_Range",
         "StatusEffects": "LifeStaff_ManaDrain_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -4004,7 +4004,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_Projectile_Range",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -4091,7 +4091,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_Range",
         "StatusEffects": "LifeStaff_DamageEnemy_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -4178,7 +4178,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_AoE_Range",
         "StatusEffects": "LifeStaff_ManaGain_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -4265,7 +4265,7 @@
     {
         "SpellID": "LifeStaff_Heal_Siphon",
         "StatusEffects": "LifeStaff_HealFriend_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -4352,7 +4352,7 @@
     {
         "SpellID": "LifeStaff_Heal_Siphon_AoE",
         "StatusEffects": "LifeStaff_ManaDrain_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -4439,7 +4439,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_Projectile",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -4526,7 +4526,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon",
         "StatusEffects": "LifeStaff_DamageEnemy_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -4613,7 +4613,7 @@
     {
         "SpellID": "LifeStaff_Mana_Siphon_AoE",
         "StatusEffects": "LifeStaff_ManaGain_Siphon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": true,
         "AttachToOwner": null,
@@ -4700,7 +4700,7 @@
     {
         "SpellID": "LifeStaff_Protector_IncreasedHealing_Passive",
         "StatusEffects": "LifeStaff_IncreasedHealing_Passive",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -4787,7 +4787,7 @@
     {
         "SpellID": "LifeStaff_Protector_5prcnt_Shield",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -4874,7 +4874,7 @@
     {
         "SpellID": "LifeStaff_Protector_Mana_Regen",
         "StatusEffects": "LifeStaff_Mana_Regen",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -4961,7 +4961,7 @@
     {
         "SpellID": "LifeStaff_Aim_Walk_Speed_Upgrade",
         "StatusEffects": "LifeStaff_Aim_Walk_Speed_Passive",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -5048,7 +5048,7 @@
     {
         "SpellID": "LifeStaff_Revive",
         "StatusEffects": "PreventResuscitateTimer",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": true,
         "Siphon": null,
         "AttachToOwner": true,
@@ -5135,7 +5135,7 @@
     {
         "SpellID": "LifeStaff_Revive_Resuscitate_Timer",
         "StatusEffects": "MassRezTimer",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": true,
         "Siphon": null,
         "AttachToOwner": true,
@@ -5222,7 +5222,7 @@
     {
         "SpellID": "LifeStaff_Revive_MR",
         "StatusEffects": "MassRezTimer",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": true,
         "Siphon": null,
         "AttachToOwner": true,
@@ -5309,7 +5309,7 @@
     {
         "SpellID": "LifeStaff_MR_Victim_Effect",
         "StatusEffects": "LifeStaff_MR_Victim_Effect",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -5396,7 +5396,7 @@
     {
         "SpellID": "LifeStaff_MR_Victim_Effect_Active",
         "StatusEffects": "LifeStaff_MR_Victim_Effect_Active",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -5483,7 +5483,7 @@
     {
         "SpellID": "LifeStaff_Speed_Intro",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -5570,7 +5570,7 @@
     {
         "SpellID": "Siphon_Healing_Check_To_Cast",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -5657,7 +5657,7 @@
     {
         "SpellID": "LifeStaff_TEST",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -5744,7 +5744,7 @@
     {
         "SpellID": "Spell_Ability_Lifestaff_SplashofLight",
         "StatusEffects": "Status_LifeStaff_SplashofLight",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -5831,7 +5831,7 @@
     {
         "SpellID": "Spell_Ability_LifeStaff_OrbofProtection",
         "StatusEffects": "Status_Ability_Lifestaff_OrbofProtection,Status_Ability_Lifestaff_OrbofProtection_Heal",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -5918,7 +5918,7 @@
     {
         "SpellID": "Spell_Ability_LifeStaff_OrbofProtection_AOE",
         "StatusEffects": "Status_Ability_Lifestaff_OrbofProtection,Status_Ability_Lifestaff_OrbofProtection_Heal",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6005,7 +6005,7 @@
     {
         "SpellID": "Spell_Ability_LifeStaff_OrbofProtection_HOT",
         "StatusEffects": "Status_Ability_Lifestaff_OrbofProtection,Status_Ability_Lifestaff_OrbofProtection_Heal,Status_Ability_Lifestaff_OrbofProtection_HealoverTime",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6092,7 +6092,7 @@
     {
         "SpellID": "Spell_Ability_LifeStaff_OrbofProtection_HOT_AOE",
         "StatusEffects": "Status_Ability_Lifestaff_OrbofProtection,Status_Ability_Lifestaff_OrbofProtection_Heal,Status_Ability_Lifestaff_OrbofProtection_HealoverTime",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6179,7 +6179,7 @@
     {
         "SpellID": "Spell_Ability_LifeStaff_OrbofProtection_Upgrade",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6266,7 +6266,7 @@
     {
         "SpellID": "Spell_Ability_LifeStaff_OrbofProtection_AOE_Upgrade",
         "StatusEffects": "Status_Ability_Lifestaff_OrbofProtection,Status_Ability_Lifestaff_OrbofProtection_Heal,Status_Ability_Lifestaff_OrbofProtection_HealoverTime",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6353,7 +6353,7 @@
     {
         "SpellID": "Spell_LifeStaff_Light_Projectile",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6440,7 +6440,7 @@
     {
         "SpellID": "Spell_LifeStaff_Heavy_Projectile",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6527,7 +6527,7 @@
     {
         "SpellID": "Spell_LifeStaff_Light_Projectile_Aoe",
         "StatusEffects": "Status_Passive_Lifestaff_Healing_HealOnLight",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6614,7 +6614,7 @@
     {
         "SpellID": "Spell_LifeStaff_Heavy_Projectile_Aoe",
         "StatusEffects": "Status_Passive_Lifestaff_Healing_RemoveOnHeavy",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6701,7 +6701,7 @@
     {
         "SpellID": "Spell_LifeStaff_Light_Projectile_NoMana",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6788,7 +6788,7 @@
     {
         "SpellID": "Spell_LifeStaff_Heavy_Projectile_NoMana",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6875,7 +6875,7 @@
     {
         "SpellID": "Spell_LifeStaff_Light_Projectile_Heal",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -6962,7 +6962,7 @@
     {
         "SpellID": "Spell_LifeStaff_Heavy_Projectile_Remove",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -7049,7 +7049,7 @@
     {
         "SpellID": "Spell_LifeStaff_DivineEmbrace",
         "StatusEffects": "Status_Ability_Lifestaff_DivineEmbrace",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -7136,7 +7136,7 @@
     {
         "SpellID": "Spell_LifeStaff_DivineEmbrace_ReducedCost",
         "StatusEffects": "Status_Ability_Lifestaff_DivineEmbrace",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -7223,7 +7223,7 @@
     {
         "SpellID": "Spell_LifeStaff_DivineEmbrace_HealAlly",
         "StatusEffects": "Status_Ability_Lifestaff_DivineEmbrace",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -7310,7 +7310,7 @@
     {
         "SpellID": "Spell_LifeStaff_DivineEmbrace_HealAlly2",
         "StatusEffects": "Status_Ability_Lifestaff_DivineEmbrace",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -7397,7 +7397,7 @@
     {
         "SpellID": "Spell_LifeStaff_DivineEmbrace_Self",
         "StatusEffects": "Status_Ability_Lifestaff_DivineEmbrace",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -7484,7 +7484,7 @@
     {
         "SpellID": "Spell_LifeStaff_DivineEmbrace_Self_ReducedCost",
         "StatusEffects": "Status_Ability_Lifestaff_DivineEmbrace",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -7571,7 +7571,7 @@
     {
         "SpellID": "Spell_LifeStaff_LightsEmbrace",
         "StatusEffects": "Status_Ability_Lifestaff_LightsEmbrace",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -7658,7 +7658,7 @@
     {
         "SpellID": "Spell_LifeStaff_LightsEmbrace_Self",
         "StatusEffects": "Status_Ability_Lifestaff_LightsEmbrace",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -7745,7 +7745,7 @@
     {
         "SpellID": "LifeStaff_TouchOfLight_Channel",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -7832,7 +7832,7 @@
     {
         "SpellID": "LifeStaff_LightsEmbrace_Channel",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -7919,7 +7919,7 @@
     {
         "SpellID": "Spell_LifeStaff_SacredGround",
         "StatusEffects": "Status_Ability_Lifestaff_SacredGround",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -8006,7 +8006,7 @@
     {
         "SpellID": "Spell_LifeStaff_SacredGround_Upgrade",
         "StatusEffects": "Status_Ability_Lifestaff_SacredGround,Status_Ability_Lifestaff_SacredGround_Upgrade",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -8093,7 +8093,7 @@
     {
         "SpellID": "Spell_LifeStaff_SacredGround_Upgrade2",
         "StatusEffects": "Status_Ability_Lifestaff_SacredGround,Status_Ability_Lifestaff_SacredGround_Upgrade,Status_Ability_Lifestaff_SacredGround_Upgrade2",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -8180,7 +8180,7 @@
     {
         "SpellID": "Spell_LifeStaff_SacredGround_Self",
         "StatusEffects": "Status_Ability_Lifestaff_SacredGround",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -8267,7 +8267,7 @@
     {
         "SpellID": "Spell_LifeStaff_SacredGround_Self_Upgrade",
         "StatusEffects": "Status_Ability_Lifestaff_SacredGround,Status_Ability_Lifestaff_SacredGround_Upgrade",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -8354,7 +8354,7 @@
     {
         "SpellID": "Spell_LifeStaff_SacredGround_Self_Upgrade2",
         "StatusEffects": "Status_Ability_Lifestaff_SacredGround,Status_Ability_Lifestaff_SacredGround_Upgrade,Status_Ability_Lifestaff_SacredGround_Upgrade2",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -8441,7 +8441,7 @@
     {
         "SpellID": "Spell_Ability_Lifestaff_Beacon_Projectile",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -8528,7 +8528,7 @@
     {
         "SpellID": "Spell_Ability_Lifestaff_Beacon_AOE",
         "StatusEffects": "Status_Ability_Lifestaff_Beacon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -8615,7 +8615,7 @@
     {
         "SpellID": "Spell_Ability_Lifestaff_Beacon_Projectile_Upgrade",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -8702,7 +8702,7 @@
     {
         "SpellID": "Spell_Ability_Lifestaff_Beacon_AOE_Upgrade",
         "StatusEffects": "Status_Ability_Lifestaff_Beacon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -8789,7 +8789,7 @@
     {
         "SpellID": "Spell_Ability_Lifestaff_Beacon_Projectile_Upgrade2",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -8876,7 +8876,7 @@
     {
         "SpellID": "Spell_Ability_Lifestaff_Beacon_AOE_Upgrade2",
         "StatusEffects": "Status_Ability_Lifestaff_Beacon",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -8963,7 +8963,7 @@
     {
         "SpellID": "Spell_Ability_Lifestaff_Beacon_Projectile_Upgrade3",
         "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": null,
@@ -9050,7 +9050,7 @@
     {
         "SpellID": "Spell_Ability_Lifestaff_Beacon_AOE_Upgrade3",
         "StatusEffects": "Status_Ability_Lifestaff_Beacon,Status_Upgrade_Lifestaff_Protection_AddHaste",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": null,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -9137,7 +9137,7 @@
     {
         "SpellID": "Spell_Passive_Lifestaff_Healing_AoeHealWhenHit",
         "StatusEffects": "Status_Passive_Lifestaff_Healing_AoeHealWhenHit",
-        "StatusEffectDurations": "",
+        "StatusEffectDurations": 6,
         "Revive": null,
         "Siphon": null,
         "AttachToOwner": true,
@@ -9155,8 +9155,8 @@
         "ClearOnExit": true,
         "ClearOnEnd": true,
         "ManaCost": "",
-        "UseStatusEffectDuration": false,
-        "Duration": 10000,
+        "UseStatusEffectDuration": true,
+        "Duration": 6000,
         "DurationScaling": "",
         "Height": 5,
         "Length": "",
