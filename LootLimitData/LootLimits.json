@@ -713,5 +713,16 @@
         "MaxLimitMult": 86400,
         "LimitExpireSeconds": 86400,
         "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "WoodenCoin",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 10,
+        "MinLimitMult": 86400,
+        "MaxLimitMult": 86400,
+        "LimitExpireSeconds": 86400,
+        "LimitNotificationLocTag": ""
     }
 ]

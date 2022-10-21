@@ -6728,7 +6728,7 @@
         "GreetTimeline": "Libs\\Timeline\\Npc\\settle_ranger_intro_01.timeline",
         "IdleTimeline": "Libs\\Timeline\\Npc\\NPC_WoundedAdianaIdle.timeline",
         "InteractTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_stand_listening_01_ambient.timeline",
-        "SwapAchievementId": "SwapActive_VillageAdiana_On",
+        "SwapAchievementId": "(SwapActive_VillageAdiana_On \u0026\u0026 !99_MSQ_56) || (16_BSMSQ_00 \u0026\u0026 !99_MSQ_56)",
         "PlaceholderMesh": "",
         "AttachedMesh": "",
         "AttachmentPositionX": null,
