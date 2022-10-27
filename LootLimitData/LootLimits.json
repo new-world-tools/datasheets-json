@@ -715,6 +715,39 @@
         "LimitNotificationLocTag": ""
     },
     {
+        "LootLimitID": "SE_Music_Cooking_Limit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "SE_Music_Furnishing_Limit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "SE_Music_Loom_Limit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LimitNotificationLocTag": ""
+    },
+    {
         "LootLimitID": "WoodenCoin",
         "IsReplicated": false,
         "MinLimitSeconds": 0,

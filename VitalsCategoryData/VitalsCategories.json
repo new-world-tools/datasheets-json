@@ -21442,7 +21442,7 @@
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Rifleman_M-F_03GC09_ELITE\"\u003eDamned_Rifleman_M-F_03GC09_ELITE\u003c/string\u003e",
-        "GroupVitalsCategoryId": "Lower_Svikin",
+        "GroupVitalsCategoryId": "Southguard",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
@@ -86979,6 +86979,19 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Named_Expedition_AI",
+        "DisplayName": "",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": 1,
         "MtlOverride": "",
         "FemaleMtlOverride": ""
     }

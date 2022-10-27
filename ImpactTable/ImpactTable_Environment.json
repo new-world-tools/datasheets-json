@@ -1604,5 +1604,27 @@
         "mat_corruption_core": "EnvironmentCorruptionCore",
         "mat_corruption": "EnvironmentCorruptionCore",
         "mat_holy_shield": "HolyShield_Proj"
+    },
+    {
+        "Name": "BileBomb",
+        "mat_default": "Heartgem_BileBombEnvironment",
+        "mat_bark": "Heartgem_BileBombEnvironment",
+        "mat_dirt": "Heartgem_BileBombEnvironment",
+        "mat_fabric": "Heartgem_BileBombEnvironment",
+        "mat_grass": "Heartgem_BileBombEnvironment",
+        "mat_metal": "Heartgem_BileBombEnvironment",
+        "mat_mud": "Heartgem_BileBombEnvironment",
+        "mat_rock": "Heartgem_BileBombEnvironment",
+        "mat_rock_wet": "Heartgem_BileBombEnvironment",
+        "mat_sand": "Heartgem_BileBombEnvironment",
+        "mat_sand_wet": "Heartgem_BileBombEnvironment",
+        "mat_thatch": "Heartgem_BileBombEnvironment",
+        "mat_water": "Heartgem_BileBombEnvironment",
+        "mat_water_deep": "Heartgem_BileBombEnvironment",
+        "mat_water_shallow": "Heartgem_BileBombEnvironment",
+        "mat_wood": "Heartgem_BileBombEnvironment",
+        "mat_corruption_core": "Heartgem_BileBombEnvironment",
+        "mat_corruption": "Heartgem_BileBombEnvironment",
+        "mat_holy_shield": "HolyShield_Proj"
     }
 ]

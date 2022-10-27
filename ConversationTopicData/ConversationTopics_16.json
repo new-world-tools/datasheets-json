@@ -142,5 +142,14 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_Coro_ImhotepTalkTo",
+        "PlayerPrompt": "@1625_0903_thecoronation_TalkTo_Imhotep2_prompt",
+        "NPCResponse": "@1625_0903_thecoronation_TalkTo_Imhotep2",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
     }
 ]

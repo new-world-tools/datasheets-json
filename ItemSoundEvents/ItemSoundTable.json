@@ -193,8 +193,8 @@
     },
     {
         "ItemSoundID": "MagicStaff",
-        "Sheathe": "Play_Sheathe_2H_WarHammer_T1",
-        "Unsheathe": "Play_Unsheathe_2H_WarHammer_T2",
+        "Sheathe": "Play_Sheathe_2H_StaffLife_T1",
+        "Unsheathe": "Play_Unsheathe_2H_StaffLife_T1",
         "SheatheFLY": "",
         "UnsheatheFLY": "",
         "Defense": "Play_1H_Melee_Block"
@@ -214,6 +214,22 @@
         "SheatheFLY": "",
         "UnsheatheFLY": "",
         "Defense": "Play_1H_Melee_Block"
+    },
+    {
+        "ItemSoundID": "Gauntlet_Ice",
+        "Sheathe": "Play_Gauntlet_Ice_Sheathe",
+        "Unsheathe": "Play_Gauntlet_Ice_Unsheathe",
+        "SheatheFLY": "",
+        "UnsheatheFLY": "",
+        "Defense": ""
+    },
+    {
+        "ItemSoundID": "Gauntlet_Void",
+        "Sheathe": "Play_Gauntlet_Void_Sheathe",
+        "Unsheathe": "Play_Gauntlet_Void_Unsheathe",
+        "SheatheFLY": "",
+        "UnsheatheFLY": "",
+        "Defense": ""
     },
     {
         "ItemSoundID": "MXMI_Flute",

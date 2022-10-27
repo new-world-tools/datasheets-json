@@ -11183,8 +11183,8 @@
         "EmissiveIntensity": null,
         "SoundTableID": "MXMI_Mandolin",
         "IconCaptureGroup": "Mandolin",
-        "IconPath": "",
-        "HiResIconPath": ""
+        "IconPath": "lyshineui/images/icons/items/MusicalActions/MandolinDarkFaeT5.png",
+        "HiResIconPath": "lyshineui/images/icons/items_hires/MandolinDarkFaeT5.png"
     },
     {
         "WeaponAppearanceID": "GuitarDarkFaeT5",
@@ -11216,14 +11216,14 @@
         "EmissiveIntensity": null,
         "SoundTableID": "MXMI_Guitar",
         "IconCaptureGroup": "Guitar",
-        "IconPath": "",
-        "HiResIconPath": ""
+        "IconPath": "lyshineui/images/icons/items/MusicalActions/GuitarDarkFaeT5.png",
+        "HiResIconPath": "lyshineui/images/icons/items_hires/GuitarDarkFaeT5.png"
     },
     {
         "WeaponAppearanceID": "URBassDarkFaeT5",
         "Art ID Names": "bassDarkFae",
         "Weapon Material name Info": "DarkFae",
-        "MeshOverride": "",
+        "MeshOverride": "Objects/Instruments/URBasses/URBassDarkFae/musi_urba_urbassDarkFae.cdf",
         "SkinOverride1": "",
         "MaterialOverride1": "",
         "SkinOverride2": "",
@@ -11249,8 +11249,8 @@
         "EmissiveIntensity": null,
         "SoundTableID": "MXMI_UprightBass",
         "IconCaptureGroup": "Bass",
-        "IconPath": "",
-        "HiResIconPath": ""
+        "IconPath": "lyshineui/images/icons/items/MusicalActions/URBassDarkFaeT5.png",
+        "HiResIconPath": "lyshineui/images/icons/items_hires/URBassDarkFaeT5.png"
     },
     {
         "WeaponAppearanceID": "AzothFluteDarkFaeT5",
@@ -11282,8 +11282,8 @@
         "EmissiveIntensity": null,
         "SoundTableID": "MXMI_Flute",
         "IconCaptureGroup": "Flute",
-        "IconPath": "",
-        "HiResIconPath": ""
+        "IconPath": "lyshineui/images/icons/items/MusicalActions/AzothFluteDarkFaeT5.png",
+        "HiResIconPath": "lyshineui/images/icons/items_hires/AzothFluteDarkFaeT5.png"
     },
     {
         "WeaponAppearanceID": "DrumsDarkFaeT5",
@@ -11315,7 +11315,7 @@
         "EmissiveIntensity": null,
         "SoundTableID": "MXMI_Drums",
         "IconCaptureGroup": "Drum",
-        "IconPath": "",
-        "HiResIconPath": ""
+        "IconPath": "lyshineui/images/icons/items/MusicalActions/DrumsDarkFaeT5.png",
+        "HiResIconPath": "lyshineui/images/icons/items_hires/DrumsDarkFaeT5.png"
     }
 ]

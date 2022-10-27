@@ -98,6 +98,20 @@
         "Notes": "LOOPING - Pet the bird's head"
     },
     {
+        "InteractionAnimationID": "HousingItemPetCat",
+        "PlayerMannequinFragmentStartInteraction": "Interact_Pet_Cat",
+        "InteractableTimelineStartInteraction": "Interact_Start",
+        "InteractableTimelineEndInteraction": "Interact_End",
+        "Notes": "LOOPING - Petting a kitty."
+    },
+    {
+        "InteractionAnimationID": "HousingItemCheerYeti",
+        "PlayerMannequinFragmentStartInteraction": "Interact_Cheer_Yeti",
+        "InteractableTimelineStartInteraction": "Interact_Start",
+        "InteractableTimelineEndInteraction": "Interact_End",
+        "Notes": "SINGLE - Player does a cheer."
+    },
+    {
         "InteractionAnimationID": "HousingItemWatering",
         "PlayerMannequinFragmentStartInteraction": "Interact_Watering",
         "InteractableTimelineStartInteraction": "Interact_Start",

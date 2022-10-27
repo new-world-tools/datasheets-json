@@ -404,5 +404,68 @@
         "Index": 3,
         "Title": "@ui_meta_achievements_hamlets",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background09.dds"
+    },
+    {
+        "MetaAchievementCategoryId": "Leaderboard",
+        "Parent Category": "",
+        "Index": 12,
+        "Title": "@ui_meta_achievements_leaderboards",
+        "Icon Color Background": ""
+    },
+    {
+        "MetaAchievementCategoryId": "Mutated_Expeditions",
+        "Parent Category": "Leaderboard",
+        "Index": 1,
+        "Title": "@ui_meta_achievements_mutated_expeditions",
+        "Icon Color Background": ""
+    },
+    {
+        "MetaAchievementCategoryId": "Trials",
+        "Parent Category": "Leaderboard",
+        "Index": 2,
+        "Title": "@ui_meta_achievements_trials",
+        "Icon Color Background": ""
+    },
+    {
+        "MetaAchievementCategoryId": "Faction_Wars",
+        "Parent Category": "Leaderboard",
+        "Index": 3,
+        "Title": "@ui_meta_achievements_faction_wars",
+        "Icon Color Background": ""
+    },
+    {
+        "MetaAchievementCategoryId": "Versus_Environment",
+        "Parent Category": "Leaderboard",
+        "Index": 4,
+        "Title": "@ui_meta_achievements_versus_environment",
+        "Icon Color Background": ""
+    },
+    {
+        "MetaAchievementCategoryId": "Versus_Player",
+        "Parent Category": "Leaderboard",
+        "Index": 5,
+        "Title": "@ui_meta_achievements_versus_player",
+        "Icon Color Background": ""
+    },
+    {
+        "MetaAchievementCategoryId": "Leaderboard_Outpost_Rush",
+        "Parent Category": "Leaderboard",
+        "Index": 7,
+        "Title": "@ui_meta_achievements_outpost_rush",
+        "Icon Color Background": ""
+    },
+    {
+        "MetaAchievementCategoryId": "Leaderboard_Invasions_And_Breaches",
+        "Parent Category": "Leaderboard",
+        "Index": 8,
+        "Title": "@ui_meta_achievements_invasions_and_breaches",
+        "Icon Color Background": ""
+    },
+    {
+        "MetaAchievementCategoryId": "Territory_Control",
+        "Parent Category": "Leaderboard",
+        "Index": 9,
+        "Title": "@ui_meta_achievements_territory_control",
+        "Icon Color Background": ""
     }
 ]

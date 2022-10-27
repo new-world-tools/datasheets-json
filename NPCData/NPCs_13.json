@@ -105,7 +105,7 @@
     },
     {
         "NPCId": "1307_Commander",
-        "Title": "",
+        "Title": "@1307_Commander_Title",
         "GenericName": "@1307_Commander",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "1307_00_Commander",
@@ -131,7 +131,7 @@
     },
     {
         "NPCId": "1308_Alchemist",
-        "Title": "",
+        "Title": "@1308_Alchemist_Title",
         "GenericName": "@1308_Alchemist",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "1308_00_Alchemist",
@@ -157,7 +157,7 @@
     },
     {
         "NPCId": "1309_Adjudicator",
-        "Title": "",
+        "Title": "@1309_Adjudicator_Title",
         "GenericName": "@1309_Adjudicator",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "1309_00_Adjudicator",
