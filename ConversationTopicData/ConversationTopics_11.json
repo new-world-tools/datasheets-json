@@ -7,50 +7,5 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1140_Topic1_Hallow",
-        "PlayerPrompt": "@1140_Topic1_Hallow_prompt",
-        "NPCResponse": "@1140_Topic1_Hallow_response",
-        "AchievementUnlock": "11_HalloweenQuest1",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1140_Topic2_Pumpkinites",
-        "PlayerPrompt": "@1140_Topic2_Pumpkinites_prompt",
-        "NPCResponse": "@1140_Topic2_Pumpkinites_response",
-        "AchievementUnlock": "11_HalloweenQuest1",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1140_Topic3_Baalphazu",
-        "PlayerPrompt": "@1140_Topic3_Baalphazu_prompt",
-        "NPCResponse": "@1140_Topic3_Baalphazu_response",
-        "AchievementUnlock": "11_HalloweenQuest1",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1140_Topic4_Cauldron",
-        "PlayerPrompt": "@1140_Topic4_Cauldron_prompt",
-        "NPCResponse": "@1140_Topic4_Cauldron_response",
-        "AchievementUnlock": "11_HalloweenQuest1",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1140_Topic5_Hexen",
-        "PlayerPrompt": "@1140_Topic5_Hexen_prompt",
-        "NPCResponse": "@1140_Topic5_Hexen_response",
-        "AchievementUnlock": "11_HalloweenQuest2",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
     }
 ]

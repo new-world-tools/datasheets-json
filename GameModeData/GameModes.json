@@ -582,7 +582,7 @@
         "MinGroupSize": 3,
         "PreserveOldGroup": null,
         "IsDungeon": true,
-        "IsMutable": true,
+        "IsMutable": null,
         "DifficultyProgressionId": "DungeonEverfall00Difficulty",
         "RestrictGathering": false,
         "RestrictWaterGathering": true,

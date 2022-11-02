@@ -2539,26 +2539,5 @@
         "IconPath": "lyshineui/images/icons/objectives/reward_eventProgress.dds",
         "UsesGlobalProgressionMod": null,
         "ItemClass": ""
-    },
-    {
-        "CategoricalProgressionId": "HalloweenEventProgress",
-        "DisplayName": "@ui_event_halloween_progress_name",
-        "MaxLevel": 1,
-        "AutoRankUp": true,
-        "InfiniteLevels": false,
-        "RepeatMaxLevel": false,
-        "AllowOverflow": false,
-        "RankTableId": "HalloweenEventRanks",
-        "ProgressionPointPool": "",
-        "PreSkillCapSkill": "",
-        "PostSkillCapSkill": "",
-        "EconomyTrackerType": "",
-        "GameEventId": "",
-        "AchievementIdOnMaxRank": "",
-        "MinTrackedLevel": null,
-        "ShowAsObjectiveReward": true,
-        "IconPath": "lyshineui/images/icons/objectives/reward_eventProgress.dds",
-        "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
     }
 ]
