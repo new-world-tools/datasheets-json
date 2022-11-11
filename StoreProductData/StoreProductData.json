@@ -4899,7 +4899,7 @@
         "IsEnabled": 1,
         "DisplayName": "@Apparel_WinterConv2022_Prime_name",
         "Description": "@Apparel_WinterConv2022_Prime_description",
-        "PortraitImage": "LyShineUI/Images/mtx/armorSet_Portrait_WinterConvergence2022_Prime.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_WinterConvergence2022_Prime.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_WinterConvergence2022_Prime.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_WinterConvergence2022_Prime.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_WinterConvergence2022_Prime.png",
@@ -4911,9 +4911,9 @@
         "DisplayName": "@Skin_GreatAxe_DecPrime2022_MasterName",
         "Description": "@Skin_GreatAxe_DecPrime2022_Description",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterConvergence2022_GreatAxe.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterConvergence2022_GreatAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterConvergence2022_GreatAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterConvergence2022_GreatAxe.png",
         "TypeDescription": "@reward_type_Weaponskin_GreatAxe"
     },
     {
@@ -4922,9 +4922,9 @@
         "DisplayName": "@Skin_Longsword_DecPrime2022_MasterName",
         "Description": "@Skin_Longsword_DecPrime2022_Description",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterConvergence2022_Sword.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterConvergence2022_Sword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterConvergence2022_Sword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterConvergence2022_Sword.png",
         "TypeDescription": "@reward_type_Weaponskin_Sword"
     },
     {
@@ -4933,9 +4933,9 @@
         "DisplayName": "@Skin_Musket_DecPrime2022_MasterName",
         "Description": "@Skin_Musket_DecPrime2022_Description",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterConvergence2022_Musket.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterConvergence2022_Musket.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterConvergence2022_Musket.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterConvergence2022_Musket.png",
         "TypeDescription": "@reward_type_Weaponskin_Musket"
     },
     {
@@ -4944,9 +4944,9 @@
         "DisplayName": "@Skin_WarHammer_WinterConv2022_MasterName",
         "Description": "@Skin_WarHammer_WinterConv2022_Description",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterConvergence2022_Warhammer.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterConvergence2022_Warhammer.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterConvergence2022_Warhammer.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterConvergence2022_Warhammer.png",
         "TypeDescription": "@reward_type_Weaponskin_Warhammer"
     },
     {
@@ -4955,9 +4955,9 @@
         "DisplayName": "@Skin_Firestaff_WinterConv2022_MasterName",
         "Description": "@Skin_Firestaff_WinterConv2022_Description",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterConvergence2022_FireStaff.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterConvergence2022_FireStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterConvergence2022_FireStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterConvergence2022_FireStaff.png",
         "TypeDescription": "@reward_type_Weaponskin_FireStaff"
     },
     {
@@ -4965,10 +4965,10 @@
         "IsEnabled": 1,
         "DisplayName": "@Skin_ShieldT_WinterConv2022_MasterName",
         "Description": "@Skin_ShieldT_WinterConv2022_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterConvergence2022_TowerShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterConvergence2022_TowerShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterConvergence2022_TowerShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterConvergence2022_TowerShield.png",
         "TypeDescription": "@reward_type_Weaponskin_Shield"
     },
     {
@@ -4977,9 +4977,9 @@
         "DisplayName": "@Skin_VoidGauntlet_WinterConv2022_MasterName",
         "Description": "@Skin_VoidGauntlet_WinterConv2022_Description",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterConvergence2022_VoidGauntlet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterConvergence2022_VoidGauntlet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterConvergence2022_VoidGauntlet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterConvergence2022_VoidGauntlet.png",
         "TypeDescription": "@reward_type_Weaponskin_VoidGauntlet"
     },
     {
@@ -4987,10 +4987,10 @@
         "IsEnabled": 1,
         "DisplayName": "@Skin_Blunderbuss_WinterConv2022_MasterName",
         "Description": "@Skin_Blunderbuss_WinterConv2022_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterConvergence2022_Blunderbuss.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterConvergence2022_Blunderbuss.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterConvergence2022_Blunderbuss.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterConvergence2022_Blunderbuss.png",
         "TypeDescription": "@reward_type_Weaponskin_Blunderbuss"
     },
     {
@@ -4999,9 +4999,9 @@
         "DisplayName": "@Skin_Greatsword_WinterConv2022_MasterName",
         "Description": "@Skin_Greatsword_WinterConv2022_Description",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterConvergence2022_Greatsword.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterConvergence2022_Greatsword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterConvergence2022_Greatsword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterConvergence2022_Greatsword.png",
         "TypeDescription": "@reward_type_Weaponskin_Greatsword"
     },
     {
@@ -5009,10 +5009,10 @@
         "IsEnabled": 1,
         "DisplayName": "@House_HousingItem_Entitlement_Winter2022_Boots_Slippers01_MasterName",
         "Description": "@House_HousingItem_Entitlement_Winter2022_Boots_Slippers01_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Winter2022_BootsAndSlippers.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Winter2022_BootsAndSlippers.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Winter2022_BootsAndSlippers.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Winter2022_BootsAndSlippers.png",
         "TypeDescription": "@reward_type_housing_item"
     },
     {
@@ -5020,10 +5020,10 @@
         "IsEnabled": 1,
         "DisplayName": "@House_HousingItem_Entitlement_Winter2022_CoatRack01_MasterName",
         "Description": "@House_HousingItem_Entitlement_Winter2022_CoatRack01_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Winter2022_CoatRack.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Winter2022_CoatRack.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Winter2022_CoatRack.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Winter2022_CoatRack.png",
         "TypeDescription": "@reward_type_housing_item"
     },
     {
@@ -5031,10 +5031,10 @@
         "IsEnabled": 1,
         "DisplayName": "@House_HousingItem_Entitlement_Winter2022_CocoaPlatter01_MasterName",
         "Description": "@House_HousingItem_Entitlement_Winter2022_CocoaPlatter01_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Winter2022_HotChocolate.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Winter2022_HotChocolate.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Winter2022_HotChocolate.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Winter2022_HotChocolate.png",
         "TypeDescription": "@reward_type_housing_item"
     },
     {
@@ -5042,10 +5042,10 @@
         "IsEnabled": 1,
         "DisplayName": "@House_HousingItem_Entitlement_Winter2022_RockingHorse01_MasterName",
         "Description": "@House_HousingItem_Entitlement_Winter2022_RockingHorse01_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Winter2022_RockingHorse.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Winter2022_RockingHorse.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Winter2022_RockingHorse.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Winter2022_RockingHorse.png",
         "TypeDescription": "@reward_type_housing_item"
     },
     {
@@ -5097,10 +5097,10 @@
         "IsEnabled": 1,
         "DisplayName": "@Bundle_PR_WinterConv2022_Weapons_name",
         "Description": "@Bundle_PR_WinterConv2022_Weapons_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Portrait_WinterConvergence2021Set2_Chest.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Rectangle_WinterConvergence2021Set2_Chest.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Square_WinterConvergence2021Set2_Chest.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Thumbnail_WinterConvergence2021Set2_Chest.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Weapon_WinterConvergence2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_WinterConvergence2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_WinterConvergence2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_WinterConvergence2022.png",
         "TypeDescription": "@ui_bundle"
     }
 ]
