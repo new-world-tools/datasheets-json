@@ -11712,6 +11712,22 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+        "#": 10313,
+        "WeaponID": "Skin_IceGaunt_DarkFae",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletDarkFae/wep_mag_gauntcore_1h_icegauntletDarkFae.cdf",
+        "SkinOverride1": "Objects/Weapons/magic/gauntletcore/1h/icegauntletDarkFae/wep_mag_gauntcore_1h_icegauntletDarkFae.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/icegauntletDarkFae/wep_mag_gaunt_1h_icegauntletDarkFae_matGroup.mtl",
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
         "#": 10315,
         "WeaponID": "1hIceGauntletNightveilT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
