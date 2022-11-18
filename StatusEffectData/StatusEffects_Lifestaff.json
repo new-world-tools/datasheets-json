@@ -12202,7 +12202,7 @@
     },
     {
         "StatusID": "Status_Passive_Lifestaff_Healing_HealingBuffonBasic",
-        "DisplayName": "@Status_Fortify",
+        "DisplayName": "@Status_Passive_Lifestaff_Healing_HealingBuffonBasic_name",
         "Description": "@Status_Passive_Lifestaff_Healing_HealingBuffonBasic_description",
         "EffectCategories": "Buff+Fortify+LifestaffBuff",
         "PlaceholderIcon": "lyshineui/images/status/SE_HealT2.png",

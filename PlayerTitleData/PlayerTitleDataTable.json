@@ -4618,5 +4618,19 @@
         "CategoricalProgressionId": "",
         "RequiredCategoricalProgressionLevel": null,
         "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_TheReturned",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Special_Achievements",
+        "TitleMale": "@ui_playertitle_special_thereturned",
+        "TitleFemale": "@ui_playertitle_special_thereturned_SHE",
+        "TitleNeutral": "@ui_playertitle_special_thereturned_THEY",
+        "Description": "@ui_playertitle_thereturned_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
     }
 ]
