@@ -810,12 +810,6 @@
         "Description": "@CategoryData_AlkahestDesc"
     },
     {
-        "CategoryID": "Ampoule",
-        "ImagePath": "Icons/Items/Drawing/placeholder_square",
-        "DisplayText": "@CategoryData_Ampoule",
-        "Description": "@CategoryData_AmpouleDesc"
-    },
-    {
         "CategoryID": "Meal",
         "ImagePath": "items/meal1t2",
         "DisplayText": "@CategoryData_Meal",

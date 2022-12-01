@@ -715,7 +715,7 @@
         "LimitNotificationLocTag": ""
     },
     {
-        "LootLimitID": "SE_Music_Cooking_Limit",
+        "LootLimitID": "Cooking_music_box",
         "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
@@ -726,7 +726,7 @@
         "LimitNotificationLocTag": ""
     },
     {
-        "LootLimitID": "SE_Music_Furnishing_Limit",
+        "LootLimitID": "Loom_music_box",
         "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
@@ -737,7 +737,7 @@
         "LimitNotificationLocTag": ""
     },
     {
-        "LootLimitID": "SE_Music_Loom_Limit",
+        "LootLimitID": "Furnishing_music_box",
         "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
