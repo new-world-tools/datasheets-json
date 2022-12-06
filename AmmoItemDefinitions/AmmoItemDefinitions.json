@@ -657,6 +657,24 @@
         "MeshOverride": ""
     },
     {
+        "AmmoID": "WinterConv_GleamiteLauncher_Projectile",
+        "AmmoType": "Siege",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Holiday/WinterConvergence/Activities/Gleamites/WinterConv_Activity_Gleamite_Projectile_Burst",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "WinterConv_GleamiteLauncher_Projectile_Rapid",
+        "AmmoType": "Siege",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Holiday/WinterConvergence/Activities/Gleamites/WinterConv_Activity_Gleamite_Projectile_Rapid",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
         "AmmoID": "Sandworm_BreachEvent_AcidBallLauncher_Projectile_Burst",
         "AmmoType": "Siege",
         "DamageModifier": 1,

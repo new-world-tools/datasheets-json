@@ -5049,6 +5049,17 @@
         "TypeDescription": "@reward_type_housing_item"
     },
     {
+        "UniqueTagID": "Emote_GleamiteThrow",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_GleamiteThrow_name",
+        "Description": "@ui_emote_GleamiteThrow_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Bundle_Crest_WinterConv2022",
         "IsEnabled": 1,
         "DisplayName": "@Bundle_Crest_WinterConv2022_name",
