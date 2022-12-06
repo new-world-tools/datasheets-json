@@ -1,0 +1,32 @@
+[
+    {
+        "Id": "FreshWater_VeryShallow",
+        "TimeToNibbleSecondsRange": "20-30",
+        "TimeToBiteSecondsRange": "1-1.5"
+    },
+    {
+        "Id": "FreshWater_Shallow",
+        "TimeToNibbleSecondsRange": "10-25",
+        "TimeToBiteSecondsRange": "1-1.5"
+    },
+    {
+        "Id": "FreshWater_Deep",
+        "TimeToNibbleSecondsRange": "5-15",
+        "TimeToBiteSecondsRange": "1-1.5"
+    },
+    {
+        "Id": "SaltWater_VeryShallow",
+        "TimeToNibbleSecondsRange": "15-25",
+        "TimeToBiteSecondsRange": "1-1.5"
+    },
+    {
+        "Id": "SaltWater_Shallow",
+        "TimeToNibbleSecondsRange": "10-20",
+        "TimeToBiteSecondsRange": "1-1.5"
+    },
+    {
+        "Id": "SaltWater_Deep",
+        "TimeToNibbleSecondsRange": "5-15",
+        "TimeToBiteSecondsRange": "1-1.5"
+    }
+]

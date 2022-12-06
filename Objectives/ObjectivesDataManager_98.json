@@ -1,7 +1,7 @@
 [
     {
         "ObjectiveID": "FactionIntro_Covenant_01",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 17,
         "MaxInfluenceLevel": "",
@@ -44,7 +44,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Covenant_Vector_01",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 17,
         "MaxInfluenceLevel": "",
@@ -87,7 +87,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Covenant_02",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 19,
         "MaxInfluenceLevel": "",
@@ -130,7 +130,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Covenant_Vector_02",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 17,
         "MaxInfluenceLevel": "",
@@ -173,7 +173,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Covenant_03",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 21,
         "MaxInfluenceLevel": "",
@@ -216,7 +216,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Covenant_Recruitment",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 17,
         "MaxInfluenceLevel": "",
@@ -259,7 +259,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Marauders_01",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 17,
         "MaxInfluenceLevel": "",
@@ -302,7 +302,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Marauders_02",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 19,
         "MaxInfluenceLevel": "",
@@ -345,7 +345,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Marauders_Vector",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 17,
         "MaxInfluenceLevel": "",
@@ -388,7 +388,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Marauders_03",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 21,
         "MaxInfluenceLevel": "",
@@ -431,7 +431,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Marauders_Recruitment",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 17,
         "MaxInfluenceLevel": "",
@@ -474,7 +474,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Syndicate_01",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 17,
         "MaxInfluenceLevel": "",
@@ -517,7 +517,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Syndicate_02",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 19,
         "MaxInfluenceLevel": "",
@@ -560,7 +560,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Syndicate_Vector",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 17,
         "MaxInfluenceLevel": "",
@@ -603,7 +603,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Syndicate_03",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 21,
         "MaxInfluenceLevel": "",
@@ -646,7 +646,7 @@
     },
     {
         "ObjectiveID": "FactionIntro_Syndicate_Recruitment",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 17,
         "MaxInfluenceLevel": "",

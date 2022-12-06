@@ -88,23 +88,11 @@
         "PriorityOverride": "Required"
     },
     {
-        "EffectName": "wFX_rune_ability_cannon_blast.muzzle_flash",
-        "PriorityOverride": "High"
-    },
-    {
         "EffectName": "wFX_rune_ability_cannon_blast.DominatorExplosion",
         "PriorityOverride": "High"
     },
     {
-        "EffectName": "wfx_rune_ability_heretic.wing",
-        "PriorityOverride": "High"
-    },
-    {
         "EffectName": "wfx_rune_ability_heretic.hit",
-        "PriorityOverride": "High"
-    },
-    {
-        "EffectName": "wfx_rune_ability_vines.vines",
         "PriorityOverride": "High"
     },
     {

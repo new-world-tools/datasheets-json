@@ -1,5 +1,45 @@
 [
     {
+        "VariantID": "LostPresent01",
+        "Visual_Healthy": "slices\\Holiday\\WinterConvergence\\Activities\\LostPresent\\WinterConv_Activity_LostPresent_VisualHealthy.slice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "LostPresent01",
+        "InteractPromptRadius": 1,
+        "DetectableRadius": 1,
+        "MarkerRadius": 1,
+        "AudioPreload_depleted": "RarePresent",
+        "SFX_depleted": "Play_SFX_RarePresent_Depleted",
+        "AudioPreload_idle": "RarePresent",
+        "SFX_Idle": "Play_SFX_RarePresent_Lp",
+        "VFX_Idle": "Event_Winter_Convergence.Present.Idle_Rare",
+        "IdleVFX_Offset_Z": 10,
+        "DepletedVFX": "Event_Winter_Convergence.Present.End_Rare",
+        "depletedVFX_Offset_Z": 10,
+        "DepletedVFX_Quest": "",
+        "DepletedVFX_Quest_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": 10,
+        "interactionMarker_Offset_Z": 10,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": false,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\basesphere.cgf",
+        "ShouldHaveStaticCollision": "",
+        "Collision_Offset_Z": 10,
+        "VisualHealthy_Offset_Z": 10,
+        "IsStateControlledBySlayerScript": null,
+        "Collision_Scale_X": null,
+        "Collision_Scale_Y": null,
+        "Collision_Scale_Z": null,
+        "Force_Display_Health_Bar": null,
+        "Marker_Creature_Type_Override": "",
+        "Marker_Vertical_Offset": null
+    },
+    {
         "VariantID": "0404_CorruptedNoduleA",
         "Visual_Healthy": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Healthy.dynamicslice",
         "Visual_Depleted": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Depleted.dynamicslice",
@@ -1129,8 +1169,8 @@
         "InteractPromptRadius": 10,
         "DetectableRadius": 10,
         "MarkerRadius": 15,
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "Missions_ABlossomingThreat",
+        "SFX_depleted": "Play_Gather_LockBurst",
         "AudioPreload_idle": "",
         "SFX_Idle": "",
         "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
@@ -1155,9 +1195,9 @@
         "Collision_Scale_X": null,
         "Collision_Scale_Y": null,
         "Collision_Scale_Z": null,
-        "Force_Display_Health_Bar": null,
-        "Marker_Creature_Type_Override": "",
-        "Marker_Vertical_Offset": null
+        "Force_Display_Health_Bar": true,
+        "Marker_Creature_Type_Override": "DamageableGatherable",
+        "Marker_Vertical_Offset": -80
     },
     {
         "VariantID": "1625_0201_ImhotepCageNoduleB2",
@@ -1169,8 +1209,8 @@
         "InteractPromptRadius": 10,
         "DetectableRadius": 10,
         "MarkerRadius": 15,
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "Missions_ABlossomingThreat",
+        "SFX_depleted": "Play_Gather_LockBurst",
         "AudioPreload_idle": "",
         "SFX_Idle": "",
         "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
@@ -1195,9 +1235,9 @@
         "Collision_Scale_X": null,
         "Collision_Scale_Y": null,
         "Collision_Scale_Z": null,
-        "Force_Display_Health_Bar": null,
-        "Marker_Creature_Type_Override": "",
-        "Marker_Vertical_Offset": null
+        "Force_Display_Health_Bar": true,
+        "Marker_Creature_Type_Override": "DamageableGatherable",
+        "Marker_Vertical_Offset": -80
     },
     {
         "VariantID": "1625_0201_ImhotepCageNoduleB3",
@@ -1209,8 +1249,8 @@
         "InteractPromptRadius": 10,
         "DetectableRadius": 10,
         "MarkerRadius": 15,
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "Missions_ABlossomingThreat",
+        "SFX_depleted": "Play_Gather_LockBurst",
         "AudioPreload_idle": "",
         "SFX_Idle": "",
         "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
@@ -1235,9 +1275,9 @@
         "Collision_Scale_X": null,
         "Collision_Scale_Y": null,
         "Collision_Scale_Z": null,
-        "Force_Display_Health_Bar": null,
-        "Marker_Creature_Type_Override": "",
-        "Marker_Vertical_Offset": null
+        "Force_Display_Health_Bar": true,
+        "Marker_Creature_Type_Override": "DamageableGatherable",
+        "Marker_Vertical_Offset": -80
     },
     {
         "VariantID": "1624_0301_AEAncientChargerA",
@@ -1275,9 +1315,9 @@
         "Collision_Scale_X": 2.5,
         "Collision_Scale_Y": 2.5,
         "Collision_Scale_Z": 5,
-        "Force_Display_Health_Bar": null,
-        "Marker_Creature_Type_Override": "",
-        "Marker_Vertical_Offset": null
+        "Force_Display_Health_Bar": true,
+        "Marker_Creature_Type_Override": "DamageableGatherable",
+        "Marker_Vertical_Offset": -100
     },
     {
         "VariantID": "1624_0301_AEAncientChargerB",
@@ -1315,9 +1355,9 @@
         "Collision_Scale_X": 2.5,
         "Collision_Scale_Y": 2.5,
         "Collision_Scale_Z": 5,
-        "Force_Display_Health_Bar": null,
-        "Marker_Creature_Type_Override": "",
-        "Marker_Vertical_Offset": null
+        "Force_Display_Health_Bar": true,
+        "Marker_Creature_Type_Override": "DamageableGatherable",
+        "Marker_Vertical_Offset": -100
     },
     {
         "VariantID": "1624_0301_AEAncientChargerC",
@@ -1355,9 +1395,9 @@
         "Collision_Scale_X": 2.5,
         "Collision_Scale_Y": 2.5,
         "Collision_Scale_Z": 5,
-        "Force_Display_Health_Bar": null,
-        "Marker_Creature_Type_Override": "",
-        "Marker_Vertical_Offset": null
+        "Force_Display_Health_Bar": true,
+        "Marker_Creature_Type_Override": "DamageableGatherable",
+        "Marker_Vertical_Offset": -100
     },
     {
         "VariantID": "1624_0302_SealedClayVessel",
@@ -1435,9 +1475,9 @@
         "Collision_Scale_X": null,
         "Collision_Scale_Y": null,
         "Collision_Scale_Z": null,
-        "Force_Display_Health_Bar": null,
-        "Marker_Creature_Type_Override": "",
-        "Marker_Vertical_Offset": null
+        "Force_Display_Health_Bar": true,
+        "Marker_Creature_Type_Override": "DamageableGatherable",
+        "Marker_Vertical_Offset": -80
     },
     {
         "VariantID": "1624_1001_VineWall",
@@ -1475,9 +1515,9 @@
         "Collision_Scale_X": null,
         "Collision_Scale_Y": null,
         "Collision_Scale_Z": null,
-        "Force_Display_Health_Bar": null,
-        "Marker_Creature_Type_Override": "",
-        "Marker_Vertical_Offset": null
+        "Force_Display_Health_Bar": true,
+        "Marker_Creature_Type_Override": "DamageableGatherable",
+        "Marker_Vertical_Offset": -65
     },
     {
         "VariantID": "Dynasty_Gong",
@@ -2249,10 +2289,10 @@
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
         "MarkerRadius": 10,
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
-        "AudioPreload_idle": "",
-        "SFX_Idle": "",
+        "AudioPreload_depleted": "Missions_BreakCurse",
+        "SFX_depleted": "Play_BreakCurse_GlassBreak",
+        "AudioPreload_idle": "Missions_BreakCurse",
+        "SFX_Idle": "Play_BreakCurse_Idle",
         "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
         "IdleVFX_Offset_Z": 1.5,
         "DepletedVFX": "",

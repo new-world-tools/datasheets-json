@@ -705,5 +705,12 @@
         "Value": 1000,
         "Shared": false,
         "Expires": false
+    },
+    {
+        "ContributionId": "Encounter_Activated",
+        "Category": "default",
+        "Value": 0,
+        "Shared": false,
+        "Expires": false
     }
 ]

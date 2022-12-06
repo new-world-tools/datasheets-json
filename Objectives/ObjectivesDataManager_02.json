@@ -1463,7 +1463,7 @@
     },
     {
         "ObjectiveID": "9804_M_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -1506,7 +1506,7 @@
     },
     {
         "ObjectiveID": "9806_M_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -1549,7 +1549,7 @@
     },
     {
         "ObjectiveID": "9809_M_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -1592,7 +1592,7 @@
     },
     {
         "ObjectiveID": "9812_M_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -1635,7 +1635,7 @@
     },
     {
         "ObjectiveID": "98_M_01_combatprowess",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -1678,7 +1678,7 @@
     },
     {
         "ObjectiveID": "98_M_0102_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 35,
         "MaxInfluenceLevel": "",
@@ -1721,7 +1721,7 @@
     },
     {
         "ObjectiveID": "98_M_01b_fenravager",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 35,
         "MaxInfluenceLevel": "",
@@ -1764,7 +1764,7 @@
     },
     {
         "ObjectiveID": "98_M_0203_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 49,
         "MaxInfluenceLevel": "",
@@ -1807,7 +1807,7 @@
     },
     {
         "ObjectiveID": "98_M_02_ultimatewarrior",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 49,
         "MaxInfluenceLevel": "",
@@ -1850,7 +1850,7 @@
     },
     {
         "ObjectiveID": "98_M_0304_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
@@ -1893,7 +1893,7 @@
     },
     {
         "ObjectiveID": "98_M_03_darkvengeance",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Marauders",
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
@@ -1936,7 +1936,7 @@
     },
     {
         "ObjectiveID": "9804_S_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -1979,7 +1979,7 @@
     },
     {
         "ObjectiveID": "9806_S_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -2022,7 +2022,7 @@
     },
     {
         "ObjectiveID": "9809_S_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -2065,7 +2065,7 @@
     },
     {
         "ObjectiveID": "9812_S_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -2108,7 +2108,7 @@
     },
     {
         "ObjectiveID": "98_S_01_theexperiment",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -2151,7 +2151,7 @@
     },
     {
         "ObjectiveID": "98_S_0102_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 35,
         "MaxInfluenceLevel": "",
@@ -2194,7 +2194,7 @@
     },
     {
         "ObjectiveID": "98_S_01b_fenscholar",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 35,
         "MaxInfluenceLevel": "",
@@ -2237,7 +2237,7 @@
     },
     {
         "ObjectiveID": "98_S_0203_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 49,
         "MaxInfluenceLevel": "",
@@ -2280,7 +2280,7 @@
     },
     {
         "ObjectiveID": "98_S_02_necromanticchemistry",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 49,
         "MaxInfluenceLevel": "",
@@ -2323,7 +2323,7 @@
     },
     {
         "ObjectiveID": "98_S_0304_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
@@ -2366,7 +2366,7 @@
     },
     {
         "ObjectiveID": "98_S_03_lostnotlost",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Syndicate",
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
@@ -2409,7 +2409,7 @@
     },
     {
         "ObjectiveID": "9804_C_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -2452,7 +2452,7 @@
     },
     {
         "ObjectiveID": "9806_C_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -2495,7 +2495,7 @@
     },
     {
         "ObjectiveID": "9809_C_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -2538,7 +2538,7 @@
     },
     {
         "ObjectiveID": "9812_C_0001_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -2581,7 +2581,7 @@
     },
     {
         "ObjectiveID": "98_C_01_theapostate",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 25,
         "MaxInfluenceLevel": "",
@@ -2624,7 +2624,7 @@
     },
     {
         "ObjectiveID": "98_C_0102_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 35,
         "MaxInfluenceLevel": "",
@@ -2667,7 +2667,7 @@
     },
     {
         "ObjectiveID": "98_C_01b_fenredemption",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 35,
         "MaxInfluenceLevel": "",
@@ -2710,7 +2710,7 @@
     },
     {
         "ObjectiveID": "98_C_0203_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 49,
         "MaxInfluenceLevel": "",
@@ -2753,7 +2753,7 @@
     },
     {
         "ObjectiveID": "98_C_02_soulsalvation",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 49,
         "MaxInfluenceLevel": "",
@@ -2796,7 +2796,7 @@
     },
     {
         "ObjectiveID": "98_C_0304_RankUp",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
@@ -2839,7 +2839,7 @@
     },
     {
         "ObjectiveID": "98_C_03_thepathtodarkness",
-        "Type": "SkillProgression",
+        "Type": "FactionStory_Covenant",
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",

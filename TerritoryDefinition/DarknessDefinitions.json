@@ -351,6 +351,19 @@
         "PulseColor": "1 0 0"
     },
     {
+        "TerritoryID": 8028,
+        "NameLocalizationKey": "@ui_winterconv_worldboss_winterwarrior",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/winter_warrior.png",
+        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/winter_warrior.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_convergence_yeti.png",
+        "GroupSize": 0,
+        "POITag": "EventEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "195 219 255"
+    },
+    {
         "TerritoryID": 8029,
         "NameLocalizationKey": "@ui_turkeyterror_worldboss_Turkulon",
         "IsPOI": true,

@@ -129,7 +129,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "SpikesRefreshingSpikes",
@@ -261,7 +263,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "SpikesEmpoweredSpikes",
@@ -393,7 +397,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "SpikesDeadlyPath",
@@ -525,7 +531,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "SpikesSpikyReach",
@@ -657,7 +665,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceMagic_IceStorm",
@@ -789,7 +799,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceStormWeakeningGust",
@@ -921,7 +933,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceStormStormSummoner",
@@ -1053,7 +1067,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceStormPunishingStorm",
@@ -1185,7 +1201,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceMagic_WindChill",
@@ -1317,7 +1335,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "WindChillEnduringChill",
@@ -1449,7 +1469,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "WindChillShatter",
@@ -1581,7 +1603,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceTempestPass1",
@@ -1713,7 +1737,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceTempestPass2",
@@ -1845,7 +1871,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceTempestPass3",
@@ -1977,7 +2005,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceTempestPass4",
@@ -2109,7 +2139,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceTempestPass5",
@@ -2241,7 +2273,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceTempestPass6",
@@ -2373,7 +2407,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceTempestUltimate",
@@ -2505,7 +2541,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceTempestUltimate_Helper",
@@ -2637,7 +2675,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceMagic_IcePylon",
@@ -2769,7 +2809,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "IcePylon",
+        "HoldConditionButtonIcon": "lyshineui/images/icons/abilities/iceMagic_Ability6.png"
     },
     {
         "AbilityID": "IcePylonGreaterPylon",
@@ -2901,7 +2943,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IcePylonPylonRegen",
@@ -3033,7 +3077,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IcePylonPylonDodge",
@@ -3165,7 +3211,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IcePylonPylonRefresh",
@@ -3297,7 +3345,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceMagic_IceShower",
@@ -3429,7 +3479,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceShowerEnduringShower",
@@ -3561,7 +3613,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceShowerQuickShower",
@@ -3693,7 +3747,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceShowerShowerSlush",
@@ -3825,7 +3881,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceMagic_Entombed",
@@ -3957,7 +4015,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "EntombedStrengthenedTomb",
@@ -4089,7 +4149,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "EntombedCleansingTomb",
@@ -4221,7 +4283,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceConjurorPass1",
@@ -4353,7 +4417,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceConjurorPass2",
@@ -4485,7 +4551,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceConjurorPass3",
@@ -4617,7 +4685,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceConjurorPass4",
@@ -4749,7 +4819,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceConjurorPass5",
@@ -4881,7 +4953,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceConjurorPass6",
@@ -5013,7 +5087,9 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     },
     {
         "AbilityID": "IceConjurorUltimate",
@@ -5145,6 +5221,8 @@
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
-        "SetMannequinTagStatus": ""
+        "SetMannequinTagStatus": "",
+        "EnableHoldConditionIfTrackedSpellExistsOfType": "",
+        "HoldConditionButtonIcon": ""
     }
 ]
