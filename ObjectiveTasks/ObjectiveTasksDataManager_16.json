@@ -46029,14 +46029,14 @@
         "HideChildren": "",
         "TriggerAnalyticsEvent": "",
         "OnInteractStart": "",
-        "SubTask1": "16_Side_01_d_03_glyphcontainer",
-        "SubTask2": "16_Side_01_d_03c_glyphcheck",
+        "SubTask1": "16_Side_01_d_03_01_glyphcontainer",
+        "SubTask2": "16_Side_01_d_03_02_glyphcheck",
         "SubTask3": "",
         "SubTask4": "",
         "SubTask5": ""
     },
     {
-        "TaskID": "16_Side_01_d_03_glyphcontainer",
+        "TaskID": "16_Side_01_d_03_01_glyphcontainer",
         "Type": "PartialTaskContainer",
         "FailOnCondition": "",
         "StayActive": null,
@@ -46097,14 +46097,14 @@
         "HideChildren": "",
         "TriggerAnalyticsEvent": "",
         "OnInteractStart": "",
-        "SubTask1": "16_Side_01_d_03b_glyphnotdone",
-        "SubTask2": "16_Side_01_d_03c_glyphdone",
+        "SubTask1": "16_Side_01_d_03_01_01_glyphnotdone",
+        "SubTask2": "16_Side_01_d_03_01_02_glyphdone",
         "SubTask3": "",
         "SubTask4": "",
         "SubTask5": ""
     },
     {
-        "TaskID": "16_Side_01_d_03b_glyphnotdone",
+        "TaskID": "16_Side_01_d_03_01_01_glyphnotdone",
         "Type": "ConsecutiveTaskContainer",
         "FailOnCondition": "",
         "StayActive": null,
@@ -46165,14 +46165,14 @@
         "HideChildren": "",
         "TriggerAnalyticsEvent": "",
         "OnInteractStart": "",
-        "SubTask1": "16_Side_01_d_03b1_glyph",
-        "SubTask2": "16_Side_01_d_03b2_journal",
+        "SubTask1": "16_Side_01_d_03_01_01_01_glyph",
+        "SubTask2": "16_Side_01_d_03_01_01_02_journal",
         "SubTask3": "",
         "SubTask4": "",
         "SubTask5": ""
     },
     {
-        "TaskID": "16_Side_01_d_03b1_glyph",
+        "TaskID": "16_Side_01_d_03_01_01_01_glyph",
         "Type": "TaskGameEvent",
         "FailOnCondition": "",
         "StayActive": null,
@@ -46240,7 +46240,7 @@
         "SubTask5": ""
     },
     {
-        "TaskID": "16_Side_01_d_03b2_journal",
+        "TaskID": "16_Side_01_d_03_01_01_02_journal",
         "Type": "TaskAchievement",
         "FailOnCondition": "",
         "StayActive": null,
@@ -46308,7 +46308,7 @@
         "SubTask5": ""
     },
     {
-        "TaskID": "16_Side_01_d_03c_glyphdone",
+        "TaskID": "16_Side_01_d_03_01_02_glyphdone",
         "Type": "TaskAchievement",
         "FailOnCondition": "",
         "StayActive": null,
@@ -46376,7 +46376,7 @@
         "SubTask5": ""
     },
     {
-        "TaskID": "16_Side_01_d_03c_glyphcheck",
+        "TaskID": "16_Side_01_d_03_02_glyphcheck",
         "Type": "TaskAchievement",
         "FailOnCondition": "",
         "StayActive": null,
@@ -46467,7 +46467,7 @@
         "TargetThreshold": "",
         "CraftingRecipeId": "",
         "CraftAnyRecipe": "",
-        "InteractTag": "",
+        "InteractTag": "IO_16BS_AncientGlyph_Backup",
         "UIScreenTag": "",
         "TriggerAreaType": "",
         "KillEnemyType": "",
@@ -46505,14 +46505,14 @@
         "HideChildren": "",
         "TriggerAnalyticsEvent": "",
         "OnInteractStart": "",
-        "SubTask1": "16_Side_01_d_04_partialcontainer",
-        "SubTask2": "16_Side_01_d_05_alternateIO_fallback",
+        "SubTask1": "16_Side_01_d_04_01_partialcontainer",
+        "SubTask2": "16_Side_01_d_04_02_alternateIO_fallback",
         "SubTask3": "",
         "SubTask4": "",
         "SubTask5": ""
     },
     {
-        "TaskID": "16_Side_01_d_04_partialcontainer",
+        "TaskID": "16_Side_01_d_04_01_partialcontainer",
         "Type": "PartialTaskContainer",
         "FailOnCondition": "",
         "StayActive": null,
@@ -46573,14 +46573,14 @@
         "HideChildren": "",
         "TriggerAnalyticsEvent": "",
         "OnInteractStart": "",
-        "SubTask1": "16_Side_01_d_05_chest",
-        "SubTask2": "16_Side_01_d_05_alternateIO",
+        "SubTask1": "16_Side_01_d_04_01_01_chest",
+        "SubTask2": "16_Side_01_d_04_01_02_alternateIO",
         "SubTask3": "",
         "SubTask4": "",
         "SubTask5": ""
     },
     {
-        "TaskID": "16_Side_01_d_05_chest",
+        "TaskID": "16_Side_01_d_04_01_01_chest",
         "Type": "TaskGameEvent",
         "FailOnCondition": "",
         "StayActive": null,
@@ -46648,7 +46648,7 @@
         "SubTask5": ""
     },
     {
-        "TaskID": "16_Side_01_d_05_alternateIO",
+        "TaskID": "16_Side_01_d_04_01_02_alternateIO",
         "Type": "TaskGameEvent",
         "FailOnCondition": "",
         "StayActive": null,
@@ -46671,7 +46671,7 @@
         "TargetThreshold": "",
         "CraftingRecipeId": "",
         "CraftAnyRecipe": "",
-        "InteractTag": "IO_16BS_AncientGlyph_Backup",
+        "InteractTag": "",
         "UIScreenTag": "",
         "TriggerAreaType": "",
         "KillEnemyType": "16BS_AncientGlyph_Backup_Interact",
@@ -46716,7 +46716,7 @@
         "SubTask5": ""
     },
     {
-        "TaskID": "16_Side_01_d_05_alternateIO_fallback",
+        "TaskID": "16_Side_01_d_04_02_alternateIO_fallback",
         "Type": "TaskGameEvent",
         "FailOnCondition": "",
         "StayActive": null,
@@ -46739,7 +46739,7 @@
         "TargetThreshold": "",
         "CraftingRecipeId": "",
         "CraftAnyRecipe": "",
-        "InteractTag": "IO_16BS_AncientGlyph_Backup",
+        "InteractTag": "",
         "UIScreenTag": "",
         "TriggerAreaType": "",
         "KillEnemyType": "16BS_AncientGlyph_Backup_Interact",

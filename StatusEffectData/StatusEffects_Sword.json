@@ -5383,7 +5383,7 @@
         "RefreshDuration": "1",
         "StackMax": 1,
         "InitialStackSize": "",
-        "RemoveUnappliedStacks": true,
+        "RemoveUnappliedStacks": false,
         "PotencyMax": null,
         "DontReplaceStack": "",
         "MoveSpeedMod": null,

@@ -12,6 +12,18 @@
         "MaskGlossShift": 0.5
     },
     {
+        "Index": 6,
+        "Name": "Gold",
+        "Color": "#f4d481",
+        "Category": "Reserved",
+        "IsEntitlement": 1,
+        "ColorAmount": 1,
+        "ColorOverride": 0.15,
+        "SpecColor": "#daa350",
+        "SpecAmount": 1,
+        "MaskGlossShift": 0.75
+    },
+    {
         "Index": 22,
         "Name": "AmazonOrange",
         "Color": "#FF9900",
