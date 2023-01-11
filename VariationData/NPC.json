@@ -7390,26 +7390,5 @@
         "AttachmentRotationZ": null,
         "InteractOverride_X": null,
         "InteractOverride_Y": null
-    },
-    {
-        "VariantID": "BabyYeti",
-        "NPCId": "BabyYeti",
-        "Name": "@BabyYeti",
-        "CharacterDefinition": "Objects\\Housing\\SliceItems\\housing_BabyYeti.cdf",
-        "ByeTimeline": "Timelines\\Housing\\BabyYeti\\BabyYeti_Idle_Interact.timeline",
-        "GreetTimeline": "Timelines\\Housing\\BabyYeti\\BabyYeti_Idle_Interact.timeline",
-        "IdleTimeline": "Libs\\Timeline\\Npc\\BabyYeti_Idle_Loop.timeline",
-        "InteractTimeline": "Timelines\\Housing\\BabyYeti\\BabyYeti_Idle_Interact.timeline",
-        "SwapAchievementId": "",
-        "PlaceholderMesh": "",
-        "AttachedMesh": "",
-        "AttachmentPositionX": null,
-        "AttachmentPositionY": null,
-        "AttachmentPositionZ": null,
-        "AttachmentRotationX": null,
-        "AttachmentRotationY": null,
-        "AttachmentRotationZ": null,
-        "InteractOverride_X": 0.1,
-        "InteractOverride_Y": 0.1
     }
 ]

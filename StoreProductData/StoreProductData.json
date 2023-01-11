@@ -4818,6 +4818,17 @@
         "TypeDescription": "@reward_type_emote"
     },
     {
+        "UniqueTagID": "Emote_Pout",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Pout_name",
+        "Description": "@ui_emote_Pout_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_WinterDragon_Pout.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_WinterDragon_Pout.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_WinterDragon_Pout.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_WinterDragon_Pout.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_DevilHornRock",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_DevilHornRock_name",
@@ -4837,6 +4848,17 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_WinterConvergence2022_Skip.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_WinterConvergence2022_Skip.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_WinterConvergence2022_Skip.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_Walk_TipToe",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Walk_TipToe_name",
+        "Description": "@ui_emote_Walk_TipToe_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_WinterDragon_TiptoeWalk.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_WinterDragon_TiptoeWalk.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_WinterDragon_TiptoeWalk.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_WinterDragon_TiptoeWalk.png",
         "TypeDescription": "@reward_type_emote"
     },
     {
@@ -5049,6 +5071,17 @@
         "TypeDescription": "@reward_type_housing_item"
     },
     {
+        "UniqueTagID": "Emote_SlapFight",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_SlapFight_name",
+        "Description": "@ui_emote_SlapFight_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_WinterDragon_SlapFight.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_WinterDragon_SlapFight.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_WinterDragon_SlapFight.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_WinterDragon_SlapFight.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_GleamiteThrow",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_GleamiteThrow_name",
@@ -5112,6 +5145,116 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_WinterConvergence2022.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_WinterConvergence2022.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_WinterConvergence2022.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Apparel_WinterDragon_1",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_WinterDragon_1_name",
+        "Description": "@Apparel_WinterDragon_1_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_WinterDragon_Pauldrons.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_WinterDragon_Pauldrons.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_WinterDragon_Pauldrons.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_WinterDragon_Pauldrons.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_WinterDragon_2",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_WinterDragon_2_name",
+        "Description": "@Apparel_WinterDragon_2_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_WinterDragon_Double.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_WinterDragon_Double.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_WinterDragon_Double.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_WinterDragon_Double.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_WinterDragon_Deluxe",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_WinterDragon_Deluxe_name",
+        "Description": "@Apparel_WinterDragon_Deluxe_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_WinterDragon_Deluxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_WinterDragon_Deluxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_WinterDragon_Deluxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_WinterDragon_Deluxe.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Weapon_WinterDragon_Greatsword",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_GreatSword_Jan2023_MasterName",
+        "Description": "@Skin_GreatSword_Jan2023_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterDragon_Greatsword.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterDragon_Greatsword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterDragon_Greatsword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterDragon_Greatsword.png",
+        "TypeDescription": "@reward_type_Weaponskin_Greatsword"
+    },
+    {
+        "UniqueTagID": "Weapon_WinterDragon_IceGauntlet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_IceGauntlet_Jan2023_MasterName",
+        "Description": "@Skin_IceGauntlet_Jan2023_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterDragon_IceGauntlet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterDragon_IceGauntlet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterDragon_IceGauntlet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterDragon_IceGauntlet.png",
+        "TypeDescription": "@reward_type_Weaponskin_IceGauntlet"
+    },
+    {
+        "UniqueTagID": "Weapon_WinterDragon_Musket",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Musket_Jan2023_MasterName",
+        "Description": "@Skin_Musket_Jan2023_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterDragon_Musket.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterDragon_Musket.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterDragon_Musket.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterDragon_Musket.png",
+        "TypeDescription": "@reward_type_Weaponskin_Musket"
+    },
+    {
+        "UniqueTagID": "Weapon_WinterDragon_GreatAxe",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_GreatAxe_Jan2023_MasterName",
+        "Description": "@Skin_GreatAxe_Jan2023_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_WinterDragon_GreatAxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_WinterDragon_GreatAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_WinterDragon_GreatAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_WinterDragon_GreatAxe.png",
+        "TypeDescription": "@reward_type_Weaponskin_GreatAxe"
+    },
+    {
+        "UniqueTagID": "Bundle_Decor_WinterDragon",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Decor_WinterDragon_name",
+        "Description": "@Bundle_Decor_WinterDragon_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_WinterDragon2022.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_WinterDragon2022.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_WinterDragon2022.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_WinterDragon2022.png",
+        "TypeDescription": "@reward_type_Housing_Set"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_WinterDragon_Apparel",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_WinterDragon_Apparel_name",
+        "Description": "@Bundle_PR_WinterDragon_Apparel_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Armor_WinterDragon.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Armor_WinterDragon.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Armor_WinterDragon.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Armor_WinterDragon.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_WinterDragon_Weapons",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_WinterDragon_Weapons_name",
+        "Description": "@Bundle_PR_WinterDragon_Weapons_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Weapon_WinterDragon.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_WinterDragon.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_WinterDragon.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_WinterDragon.png",
         "TypeDescription": "@ui_bundle"
     }
 ]

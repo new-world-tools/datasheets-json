@@ -18384,6 +18384,22 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+        "#": 20381,
+        "WeaponID": "2hIceGauntletWinterDragonT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "objects/weapons/Magic/GauntletCore/1h/icegauntletWinterDragon/wep_mag_gauntcore_1h_icegauntletWinterDragon.cdf",
+        "SkinOverride1": "objects/weapons/Magic/GauntletCore/1h/icegauntletWinterDragon/wep_mag_gauntcore_1h_icegauntletWinterDragon.skin",
+        "MaterialOverride1": "objects/weapons/Magic/Gauntlets/1h/icegauntletWinterDragon/wep_mag_gaunt_1h_icegauntletWinterDragon_matGroup.mtl",
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
         "#": 30000,
         "WeaponID": "1hGauntletIce_AdeptCryomancersGauntletT2_V2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
