@@ -1740,6 +1740,26 @@
         "AttributionId": ""
     },
     {
+        "UniqueTagID": "Emote_FingerHeart",
+        "FragmentName": "Emote_FingerHeart",
+        "DisplayName": "ui_emote_FingerHeart_name",
+        "DisplayDescription": "ui_emote_FingerHeart_description",
+        "DisplayGroup": "Emotion",
+        "ChatBoxText": "@emote_FingerHeart",
+        "SlashCommand": "heart",
+        "SecondarySlashCommand": "",
+        "IsEntitlement": 1,
+        "IsPremiumEmote": 0,
+        "IsEnabled": 1,
+        "HasCooldown": 0,
+        "DisplayPriority": 1,
+        "UiImage": "lyshineui/images/icons/emotes/emote_TrampWalk.dds",
+        "UiImageHiRes": "",
+        "GatherableTags": "",
+        "EmoteDuration": null,
+        "AttributionId": ""
+    },
+    {
         "UniqueTagID": "Emote_Walk_FrankenMummy",
         "FragmentName": "Emote_Walk_FrankenMummy",
         "DisplayName": "ui_emote_Walk_FrankenMummy_name",
