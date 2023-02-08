@@ -4811,10 +4811,10 @@
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_FingerHeart_name",
         "Description": "@ui_emote_FingerHeart_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_OmensOfWinter_FingerHearts.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_OmensOfWinter_FingerHearts.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_OmensOfWinter_FingerHearts.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_OmensOfWinter_FingerHearts.png",
         "TypeDescription": "@reward_type_emote"
     },
     {
@@ -5267,5 +5267,137 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_WinterDragon.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_WinterDragon.png",
         "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Apparel_OmensOfWinter_Owl",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_OmensOfWinter_Owl_name",
+        "Description": "@Skin_Feb2023_OmensWinterOwl_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_OmensOfWinter_Owl.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_OmensOfWinter_Owl.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_OmensOfWinter_Owl.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_OmensOfWinter_Owl.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_OmensOfWinter_Cat",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_OmensOfWinter_Cat_name",
+        "Description": "@Skin_Feb2023_OmensWinterCat_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Portrait_OmensOfWinter_Cat.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Rectangle_OmensOfWinter_Cat.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Square_OmensOfWinter_Cat.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Thumbnail_OmensOfWinter_Cat.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Weapon_OmensOfWinter_Spear",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Feb2023_Spear_MasterName",
+        "Description": "@Skin_Feb2023_Spear_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_OmensOfWinter_Spear.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_OmensOfWinter_Spear.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_OmensOfWinter_Spear.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_OmensOfWinter_Spear.png",
+        "TypeDescription": "@reward_type_Weaponskin_Spear"
+    },
+    {
+        "UniqueTagID": "Weapon_OmensOfWinter_LifeStaff",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Feb2023_Lifestaff_MasterName",
+        "Description": "@Skin_Feb2023_Lifestaff_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_OmensOfWinter_LifeStaff.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_OmensOfWinter_LifeStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_OmensOfWinter_LifeStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_OmensOfWinter_LifeStaff.png",
+        "TypeDescription": "@reward_type_Weaponskin_LifeStaff"
+    },
+    {
+        "UniqueTagID": "Weapon_OmensOfWinter_ShieldT",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Feb2023_ShieldT_MasterName",
+        "Description": "@Skin_Feb2023_ShieldT_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_OmensOfWinter_TowerShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_OmensOfWinter_TowerShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_OmensOfWinter_TowerShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_OmensOfWinter_TowerShield.png",
+        "TypeDescription": "@reward_type_Weaponskin_Shield"
+    },
+    {
+        "UniqueTagID": "Weapon_OmensOfWinter_Hatchet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Feb2023_Hatchet_MasterName",
+        "Description": "@Skin_Feb2023_Hatchet_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_OmensOfWinter_ThrowingAxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_OmensOfWinter_ThrowingAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_OmensOfWinter_ThrowingAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_OmensOfWinter_ThrowingAxe.png",
+        "TypeDescription": "@reward_type_Weaponskin_Hatchet"
+    },
+    {
+        "UniqueTagID": "Emote_Handheart",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_Emote_HandHeart_name",
+        "Description": "@ui_Emote_HandHeart_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_OmensOfWinter_HandHeart.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_OmensOfWinter_HandHeart.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_OmensOfWinter_HandHeart.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_OmensOfWinter_HandHeart.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_SloshDance",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_Emote_SloshDance_name",
+        "Description": "@ui_Emote_SloshDance_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_OmensOfWinter_SloshDance.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_OmensOfWinter_SloshDance.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_OmensOfWinter_SloshDance.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_OmensOfWinter_SloshDance.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_FishingDance",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_Emote_FishingDance_name",
+        "Description": "@ui_Emote_FishingDance_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_OmensOfWinter_FishingDance.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_OmensOfWinter_FishingDance.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_OmensOfWinter_FishingDance.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_OmensOfWinter_FishingDance.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_OmensOfWinter_Apparel",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_OmensOfWinter_Apparel_name",
+        "Description": "@Bundle_PR_OmensOfWinter_Apparel_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/Bundle_Portrait_Armor_OmensOfWinter.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Bundle_Rectangle_Armor_OmensOfWinter.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Bundle_Square_Armor_OmensOfWinter.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Bundle_Thumbnail_Armor_OmensOfWinter.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_OmensOfWinter_Weapon",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_OmensOfWinter_Weapon_name",
+        "Description": "@Bundle_PR_OmensOfWinter_Weapon_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Weapon_OmensOfWinter.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_OmensOfWinter.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_OmensOfWinter.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_OmensOfWinter.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_Decor_OmensOfWinter",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_Decor_OmensOfWinter_name",
+        "Description": "@Bundle_Decor_OmensOfWinter_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_OmensOfWinter.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_OmensOfWinter.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_OmensOfWinter.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_OmensOfWinter.png",
+        "TypeDescription": "@reward_type_Housing_Set"
     }
 ]
