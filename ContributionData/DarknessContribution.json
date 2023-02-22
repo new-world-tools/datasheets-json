@@ -399,6 +399,13 @@
         "Expires": false
     },
     {
+        "ContributionId": "Spawn_Interacted",
+        "Category": "interaction",
+        "Value": 100,
+        "Shared": false,
+        "Expires": false
+    },
+    {
         "ContributionId": "Spawn_Interacted : DarknessCorruptionCore",
         "Category": "interaction",
         "Value": 1000,

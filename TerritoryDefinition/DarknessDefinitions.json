@@ -375,5 +375,18 @@
         "RequiredItemId": "",
         "RecommendedLevel": 65,
         "PulseColor": "110 116 240"
+    },
+    {
+        "TerritoryID": 8032,
+        "NameLocalizationKey": "@ui_worldboss_legacyofcrassus",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/cyclops.png",
+        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/cyclops.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_event_legacyofcrassus.png",
+        "GroupSize": 4,
+        "POITag": "EventEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "110 116 240"
     }
 ]

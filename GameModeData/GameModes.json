@@ -89,7 +89,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "TestMode2",
@@ -181,7 +182,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "Duel",
@@ -273,7 +275,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "OutpostRush",
@@ -365,7 +368,8 @@
         "SignupTitleTextId": "@ui_outpost_rush_title",
         "LeaveQueueTitleTextId": "@ui_outpost_rush_leave_queue_title",
         "LeaveQueueDescriptionTextId": "@ui_outpost_rush_leave_queue_desc",
-        "FailGroupPenaltyTextId": "@ui_outpost_rush_signup_failgrouppenalty"
+        "FailGroupPenaltyTextId": "@ui_outpost_rush_signup_failgrouppenalty",
+        "RespawnTypeToUseForUnstuck": "Raid"
     },
     {
         "GameModeId": "DungeonAmrine",
@@ -457,7 +461,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "DungeonEdengrove00",
@@ -549,7 +554,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "DungeonShatteredObelisk",
@@ -641,7 +647,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "DungeonRestlessShores01",
@@ -733,7 +740,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "DungeonReekwater00",
@@ -825,7 +833,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "DungeonEbonscale00",
@@ -917,7 +926,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "DungeonCutlassKeys00",
@@ -1009,7 +1019,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "DungeonBrimstoneSands00",
@@ -1101,7 +1112,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "DungeonShatterMtn00",
@@ -1193,7 +1205,8 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "Arena3v3",
@@ -1285,7 +1298,8 @@
         "SignupTitleTextId": "@ui_pvp_3v3_arena_signup_title",
         "LeaveQueueTitleTextId": "@ui_pvparenas_leave_queue_title",
         "LeaveQueueDescriptionTextId": "@ui_pvparenas_leave_queue_title",
-        "FailGroupPenaltyTextId": "@ui_pvparenas_failgrouppenalty"
+        "FailGroupPenaltyTextId": "@ui_pvparenas_failgrouppenalty",
+        "RespawnTypeToUseForUnstuck": ""
     },
     {
         "GameModeId": "QuestApophis",
@@ -1377,6 +1391,7 @@
         "SignupTitleTextId": "",
         "LeaveQueueTitleTextId": "",
         "LeaveQueueDescriptionTextId": "",
-        "FailGroupPenaltyTextId": ""
+        "FailGroupPenaltyTextId": "",
+        "RespawnTypeToUseForUnstuck": ""
     }
 ]
