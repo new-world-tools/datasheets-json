@@ -433,5 +433,40 @@
         "ExclusiveLabelID": "Dur",
         "Weight": 100,
         "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "MusicOpener",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "MusicIgnore",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "MusicRake",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "MusicFinal",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "MusicGroupXP",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "MusicSoloXP",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Gem",
+        "Weight": 5,
+        "ItemClassOverrides": ""
     }
 ]

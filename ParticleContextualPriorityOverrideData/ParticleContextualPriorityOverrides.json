@@ -214,5 +214,9 @@
     {
         "EffectName": "wfx_GreatSword.Gems.Void.Counter.End",
         "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "cFX_npc_AngryEarthNaga.Pool_Idle",
+        "PriorityOverride": "Required"
     }
 ]

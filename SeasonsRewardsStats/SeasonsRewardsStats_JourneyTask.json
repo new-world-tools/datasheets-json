@@ -1,0 +1,42 @@
+[
+    {
+        "TrackedStatID": "CompleteAnyChallenge",
+        "StatType": "CompleteJourneyTask",
+        "TargetID": "",
+        "RequireGroup": "",
+        "ChapterType": "Challenge",
+        "ChapterIndex": null
+    },
+    {
+        "TrackedStatID": "CompleteTasksChapter1",
+        "StatType": "CompleteJourneyTask",
+        "TargetID": "",
+        "RequireGroup": "",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 1
+    },
+    {
+        "TrackedStatID": "CompleteTasksChapter2",
+        "StatType": "CompleteJourneyTask",
+        "TargetID": "",
+        "RequireGroup": "",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 2
+    },
+    {
+        "TrackedStatID": "CompleteTasksChapter3",
+        "StatType": "CompleteJourneyTask",
+        "TargetID": "",
+        "RequireGroup": "",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 3
+    },
+    {
+        "TrackedStatID": "CompleteTasksChapter4",
+        "StatType": "CompleteJourneyTask",
+        "TargetID": "",
+        "RequireGroup": "",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 4
+    }
+]

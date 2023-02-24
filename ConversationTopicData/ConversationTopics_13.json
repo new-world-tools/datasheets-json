@@ -1,23 +1,5 @@
 [
     {
-        "ConversationTopicId": "1301_Torchy_01",
-        "PlayerPrompt": "@1301_Torchy_01_Prompt",
-        "NPCResponse": "@1301_Torchy_01_Response",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1331_MonsterHunter_01",
-        "PlayerPrompt": "@1331_MonsterHunter_01_Prompt",
-        "NPCResponse": "@1331_MonsterHunter_01_Response",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
         "ConversationTopicId": "1323_Fisher_ExplainHotspots",
         "PlayerPrompt": "@0223_Fisher_ExplainHotspots_Prompt",
         "NPCResponse": "@0223_Fisher_ExplainHotspots_Response",

@@ -36,6 +36,7 @@
         "Sun": "DebugTest",
         "MageArcaneShield": "DebugTest",
         "RockNPC": "DebugTest",
+        "EvilKnightFireChampion": "DebugTest",
         "Upyr": "DebugTest"
     },
     {
@@ -75,6 +76,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
+        "EvilKnightFireChampion": "UnarmedArmor",
         "Upyr": "UnarmedDefault"
     },
     {
@@ -114,6 +116,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
+        "EvilKnightFireChampion": "UnarmedArmor",
         "Upyr": "UnarmedDefault"
     },
     {
@@ -153,6 +156,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -192,6 +196,7 @@
         "Sun": "SwordSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordRockNPC",
+        "EvilKnightFireChampion": "SwordArmor",
         "Upyr": "SwordDefault"
     },
     {
@@ -231,6 +236,7 @@
         "Sun": "SwordFleche",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordFleche",
+        "EvilKnightFireChampion": "SwordFleche",
         "Upyr": "SwordFleche"
     },
     {
@@ -270,6 +276,7 @@
         "Sun": "SwordResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordResist",
+        "EvilKnightFireChampion": "SwordResist",
         "Upyr": "SwordResist"
     },
     {
@@ -309,6 +316,7 @@
         "Sun": "SwordResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordResist",
+        "EvilKnightFireChampion": "SwordResist",
         "Upyr": "SwordResist"
     },
     {
@@ -348,6 +356,7 @@
         "Sun": "SwordFireGeneric",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordFireGeneric",
+        "EvilKnightFireChampion": "SwordFireGeneric",
         "Upyr": "SwordFire"
     },
     {
@@ -387,6 +396,7 @@
         "Sun": "SwordSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordRockNPCCrit",
+        "EvilKnightFireChampion": "SwordDefaultCrit",
         "Upyr": "SwordDefaultCrit"
     },
     {
@@ -426,6 +436,7 @@
         "Sun": "ClubSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubRockNPC",
+        "EvilKnightFireChampion": "ClubArmor",
         "Upyr": "ClubDefault"
     },
     {
@@ -465,6 +476,7 @@
         "Sun": "ClubSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubRockNPC",
+        "EvilKnightFireChampion": "ClubArmor",
         "Upyr": "ClubDefault"
     },
     {
@@ -504,6 +516,7 @@
         "Sun": "ClubResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubResist",
+        "EvilKnightFireChampion": "ClubResist",
         "Upyr": "ClubResist"
     },
     {
@@ -543,6 +556,7 @@
         "Sun": "ClubResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubResist",
+        "EvilKnightFireChampion": "ClubResist",
         "Upyr": "ClubResist"
     },
     {
@@ -582,6 +596,7 @@
         "Sun": "ClubSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubRockNPCCrit",
+        "EvilKnightFireChampion": "ClubDefaultCrit",
         "Upyr": "ClubDefaultCrit"
     },
     {
@@ -621,6 +636,7 @@
         "Sun": "AxeSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AxeRockNPC",
+        "EvilKnightFireChampion": "AxeArmor",
         "Upyr": "AxeDefault"
     },
     {
@@ -660,6 +676,7 @@
         "Sun": "AxeSunThrow",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AxeRockNPCThrow",
+        "EvilKnightFireChampion": "AxeArmor",
         "Upyr": "AxeDefaultThrow"
     },
     {
@@ -699,6 +716,7 @@
         "Sun": "AxeResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AxeResist",
+        "EvilKnightFireChampion": "AxeResist",
         "Upyr": "AxeResist"
     },
     {
@@ -738,6 +756,7 @@
         "Sun": "SwordSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordRockNPCCrit",
+        "EvilKnightFireChampion": "AxeDefaultCrit",
         "Upyr": "AxeDefaultCrit"
     },
     {
@@ -777,6 +796,7 @@
         "Sun": "AxeResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AxeResist",
+        "EvilKnightFireChampion": "AxeResist",
         "Upyr": "AxeResist"
     },
     {
@@ -816,6 +836,7 @@
         "Sun": "AxeSunThrowCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AxeRockNPCThrowCrit",
+        "EvilKnightFireChampion": "AxeDefaultThrowCrit",
         "Upyr": "AxeDefaultThrowCrit"
     },
     {
@@ -855,6 +876,7 @@
         "Sun": "GreatAxeSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatAxeRockNPC",
+        "EvilKnightFireChampion": "GreatAxeArmor",
         "Upyr": "GreatAxeDefault"
     },
     {
@@ -894,6 +916,7 @@
         "Sun": "GreatAxeResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatAxeResist",
+        "EvilKnightFireChampion": "GreatAxeResist",
         "Upyr": "GreatAxeResist"
     },
     {
@@ -933,6 +956,7 @@
         "Sun": "GreatAxeSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatAxeRockNPC",
+        "EvilKnightFireChampion": "GreatAxeArmor",
         "Upyr": "GreatAxeDefault"
     },
     {
@@ -972,6 +996,7 @@
         "Sun": "GreatAxeResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatAxeResist",
+        "EvilKnightFireChampion": "GreatAxeResist",
         "Upyr": "GreatAxeResist"
     },
     {
@@ -1011,6 +1036,7 @@
         "Sun": "SwordSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SwordRockNPCCrit",
+        "EvilKnightFireChampion": "SwordDefaultCrit",
         "Upyr": "SwordDefaultCrit"
     },
     {
@@ -1050,6 +1076,7 @@
         "Sun": "MusketSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "MusketRockNPC",
+        "EvilKnightFireChampion": "MusketArmor",
         "Upyr": "MusketDefault"
     },
     {
@@ -1089,6 +1116,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
+        "EvilKnightFireChampion": "ClubArmor",
         "Upyr": "MusketDefault"
     },
     {
@@ -1128,6 +1156,7 @@
         "Sun": "StickyBombDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "StickyBombDefault",
+        "EvilKnightFireChampion": "StickyBombDefault",
         "Upyr": "StickyBombDefault"
     },
     {
@@ -1167,6 +1196,7 @@
         "Sun": "MusketResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "MusketResist",
+        "EvilKnightFireChampion": "MusketResist",
         "Upyr": "MusketResist"
     },
     {
@@ -1206,6 +1236,7 @@
         "Sun": "MusketSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "MusketRockNPCCrit",
+        "EvilKnightFireChampion": "MusketFleshCrit",
         "Upyr": "MusketDefaultCrit"
     },
     {
@@ -1245,6 +1276,7 @@
         "Sun": "MusketSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "MusketRockNPCCrit",
+        "EvilKnightFireChampion": "MusketFleshCrit",
         "Upyr": "MusketDefaultCrit"
     },
     {
@@ -1284,6 +1316,7 @@
         "Sun": "BowSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BowRockNPC",
+        "EvilKnightFireChampion": "BowArmor",
         "Upyr": "BowDefault"
     },
     {
@@ -1323,6 +1356,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
+        "EvilKnightFireChampion": "ClubArmor",
         "Upyr": "BowDefault"
     },
     {
@@ -1362,6 +1396,7 @@
         "Sun": "BowResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BowResist",
+        "EvilKnightFireChampion": "BowResist",
         "Upyr": "BowResist"
     },
     {
@@ -1401,6 +1436,7 @@
         "Sun": "BowSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BowRockNPCCrit",
+        "EvilKnightFireChampion": "BowDefaultCrit",
         "Upyr": "BowDefaultCrit"
     },
     {
@@ -1440,6 +1476,7 @@
         "Sun": "BowSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BowRockNPCCrit",
+        "EvilKnightFireChampion": "BowDefaultCrit",
         "Upyr": "BowDefaultCrit"
     },
     {
@@ -1479,6 +1516,7 @@
         "Sun": "BowArcane",
         "MageArcaneShield": "BowArcane",
         "RockNPC": "BowArcane",
+        "EvilKnightFireChampion": "BowArcane",
         "Upyr": "BowArcane"
     },
     {
@@ -1518,6 +1556,7 @@
         "Sun": "ShieldSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ShieldRockNPC",
+        "EvilKnightFireChampion": "ShieldArmor",
         "Upyr": "ShieldDefault"
     },
     {
@@ -1557,6 +1596,7 @@
         "Sun": "ShieldResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ShieldResist",
+        "EvilKnightFireChampion": "ShieldResist",
         "Upyr": "ShieldResist"
     },
     {
@@ -1596,6 +1636,7 @@
         "Sun": "ShieldSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ShieldRockNPCCrit",
+        "EvilKnightFireChampion": "ShieldDefaultCrit",
         "Upyr": "ShieldDefaultCrit"
     },
     {
@@ -1635,6 +1676,7 @@
         "Sun": "SpearSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearRockNPC",
+        "EvilKnightFireChampion": "SpearArmor",
         "Upyr": "SpearDefault"
     },
     {
@@ -1674,6 +1716,7 @@
         "Sun": "SpearResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearResist",
+        "EvilKnightFireChampion": "SpearResist",
         "Upyr": "SpearResist"
     },
     {
@@ -1713,6 +1756,7 @@
         "Sun": "SpearSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearRockNPCCrit",
+        "EvilKnightFireChampion": "SpearDefaultCrit",
         "Upyr": "SpearDefaultCrit"
     },
     {
@@ -1752,6 +1796,7 @@
         "Sun": "SpearDefaultThrow",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearDefaultThrow",
+        "EvilKnightFireChampion": "SpearDefaultThrow",
         "Upyr": "SpearDefaultThrow"
     },
     {
@@ -1791,6 +1836,7 @@
         "Sun": "SpearResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearResist",
+        "EvilKnightFireChampion": "SpearResist",
         "Upyr": "SpearResist"
     },
     {
@@ -1830,6 +1876,7 @@
         "Sun": "SpearDefaultThrowCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearDefaultThrowCrit",
+        "EvilKnightFireChampion": "SpearDefaultThrowCrit",
         "Upyr": "SpearDefaultThrowCrit"
     },
     {
@@ -1869,6 +1916,7 @@
         "Sun": "SpearSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearRockNPC",
+        "EvilKnightFireChampion": "SpearArmor",
         "Upyr": "SpearDefault"
     },
     {
@@ -1908,6 +1956,7 @@
         "Sun": "SpearResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearResist",
+        "EvilKnightFireChampion": "SpearResist",
         "Upyr": "SpearResist"
     },
     {
@@ -1947,6 +1996,7 @@
         "Sun": "SpearSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearRockNPCCrit",
+        "EvilKnightFireChampion": "SpearDefaultCrit",
         "Upyr": "SpearDefaultCrit"
     },
     {
@@ -1986,6 +2036,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
+        "EvilKnightFireChampion": "WarHammerArmor",
         "Upyr": "WarHammerDefault"
     },
     {
@@ -2025,6 +2076,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
+        "EvilKnightFireChampion": "WarHammerArmor",
         "Upyr": "WarHammerDefault"
     },
     {
@@ -2064,6 +2116,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
+        "EvilKnightFireChampion": "WarHammerArmor",
         "Upyr": "WarHammerDefault"
     },
     {
@@ -2103,6 +2156,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
+        "EvilKnightFireChampion": "WarHammerArmor",
         "Upyr": "WarHammerDefault"
     },
     {
@@ -2142,6 +2196,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
+        "EvilKnightFireChampion": "WarHammerArmor",
         "Upyr": "WarHammerDefault"
     },
     {
@@ -2181,6 +2236,7 @@
         "Sun": "WarHammerResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerResist",
+        "EvilKnightFireChampion": "WarHammerResist",
         "Upyr": "WarHammerResist"
     },
     {
@@ -2220,6 +2276,7 @@
         "Sun": "WarHammerResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerResist",
+        "EvilKnightFireChampion": "WarHammerResist",
         "Upyr": "WarHammerResist"
     },
     {
@@ -2259,6 +2316,7 @@
         "Sun": "WarHammerResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerResist",
+        "EvilKnightFireChampion": "WarHammerResist",
         "Upyr": "WarHammerResist"
     },
     {
@@ -2298,6 +2356,7 @@
         "Sun": "WarHammerSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPCCrit",
+        "EvilKnightFireChampion": "WarHammerDefaultCrit",
         "Upyr": "WarHammerDefaultCrit"
     },
     {
@@ -2337,6 +2396,7 @@
         "Sun": "WarHammerSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPCCrit",
+        "EvilKnightFireChampion": "WarHammerDefaultCrit",
         "Upyr": "WarHammerDefaultCrit"
     },
     {
@@ -2376,6 +2436,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
+        "EvilKnightFireChampion": "UnarmedArmor",
         "Upyr": "UnarmedDefault"
     },
     {
@@ -2415,6 +2476,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -2454,6 +2516,7 @@
         "Sun": "GhostFrozen",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostFrozen",
+        "EvilKnightFireChampion": "GhostFrozen",
         "Upyr": "GhostFrozen"
     },
     {
@@ -2493,6 +2556,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -2532,6 +2596,7 @@
         "Sun": "GhostFire",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostFire",
+        "EvilKnightFireChampion": "GhostFire",
         "Upyr": "GhostFire"
     },
     {
@@ -2571,6 +2636,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -2610,6 +2676,7 @@
         "Sun": "GhostLightning",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostLightning",
+        "EvilKnightFireChampion": "GhostLightning",
         "Upyr": "GhostLightning"
     },
     {
@@ -2649,6 +2716,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -2688,6 +2756,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
+        "EvilKnightFireChampion": "UnarmedArmor",
         "Upyr": "UnarmedDefault"
     },
     {
@@ -2727,6 +2796,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -2766,6 +2836,7 @@
         "Sun": "GhostPoison",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostPoison",
+        "EvilKnightFireChampion": "GhostPoison",
         "Upyr": "GhostPoison"
     },
     {
@@ -2805,6 +2876,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -2844,6 +2916,7 @@
         "Sun": "GhostShackled",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostShackled",
+        "EvilKnightFireChampion": "GhostShackled",
         "Upyr": "GhostShackled"
     },
     {
@@ -2883,6 +2956,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -2922,6 +2996,7 @@
         "Sun": "GhostMelee",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GhostMelee",
+        "EvilKnightFireChampion": "GhostMelee",
         "Upyr": "GhostMelee"
     },
     {
@@ -2961,6 +3036,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -3000,6 +3076,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
+        "EvilKnightFireChampion": "UnarmedArmor",
         "Upyr": "UnarmedDefault"
     },
     {
@@ -3039,6 +3116,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -3078,6 +3156,7 @@
         "Sun": "ClubDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "ClubDefault",
+        "EvilKnightFireChampion": "ClubDefault",
         "Upyr": "ClubDefault"
     },
     {
@@ -3117,6 +3196,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -3156,6 +3236,7 @@
         "Sun": "UnarmedSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedRockNPC",
+        "EvilKnightFireChampion": "UnarmedArmor",
         "Upyr": "UnarmedDefault"
     },
     {
@@ -3195,6 +3276,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -3234,6 +3316,7 @@
         "Sun": "Regurgitator_VomitballDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Regurgitator_VomitballDefault",
+        "EvilKnightFireChampion": "Regurgitator_VomitballDefault",
         "Upyr": "Regurgitator_VomitballDefault"
     },
     {
@@ -3273,6 +3356,7 @@
         "Sun": "Regurgitator_VomitballResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Regurgitator_VomitballResist",
+        "EvilKnightFireChampion": "Regurgitator_VomitballResist",
         "Upyr": "Regurgitator_VomitballResist"
     },
     {
@@ -3312,6 +3396,7 @@
         "Sun": "Regurgitator_VomitsprayDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Regurgitator_VomitsprayDefault",
+        "EvilKnightFireChampion": "Regurgitator_VomitsprayDefault",
         "Upyr": "Regurgitator_VomitsprayDefault"
     },
     {
@@ -3351,6 +3436,7 @@
         "Sun": "Regurgitator_VomitsprayResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Regurgitator_VomitsprayResist",
+        "EvilKnightFireChampion": "Regurgitator_VomitsprayResist",
         "Upyr": "Regurgitator_VomitsprayResist"
     },
     {
@@ -3390,6 +3476,7 @@
         "Sun": "Impaler_spikeDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Impaler_spikeDefault",
+        "EvilKnightFireChampion": "Impaler_spikeDefault",
         "Upyr": "Impaler_spikeDefault"
     },
     {
@@ -3429,6 +3516,7 @@
         "Sun": "Impaler_spikeResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Impaler_spikeResist",
+        "EvilKnightFireChampion": "Impaler_spikeResist",
         "Upyr": "Impaler_spikeResist"
     },
     {
@@ -3468,6 +3556,7 @@
         "Sun": "LifeStaffFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "LifeStaffDefault",
+        "EvilKnightFireChampion": "LifeStaffFlesh",
         "Upyr": "LifeStaffDefault"
     },
     {
@@ -3507,6 +3596,7 @@
         "Sun": "LifeStaff_Protect",
         "MageArcaneShield": "LifeStaff_Protect",
         "RockNPC": "LifeStaff_Protect",
+        "EvilKnightFireChampion": "LifeStaff_Protect",
         "Upyr": "LifeStaff_Protect"
     },
     {
@@ -3546,6 +3636,7 @@
         "Sun": "LifeStaffResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "LifeStaffResist",
+        "EvilKnightFireChampion": "LifeStaffResist",
         "Upyr": "LifeStaffResist"
     },
     {
@@ -3585,6 +3676,7 @@
         "Sun": "LifeStaffDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "LifeStaffDefaultCrit",
+        "EvilKnightFireChampion": "LifeStaffDefaultCrit",
         "Upyr": "LifeStaffDefaultCrit"
     },
     {
@@ -3624,6 +3716,7 @@
         "Sun": "FireStaffFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffDefault",
+        "EvilKnightFireChampion": "FireStaffFlesh",
         "Upyr": "FireStaffDefault"
     },
     {
@@ -3663,6 +3756,7 @@
         "Sun": "FireStaffResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffResist",
+        "EvilKnightFireChampion": "FireStaffResist",
         "Upyr": "FireStaffResist"
     },
     {
@@ -3702,6 +3796,7 @@
         "Sun": "FireStaffDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffDefaultCrit",
+        "EvilKnightFireChampion": "FireStaffDefaultCrit",
         "Upyr": "FireStaffDefaultCrit"
     },
     {
@@ -3741,6 +3836,7 @@
         "Sun": "FlameThrowerFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FlameThrowerDefault",
+        "EvilKnightFireChampion": "FlameThrowerFlesh",
         "Upyr": "FlameThrowerDefault"
     },
     {
@@ -3780,6 +3876,7 @@
         "Sun": "FlameThrowerResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FlameThrowerResist",
+        "EvilKnightFireChampion": "FlameThrowerResist",
         "Upyr": "FlameThrowerResist"
     },
     {
@@ -3819,6 +3916,7 @@
         "Sun": "FlameThrowerDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FlameThrowerDefaultCrit",
+        "EvilKnightFireChampion": "FlameThrowerDefaultCrit",
         "Upyr": "FlameThrowerDefaultCrit"
     },
     {
@@ -3858,6 +3956,7 @@
         "Sun": "FireStaffFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffDefault",
+        "EvilKnightFireChampion": "FireStaffFlesh",
         "Upyr": "FireStaffDefault"
     },
     {
@@ -3897,6 +3996,7 @@
         "Sun": "FireStaffResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffResist",
+        "EvilKnightFireChampion": "FireStaffResist",
         "Upyr": "FireStaffResist"
     },
     {
@@ -3936,6 +4036,7 @@
         "Sun": "FireStaffDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "FireStaffDefaultCrit",
+        "EvilKnightFireChampion": "FireStaffDefaultCrit",
         "Upyr": "FireStaffDefaultCrit"
     },
     {
@@ -3975,6 +4076,7 @@
         "Sun": "IceGauntletFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletDefault",
+        "EvilKnightFireChampion": "IceGauntletFlesh",
         "Upyr": "IceGauntletDefault"
     },
     {
@@ -4014,6 +4116,7 @@
         "Sun": "IceGauntletHeavyFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletDefault",
+        "EvilKnightFireChampion": "IceGauntletHeavyFlesh",
         "Upyr": "IceGauntletDefault"
     },
     {
@@ -4053,6 +4156,7 @@
         "Sun": "IceGauntletNull",
         "MageArcaneShield": "IceGauntletNull",
         "RockNPC": "IceGauntletNull",
+        "EvilKnightFireChampion": "IceGauntletNull",
         "Upyr": "IceGauntletNull"
     },
     {
@@ -4092,6 +4196,7 @@
         "Sun": "IceGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletResist",
+        "EvilKnightFireChampion": "IceGauntletResist",
         "Upyr": "IceGauntletResist"
     },
     {
@@ -4131,6 +4236,7 @@
         "Sun": "IceGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletResist",
+        "EvilKnightFireChampion": "IceGauntletResist",
         "Upyr": "IceGauntletResist"
     },
     {
@@ -4170,6 +4276,7 @@
         "Sun": "IceGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletDefaultCrit",
+        "EvilKnightFireChampion": "IceGauntletDefaultCrit",
         "Upyr": "IceGauntletDefaultCrit"
     },
     {
@@ -4209,6 +4316,7 @@
         "Sun": "IceGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "IceGauntletDefaultCrit",
+        "EvilKnightFireChampion": "IceGauntletDefaultCrit",
         "Upyr": "IceGauntletDefaultCrit"
     },
     {
@@ -4248,6 +4356,7 @@
         "Sun": "VoidGauntletFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletDefault",
+        "EvilKnightFireChampion": "VoidGauntletFlesh",
         "Upyr": "VoidGauntletDefault"
     },
     {
@@ -4287,6 +4396,7 @@
         "Sun": "VoidGauntletHeavyFlesh",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletDefault",
+        "EvilKnightFireChampion": "VoidGauntletHeavyFlesh",
         "Upyr": "VoidGauntletDefault"
     },
     {
@@ -4326,6 +4436,7 @@
         "Sun": "VoidGauntletBladeDefault",
         "MageArcaneShield": "VoidGauntletBladeDefault",
         "RockNPC": "VoidGauntletBladeDefault",
+        "EvilKnightFireChampion": "VoidGauntletBladeDefault",
         "Upyr": "VoidGauntletBladeDefault"
     },
     {
@@ -4365,6 +4476,7 @@
         "Sun": "VoidGauntletSpecial",
         "MageArcaneShield": "VoidGauntletSpecial",
         "RockNPC": "VoidGauntletSpecial",
+        "EvilKnightFireChampion": "VoidGauntletSpecial",
         "Upyr": "VoidGauntletSpecial"
     },
     {
@@ -4404,6 +4516,7 @@
         "Sun": "VoidGauntletRuptureDefault",
         "MageArcaneShield": "VoidGauntletRuptureDefault",
         "RockNPC": "VoidGauntletRuptureDefault",
+        "EvilKnightFireChampion": "VoidGauntletRuptureDefault",
         "Upyr": "VoidGauntletRuptureDefault"
     },
     {
@@ -4443,6 +4556,7 @@
         "Sun": "VoidGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletResist",
+        "EvilKnightFireChampion": "VoidGauntletResist",
         "Upyr": "VoidGauntletResist"
     },
     {
@@ -4482,6 +4596,7 @@
         "Sun": "VoidGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletDefaultCrit",
+        "EvilKnightFireChampion": "VoidGauntletDefaultCrit",
         "Upyr": "VoidGauntletDefaultCrit"
     },
     {
@@ -4521,6 +4636,7 @@
         "Sun": "VoidGauntletDefaultCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletDefaultCrit",
+        "EvilKnightFireChampion": "VoidGauntletDefaultCrit",
         "Upyr": "VoidGauntletDefaultCrit"
     },
     {
@@ -4560,6 +4676,7 @@
         "Sun": "VoidGauntletResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "VoidGauntletResist",
+        "EvilKnightFireChampion": "VoidGauntletResist",
         "Upyr": "VoidGauntletResist"
     },
     {
@@ -4599,6 +4716,7 @@
         "Sun": "VoidGauntletBladeResist",
         "MageArcaneShield": "VoidGauntletBladeResist",
         "RockNPC": "VoidGauntletBladeResist",
+        "EvilKnightFireChampion": "VoidGauntletBladeResist",
         "Upyr": "VoidGauntletBladeResist"
     },
     {
@@ -4638,6 +4756,7 @@
         "Sun": "VoidGauntletBladeDefault",
         "MageArcaneShield": "VoidGauntletBladeDefault",
         "RockNPC": "VoidGauntletBladeDefault",
+        "EvilKnightFireChampion": "VoidGauntletBladeDefault",
         "Upyr": "VoidGauntletBladeDefault"
     },
     {
@@ -4677,6 +4796,7 @@
         "Sun": "VoidGauntletRuptureDefault",
         "MageArcaneShield": "VoidGauntletRuptureDefault",
         "RockNPC": "VoidGauntletRuptureDefault",
+        "EvilKnightFireChampion": "VoidGauntletRuptureDefault",
         "Upyr": "VoidGauntletRuptureDefault"
     },
     {
@@ -4716,6 +4836,7 @@
         "Sun": "VoidGauntletRuptureDefault",
         "MageArcaneShield": "VoidGauntletRuptureDefault",
         "RockNPC": "VoidGauntletRuptureDefault",
+        "EvilKnightFireChampion": "VoidGauntletRuptureDefault",
         "Upyr": "VoidGauntletRuptureDefault"
     },
     {
@@ -4755,6 +4876,7 @@
         "Sun": "VoidGauntletSpecial",
         "MageArcaneShield": "VoidGauntletSpecial",
         "RockNPC": "VoidGauntletSpecial",
+        "EvilKnightFireChampion": "VoidGauntletSpecial",
         "Upyr": "VoidGauntletSpecial"
     },
     {
@@ -4794,6 +4916,7 @@
         "Sun": "VoidGauntletSpecial",
         "MageArcaneShield": "VoidGauntletSpecial",
         "RockNPC": "VoidGauntletSpecial",
+        "EvilKnightFireChampion": "VoidGauntletSpecial",
         "Upyr": "VoidGauntletSpecial"
     },
     {
@@ -4833,6 +4956,7 @@
         "Sun": "SpearDefaultThrow",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "SpearDefaultThrow",
+        "EvilKnightFireChampion": "SpearDefaultThrow",
         "Upyr": "SpearDefaultThrow"
     },
     {
@@ -4872,6 +4996,7 @@
         "Sun": "WarHammerSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "WarHammerRockNPC",
+        "EvilKnightFireChampion": "WarHammerArmor",
         "Upyr": "WarHammerDefault"
     },
     {
@@ -4911,6 +5036,7 @@
         "Sun": "BeamLaserDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BeamLaserDefault",
+        "EvilKnightFireChampion": "BeamLaserDefault",
         "Upyr": "BeamLaserDefault"
     },
     {
@@ -4950,6 +5076,7 @@
         "Sun": "BeamVoidSpikeDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BeamVoidSpikeDefault",
+        "EvilKnightFireChampion": "BeamVoidSpikeDefault",
         "Upyr": "BeamVoidSpikeDefault"
     },
     {
@@ -4989,6 +5116,7 @@
         "Sun": "Sonicboom",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Sonicboom",
+        "EvilKnightFireChampion": "Sonicboom",
         "Upyr": "Sonicboom"
     },
     {
@@ -5028,6 +5156,7 @@
         "Sun": "Torch",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Torch",
+        "EvilKnightFireChampion": "Torch",
         "Upyr": "Torch"
     },
     {
@@ -5067,6 +5196,7 @@
         "Sun": "TorchResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "TorchResist",
+        "EvilKnightFireChampion": "TorchResist",
         "Upyr": "SwordResist"
     },
     {
@@ -5106,6 +5236,7 @@
         "Sun": "CorruptedMagic",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "CorruptedMagic",
+        "EvilKnightFireChampion": "CorruptedMagic",
         "Upyr": "CorruptedMagic"
     },
     {
@@ -5145,6 +5276,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -5184,6 +5316,7 @@
         "Sun": "GravediggerLifesteal",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GravediggerLifesteal",
+        "EvilKnightFireChampion": "GravediggerLifesteal",
         "Upyr": "GravediggerLifesteal"
     },
     {
@@ -5223,6 +5356,7 @@
         "Sun": "DryadMagic",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "DryadMagic",
+        "EvilKnightFireChampion": "DryadMagic",
         "Upyr": "DryadMagic"
     },
     {
@@ -5262,6 +5396,7 @@
         "Sun": "UnarmedResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "UnarmedResist",
+        "EvilKnightFireChampion": "UnarmedResist",
         "Upyr": "UnarmedResist"
     },
     {
@@ -5301,6 +5436,7 @@
         "Sun": "AncientMagic",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "AncientMagic",
+        "EvilKnightFireChampion": "AncientMagic",
         "Upyr": "AncientMagic"
     },
     {
@@ -5340,6 +5476,7 @@
         "Sun": "DynastyMagic",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "DynastyMagic",
+        "EvilKnightFireChampion": "DynastyMagic",
         "Upyr": "DynastyMagic"
     },
     {
@@ -5379,6 +5516,7 @@
         "Sun": "SunMagic",
         "MageArcaneShield": "SunMagic",
         "RockNPC": "SunMagic",
+        "EvilKnightFireChampion": "SunMagic",
         "Upyr": "SunMagic"
     },
     {
@@ -5418,6 +5556,7 @@
         "Sun": "CorruptedSlash",
         "MageArcaneShield": "CorruptedSlash",
         "RockNPC": "CorruptedSlash",
+        "EvilKnightFireChampion": "CorruptedSlash",
         "Upyr": "CorruptedSlash"
     },
     {
@@ -5457,6 +5596,7 @@
         "Sun": "CorruptedMagic_Legion",
         "MageArcaneShield": "CorruptedMagic_Legion",
         "RockNPC": "CorruptedMagic_Legion",
+        "EvilKnightFireChampion": "CorruptedMagic_Legion",
         "Upyr": "CorruptedMagic_Legion"
     },
     {
@@ -5496,6 +5636,7 @@
         "Sun": "BlunderbussSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPC",
+        "EvilKnightFireChampion": "BlunderbussArmor",
         "Upyr": "BlunderbussDefault"
     },
     {
@@ -5535,6 +5676,7 @@
         "Sun": "BlunderbussSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPC",
+        "EvilKnightFireChampion": "Blunderbuss_Claw_Flesh",
         "Upyr": "Blunderbuss_Claw_Flesh"
     },
     {
@@ -5574,6 +5716,7 @@
         "Sun": "BlunderbussSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPC",
+        "EvilKnightFireChampion": "BlunderbussArmor",
         "Upyr": "BlunderbussDefault"
     },
     {
@@ -5613,6 +5756,7 @@
         "Sun": "Blunderbuss_Chr_Shrapnel",
         "MageArcaneShield": "Blunderbuss_Chr_Shrapnel",
         "RockNPC": "Blunderbuss_Chr_Shrapnel",
+        "EvilKnightFireChampion": "Blunderbuss_Chr_Shrapnel",
         "Upyr": "BlunderbussDefault"
     },
     {
@@ -5652,6 +5796,7 @@
         "Sun": "BlunderbussResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussResist",
+        "EvilKnightFireChampion": "BlunderbussResist",
         "Upyr": "BlunderbussResist"
     },
     {
@@ -5691,6 +5836,7 @@
         "Sun": "BlunderbussResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussResist",
+        "EvilKnightFireChampion": "BlunderbussResist",
         "Upyr": "BlunderbussResist"
     },
     {
@@ -5730,6 +5876,7 @@
         "Sun": "BlunderbussResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussResist",
+        "EvilKnightFireChampion": "BlunderbussResist",
         "Upyr": "BlunderbussResist"
     },
     {
@@ -5769,6 +5916,7 @@
         "Sun": "BlunderbussResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussResist",
+        "EvilKnightFireChampion": "BlunderbussResist",
         "Upyr": "BlunderbussResist"
     },
     {
@@ -5808,6 +5956,7 @@
         "Sun": "BlunderbussSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPCCrit",
+        "EvilKnightFireChampion": "BlunderbussFleshCrit",
         "Upyr": "BlunderbussDefaultCrit"
     },
     {
@@ -5847,6 +5996,7 @@
         "Sun": "Blunderbuss_Claw_Crit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Blunderbuss_Claw_Crit",
+        "EvilKnightFireChampion": "Blunderbuss_Claw_Crit",
         "Upyr": "Blunderbuss_Claw_Crit"
     },
     {
@@ -5886,6 +6036,7 @@
         "Sun": "BlunderbussSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPCCrit",
+        "EvilKnightFireChampion": "BlunderbussFleshCrit",
         "Upyr": "BlunderbussDefaultCrit"
     },
     {
@@ -5925,6 +6076,7 @@
         "Sun": "BlunderbussSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "BlunderbussRockNPCCrit",
+        "EvilKnightFireChampion": "BlunderbussFleshCrit",
         "Upyr": "BlunderbussDefaultCrit"
     },
     {
@@ -5964,6 +6116,7 @@
         "Sun": "NecroPhlegm",
         "MageArcaneShield": "NecroPhlegm",
         "RockNPC": "NecroPhlegm",
+        "EvilKnightFireChampion": "NecroPhlegm",
         "Upyr": "NecroPhlegm"
     },
     {
@@ -6003,6 +6156,7 @@
         "Sun": "BattleScreech",
         "MageArcaneShield": "BattleScreech",
         "RockNPC": "BattleScreech",
+        "EvilKnightFireChampion": "BattleScreech",
         "Upyr": "BattleScreech"
     },
     {
@@ -6042,6 +6196,7 @@
         "Sun": "Lunge",
         "MageArcaneShield": "Lunge",
         "RockNPC": "Lunge",
+        "EvilKnightFireChampion": "Lunge",
         "Upyr": "Lunge"
     },
     {
@@ -6081,6 +6236,7 @@
         "Sun": "GreatSwordSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatSwordRockNPC",
+        "EvilKnightFireChampion": "GreatSwordArmor",
         "Upyr": "GreatSwordDefault"
     },
     {
@@ -6120,6 +6276,7 @@
         "Sun": "GreatSwordHeavySun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatSwordHeavyRockNPC",
+        "EvilKnightFireChampion": "GreatSwordHeavyArmor",
         "Upyr": "GreatSwordHeavy"
     },
     {
@@ -6159,6 +6316,7 @@
         "Sun": "GreatSwordResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatSwordResist",
+        "EvilKnightFireChampion": "GreatSwordResist",
         "Upyr": "GreatSwordResist"
     },
     {
@@ -6198,6 +6356,7 @@
         "Sun": "GreatSwordHeavyResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatSwordHeavyResist",
+        "EvilKnightFireChampion": "GreatSwordHeavyResist",
         "Upyr": "GreatSwordHeavyResist"
     },
     {
@@ -6237,6 +6396,7 @@
         "Sun": "GreatSwordSun",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatSwordRockNPC",
+        "EvilKnightFireChampion": "GreatAxeArmor",
         "Upyr": "GreatSwordDefault"
     },
     {
@@ -6276,6 +6436,7 @@
         "Sun": "GreatSwordResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatSwordResist",
+        "EvilKnightFireChampion": "GreatSwordResist",
         "Upyr": "GreatSwordResist"
     },
     {
@@ -6315,6 +6476,7 @@
         "Sun": "GreatSwordSunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatSwordRockNPCCrit",
+        "EvilKnightFireChampion": "GreatSwordDefaultCrit",
         "Upyr": "GreatSwordDefaultCrit"
     },
     {
@@ -6354,6 +6516,7 @@
         "Sun": "GreatSwordHeavySunCrit",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "GreatSwordHeavyRockNPCCrit",
+        "EvilKnightFireChampion": "GreatSwordHeavyCrit",
         "Upyr": "GreatSwordHeavyCrit"
     },
     {
@@ -6393,6 +6556,7 @@
         "Sun": "Heartgem_BileBombDefault",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Heartgem_BileBombDefault",
+        "EvilKnightFireChampion": "Heartgem_BileBombDefault",
         "Upyr": "Heartgem_BileBombDefault"
     },
     {
@@ -6432,6 +6596,7 @@
         "Sun": "Heartgem_BileBombResist",
         "MageArcaneShield": "HolyShield_Proj",
         "RockNPC": "Heartgem_BileBombResist",
+        "EvilKnightFireChampion": "Heartgem_BileBombResist",
         "Upyr": "Heartgem_BileBombResist"
     }
 ]

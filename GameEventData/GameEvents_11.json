@@ -1027,5 +1027,26 @@
         "EmitTelemetry": true,
         "AzothReward": 0,
         "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1102_TelescopeChest_interact",
+        "GameEventType": "",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "ItemReward": "",
+        "RewardNotes": "",
+        "GearScoreRange": "",
+        "CategoricalProgressionId": "",
+        "CategoricalProgressionReward": null,
+        "TerritoryStanding": 0,
+        "FactionReputation": "",
+        "FactionTokens": "",
+        "FactionInfluenceAmount": "",
+        "FactionInfluenceSrc": "",
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
     }
 ]

@@ -50,6 +50,16 @@
         "ValueLimits": "ABSStandard:-0.3,ABSSiege:-0.3,ABSStrike:-0.3,ABSSlash:-0.3,ABSThrust:-0.3,ABSArcane:-0.3,ABSFire:-0.3,ABSIce:-0.3,ABSNature:-0.3,ABSLightning:-0.3,ABSCorruption:-0.3"
     },
     {
+        "StatusEffectCategoryID": "ArmorRend",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "PhysicalArmor:-0.7,ElementalArmor:-0.7"
+    },
+    {
         "StatusEffectCategoryID": "Fortify",
         "DurationDiminishingMod": null,
         "DurationModMin": null,
@@ -58,6 +68,16 @@
         "PotencyModMin": null,
         "PotencyModMax": null,
         "ValueLimits": "ABSStandard:0.5,ABSSiege:0.5,ABSStrike:0.5,ABSSlash:0.5,ABSThrust:0.5,ABSArcane:0.5,ABSFire:0.5,ABSIce:0.5,ABSNature:0.5,ABSLightning:0.5,ABSCorruption:0.5"
+    },
+    {
+        "StatusEffectCategoryID": "ArmorFortify",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": null,
+        "PotencyModMin": null,
+        "PotencyModMax": null,
+        "ValueLimits": "PhysicalArmor:2.0,ElementalArmor:2.0"
     },
     {
         "StatusEffectCategoryID": "Weaken",
@@ -328,5 +348,55 @@
         "PotencyModMin": null,
         "PotencyModMax": null,
         "ValueLimits": "DMGStandard:1.5,DMGSiege:1.5,DMGStrike:1.5,DMGSlash:1.5,DMGThrust:1.5,DMGArcane:1.5,DMGFire:1.5,DMGIce:1.5,DMGNature:1.5,DMGLightning:1.5,DMGCorruption:1.5"
+    },
+    {
+        "StatusEffectCategoryID": "CCDurReduction",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
+        "ValueLimits": "EffectDurationMods:-0.9"
+    },
+    {
+        "StatusEffectCategoryID": "Energized",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
+        "ValueLimits": "StaminaRate:0.5"
+    },
+    {
+        "StatusEffectCategoryID": "Exhaust",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
+        "ValueLimits": "StaminaRate:-0.5"
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedEnergized",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
+        "ValueLimits": "StaminaRate:2"
+    },
+    {
+        "StatusEffectCategoryID": "UnclampedExhaust",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
+        "ValueLimits": "StaminaRate:-1"
     }
 ]

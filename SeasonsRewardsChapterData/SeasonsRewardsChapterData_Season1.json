@@ -1,0 +1,44 @@
+[
+    {
+        "ChapterId": "Season1Chapter1",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 1,
+        "ChapterTaskCount": 5,
+        "ChapterRewardId": "S1_Journey_Ch01_Complete"
+    },
+    {
+        "ChapterId": "Season1Chapter2",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 2,
+        "ChapterTaskCount": 5,
+        "ChapterRewardId": "S1_Journey_Ch02_Complete"
+    },
+    {
+        "ChapterId": "Season1Chapter3",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 3,
+        "ChapterTaskCount": 5,
+        "ChapterRewardId": "S1_Journey_Ch03_Complete"
+    },
+    {
+        "ChapterId": "Season1Chapter4",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 4,
+        "ChapterTaskCount": 7,
+        "ChapterRewardId": "S1_Journey_Ch04_Complete"
+    },
+    {
+        "ChapterId": "Season1Chapter5",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 5,
+        "ChapterTaskCount": 7,
+        "ChapterRewardId": "S1_Journey_Ch05_Complete"
+    },
+    {
+        "ChapterId": "Season1Challenge",
+        "ChapterType": "Challenge",
+        "ChapterIndex": 6,
+        "ChapterTaskCount": 10,
+        "ChapterRewardId": ""
+    }
+]

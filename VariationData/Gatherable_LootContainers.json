@@ -21,7 +21,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Abandoned_T1_M",
@@ -45,7 +53,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Abandoned_T1_S",
@@ -69,7 +85,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Abandoned_T2_L",
@@ -93,7 +117,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Abandoned_T2_M",
@@ -117,7 +149,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Abandoned_T2_S",
@@ -141,7 +181,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Abandoned_T3_L",
@@ -165,7 +213,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Abandoned_T3_M",
@@ -189,7 +245,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Abandoned_T3_S",
@@ -213,7 +277,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Alchemy_T1_L",
@@ -237,7 +309,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Alchemy_T1_M",
@@ -261,7 +341,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Alchemy_T2_L",
@@ -285,7 +373,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Alchemy_T2_M",
@@ -309,7 +405,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Alchemy_T3_L",
@@ -333,7 +437,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Alchemy_T3_M",
@@ -357,7 +469,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Ancient_T1_L",
@@ -381,7 +501,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Ancient_T1_M",
@@ -405,7 +533,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Ancient_T1_S",
@@ -429,7 +565,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Ancient_T2_L",
@@ -453,7 +597,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Ancient_T2_M",
@@ -477,7 +629,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Ancient_T2_S",
@@ -501,7 +661,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Ancient_T3_L",
@@ -525,7 +693,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Ancient_T3_M",
@@ -549,7 +725,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Ancient_T3_S",
@@ -573,7 +757,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Blacksmith_T1_L",
@@ -597,7 +789,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Blacksmith_T1_M",
@@ -621,7 +821,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Blacksmith_T2_L",
@@ -645,7 +853,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Blacksmith_T2_M",
@@ -669,7 +885,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Blacksmith_T3_L",
@@ -693,7 +917,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Blacksmith_T3_M",
@@ -717,7 +949,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Carpentry_T1_L",
@@ -741,7 +981,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Carpentry_T1_M",
@@ -765,7 +1013,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Carpentry_T2_L",
@@ -789,7 +1045,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Carpentry_T2_M",
@@ -813,7 +1077,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Carpentry_T3_L",
@@ -837,7 +1109,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Carpentry_T3_M",
@@ -861,7 +1141,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "ChestEliteAncientT2",
@@ -885,7 +1173,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "ChestEliteAncientT3",
@@ -909,7 +1205,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "ChestEliteAncientT4",
@@ -933,7 +1237,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "ChestEliteAncientT5",
@@ -957,7 +1269,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "ChestEliteT2",
@@ -981,7 +1301,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "ChestEliteT3",
@@ -1005,7 +1333,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "ChestEliteT4",
@@ -1029,7 +1365,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "ChestEliteT5",
@@ -1053,7 +1397,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Darkness_StarterPack",
@@ -1077,7 +1429,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Engineering_T1_L",
@@ -1101,7 +1461,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Engineering_T1_M",
@@ -1125,7 +1493,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Engineering_T2_L",
@@ -1149,7 +1525,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Engineering_T2_M",
@@ -1173,7 +1557,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Engineering_T3_L",
@@ -1197,7 +1589,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Engineering_T3_M",
@@ -1221,7 +1621,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Farmland_T1_L",
@@ -1245,7 +1653,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Farmland_T1_M",
@@ -1269,7 +1685,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Farmland_T2_L",
@@ -1293,7 +1717,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Farmland_T2_M",
@@ -1317,7 +1749,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Farmland_T3_L",
@@ -1341,7 +1781,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Farmland_T3_M",
@@ -1365,7 +1813,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "FTUE_Backstory",
@@ -1389,7 +1845,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "LootableAzoth",
@@ -1413,7 +1877,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Outfitting_T1_L",
@@ -1437,7 +1909,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Outfitting_T1_M",
@@ -1461,7 +1941,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Outfitting_T2_L",
@@ -1485,7 +1973,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Outfitting_T2_M",
@@ -1509,7 +2005,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Outfitting_T3_L",
@@ -1533,7 +2037,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Outfitting_T3_M",
@@ -1557,7 +2069,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Provisioning_T1_L",
@@ -1581,7 +2101,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Provisioning_T1_M",
@@ -1605,7 +2133,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Provisioning_T2_L",
@@ -1629,7 +2165,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Provisioning_T2_M",
@@ -1653,7 +2197,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Provisioning_T3_L",
@@ -1677,7 +2229,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Provisioning_T3_M",
@@ -1701,7 +2261,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Settlement_Flux",
@@ -1725,7 +2293,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Settlement_Honey",
@@ -1749,7 +2325,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Settlement_Sandpaper",
@@ -1773,7 +2357,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Settlement_Solvent",
@@ -1797,7 +2389,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Settlement_Tannin",
@@ -1821,7 +2421,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Settlement_Water",
@@ -1845,7 +2453,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Smelting_T1_L",
@@ -1869,7 +2485,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Smelting_T1_M",
@@ -1893,7 +2517,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Smelting_T2_L",
@@ -1917,7 +2549,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Smelting_T2_M",
@@ -1941,7 +2581,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Smelting_T3_L",
@@ -1965,7 +2613,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Smelting_T3_M",
@@ -1989,7 +2645,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Tanning_T1_L",
@@ -2013,7 +2677,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Tanning_T1_M",
@@ -2037,7 +2709,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Tanning_T2_L",
@@ -2061,7 +2741,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Tanning_T2_M",
@@ -2085,7 +2773,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Tanning_T3_L",
@@ -2109,7 +2805,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Tanning_T3_M",
@@ -2133,7 +2837,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Weaving_T1_L",
@@ -2157,7 +2869,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Weaving_T1_M",
@@ -2181,7 +2901,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Weaving_T2_L",
@@ -2205,7 +2933,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Weaving_T2_M",
@@ -2229,7 +2965,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Weaving_T3_L",
@@ -2253,7 +2997,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Weaving_T3_M",
@@ -2277,7 +3029,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "World_Water",
@@ -2301,7 +3061,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Abandoned_T1_S_Outpost",
@@ -2325,7 +3093,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "DG_Amrine_Grunt",
@@ -2349,7 +3125,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "DG_Amrine_ChestCandle",
@@ -2373,7 +3157,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "DG_Reekwater_Chest",
@@ -2397,7 +3189,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "DG_RestlessShores01_Chest",
@@ -2421,7 +3221,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachFireStaffChest",
@@ -2445,7 +3253,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachGreataxeChest",
@@ -2469,7 +3285,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "WeaponsChestBeach",
@@ -2493,7 +3317,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "TownCart_Iron",
@@ -2517,7 +3349,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "TownCart_Lumber",
@@ -2541,7 +3381,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "TownCart_Fiber",
@@ -2565,7 +3413,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "TownCart_Hide",
@@ -2589,7 +3445,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "TownCart_Food",
@@ -2613,7 +3477,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "TownCart_Oil",
@@ -2637,7 +3509,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Town_Cow",
@@ -2661,7 +3541,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Town_Cow_FL",
@@ -2685,7 +3573,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Town_Cow_MB",
@@ -2709,7 +3605,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Town_Cow_WW",
@@ -2733,7 +3637,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Town_Cow_RS",
@@ -2757,7 +3669,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "Town_Cow_MD",
@@ -2781,7 +3701,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachFireStaff",
@@ -2805,7 +3733,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachFireStaffUp",
@@ -2829,7 +3765,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachGreataxe",
@@ -2853,7 +3797,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachGreataxeUp",
@@ -2877,7 +3829,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachThrowingAxe",
@@ -2901,7 +3861,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachThrowingAxeUp",
@@ -2925,7 +3893,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachWarhammer",
@@ -2949,7 +3925,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachWarhammerUp",
@@ -2973,7 +3957,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachSpear",
@@ -2997,7 +3989,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachSpearUp",
@@ -3021,7 +4021,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachRapier",
@@ -3045,7 +4053,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachRapierUp",
@@ -3069,7 +4085,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachBow",
@@ -3093,7 +4117,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachBowUp",
@@ -3117,7 +4149,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachMusket",
@@ -3141,7 +4181,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachMusketUp",
@@ -3165,7 +4213,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachLifeStaff",
@@ -3189,7 +4245,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachLifeStaffUp",
@@ -3213,7 +4277,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachIceGauntlet",
@@ -3237,7 +4309,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachVoidGauntlet",
@@ -3261,7 +4341,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachBlunderbuss",
@@ -3285,7 +4373,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachLongsword",
@@ -3309,7 +4405,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachLongswordUp",
@@ -3333,7 +4437,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachRoundShield",
@@ -3357,7 +4469,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachRoundShieldUp",
@@ -3381,7 +4501,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "WeaponsChest_StarterBeach_1",
@@ -3405,7 +4533,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "WeaponsChest_StarterBeach_2",
@@ -3429,7 +4565,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "WeaponsChest_StarterBeach_3",
@@ -3453,7 +4597,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "WeaponPile",
@@ -3477,7 +4629,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "BeachGreatSword",
@@ -3501,7 +4661,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": ""
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_LegionStoneTomb_Sulfur",
@@ -3525,7 +4693,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_SulfurPool.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_SulfurPool.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_LegionStoneTomb_Abandoned_T3_L",
@@ -3549,7 +4725,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_Master.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_Master.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_LegionStoneTomb_16BS03b",
@@ -3573,7 +4757,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_16BS03b.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_16BS03b.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_LegionStoneTomb_FM1617",
@@ -3597,7 +4789,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_FM1617.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_FM1617.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_LegionStoneTomb_FM1623",
@@ -3621,7 +4821,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_FM1623.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_FM1623.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_LegionStoneTomb_Abandoned_T3_M",
@@ -3645,7 +4853,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_Master.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_Master.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_AnubianStoneTomb_Ancient_T3_L",
@@ -3669,7 +4885,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AnubianStoneTomb\\WorldEvent_IO_AnubianStoneTomb_Master.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AnubianStoneTomb\\WorldEvent_IO_AnubianStoneTomb_Master.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_AnubianStoneTomb_Ancient_T3_M",
@@ -3693,7 +4917,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AnubianStoneTomb\\WorldEvent_IO_AnubianStoneTomb_Master.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AnubianStoneTomb\\WorldEvent_IO_AnubianStoneTomb_Master.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteLegionTomb",
@@ -3717,7 +4949,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_16BS08c.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\LegionStoneTomb\\WorldEvent_IO_LegionStoneTomb_16BS08c.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest",
@@ -3741,7 +4981,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_Master.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_Master.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_16_Side_01",
@@ -3765,7 +5013,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_16_Side_01.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_16_Side_01.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_FM1620",
@@ -3789,7 +5045,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_FM1620.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_FM1620.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_01",
@@ -3813,7 +5077,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_01.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_01.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_02",
@@ -3837,7 +5109,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_02.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_02.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_03",
@@ -3861,7 +5141,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_03.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_03.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_05",
@@ -3885,7 +5173,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_05.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_05.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_06",
@@ -3909,7 +5205,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_06.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_06.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_07",
@@ -3933,7 +5237,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_07.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_07.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_08",
@@ -3957,7 +5269,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_08.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_08.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_10",
@@ -3981,7 +5301,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_10.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_10.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_11",
@@ -4005,7 +5333,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_11.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_11.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_12",
@@ -4029,7 +5365,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_12.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_12.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_13",
@@ -4053,7 +5397,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_13.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_13.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_14",
@@ -4077,7 +5429,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_14.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_14.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_15",
@@ -4101,7 +5461,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_15.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_15.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_17",
@@ -4125,7 +5493,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_17.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_17.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_19",
@@ -4149,7 +5525,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_19.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_19.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_21",
@@ -4173,7 +5557,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_21.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_21.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_22",
@@ -4197,7 +5589,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_22.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_22.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_24",
@@ -4221,7 +5621,15 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_24.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_24.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     },
     {
         "VariantID": "16BS_EliteGlyphChest_13_25",
@@ -4245,6 +5653,46 @@
         "DepletedFXOffset_Z": null,
         "IdleFXOffset_Y": "",
         "IdleFXOffset_Z": "",
-        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_25.dynamicslice"
+        "LootLockSlice": "slices\\WorldEvents\\BrimstoneSands\\Interact\\AncientGlyphChest\\WorldEvent_IO_AncientGlyphChest_13_25.dynamicslice",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
+    },
+    {
+        "VariantID": "FlameCore_Forge",
+        "Visual_Chest": "",
+        "Visual_Loot": "",
+        "GatherableEntryID": "FlameCore_Forge",
+        "LootTableComponent": "",
+        "GatheringRadius": 0.5,
+        "InteractionRadius": 5,
+        "DetectableRadius": 5,
+        "DepletedPreload": "loot_container",
+        "DepletedSFX": "Play_Gather_Chest_Large",
+        "DepletedFX": "cFX_Loot.Chest_Small_Celebration01",
+        "Idle_VFX": "Loot.Chest_big_open01",
+        "MarkerRadius": 8,
+        "Name": "@FlameCore_Forge_DisplayName",
+        "LoS_Override": false,
+        "MarkerOffset_Z": null,
+        "InteractTag": "",
+        "DepletedFXOffset_Y": null,
+        "DepletedFXOffset_Z": null,
+        "IdleFXOffset_Y": "",
+        "IdleFXOffset_Z": "",
+        "LootLockSlice": "",
+        "Idle_SFX_Preload": "loot_container",
+        "Depleted_SFX_Particle_Preload": "loot_container",
+        "Depleted_SFX_Offset_Y": null,
+        "Depleted_SFX_Offset_Z": null,
+        "Idle_SFX_Offset_Y": null,
+        "Idle_SFX_Offset_Z": null,
+        "Idle_SFX_Play": "Play_Loot_Small_Idle",
+        "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
     }
 ]

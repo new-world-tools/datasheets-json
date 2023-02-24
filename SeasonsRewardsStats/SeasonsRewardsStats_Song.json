@@ -1,0 +1,47 @@
+[
+    {
+        "TrackedStatID": "CompleteSong",
+        "StatType": "CompleteSong",
+        "TargetID": "",
+        "Level": "",
+        "RequireGroup": null,
+        "SongDifficulty": "",
+        "SongRank": ""
+    },
+    {
+        "TrackedStatID": "CompleteSongOnExpert",
+        "StatType": "CompleteSong",
+        "TargetID": "",
+        "Level": "",
+        "RequireGroup": null,
+        "SongDifficulty": "Expert",
+        "SongRank": ""
+    },
+    {
+        "TrackedStatID": "CompleteSongWithAmazingRank",
+        "StatType": "CompleteSong",
+        "TargetID": "",
+        "Level": "",
+        "RequireGroup": null,
+        "SongDifficulty": "",
+        "SongRank": "Amazing"
+    },
+    {
+        "TrackedStatID": "CompleteSongInGroup",
+        "StatType": "CompleteSong",
+        "TargetID": "",
+        "Level": "",
+        "RequireGroup": true,
+        "SongDifficulty": "",
+        "SongRank": ""
+    },
+    {
+        "TrackedStatID": "CompleteSongWithGreatRank",
+        "StatType": "CompleteSong",
+        "TargetID": "",
+        "Level": "",
+        "RequireGroup": null,
+        "SongDifficulty": "",
+        "SongRank": "Great"
+    }
+]

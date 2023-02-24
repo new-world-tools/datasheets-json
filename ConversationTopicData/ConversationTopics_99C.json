@@ -1,0 +1,74 @@
+[
+    {
+        "ConversationTopicId": "99C_MSQ_03_Grace_OpenChest",
+        "PlayerPrompt": "@99C_MSQ_03_AncientBridge_GraceChest_prompt",
+        "NPCResponse": "@99C_MSQ_03_AncientBridge_GraceChest_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99C_MSQ_03_Grace_EmptyChest",
+        "PlayerPrompt": "@99C_MSQ_03_AncientBridge_GraceEmpty_prompt",
+        "NPCResponse": "@99C_MSQ_03_AncientBridge_GraceEmpty_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99C_MSQ_05_Morgaine_CorpseCrone",
+        "PlayerPrompt": "@99C_MSQ_05_FindMorgaine_CorpseCrone_prompt",
+        "NPCResponse": "@99C_MSQ_05_FindMorgaine_CorpseCrone_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99C_MSQ_07_Morgaine_Vision",
+        "PlayerPrompt": "@99C_MSQ_07_DestroyBarrier_Vision_prompt",
+        "NPCResponse": "@99C_MSQ_07_DestroyBarrier_Vision_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99C_MSQ_04_FritzConversation",
+        "PlayerPrompt": "@99C_MSQ_04_Settlement01_FritzConversation_prompt",
+        "NPCResponse": "@99C_MSQ_04_Settlement01_FritzConversation_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99C_MSQ_04_RuxandraConversation",
+        "PlayerPrompt": "@99C_MSQ_04_Settlement01_RuxandraConversation_prompt",
+        "NPCResponse": "@99C_MSQ_04_Settlement01_RuxandraConversation_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99C_MSQ_08_Galahad_Convince",
+        "PlayerPrompt": "@99C_MSQ_08_Settlement02_ConvinceGalahad_prompt",
+        "NPCResponse": "@99C_MSQ_08_Settlement02_ConvinceGalahad_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99C_MSQ_11_Adiana_Blight",
+        "PlayerPrompt": "@99C_MSQ_11_Lepus_AdianaBlight_prompt",
+        "NPCResponse": "@99C_MSQ_11_Lepus_AdianaBlight_response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

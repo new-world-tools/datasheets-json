@@ -9,7 +9,8 @@
         "VoiceOver": "Play_01_Whisper_FTUE_01",
         "Subtitle": "",
         "AchievementId": "whisper_test_01",
-        "UseVFX": false
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_test"
     },
     {
         "WhisperId": "whisper_test_02",
@@ -21,7 +22,8 @@
         "VoiceOver": "Play_01_Whisper_FTUE_02",
         "Subtitle": "",
         "AchievementId": "whisper_test_02",
-        "UseVFX": false
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "whisper_test_03",
@@ -33,7 +35,8 @@
         "VoiceOver": "Play_01_Whisper_FTUE_04",
         "Subtitle": "",
         "AchievementId": "whisper_test_03",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "06A_WW_whisper_01",
@@ -45,7 +48,8 @@
         "VoiceOver": "Play_06A_MSQ_03_VisitMarket_whisper_text",
         "Subtitle": "",
         "AchievementId": "06A_WW_whisper_01",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "06A_WW_whisper_02",
@@ -57,7 +61,8 @@
         "VoiceOver": "Play_06A_MSQ_10_TalkToSpeaker_whisper",
         "Subtitle": "",
         "AchievementId": "06A_WW_whisper_02",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "06A_WW_whisper_03",
@@ -69,7 +74,8 @@
         "VoiceOver": "Play_06A_MSQ_13_ReturnMiradorJewel_whisper_text",
         "Subtitle": "",
         "AchievementId": "06A_WW_whisper_03",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "06A_WW_whisper_04",
@@ -81,7 +87,8 @@
         "VoiceOver": "Play_06A_MSQ_18_ReturnSiriusJewel_whisper_text",
         "Subtitle": "",
         "AchievementId": "06A_WW_whisper_04",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "06A_WW_VoicedLoreNote_01",
@@ -93,7 +100,8 @@
         "VoiceOver": "Play_06_Windsward_Body_18_01_LoreNote",
         "Subtitle": "",
         "AchievementId": "06A_WW_VoicedLoreNote_01",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "06A_WW_VoicedLoreNote_02",
@@ -105,7 +113,8 @@
         "VoiceOver": "Play_06_Windsward_Body_18_02_LoreNote",
         "Subtitle": "",
         "AchievementId": "06A_WW_VoicedLoreNote_02",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "06A_WW_VoicedLoreNote_03",
@@ -117,7 +126,8 @@
         "VoiceOver": "Play_06_Windsward_Body_18_03_LoreNote",
         "Subtitle": "",
         "AchievementId": "06A_WW_VoicedLoreNote_03",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "01_Whisper_FTUE_01",
@@ -129,7 +139,8 @@
         "VoiceOver": "Play_01_Whisper_FTUE_01",
         "Subtitle": "",
         "AchievementId": "01_Whisper_FTUE_01",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "01_Whisper_FTUE_02",
@@ -141,7 +152,8 @@
         "VoiceOver": "Play_01_Whisper_FTUE_02",
         "Subtitle": "",
         "AchievementId": "01_Whisper_FTUE_02",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "01_Whisper_FTUE_04",
@@ -153,7 +165,8 @@
         "VoiceOver": "Play_01_Whisper_FTUE_04",
         "Subtitle": "",
         "AchievementId": "01_Whisper_FTUE_04",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "01_Whisper_FTUE_05",
@@ -165,7 +178,8 @@
         "VoiceOver": "Play_01_Whisper_FTUE_05",
         "Subtitle": "",
         "AchievementId": "01_Whisper_FTUE_05",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "01_Whisper_Beach_01",
@@ -177,7 +191,8 @@
         "VoiceOver": "Play_01_Whisper_Beach_01",
         "Subtitle": "",
         "AchievementId": "01_Whisper_Beach_01",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "01_Whisper_Beach_02",
@@ -189,7 +204,8 @@
         "VoiceOver": "Play_01_Whisper_Beach_02",
         "Subtitle": "",
         "AchievementId": "01_Whisper_Beach_02",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "01_Whisper_Beach_03",
@@ -201,7 +217,8 @@
         "VoiceOver": "Play_01_Whisper_Beach_03",
         "Subtitle": "",
         "AchievementId": "01_Whisper_Beach_03",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "01_Whisper_Beach_04",
@@ -213,7 +230,8 @@
         "VoiceOver": "Play_01_Whisper_Beach_04",
         "Subtitle": "",
         "AchievementId": "01_Whisper_Beach_04",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "01_Whisper_Beach_05",
@@ -225,7 +243,8 @@
         "VoiceOver": "Play_01_Whisper_Beach_05",
         "Subtitle": "",
         "AchievementId": "01_Whisper_Beach_05",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "01_Whisper_Beach_06",
@@ -237,7 +256,8 @@
         "VoiceOver": "Play_01_Whisper_Beach_06",
         "Subtitle": "",
         "AchievementId": "01_Whisper_Beach_06",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "01_Whisper_Beach_07",
@@ -249,7 +269,8 @@
         "VoiceOver": "Play_01_Whisper_Beach_07",
         "Subtitle": "",
         "AchievementId": "01_Whisper_Beach_07",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "12A_MB_Whisper_01",
@@ -261,7 +282,8 @@
         "VoiceOver": "Play_12A_Whisper_MonarchsBluffs_01",
         "Subtitle": "",
         "AchievementId": "12A_MB_Whisper_01",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "12A_MB_Whisper_02",
@@ -273,7 +295,8 @@
         "VoiceOver": "Play_12A_Whisper_MonarchsBluffs_02",
         "Subtitle": "",
         "AchievementId": "12A_MB_Whisper_02",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "12A_MB_Whisper_03",
@@ -285,7 +308,8 @@
         "VoiceOver": "Play_12A_Whisper_MonarchsBluffs_03",
         "Subtitle": "",
         "AchievementId": "12A_MB_Whisper_03",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "12A_MB_Whisper_04",
@@ -297,7 +321,8 @@
         "VoiceOver": "Play_12A_Whisper_MonarchsBluffs_04",
         "Subtitle": "",
         "AchievementId": "12A_MB_Whisper_04",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "98_Covenant_Whisper_01",
@@ -309,7 +334,8 @@
         "VoiceOver": "Play_98_Isabella_Covenant",
         "Subtitle": "",
         "AchievementId": "98_Covenant_Whisper_01",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "98_Marauders_Whisper_01",
@@ -321,7 +347,8 @@
         "VoiceOver": "Play_98_Isabella_Marauder",
         "Subtitle": "",
         "AchievementId": "98_Marauders_Whisper_01",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "98_Syndicate_Whisper_01",
@@ -333,7 +360,8 @@
         "VoiceOver": "Play_98_Isabella_Syndicate",
         "Subtitle": "",
         "AchievementId": "98_Syndicate_Whisper_01",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "99A_MSQ_01A_VoicedLoreNote_01",
@@ -345,7 +373,8 @@
         "VoiceOver": "Play_99A_MSQ_SoulwardenIntro_Body_01_01",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "99A_MSQ_01A_VoicedLoreNote_02",
@@ -357,7 +386,8 @@
         "VoiceOver": "Play_99A_MSQ_SoulwardenIntro_Body_01_02",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "99A_MSQ_01A_VoicedLoreNote_03",
@@ -369,7 +399,8 @@
         "VoiceOver": "Play_99A_MSQ_SoulwardenIntro_Body_01_03",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "99A_MSQ_01A_VoicedLoreNote_04",
@@ -381,7 +412,8 @@
         "VoiceOver": "Play_99A_MSQ_SoulwardenIntro_Body_01_04",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "99A_MSQ_01B_VoicedLoreNote_01",
@@ -393,7 +425,8 @@
         "VoiceOver": "Play_99A_MSQ_SoulwardenIntro_Body_02_01",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "99A_MSQ_01B_VoicedLoreNote_02",
@@ -405,7 +438,8 @@
         "VoiceOver": "Play_99A_MSQ_SoulwardenIntro_Body_02_02",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "99A_MSQ_01B_VoicedLoreNote_03",
@@ -417,7 +451,8 @@
         "VoiceOver": "Play_99A_MSQ_SoulwardenIntro_Body_02_03",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "99A_MSQ_03_VoicedLoreNote_01",
@@ -429,7 +464,8 @@
         "VoiceOver": "Play_99A_MSQ_SoulwardenIntro_Body_03_01",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "99A_MSQ_03_VoicedLoreNote_02",
@@ -441,7 +477,8 @@
         "VoiceOver": "Play_99A_MSQ_SoulwardenIntro_Body_03_02",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "99A_MSQ_03_VoicedLoreNote_03",
@@ -453,7 +490,8 @@
         "VoiceOver": "Play_99A_MSQ_SoulwardenIntro_Body_03_03",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "99A_IsabellaWhisper_01",
@@ -465,7 +503,8 @@
         "VoiceOver": "Play_99A_MSQ_01_00_IsabellaWhisper",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "99A_IsabellaWhisper_02",
@@ -477,7 +516,8 @@
         "VoiceOver": "Play_99A_MSQ_01B_03_IsabellaWhisper",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "99A_IsabellaWhisper_03",
@@ -489,7 +529,8 @@
         "VoiceOver": "Play_99A_MSQ_03_01A_IsabellaWhisper",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "99A_IsabellaWhisper_04",
@@ -501,7 +542,8 @@
         "VoiceOver": "Play_99A_MSQ_07_01A_IsabellaWhisper",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "99A_IsabellaWhisper_05",
@@ -513,7 +555,8 @@
         "VoiceOver": "Play_99A_MSQ_07_03_IsabellaWhisper",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "99A_IsabellaWhisper_06",
@@ -525,7 +568,8 @@
         "VoiceOver": "Play_99A_MSQ_11_02_IsabellaWhisper",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "99A_IsabellaWhisper_07",
@@ -537,7 +581,8 @@
         "VoiceOver": "Play_99A_MSQ_13_01A_IsabellaWhisper",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "99A_IsabellaWhisper_08",
@@ -549,7 +594,8 @@
         "VoiceOver": "Play_99A_MSQ_13_03_IsabellaWhisper",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "99A_IsabellaWhisper_09",
@@ -561,7 +607,8 @@
         "VoiceOver": "Play_99A_MSQ_15_03_IsabellaWhisper",
         "Subtitle": "",
         "AchievementId": "",
-        "UseVFX": true
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
     },
     {
         "WhisperId": "16_BS_Whisper_04",
@@ -573,7 +620,8 @@
         "VoiceOver": "Play_1625_0701_challengingpharaoh_Imhotep_Taunt1",
         "Subtitle": "",
         "AchievementId": "16_BS_Whisper_04",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "16_BS_Whisper_05",
@@ -585,7 +633,8 @@
         "VoiceOver": "Play_1625_0701_challengingpharaoh_Imhotep_Taunt2",
         "Subtitle": "",
         "AchievementId": "16_BS_Whisper_05",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "16_BS_Whisper_06",
@@ -597,7 +646,8 @@
         "VoiceOver": "Play_1625_0701_challengingpharaoh_Imhotep_Taunt3",
         "Subtitle": "",
         "AchievementId": "16_BS_Whisper_06",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "16_BS_Whisper_07",
@@ -609,7 +659,8 @@
         "VoiceOver": "Play_1625_0701_challengingpharaoh_Imhotep_Taunt4",
         "Subtitle": "",
         "AchievementId": "16_BS_Whisper_07",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "16_BS_Whisper_08",
@@ -621,7 +672,8 @@
         "VoiceOver": "Play_1625_0701_challengingpharaoh_Imhotep_Taunt5",
         "Subtitle": "",
         "AchievementId": "16_BS_Whisper_08",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "16_BS_Whisper_ImhotepJournalA",
@@ -633,7 +685,8 @@
         "VoiceOver": "Play_Tales_of_Brimstone_Sands_Body_18_01",
         "Subtitle": "",
         "AchievementId": "16_BS_Whisper_ImhotepJournalA",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "16_BS_Whisper_ImhotepJournalB",
@@ -645,7 +698,8 @@
         "VoiceOver": "Play_Tales_of_Brimstone_Sands_Body_18_02",
         "Subtitle": "",
         "AchievementId": "16_BS_Whisper_ImhotepJournalB",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "01_Watcher_FTUE_01",
@@ -657,7 +711,8 @@
         "VoiceOver": "Play_01_Watcher_FTUE_01",
         "Subtitle": "",
         "AchievementId": "S_beachintro_cutscene",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "12A_MB_Whisper_LoreNote_01",
@@ -669,7 +724,8 @@
         "VoiceOver": "Play_Lore_Notes_Lochnir_Khalladan1",
         "Subtitle": "",
         "AchievementId": "12A_MB_LoreNote_01",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "12A_MB_Whisper_LoreNote_02",
@@ -681,7 +737,8 @@
         "VoiceOver": "Play_Lore_Notes_Lochnir_Khalladan2",
         "Subtitle": "",
         "AchievementId": "12A_MB_LoreNote_02",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "12A_MSQ_07_Miner1_subtitle",
@@ -693,7 +750,8 @@
         "VoiceOver": "",
         "Subtitle": "@Miners_Shazaan_line1",
         "AchievementId": "12A_MSQ_Miner1_subtitle",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "12A_MSQ_07_Miner2_subtitle",
@@ -705,7 +763,8 @@
         "VoiceOver": "",
         "Subtitle": "@Miners_Tomira_line1",
         "AchievementId": "12A_MSQ_Miner2_subtitle",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
     },
     {
         "WhisperId": "12A_MSQ_07_Miner3_subtitle",
@@ -717,6 +776,254 @@
         "VoiceOver": "",
         "Subtitle": "@Miners_Chandu_line1",
         "AchievementId": "12A_MSQ_Miner3_subtitle",
-        "UseVFX": false
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99C_Isabella_whisper_WF_01",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "Whisper_Timeline_99C_Isabella_whisper_WF_01",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99C_MSQ_02_Karburg_Isabella_whisper",
+        "Subtitle": "",
+        "AchievementId": "99C_Isabella_whisper_WF_01",
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
+    },
+    {
+        "WhisperId": "99C_Isabella_whisper_WF_02",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "Whisper_Timeline_99C_Isabella_whisper_WF_02",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99C_MSQ_06_Isabella_Whisper",
+        "Subtitle": "",
+        "AchievementId": "99C_Isabella_whisper_WF_02",
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
+    },
+    {
+        "WhisperId": "99C_Isabella_whisper_WF_03",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "Whisper_Timeline_99C_Isabella_whisper_WF_03",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99C_MSQ_11_Lepus_Isabella_whisper",
+        "Subtitle": "",
+        "AchievementId": "99C_Isabella_whisper_WF_03",
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
+    },
+    {
+        "WhisperId": "99C_Morgaine_VoicedLoreNote_01",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_13_WeaverFen_Body_11_01_LoreNote",
+        "Subtitle": "",
+        "AchievementId": "99C_Morgaine_VoicedLoreNote_01",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99C_Morgaine_VoicedLoreNote_02",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_13_WeaverFen_Body_11_02_LoreNote",
+        "Subtitle": "",
+        "AchievementId": "99C_Morgaine_VoicedLoreNote_02",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99C_Morgaine_VoicedLoreNote_03",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_13_WeaverFen_Body_11_03_LoreNote",
+        "Subtitle": "",
+        "AchievementId": "99C_Morgaine_VoicedLoreNote_03",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99C_Morgaine_VoicedLoreNote_04",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_13_WeaverFen_Body_11_04_LoreNote",
+        "Subtitle": "",
+        "AchievementId": "99C_Morgaine_VoicedLoreNote_04",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99C_Morgaine_VoicedLoreNote_05",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_13_WeaverFen_Body_11_05_LoreNote",
+        "Subtitle": "",
+        "AchievementId": "99C_Morgaine_VoicedLoreNote_05",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99C_Morgaine_VoicedLoreNote_06",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_13_WeaverFen_Body_11_06_LoreNote",
+        "Subtitle": "",
+        "AchievementId": "99C_Morgaine_VoicedLoreNote_06",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99B_Isabella_whisper_BW_01",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "Whisper_Timeline_99B_Isabella_whisper_BW_01",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99B_Isabella_Whisper_02",
+        "Subtitle": "",
+        "AchievementId": "99B_Isabella_whisper_BW_01",
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
+    },
+    {
+        "WhisperId": "99B_Isabella_whisper_BW_02",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "Whisper_Timeline_99B_Isabella_whisper_BW_02",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99B_Isabella_Whisper_03",
+        "Subtitle": "",
+        "AchievementId": "99B_Isabella_whisper_BW_02",
+        "UseVFX": true,
+        "VfxId": "whisper_vfx_01"
+    },
+    {
+        "WhisperId": "99B_Umberto_VoicedLoreNote_01",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99B_MSQ_01_umberto_lorenote_1",
+        "Subtitle": "",
+        "AchievementId": "99B_Umberto_VoicedLoreNote_01",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99B_Umberto_VoicedLoreNote_02",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99B_MSQ_01_umberto_lorenote_2",
+        "Subtitle": "",
+        "AchievementId": "99B_Umberto_VoicedLoreNote_02",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99B_Umberto_VoicedLoreNote_03",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99B_MSQ_01_umberto_lorenote_3",
+        "Subtitle": "",
+        "AchievementId": "99B_Umberto_VoicedLoreNote_03",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99B_Umberto_VoicedLoreNote_04",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99B_MSQ_01_umberto_lorenote_4",
+        "Subtitle": "",
+        "AchievementId": "99B_Umberto_VoicedLoreNote_04",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99B_Umberto_VoicedLoreNote_05",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99B_MSQ_03_umberto_lorenote_5",
+        "Subtitle": "",
+        "AchievementId": "99B_Umberto_VoicedLoreNote_05",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99B_Umberto_VoicedLoreNote_07",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99B_MSQ_06_umberto_lorenote_7",
+        "Subtitle": "",
+        "AchievementId": "99B_Umberto_VoicedLoreNote_07",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99B_Umberto_VoicedLoreNote_08",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99B_MSQ_06_umberto_lorenote_8",
+        "Subtitle": "",
+        "AchievementId": "99B_Umberto_VoicedLoreNote_08",
+        "UseVFX": false,
+        "VfxId": ""
+    },
+    {
+        "WhisperId": "99B_Moira_VoicedLoreNote_01",
+        "TriggerType": "GAME_EVENT",
+        "RequiredAchievementId": "",
+        "TimelineId": "",
+        "Duration": 15,
+        "GameEvent": "",
+        "VoiceOver": "Play_99B_MSQ_07_moira_lorenote_1",
+        "Subtitle": "",
+        "AchievementId": "99B_Moira_VoicedLoreNote_01",
+        "UseVFX": false,
+        "VfxId": ""
     }
 ]

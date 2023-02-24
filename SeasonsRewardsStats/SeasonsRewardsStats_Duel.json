@@ -1,0 +1,12 @@
+[
+    {
+        "TrackedStatID": "ParticipateInDuel",
+        "StatType": "CompleteDuel",
+        "MustWin": false
+    },
+    {
+        "TrackedStatID": "WinDuel",
+        "StatType": "CompleteDuel",
+        "MustWin": true
+    }
+]

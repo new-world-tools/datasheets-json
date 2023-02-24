@@ -1,0 +1,34 @@
+[
+    {
+        "TrackedStatID": "CategoricalProgressionPvPRewardTrack",
+        "StatType": "CategoricalProgression",
+        "CategoricalProgressionIds": "PvP_XP",
+        "TrackingType": "Ranked",
+        "IsDebit": null,
+        "Reasons": ""
+    },
+    {
+        "TrackedStatID": "EarnAzoth",
+        "StatType": "CategoricalProgression",
+        "CategoricalProgressionIds": "AzothSalt_Currency",
+        "TrackingType": "Points",
+        "IsDebit": null,
+        "Reasons": ""
+    },
+    {
+        "TrackedStatID": "SpendAzoth",
+        "StatType": "CategoricalProgression",
+        "CategoricalProgressionIds": "Azoth_Currency",
+        "TrackingType": "Points",
+        "IsDebit": true,
+        "Reasons": ""
+    },
+    {
+        "TrackedStatID": "CategoricalProgressionPvPXP",
+        "StatType": "CategoricalProgression",
+        "CategoricalProgressionIds": "PvP_XP",
+        "TrackingType": "Points",
+        "IsDebit": null,
+        "Reasons": "PvpKill,ContributionReward"
+    }
+]

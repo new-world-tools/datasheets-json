@@ -63,15 +63,6 @@
         "RequiredLevel": ""
     },
     {
-        "ConversationTopicId": "9914_Hunter_Repellent",
-        "PlayerPrompt": "@9914_MSQ_Hunter_Prompt_Repellent",
-        "NPCResponse": "@9914_MSQ_Hunter_Response_Repellent",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
         "ConversationTopicId": "9915_Researcher1_Repellent",
         "PlayerPrompt": "@9915_MSQ_Researcher1_Prompt_Repellent",
         "NPCResponse": "@9915_MSQ_Researcher1_Response_Repellent",
@@ -252,24 +243,6 @@
         "RequiredLevel": ""
     },
     {
-        "ConversationTopicId": "9904_Theo_FactionSame",
-        "PlayerPrompt": "@9904_MSQ_Theo_Prompt_FactionSame",
-        "NPCResponse": "@9904_MSQ_Theo_Response_FactionSame",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "Syndicate",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "9904_Theo_FactionRival",
-        "PlayerPrompt": "@9904_MSQ_Theo_Prompt_FactionRival",
-        "NPCResponse": "@9904_MSQ_Theo_Response_FactionRival",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "Marauder",
-        "RequiredLevel": ""
-    },
-    {
         "ConversationTopicId": "9904_Theo_Epilogue",
         "PlayerPrompt": "@9904_MSQ_Theo_Prompt_Epilogue",
         "NPCResponse": "@9904_MSQ_Theo_Response_Epilogue",
@@ -311,42 +284,6 @@
         "NPCResponse": "@9904_MSQ_Theo_Response_Origins4",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "9915_MSQ_Researcher1_Repellent",
-        "PlayerPrompt": "@9915_MSQ_Researcher1_Prompt_Repellent",
-        "NPCResponse": "@9915_MSQ_Researcher1_Response_Repellent",
-        "AchievementUnlock": "99_MSQ_28_TopicB",
-        "RequiredAchievement": "99_MSQ_28_TopicA",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "9916_MSQ_Researcher2_Repellent",
-        "PlayerPrompt": "@9916_MSQ_Researcher2_Prompt_Repellent",
-        "NPCResponse": "@9916_MSQ_Researcher2_Response_Repellent",
-        "AchievementUnlock": "99_MSQ_28_TopicC",
-        "RequiredAchievement": "99_MSQ_28_TopicA",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "9917_MSQ_Researcher3_Repellent",
-        "PlayerPrompt": "@9917_MSQ_Researcher3_Prompt_Repellent",
-        "NPCResponse": "@9917_MSQ_Researcher3_Response_Repellent",
-        "AchievementUnlock": "99_MSQ_28_TopicD",
-        "RequiredAchievement": "99_MSQ_28_TopicA",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "9918_MSQ_Researcher4_Repellent",
-        "PlayerPrompt": "@9918_MSQ_Researcher4_Prompt_Repellent",
-        "NPCResponse": "@9918_MSQ_Researcher4_Response_Repellent",
-        "AchievementUnlock": "99_MSQ_28_TopicE",
-        "RequiredAchievement": "99_MSQ_28_TopicA",
         "RequiredFaction": "",
         "RequiredLevel": ""
     },

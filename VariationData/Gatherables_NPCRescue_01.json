@@ -130,5 +130,27 @@
         "NPC_OnInteract_SFX": "",
         "InteractOnlyOnQuest": true,
         "InteractTag": "IO_98_Covenant_02_Captive"
+    },
+    {
+        "VariantID": "95_s01_06_TEMP_SupplyChain_Rescue1",
+        "GatherableEntryId": "95_s01_06_TEMP_SupplyChain_Rescue1",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\95_s01_captured_warrior1.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_95_s01_06_TEMP_SupplyChain_Rescue1"
+    },
+    {
+        "VariantID": "95_s01_06_TEMP_SupplyChain_Rescue2",
+        "GatherableEntryId": "95_s01_06_TEMP_SupplyChain_Rescue2",
+        "NPC_Visuals": "Objects\\Characters\\npc\\Settlements\\95_s01_captured_warrior2.cdf",
+        "NPC_IdleAnimTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_Miners_TrappedIdle_Timeline.timeline",
+        "NPC_RunawayTimeline": "slices\\WorldEvents\\Universal\\NPCRescue\\NPCRescue_WorldEvent_NPC_RunAway_Nod_02.timeline",
+        "NPC_OnInteract_VFX": "",
+        "NPC_OnInteract_SFX": "",
+        "InteractOnlyOnQuest": true,
+        "InteractTag": "IO_95_s01_06_TEMP_SupplyChain_Rescue2"
     }
 ]

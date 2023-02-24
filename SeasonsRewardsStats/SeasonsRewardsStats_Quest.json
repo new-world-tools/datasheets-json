@@ -1,0 +1,100 @@
+[
+    {
+        "TrackedStatID": "CompleteQuest",
+        "StatType": "CompleteQuest",
+        "TargetID": "",
+        "QuestType": "Quest",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteTownProject",
+        "StatType": "CompleteQuest",
+        "TargetID": "",
+        "QuestType": "CommunityGoal",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteFactionMission",
+        "StatType": "CompleteQuest",
+        "TargetID": "",
+        "QuestType": "Mission",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompletePvPFactionMission",
+        "StatType": "CompleteQuest",
+        "TargetID": "",
+        "QuestType": "Mission",
+        "IsPVP": true
+    },
+    {
+        "TrackedStatID": "CompleteQuest_TheEmpyreanForge",
+        "StatType": "CompleteQuest",
+        "TargetID": "95_s01_X1_EXPD_Empyrean",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_FirstCustomer",
+        "StatType": "CompleteQuest",
+        "TargetID": "95_s01_02_TEMP_FirstCustomer",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_VineYards",
+        "StatType": "CompleteQuest",
+        "TargetID": "95_s01_07_TEMP_PossibilitiesOfFire",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_DearlyBeloved",
+        "StatType": "CompleteQuest",
+        "TargetID": "95_s01_08_TEMP_HotOnTheTrail",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_Showdown",
+        "StatType": "CompleteQuest",
+        "TargetID": "95_s01_09_TEMP_Faceless",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_CurseOfTheBones",
+        "StatType": "CompleteQuest",
+        "TargetID": "95_s01_02a_TEMP_TheCurse",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_MinorBreach",
+        "StatType": "CompleteQuest",
+        "TargetID": "",
+        "QuestType": "DarknessMinor",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_MajorBreach",
+        "StatType": "CompleteQuest",
+        "TargetID": "",
+        "QuestType": "DarknessMajor",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_Breach",
+        "StatType": "CompleteQuest",
+        "TargetID": "",
+        "QuestType": "DarknessMinor,DarknessMajor",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_ToBeContinued",
+        "StatType": "CompleteQuest",
+        "TargetID": "95_s01_10_TEMP_ToBeContinued",
+        "QuestType": "",
+        "IsPVP": null
+    }
+]

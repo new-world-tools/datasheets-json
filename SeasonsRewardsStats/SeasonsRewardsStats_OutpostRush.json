@@ -1,0 +1,20 @@
+[
+    {
+        "TrackedStatID": "WinOutpostRushBy750",
+        "StatType": "CompleteOutpostRush",
+        "Score": 750,
+        "MustWin": true
+    },
+    {
+        "TrackedStatID": "WinOutpostRush",
+        "StatType": "CompleteOutpostRush",
+        "Score": null,
+        "MustWin": true
+    },
+    {
+        "TrackedStatID": "PlayOutpostRush",
+        "StatType": "CompleteOutpostRush",
+        "Score": null,
+        "MustWin": null
+    }
+]

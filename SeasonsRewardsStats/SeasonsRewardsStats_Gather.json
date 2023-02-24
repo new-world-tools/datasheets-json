@@ -1,0 +1,29 @@
+[
+    {
+        "TrackedStatID": "GatherResource",
+        "StatType": "Gather",
+        "TargetID": "",
+        "Level": null,
+        "ItemType": "Resource",
+        "ItemClass": "",
+        "Accumulate": true
+    },
+    {
+        "TrackedStatID": "GatherT5ResourceNode",
+        "StatType": "Gather",
+        "TargetID": "",
+        "Level": 5,
+        "ItemType": "Resource",
+        "ItemClass": "",
+        "Accumulate": null
+    },
+    {
+        "TrackedStatID": "SkinT5Animal",
+        "StatType": "Gather",
+        "TargetID": "",
+        "Level": 5,
+        "ItemType": "",
+        "ItemClass": "Rawhide+Resource",
+        "Accumulate": null
+    }
+]

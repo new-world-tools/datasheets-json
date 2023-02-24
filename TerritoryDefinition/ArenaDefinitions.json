@@ -47,7 +47,7 @@
         "TerritoryID": 7002,
         "NameLocalizationKey": "@ui_poi_arena_spriggan",
         "IsPOI": true,
-        "MapIcon": "_LyShineUI/Images/Map/Icon/POIs/arena_zygoramet.png",
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/arena_zygoramet.png",
         "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/angryearth_spriggan_elite.png",
         "DiscoveryRadius": 300,
         "IsDiscoverable": true,
@@ -107,7 +107,7 @@
         "AudioBank": "",
         "GroupSize": 3,
         "RecommendedLevel": 66,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_Elite_SpireOfMelpomene.png"
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_siren.png"
     },
     {
         "TerritoryID": 7005,
@@ -129,6 +129,6 @@
         "AudioBank": "",
         "GroupSize": 3,
         "RecommendedLevel": 66,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_Elite_EternalPool.png"
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_protector.png"
     }
 ]

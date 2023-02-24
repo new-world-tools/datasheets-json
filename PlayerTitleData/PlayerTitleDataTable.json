@@ -3585,7 +3585,7 @@
     },
     {
         "TitleID": "PlayerTitle_DynastyShipyard_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_dynastyshipyard_score_top1",
         "TitleFemale": "@ui_playertitle_dynastyshipyard_score_top1_SHE",
@@ -3599,7 +3599,7 @@
     },
     {
         "TitleID": "PlayerTitle_DynastyShipyard_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_dynastyshipyard_score_top10",
         "TitleFemale": "@ui_playertitle_dynastyshipyard_score_top10_SHE",
@@ -3613,7 +3613,7 @@
     },
     {
         "TitleID": "PlayerTitle_GardenOfGenesis_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_gardenofgenesis_score_top1",
         "TitleFemale": "@ui_playertitle_gardenofgenesis_score_top1_SHE",
@@ -3627,7 +3627,7 @@
     },
     {
         "TitleID": "PlayerTitle_GardenOfGenesis_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_gardenofgenesis_score_top10",
         "TitleFemale": "@ui_playertitle_gardenofgenesis_score_top10_SHE",
@@ -3641,7 +3641,7 @@
     },
     {
         "TitleID": "PlayerTitle_LazarusInstrumentality_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_lazarusinstrumentality_score_top1",
         "TitleFemale": "@ui_playertitle_lazarusinstrumentality_score_top1_SHE",
@@ -3655,7 +3655,7 @@
     },
     {
         "TitleID": "PlayerTitle_LazarusInstrumentality_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_lazarusinstrumentality_score_top10",
         "TitleFemale": "@ui_playertitle_lazarusinstrumentality_score_top10_SHE",
@@ -3669,7 +3669,7 @@
     },
     {
         "TitleID": "PlayerTitle_TempestHeart_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_tempestheart_score_top1",
         "TitleFemale": "@ui_playertitle_tempestheart_score_top1_SHE",
@@ -3683,7 +3683,7 @@
     },
     {
         "TitleID": "PlayerTitle_TempestHeart_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_tempestheart_score_top10",
         "TitleFemale": "@ui_playertitle_tempestheart_score_top10_SHE",
@@ -3697,7 +3697,7 @@
     },
     {
         "TitleID": "PlayerTitle_Barnacles_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_barnacles_score_top1",
         "TitleFemale": "@ui_playertitle_barnacles_score_top1_SHE",
@@ -3711,7 +3711,7 @@
     },
     {
         "TitleID": "PlayerTitle_Barnacles_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_barnacles_score_top10",
         "TitleFemale": "@ui_playertitle_barnacles_score_top10_SHE",
@@ -3725,7 +3725,7 @@
     },
     {
         "TitleID": "PlayerTitle_Brimstone_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_brimstone_score_top1",
         "TitleFemale": "@ui_playertitle_brimstone_score_top1_SHE",
@@ -3739,7 +3739,7 @@
     },
     {
         "TitleID": "PlayerTitle_Brimstone_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_brimstone_score_top10",
         "TitleFemale": "@ui_playertitle_brimstone_score_top10_SHE",
@@ -3753,7 +3753,7 @@
     },
     {
         "TitleID": "PlayerTitle_Depths_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_depths_score_top1",
         "TitleFemale": "@ui_playertitle_depths_score_top1_SHE",
@@ -3767,7 +3767,7 @@
     },
     {
         "TitleID": "PlayerTitle_Depths_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_depths_score_top10",
         "TitleFemale": "@ui_playertitle_depths_score_top10_SHE",
@@ -3781,7 +3781,7 @@
     },
     {
         "TitleID": "PlayerTitle_Starstone_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_starstone_score_top1",
         "TitleFemale": "@ui_playertitle_starstone_score_top1_SHE",
@@ -3795,7 +3795,7 @@
     },
     {
         "TitleID": "PlayerTitle_Starstone_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_starstone_score_top10",
         "TitleFemale": "@ui_playertitle_starstone_score_top10_SHE",
@@ -3808,8 +3808,36 @@
         "RequiredPlayerLevel": null
     },
     {
+        "TitleID": "PlayerTitle_Forge_Score_Top5",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Leaderboard",
+        "TitleMale": "@ui_playertitle_forge_score_top5",
+        "TitleFemale": "@ui_playertitle_forge_score_top5_SHE",
+        "TitleNeutral": "@ui_playertitle_forge_score_top5_THEY",
+        "Description": "@ui_playertitle_forge_score_top5_description",
+        "MetaAchievementId": "Leaderboard_ForgeScoreTop5",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Forge_Score_Top25",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Leaderboard",
+        "TitleMale": "@ui_playertitle_forge_score_top25",
+        "TitleFemale": "@ui_playertitle_forge_score_top25_SHE",
+        "TitleNeutral": "@ui_playertitle_forge_score_top25_THEY",
+        "Description": "@ui_playertitle_forge_score_top25_description",
+        "MetaAchievementId": "Leaderboard_ForgeScoreTop25",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
         "TitleID": "PlayerTitle_DynastyShipyard_Time_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_dynastyshipyard_time_top1",
         "TitleFemale": "@ui_playertitle_dynastyshipyard_time_top1_SHE",
@@ -3823,7 +3851,7 @@
     },
     {
         "TitleID": "PlayerTitle_DynastyShipyard_Time_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_dynastyshipyard_time_top10",
         "TitleFemale": "@ui_playertitle_dynastyshipyard_time_top10_SHE",
@@ -3837,7 +3865,7 @@
     },
     {
         "TitleID": "PlayerTitle_GardenOfGenesis_Time_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_gardenofgenesis_time_top1",
         "TitleFemale": "@ui_playertitle_gardenofgenesis_time_top1_SHE",
@@ -3851,7 +3879,7 @@
     },
     {
         "TitleID": "PlayerTitle_GardenOfGenesis_Time_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_gardenofgenesis_time_top10",
         "TitleFemale": "@ui_playertitle_gardenofgenesis_time_top10_SHE",
@@ -3865,7 +3893,7 @@
     },
     {
         "TitleID": "PlayerTitle_LazarusInstrumentality_Time_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_lazarusinstrumentality_time_top1",
         "TitleFemale": "@ui_playertitle_lazarusinstrumentality_time_top1_SHE",
@@ -3879,7 +3907,7 @@
     },
     {
         "TitleID": "PlayerTitle_LazarusInstrumentality_Time_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_lazarusinstrumentality_time_top10",
         "TitleFemale": "@ui_playertitle_lazarusinstrumentality_time_top10_SHE",
@@ -3893,7 +3921,7 @@
     },
     {
         "TitleID": "PlayerTitle_TempestHeart_Time_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_tempestheart_time_top1",
         "TitleFemale": "@ui_playertitle_tempestheart_time_top1_SHE",
@@ -3907,7 +3935,7 @@
     },
     {
         "TitleID": "PlayerTitle_TempestHeart_Time_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_tempestheart_time_top10",
         "TitleFemale": "@ui_playertitle_tempestheart_time_top10_SHE",
@@ -3921,7 +3949,7 @@
     },
     {
         "TitleID": "PlayerTitle_Barnacles_Time_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_barnacles_time_top1",
         "TitleFemale": "@ui_playertitle_barnacles_time_top1_SHE",
@@ -3935,7 +3963,7 @@
     },
     {
         "TitleID": "PlayerTitle_Barnacles_Time_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_barnacles_time_top10",
         "TitleFemale": "@ui_playertitle_barnacles_time_top10_SHE",
@@ -3949,7 +3977,7 @@
     },
     {
         "TitleID": "PlayerTitle_Brimstone_Time_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_brimstone_time_top1",
         "TitleFemale": "@ui_playertitle_brimstone_time_top1_SHE",
@@ -3963,7 +3991,7 @@
     },
     {
         "TitleID": "PlayerTitle_Brimstone_Time_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_brimstone_time_top10",
         "TitleFemale": "@ui_playertitle_brimstone_time_top10_SHE",
@@ -3977,7 +4005,7 @@
     },
     {
         "TitleID": "PlayerTitle_Depths_Time_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_depths_time_top1",
         "TitleFemale": "@ui_playertitle_depths_time_top1_SHE",
@@ -3991,7 +4019,7 @@
     },
     {
         "TitleID": "PlayerTitle_Depths_Time_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_depths_time_top10",
         "TitleFemale": "@ui_playertitle_depths_time_top10_SHE",
@@ -4005,7 +4033,7 @@
     },
     {
         "TitleID": "PlayerTitle_Starstone_Time_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_starstone_time_top1",
         "TitleFemale": "@ui_playertitle_starstone_time_top1_SHE",
@@ -4019,7 +4047,7 @@
     },
     {
         "TitleID": "PlayerTitle_Starstone_Time_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_starstone_time_top10",
         "TitleFemale": "@ui_playertitle_starstone_time_top10_SHE",
@@ -4032,8 +4060,36 @@
         "RequiredPlayerLevel": null
     },
     {
+        "TitleID": "PlayerTitle_Forge_Time_Top5",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Leaderboard",
+        "TitleMale": "@ui_playertitle_forge_time_top5",
+        "TitleFemale": "@ui_playertitle_forge_time_top5_SHE",
+        "TitleNeutral": "@ui_playertitle_forge_time_top5_THEY",
+        "Description": "@ui_playertitle_forge_time_top5_description",
+        "MetaAchievementId": "Leaderboard_ForgeTimeTop5",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Forge_Time_Top25",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Leaderboard",
+        "TitleMale": "@ui_playertitle_forge_time_top25",
+        "TitleFemale": "@ui_playertitle_forge_time_top25_SHE",
+        "TitleNeutral": "@ui_playertitle_forge_time_top25_THEY",
+        "Description": "@ui_playertitle_forge_time_top25_description",
+        "MetaAchievementId": "Leaderboard_ForgeTimeTop25",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
         "TitleID": "PlayerTitle_SirenQueen_Completion_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_sirenqueen_completion_top1",
         "TitleFemale": "@ui_playertitle_sirenqueen_completion_top1_SHE",
@@ -4047,7 +4103,7 @@
     },
     {
         "TitleID": "PlayerTitle_SirenQueen_Completion_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_sirenqueen_completion_top10",
         "TitleFemale": "@ui_playertitle_sirenqueen_completion_top10_SHE",
@@ -4061,7 +4117,7 @@
     },
     {
         "TitleID": "PlayerTitle_EternalPools_Completion_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_eternalpools_completion_top1",
         "TitleFemale": "@ui_playertitle_eternalpools_completion_top1_SHE",
@@ -4075,7 +4131,7 @@
     },
     {
         "TitleID": "PlayerTitle_EternalPools_Completion_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_eternalpools_completion_top10",
         "TitleFemale": "@ui_playertitle_eternalpools_completion_top10_SHE",
@@ -4089,7 +4145,7 @@
     },
     {
         "TitleID": "PlayerTitle_MonoeciousCleft_Completion_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_monoeciouscleft_completion_top1",
         "TitleFemale": "@ui_playertitle_monoeciouscleft_completion_top1_SHE",
@@ -4103,7 +4159,7 @@
     },
     {
         "TitleID": "PlayerTitle_MonoeciousCleft_Completion_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_monoeciouscleft_completion_top10",
         "TitleFemale": "@ui_playertitle_monoeciouscleft_completion_top10_SHE",
@@ -4117,7 +4173,7 @@
     },
     {
         "TitleID": "PlayerTitle_OpenWorldPvp_Influence_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_openworldpvp_influence_top1",
         "TitleFemale": "@ui_playertitle_openworldpvp_influence_top1_SHE",
@@ -4131,7 +4187,7 @@
     },
     {
         "TitleID": "PlayerTitle_OpenWorldPvp_Influence_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_openworldpvp_influence_top10",
         "TitleFemale": "@ui_playertitle_openworldpvp_influence_top10_SHE",
@@ -4145,7 +4201,7 @@
     },
     {
         "TitleID": "PlayerTitle_OutpostRush_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_outpostrush_score_top1",
         "TitleFemale": "@ui_playertitle_outpostrush_score_top1_SHE",
@@ -4159,7 +4215,7 @@
     },
     {
         "TitleID": "PlayerTitle_OutpostRush_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_outpostrush_score_top10",
         "TitleFemale": "@ui_playertitle_outpostrush_score_top10_SHE",
@@ -4173,7 +4229,7 @@
     },
     {
         "TitleID": "PlayerTitle_DarknessBreaches_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_darknessbreaches_score_top1",
         "TitleFemale": "@ui_playertitle_darknessbreaches_score_top1_SHE",
@@ -4187,7 +4243,7 @@
     },
     {
         "TitleID": "PlayerTitle_DarknessBreaches_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_darknessbreaches_score_top10",
         "TitleFemale": "@ui_playertitle_darknessbreaches_score_top10_SHE",
@@ -4201,7 +4257,7 @@
     },
     {
         "TitleID": "PlayerTitle_War_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_war_score_top1",
         "TitleFemale": "@ui_playertitle_war_score_top1_SHE",
@@ -4215,7 +4271,7 @@
     },
     {
         "TitleID": "PlayerTitle_War_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_war_score_top10",
         "TitleFemale": "@ui_playertitle_war_score_top10_SHE",
@@ -4229,7 +4285,7 @@
     },
     {
         "TitleID": "PlayerTitle_Invasion_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_invasion_score_top1",
         "TitleFemale": "@ui_playertitle_invasion_score_top1_SHE",
@@ -4243,7 +4299,7 @@
     },
     {
         "TitleID": "PlayerTitle_Invasion_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_invasion_score_top10",
         "TitleFemale": "@ui_playertitle_invasion_score_top10_SHE",
@@ -4257,7 +4313,7 @@
     },
     {
         "TitleID": "PlayerTitle_CutlassKeys_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_cutlasskeys_company_score_top1",
         "TitleFemale": "@ui_playertitle_cutlasskeys_company_score_top1_SHE",
@@ -4271,7 +4327,7 @@
     },
     {
         "TitleID": "PlayerTitle_CutlassKeys_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_cutlasskeys_company_score_top10",
         "TitleFemale": "@ui_playertitle_cutlasskeys_company_score_top10_SHE",
@@ -4285,7 +4341,7 @@
     },
     {
         "TitleID": "PlayerTitle_FirstLight_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_firstlight_company_score_top1",
         "TitleFemale": "@ui_playertitle_firstlight_company_score_top1_SHE",
@@ -4299,7 +4355,7 @@
     },
     {
         "TitleID": "PlayerTitle_FirstLight_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_firstlight_company_score_top10",
         "TitleFemale": "@ui_playertitle_firstlight_company_score_top10_SHE",
@@ -4313,7 +4369,7 @@
     },
     {
         "TitleID": "PlayerTitle_Windsward_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_windsward_company_score_top1",
         "TitleFemale": "@ui_playertitle_windsward_company_score_top1_SHE",
@@ -4327,7 +4383,7 @@
     },
     {
         "TitleID": "PlayerTitle_Windsward_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_windsward_company_score_top10",
         "TitleFemale": "@ui_playertitle_windsward_company_score_top10_SHE",
@@ -4341,7 +4397,7 @@
     },
     {
         "TitleID": "PlayerTitle_Reekwater_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_reekwater_company_score_top1",
         "TitleFemale": "@ui_playertitle_reekwater_company_score_top1_SHE",
@@ -4355,7 +4411,7 @@
     },
     {
         "TitleID": "PlayerTitle_Reekwater_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_reekwater_company_score_top10",
         "TitleFemale": "@ui_playertitle_reekwater_company_score_top10_SHE",
@@ -4369,7 +4425,7 @@
     },
     {
         "TitleID": "PlayerTitle_Everfall_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_everfall_company_score_top1",
         "TitleFemale": "@ui_playertitle_everfall_company_score_top1_SHE",
@@ -4383,7 +4439,7 @@
     },
     {
         "TitleID": "PlayerTitle_Everfall_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_everfall_company_score_top10",
         "TitleFemale": "@ui_playertitle_everfall_company_score_top10_SHE",
@@ -4397,7 +4453,7 @@
     },
     {
         "TitleID": "PlayerTitle_WeaversFen_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_weaversfen_company_score_top1",
         "TitleFemale": "@ui_playertitle_weaversfen_company_score_top1_SHE",
@@ -4411,7 +4467,7 @@
     },
     {
         "TitleID": "PlayerTitle_WeaversFen_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_weaversfen_company_score_top10",
         "TitleFemale": "@ui_playertitle_weaversfen_company_score_top10_SHE",
@@ -4425,7 +4481,7 @@
     },
     {
         "TitleID": "PlayerTitle_RestlessShore_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_restlessshore_company_score_top1",
         "TitleFemale": "@ui_playertitle_restlessshore_company_score_top1_SHE",
@@ -4439,7 +4495,7 @@
     },
     {
         "TitleID": "PlayerTitle_RestlessShore_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_restlessshore_company_score_top10",
         "TitleFemale": "@ui_playertitle_restlessshore_company_score_top10_SHE",
@@ -4453,7 +4509,7 @@
     },
     {
         "TitleID": "PlayerTitle_Mourningdale_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_mourningdale_company_score_top1",
         "TitleFemale": "@ui_playertitle_mourningdale_company_score_top1_SHE",
@@ -4467,7 +4523,7 @@
     },
     {
         "TitleID": "PlayerTitle_Mourningdale_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_mourningdale_company_score_top10",
         "TitleFemale": "@ui_playertitle_mourningdale_company_score_top10_SHE",
@@ -4481,7 +4537,7 @@
     },
     {
         "TitleID": "PlayerTitle_Brightwood_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_brightwood_company_score_top1",
         "TitleFemale": "@ui_playertitle_brightwood_company_score_top1_SHE",
@@ -4495,7 +4551,7 @@
     },
     {
         "TitleID": "PlayerTitle_Brightwood_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_brightwood_company_score_top10",
         "TitleFemale": "@ui_playertitle_brightwood_company_score_top10_SHE",
@@ -4509,7 +4565,7 @@
     },
     {
         "TitleID": "PlayerTitle_Ebonscale_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_ebonscale_company_score_top1",
         "TitleFemale": "@ui_playertitle_ebonscale_company_score_top1_SHE",
@@ -4523,7 +4579,7 @@
     },
     {
         "TitleID": "PlayerTitle_Ebonscale_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_ebonscale_company_score_top10",
         "TitleFemale": "@ui_playertitle_ebonscale_company_score_top10_SHE",
@@ -4537,7 +4593,7 @@
     },
     {
         "TitleID": "PlayerTitle_MonarchsBluffs_ScoreTop1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_monarchsbluffs_company_score_top1",
         "TitleFemale": "@ui_playertitle_monarchsbluffs_company_score_top1_SHE",
@@ -4551,7 +4607,7 @@
     },
     {
         "TitleID": "PlayerTitle_MonarchsBluffs_ScoreTop10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_monarchsbluffs_company_score_top10",
         "TitleFemale": "@ui_playertitle_monarchsbluffs_company_score_top10_SHE",
@@ -4565,7 +4621,7 @@
     },
     {
         "TitleID": "PlayerTitle_BrimstoneSands_ScoreTop1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_brimstonesands_company_score_top1",
         "TitleFemale": "@ui_playertitle_brimstonesands_company_score_top1_SHE",
@@ -4579,7 +4635,7 @@
     },
     {
         "TitleID": "PlayerTitle_BrimstoneSands_ScoreTop10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_brimstonesands_company_score_top10",
         "TitleFemale": "@ui_playertitle_brimstonesands_company_score_top10_SHE",
@@ -4593,7 +4649,7 @@
     },
     {
         "TitleID": "PlayerTitle_AllTerritories_Score_Top1",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_allterritories_company_score_top1",
         "TitleFemale": "@ui_playertitle_allterritories_company_score_top1_SHE",
@@ -4607,7 +4663,7 @@
     },
     {
         "TitleID": "PlayerTitle_AllTerritories_Score_Top10",
-        "TitleType": "Character",
+        "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
         "TitleMale": "@ui_playertitle_allterritories_company_score_top10",
         "TitleFemale": "@ui_playertitle_allterritories_company_score_top10_SHE",
@@ -4627,6 +4683,216 @@
         "TitleFemale": "@ui_playertitle_special_thereturned_SHE",
         "TitleNeutral": "@ui_playertitle_special_thereturned_THEY",
         "Description": "@ui_playertitle_thereturned_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChapter5",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychapter5",
+        "TitleFemale": "@ui_playertitle_season1_journeychapter5_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychapter5_THEY",
+        "Description": "@ui_playertitle_season1_journeychapter5_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChallenge1",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychallenge1",
+        "TitleFemale": "@ui_playertitle_season1_journeychallenge1_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychallenge1_THEY",
+        "Description": "@ui_playertitle_season1_journeychallenge1_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChallenge2",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychallenge2",
+        "TitleFemale": "@ui_playertitle_season1_journeychallenge2_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychallenge2_THEY",
+        "Description": "@ui_playertitle_season1_journeychallenge2_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChallenge3",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychallenge3",
+        "TitleFemale": "@ui_playertitle_season1_journeychallenge3_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychallenge3_THEY",
+        "Description": "@ui_playertitle_season1_journeychallenge3_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChallenge4",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychallenge4",
+        "TitleFemale": "@ui_playertitle_season1_journeychallenge4_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychallenge4_THEY",
+        "Description": "@ui_playertitle_season1_journeychallenge4_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChallenge5",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychallenge5",
+        "TitleFemale": "@ui_playertitle_season1_journeychallenge5_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychallenge5_THEY",
+        "Description": "@ui_playertitle_season1_journeychallenge5_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChallenge6",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychallenge6",
+        "TitleFemale": "@ui_playertitle_season1_journeychallenge6_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychallenge6_THEY",
+        "Description": "@ui_playertitle_season1_journeychallenge6_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChallenge7",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychallenge7",
+        "TitleFemale": "@ui_playertitle_season1_journeychallenge7_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychallenge7_THEY",
+        "Description": "@ui_playertitle_season1_journeychallenge7_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChallenge8",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychallenge8",
+        "TitleFemale": "@ui_playertitle_season1_journeychallenge8_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychallenge8_THEY",
+        "Description": "@ui_playertitle_season1_journeychallenge8_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChallenge9",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychallenge9",
+        "TitleFemale": "@ui_playertitle_season1_journeychallenge9_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychallenge9_THEY",
+        "Description": "@ui_playertitle_season1_journeychallenge9_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_JourneyChallenge10",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_journeychallenge10",
+        "TitleFemale": "@ui_playertitle_season1_journeychallenge10_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_journeychallenge10_THEY",
+        "Description": "@ui_playertitle_season1_journeychallenge10_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_BattlePass",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_battlepass",
+        "TitleFemale": "@ui_playertitle_season1_battlepass_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_battlepass_THEY",
+        "Description": "@ui_playertitle_season1_battlepass_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_Season1_DeluxeBattlePass",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Seasons",
+        "TitleMale": "@ui_playertitle_season1_deluxebattlepass",
+        "TitleFemale": "@ui_playertitle_season1_deluxebattlepass_SHE",
+        "TitleNeutral": "@ui_playertitle_season1_deluxebattlepass_THEY",
+        "Description": "@ui_playertitle_season1_deluxebattlepass_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_LeaderboardPTR_Victorious",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Special_Achievements",
+        "TitleMale": "@ui_playerTitle_LeaderboardPTR_Victorious",
+        "TitleFemale": "@ui_playerTitle_LeaderboardPTR_Victorious_SHE",
+        "TitleNeutral": "@ui_playerTitle_LeaderboardPTR_Victorious_THEY",
+        "Description": "@ui_playerTitle_LeaderboardPTR_Victorious_description",
+        "MetaAchievementId": "",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
+        "TitleID": "PlayerTitle_LeaderboardPTR_Welp",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Special_Achievements",
+        "TitleMale": "@ui_playerTitle_LeaderboardPTR_Welp",
+        "TitleFemale": "@ui_playerTitle_LeaderboardPTR_Welp_SHE",
+        "TitleNeutral": "@ui_playerTitle_LeaderboardPTR_Welp_THEY",
+        "Description": "@ui_playerTitle_LeaderboardPTR_Welp_description",
         "MetaAchievementId": "",
         "AchievementId": "",
         "CategoricalProgressionId": "",
