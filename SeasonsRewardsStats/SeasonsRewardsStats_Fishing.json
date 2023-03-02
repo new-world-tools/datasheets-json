@@ -5,7 +5,7 @@
         "TargetID": "",
         "Level": null,
         "MinWeight": "",
-        "Accumulate": true,
+        "PerUse": null,
         "Precision": 2
     },
     {
@@ -14,7 +14,7 @@
         "TargetID": "",
         "Level": 2,
         "MinWeight": "",
-        "Accumulate": null,
+        "PerUse": true,
         "Precision": null
     },
     {
@@ -23,7 +23,7 @@
         "TargetID": "FishingTreasureChestT3",
         "Level": null,
         "MinWeight": "",
-        "Accumulate": null,
+        "PerUse": true,
         "Precision": null
     }
 ]

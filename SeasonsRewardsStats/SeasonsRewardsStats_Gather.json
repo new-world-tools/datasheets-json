@@ -6,7 +6,7 @@
         "Level": null,
         "ItemType": "Resource",
         "ItemClass": "",
-        "Accumulate": true
+        "PerUse": null
     },
     {
         "TrackedStatID": "GatherT5ResourceNode",
@@ -15,7 +15,7 @@
         "Level": 5,
         "ItemType": "Resource",
         "ItemClass": "",
-        "Accumulate": null
+        "PerUse": true
     },
     {
         "TrackedStatID": "SkinT5Animal",
@@ -24,6 +24,6 @@
         "Level": 5,
         "ItemType": "",
         "ItemClass": "Rawhide+Resource",
-        "Accumulate": null
+        "PerUse": true
     }
 ]

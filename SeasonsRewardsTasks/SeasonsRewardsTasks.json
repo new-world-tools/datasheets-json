@@ -217,8 +217,8 @@
         "Description": "@ui_seasons_task_placeholder_desc"
     },
     {
-        "SeasonsTaskID": "Play3Arena",
-        "SeasonsTrackedStatID": "PlayArena3x3",
+        "SeasonsTaskID": "Win3Arena",
+        "SeasonsTrackedStatID": "WinArena3x3",
         "TaskMaxValue": 3,
         "Name": "@ui_seasons_task_Win3PvPMatches_name",
         "Description": "@ui_seasons_task_WinPvPMatches_desc"

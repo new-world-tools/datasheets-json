@@ -9,12 +9,12 @@
         "TrackedStatID": "WinArena3x3",
         "StatType": "CompleteArena",
         "MustWin": true,
-        "GameModeResult": ""
+        "GameModeResult": "Victory"
     },
     {
         "TrackedStatID": "FlawlessVictoryArena3x3",
         "StatType": "CompleteArena",
-        "MustWin": null,
+        "MustWin": true,
         "GameModeResult": "FlawlessVictory"
     }
 ]
