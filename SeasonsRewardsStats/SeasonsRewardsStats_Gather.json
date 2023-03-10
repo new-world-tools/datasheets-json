@@ -6,7 +6,8 @@
         "Level": null,
         "ItemType": "Resource",
         "ItemClass": "",
-        "PerUse": null
+        "PerUse": null,
+        "Tradeskills": "Skinning,Mining,Logging,Harvesting"
     },
     {
         "TrackedStatID": "GatherT5ResourceNode",
@@ -15,7 +16,8 @@
         "Level": 5,
         "ItemType": "Resource",
         "ItemClass": "",
-        "PerUse": true
+        "PerUse": true,
+        "Tradeskills": "Skinning,Mining,Logging,Harvesting"
     },
     {
         "TrackedStatID": "SkinT5Animal",
@@ -24,6 +26,7 @@
         "Level": 5,
         "ItemType": "",
         "ItemClass": "Rawhide+Resource",
-        "PerUse": true
+        "PerUse": true,
+        "Tradeskills": "Skinning"
     }
 ]

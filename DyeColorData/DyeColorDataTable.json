@@ -1342,5 +1342,41 @@
         "SpecColor": "#c2452d",
         "SpecAmount": 0.3,
         "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 176,
+        "Name": "Limoncello",
+        "Color": "#504628",
+        "Category": "Yellow",
+        "IsEntitlement": 0,
+        "ColorAmount": 1,
+        "ColorOverride": 0.1,
+        "SpecColor": "#504628",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 177,
+        "Name": "Royal Azalea",
+        "Color": "#502d41",
+        "Category": "Magenta",
+        "IsEntitlement": 0,
+        "ColorAmount": 1,
+        "ColorOverride": 0.1,
+        "SpecColor": "#502d41",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
+    },
+    {
+        "Index": 178,
+        "Name": "Morning Mist",
+        "Color": "#14324b",
+        "Category": "Cyan",
+        "IsEntitlement": 0,
+        "ColorAmount": 1,
+        "ColorOverride": 0.1,
+        "SpecColor": "#14324b",
+        "SpecAmount": 0.3,
+        "MaskGlossShift": 0.5
     }
 ]

@@ -249,7 +249,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionHealT2",
@@ -501,7 +502,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionHealT3",
@@ -753,7 +755,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionHealT4",
@@ -1005,7 +1008,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionHealT5",
@@ -1257,7 +1261,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionMana",
@@ -1509,7 +1514,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionManaT2",
@@ -1761,7 +1767,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionManaT3",
@@ -2013,7 +2020,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionManaT4",
@@ -2265,7 +2273,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionManaT5",
@@ -2517,7 +2526,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MinorPotionRegen",
@@ -2769,7 +2779,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorPotionRegen",
@@ -3021,7 +3032,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterPotionRegen",
@@ -3273,7 +3285,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandPotionRegen",
@@ -3525,7 +3538,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "BandageHeal",
@@ -3777,7 +3791,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MinorPotionEndurance",
@@ -4029,7 +4044,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MinorPotionFocus",
@@ -4281,7 +4297,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MinorPotionStalwart",
@@ -4533,7 +4550,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorPotionEndurance",
@@ -4785,7 +4803,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorPotionFocus",
@@ -5037,7 +5056,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorPotionStalwart",
@@ -5289,7 +5309,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorPotionEncumbrance",
@@ -5541,7 +5562,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterPotionEndurance",
@@ -5793,7 +5815,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterPotionFocus",
@@ -6045,7 +6068,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterPotionStalwart",
@@ -6297,7 +6321,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterPotionEncumbrance",
@@ -6549,7 +6574,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandPotionEndurance",
@@ -6801,7 +6827,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandPotionFocus",
@@ -7053,7 +7080,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandPotionStalwart",
@@ -7305,7 +7333,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandPotionEncumbrance",
@@ -7557,7 +7586,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostFireAbsT3",
@@ -7809,7 +7839,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostFireAbsT4",
@@ -8061,7 +8092,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostFireAbsT5",
@@ -8313,7 +8345,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostArcaneAbsT3",
@@ -8565,7 +8598,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostArcaneAbsT4",
@@ -8817,7 +8851,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostArcaneAbsT5",
@@ -9069,7 +9104,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostNatureAbsT3",
@@ -9321,7 +9357,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostNatureAbsT4",
@@ -9573,7 +9610,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostNatureAbsT5",
@@ -9825,7 +9863,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostLightningAbsT3",
@@ -10077,7 +10116,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostLightningAbsT4",
@@ -10329,7 +10369,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostLightningAbsT5",
@@ -10581,7 +10622,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostVoidAbsT3",
@@ -10833,7 +10875,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostVoidAbsT4",
@@ -11085,7 +11128,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionBoostVoidAbsT5",
@@ -11337,7 +11381,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionGypsumYellow",
@@ -11589,7 +11634,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "eating",
@@ -11841,7 +11887,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "drinking",
@@ -12093,7 +12140,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "feasting",
@@ -12345,7 +12393,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "RespecAttributes",
@@ -12597,7 +12646,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "RespecSkill",
@@ -12849,7 +12899,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "EatRawFood",
@@ -13101,7 +13152,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodInitialRecoveryT1",
@@ -13353,7 +13405,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodInitialRecoveryT2",
@@ -13605,7 +13658,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodInitialRecoveryT3",
@@ -13857,7 +13911,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodInitialRecoveryT4",
@@ -14109,7 +14164,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodInitialRecoveryT5",
@@ -14361,7 +14417,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodRecoveryT1",
@@ -14613,7 +14670,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": 1
+        "ApplicationCooldown": 1,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodRecoveryT2",
@@ -14865,7 +14923,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": 1
+        "ApplicationCooldown": 1,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodRecoveryT3",
@@ -15117,7 +15176,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": 1
+        "ApplicationCooldown": 1,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodRecoveryT4",
@@ -15369,7 +15429,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": 1
+        "ApplicationCooldown": 1,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodRecoveryT5",
@@ -15621,7 +15682,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": 1
+        "ApplicationCooldown": 1,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodRecoveryT5b",
@@ -15873,7 +15935,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": 1
+        "ApplicationCooldown": 1,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCorruptedT1",
@@ -16125,7 +16188,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodLostT1",
@@ -16377,7 +16441,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodAngryEarthT1",
@@ -16629,7 +16694,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodBeastT1",
@@ -16881,7 +16947,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodAncientT1",
@@ -17133,7 +17200,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodManaT1",
@@ -17385,7 +17453,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDefenseT1",
@@ -17637,7 +17706,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodWeaponsmithT1",
@@ -17889,7 +17959,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodJewelcrafterT1",
@@ -18141,7 +18212,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodEngineerT1",
@@ -18393,7 +18465,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodArcanistT1",
@@ -18645,7 +18718,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodArmorerT1",
@@ -18897,7 +18971,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodMinerT1",
@@ -19149,7 +19224,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodHarvesterT1",
@@ -19401,7 +19477,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodHunterT1",
@@ -19653,7 +19730,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodLumberjackT1",
@@ -19905,7 +19983,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCorruptedT2",
@@ -20157,7 +20236,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodLostT2",
@@ -20409,7 +20489,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodAngryEarthT2",
@@ -20661,7 +20742,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodBeastT2",
@@ -20913,7 +20995,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodAncientT2",
@@ -21165,7 +21248,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodManaT2",
@@ -21417,7 +21501,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDefenseT2",
@@ -21669,7 +21754,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodWeaponsmithT2",
@@ -21921,7 +22007,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodJewelcrafterT2",
@@ -22173,7 +22260,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodEngineerT2",
@@ -22425,7 +22513,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodArcanistT2",
@@ -22677,7 +22766,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodArmorerT2",
@@ -22929,7 +23019,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodMinerT2",
@@ -23181,7 +23272,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodHarvesterT2",
@@ -23433,7 +23525,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodHunterT2",
@@ -23685,7 +23778,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodLumberjackT2",
@@ -23937,7 +24031,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCorruptedT3",
@@ -24189,7 +24284,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodLostT3",
@@ -24441,7 +24537,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodAngryEarthT3",
@@ -24693,7 +24790,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodBeastT3",
@@ -24945,7 +25043,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodAncientT3",
@@ -25197,7 +25296,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodManaT3",
@@ -25449,7 +25549,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDefenseT3",
@@ -25701,7 +25802,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodWeaponsmithT3",
@@ -25953,7 +26055,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodJewelcrafterT3",
@@ -26205,7 +26308,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodEngineerT3",
@@ -26457,7 +26561,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodArcanistT3",
@@ -26709,7 +26814,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodArmorerT3",
@@ -26961,7 +27067,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodMinerT3",
@@ -27213,7 +27320,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodHarvesterT3",
@@ -27465,7 +27573,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodHunterT3",
@@ -27717,7 +27826,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodLumberjackT3",
@@ -27969,7 +28079,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCorruptedT4",
@@ -28221,7 +28332,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodLostT4",
@@ -28473,7 +28585,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodAngryEarthT4",
@@ -28725,7 +28838,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodBeastT4",
@@ -28977,7 +29091,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodAncientT4",
@@ -29229,7 +29344,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodManaT4",
@@ -29481,7 +29597,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDefenseT4",
@@ -29733,7 +29850,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodWeaponsmithT4",
@@ -29985,7 +30103,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodJewelcrafterT4",
@@ -30237,7 +30356,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodEngineerT4",
@@ -30489,7 +30609,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodArcanistT4",
@@ -30741,7 +30862,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodArmorerT4",
@@ -30993,7 +31115,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodMinerT4",
@@ -31245,7 +31368,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodHarvesterT4",
@@ -31497,7 +31621,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodHunterT4",
@@ -31749,7 +31874,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodLumberjackT4",
@@ -32001,7 +32127,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCorruptedT5",
@@ -32253,7 +32380,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodLostT5",
@@ -32505,7 +32633,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodAngryEarthT5",
@@ -32757,7 +32886,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodBeastT5",
@@ -33009,7 +33139,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodAncientT5",
@@ -33261,7 +33392,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodManaT5",
@@ -33513,7 +33645,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDefenseT5",
@@ -33765,7 +33898,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodWeaponsmithT5",
@@ -34017,7 +34151,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodJewelcrafterT5",
@@ -34269,7 +34404,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodEngineerT5",
@@ -34521,7 +34657,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodArcanistT5",
@@ -34773,7 +34910,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodArmorerT5",
@@ -35025,7 +35163,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodMinerT5",
@@ -35277,7 +35416,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodHarvesterT5",
@@ -35529,7 +35669,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodHunterT5",
@@ -35781,7 +35922,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodLumberjackT5",
@@ -36033,7 +36175,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MinorBleedAbsorb",
@@ -36285,7 +36428,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MinorFrostbiteAbsorb",
@@ -36537,7 +36681,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MinorPoisonAbsorb",
@@ -36789,7 +36934,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MinorDiseaseAbsorb",
@@ -37041,7 +37187,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MinorCurseAbsorb",
@@ -37293,7 +37440,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MinorBlightAbsorb",
@@ -37545,7 +37693,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorBleedAbsorb",
@@ -37797,7 +37946,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorFrostbiteAbsorb",
@@ -38049,7 +38199,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorPoisonAbsorb",
@@ -38301,7 +38452,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorDiseaseAbsorb",
@@ -38553,7 +38705,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorCurseAbsorb",
@@ -38805,7 +38958,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "MajorBlightAbsorb",
@@ -39057,7 +39211,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterBleedAbsorb",
@@ -39309,7 +39464,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterFrostbiteAbsorb",
@@ -39561,7 +39717,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterPoisonAbsorb",
@@ -39813,7 +39970,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterDiseaseAbsorb",
@@ -40065,7 +40223,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterCurseAbsorb",
@@ -40317,7 +40476,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GreaterBlightAbsorb",
@@ -40569,7 +40729,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandBleedAbsorb",
@@ -40821,7 +40982,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandFrostbiteAbsorb",
@@ -41073,7 +41235,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandPoisonAbsorb",
@@ -41325,7 +41488,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandDiseaseAbsorb",
@@ -41577,7 +41741,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandCurseAbsorb",
@@ -41829,7 +41994,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GrandBlightAbsorb",
@@ -42081,7 +42247,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgCorruptedT1",
@@ -42333,7 +42500,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgCorruptedT2",
@@ -42585,7 +42753,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgCorruptedT3",
@@ -42837,7 +43006,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgBeastsT1",
@@ -43089,7 +43259,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgBeastsT2",
@@ -43341,7 +43512,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgBeastsT3",
@@ -43593,7 +43765,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgAncientsT1",
@@ -43845,7 +44018,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgAncientsT2",
@@ -44097,7 +44271,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgAncientsT3",
@@ -44349,7 +44524,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgLostT1",
@@ -44601,7 +44777,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgLostT2",
@@ -44853,7 +45030,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgLostT3",
@@ -45105,7 +45283,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgAngryEarthT1",
@@ -45357,7 +45536,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgAngryEarthT2",
@@ -45609,7 +45789,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgAngryEarthT3",
@@ -45861,7 +46042,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgVarangianT1",
@@ -46113,7 +46295,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgVarangianT2",
@@ -46365,7 +46548,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingDmgVarangianT3",
@@ -46617,7 +46801,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusLoggingT1",
@@ -46869,7 +47054,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusLoggingT2",
@@ -47121,7 +47307,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusLoggingT3",
@@ -47373,7 +47560,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusHarvestingT1",
@@ -47625,7 +47813,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusHarvestingT2",
@@ -47877,7 +48066,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusHarvestingT3",
@@ -48129,7 +48319,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusMiningT1",
@@ -48381,7 +48572,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusMiningT2",
@@ -48633,7 +48825,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusMiningT3",
@@ -48885,7 +49078,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusSkinningT1",
@@ -49137,7 +49331,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusSkinningT2",
@@ -49389,7 +49584,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusSkinningT3",
@@ -49641,7 +49837,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusFishingT1",
@@ -49893,7 +50090,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusFishingT2",
@@ -50145,7 +50343,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusFishingT3",
@@ -50397,7 +50596,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusBlacksmithingT1",
@@ -50649,7 +50849,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusBlacksmithingT2",
@@ -50901,7 +51102,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusBlacksmithingT3",
@@ -51153,7 +51355,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusOutfittingT1",
@@ -51405,7 +51608,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusOutfittingT2",
@@ -51657,7 +51861,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusOutfittingT3",
@@ -51909,7 +52114,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusAlchemyT1",
@@ -52161,7 +52367,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusAlchemyT2",
@@ -52413,7 +52620,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusAlchemyT3",
@@ -52665,7 +52873,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusEngineeringT1",
@@ -52917,7 +53126,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusEngineeringT2",
@@ -53169,7 +53379,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusEngineeringT3",
@@ -53421,7 +53632,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusProvisioningT1",
@@ -53673,7 +53885,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusProvisioningT2",
@@ -53925,7 +54138,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingMinGearBonusProvisioningT3",
@@ -54177,7 +54391,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusGlobalT1",
@@ -54429,7 +54644,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusGlobalT2",
@@ -54681,7 +54897,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HousingRollBonusGlobalT3",
@@ -54933,7 +55150,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WCConsumable_SpicedNog",
@@ -55185,7 +55403,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WCConsumable_Mealiewrap",
@@ -55437,7 +55656,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WCConsumable_ConvergenceCake",
@@ -55689,7 +55909,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WCConsumable_ButtercreamPudding",
@@ -55941,7 +56162,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WCConsumable_GingersnapCookie",
@@ -56193,7 +56415,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WCConsumable_Gleamite",
@@ -56445,7 +56668,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "WCGleamite=1.0",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRT2",
@@ -56697,7 +56921,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRT3",
@@ -56949,7 +57174,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRT4",
@@ -57201,7 +57427,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRT5",
@@ -57453,7 +57680,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRT5b",
@@ -57705,7 +57933,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRDEXT2",
@@ -57957,7 +58186,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRDEXT3",
@@ -58209,7 +58439,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRDEXT4",
@@ -58461,7 +58692,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRDEXT5",
@@ -58713,7 +58945,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRINTT2",
@@ -58965,7 +59198,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRINTT3",
@@ -59217,7 +59451,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRINTT4",
@@ -59469,7 +59704,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRINTT5",
@@ -59721,7 +59957,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRCONT2",
@@ -59973,7 +60210,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRCONT3",
@@ -60225,7 +60463,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRCONT4",
@@ -60477,7 +60716,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRCONT5",
@@ -60729,7 +60969,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRFOCT2",
@@ -60981,7 +61222,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRFOCT3",
@@ -61233,7 +61475,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRFOCT4",
@@ -61485,7 +61728,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodSTRFOCT5",
@@ -61737,7 +61981,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXSTRT2",
@@ -61989,7 +62234,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXSTRT3",
@@ -62241,7 +62487,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXSTRT4",
@@ -62493,7 +62740,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXSTRT5",
@@ -62745,7 +62993,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXT2",
@@ -62997,7 +63246,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXT3",
@@ -63249,7 +63499,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXT4",
@@ -63501,7 +63752,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXT5",
@@ -63753,7 +64005,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXT5b",
@@ -64005,7 +64258,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXINTT2",
@@ -64257,7 +64511,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXINTT3",
@@ -64509,7 +64764,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXINTT4",
@@ -64761,7 +65017,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXINTT5",
@@ -65013,7 +65270,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXCONT2",
@@ -65265,7 +65523,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXCONT3",
@@ -65517,7 +65776,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXCONT4",
@@ -65769,7 +66029,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXCONT5",
@@ -66021,7 +66282,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXFOCT2",
@@ -66273,7 +66535,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXFOCT3",
@@ -66525,7 +66788,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXFOCT4",
@@ -66777,7 +67041,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDEXFOCT5",
@@ -67029,7 +67294,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTSTRT2",
@@ -67281,7 +67547,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTSTRT3",
@@ -67533,7 +67800,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTSTRT4",
@@ -67785,7 +68053,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTSTRT5",
@@ -68037,7 +68306,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTDEXT2",
@@ -68289,7 +68559,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTDEXT3",
@@ -68541,7 +68812,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTDEXT4",
@@ -68793,7 +69065,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTDEXT5",
@@ -69045,7 +69318,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTT2",
@@ -69297,7 +69571,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTT3",
@@ -69549,7 +69824,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTT4",
@@ -69801,7 +70077,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTT5",
@@ -70053,7 +70330,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTT5b",
@@ -70305,7 +70583,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTCONT2",
@@ -70557,7 +70836,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTCONT3",
@@ -70809,7 +71089,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTCONT4",
@@ -71061,7 +71342,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTCONT5",
@@ -71313,7 +71595,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTFOCT2",
@@ -71565,7 +71848,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTFOCT3",
@@ -71817,7 +72101,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTFOCT4",
@@ -72069,7 +72354,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodINTFOCT5",
@@ -72321,7 +72607,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONSTRT2",
@@ -72573,7 +72860,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONSTRT3",
@@ -72825,7 +73113,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONSTRT4",
@@ -73077,7 +73366,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONSTRT5",
@@ -73329,7 +73619,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONDEXT2",
@@ -73581,7 +73872,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONDEXT3",
@@ -73833,7 +74125,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONDEXT4",
@@ -74085,7 +74378,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONDEXT5",
@@ -74337,7 +74631,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONINTT2",
@@ -74589,7 +74884,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONINTT3",
@@ -74841,7 +75137,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONINTT4",
@@ -75093,7 +75390,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONINTT5",
@@ -75345,7 +75643,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONT2",
@@ -75597,7 +75896,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONT3",
@@ -75849,7 +76149,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONT4",
@@ -76101,7 +76402,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONT5",
@@ -76353,7 +76655,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONT5b",
@@ -76605,7 +76908,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONFOCT2",
@@ -76857,7 +77161,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONFOCT3",
@@ -77109,7 +77414,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONFOCT4",
@@ -77361,7 +77667,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONFOCT5",
@@ -77613,7 +77920,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCSTRT2",
@@ -77865,7 +78173,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCSTRT3",
@@ -78117,7 +78426,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCSTRT4",
@@ -78369,7 +78679,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCSTRT5",
@@ -78621,7 +78932,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCDEXT2",
@@ -78873,7 +79185,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCDEXT3",
@@ -79125,7 +79438,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCDEXT4",
@@ -79377,7 +79691,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCDEXT5",
@@ -79629,7 +79944,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCINTT2",
@@ -79881,7 +80197,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCINTT3",
@@ -80133,7 +80450,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCINTT4",
@@ -80385,7 +80703,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCINTT5",
@@ -80637,7 +80956,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCCONT2",
@@ -80889,7 +81209,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCCONT3",
@@ -81141,7 +81462,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCCONT4",
@@ -81393,7 +81715,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCCONT5",
@@ -81645,7 +81968,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCT2",
@@ -81897,7 +82221,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCT3",
@@ -82149,7 +82474,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCT4",
@@ -82401,7 +82727,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCT5",
@@ -82653,7 +82980,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodFOCT5b",
@@ -82905,7 +83233,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDOTT2",
@@ -83157,7 +83486,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDOTT3",
@@ -83409,7 +83739,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDOTT4",
@@ -83661,7 +83992,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodDOTT5",
@@ -83913,7 +84245,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "FoodCONLUCT5",
@@ -84165,7 +84498,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "RabbitSeasonTotem",
@@ -84417,7 +84751,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HoningStoneT2",
@@ -84669,7 +85004,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HoningStoneT3",
@@ -84921,7 +85257,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HoningStoneT4",
@@ -85173,7 +85510,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "HoningStoneT5",
@@ -85425,7 +85763,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "ProficiencyBoosterT2",
@@ -85677,7 +86016,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": "TokenGatherBoost"
     },
     {
         "StatusID": "ProficiencyBoosterT3",
@@ -85929,7 +86269,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": "TokenGatherBoost"
     },
     {
         "StatusID": "ProficiencyBoosterT4",
@@ -86181,7 +86522,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": "TokenGatherBoost"
     },
     {
         "StatusID": "ProficiencyBoosterT5",
@@ -86433,7 +86775,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": "TokenGatherBoost"
     },
     {
         "StatusID": "OakfleshBalmT2",
@@ -86685,7 +87028,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "OakfleshBalmT3",
@@ -86937,7 +87281,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "OakfleshBalmT4",
@@ -87189,7 +87534,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "OakfleshBalmT5",
@@ -87441,7 +87787,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "IncenseT2",
@@ -87693,7 +88040,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "IncenseT3",
@@ -87945,7 +88293,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "IncenseT4",
@@ -88197,7 +88546,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "IncenseT5",
@@ -88449,7 +88799,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GemstoneDustT2",
@@ -88701,7 +89052,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GemstoneDustT3",
@@ -88953,7 +89305,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GemstoneDustT4",
@@ -89205,7 +89558,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "GemstoneDustT5",
@@ -89457,7 +89811,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardLostT3",
@@ -89709,7 +90064,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardLostT4",
@@ -89961,7 +90317,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardLostT5",
@@ -90213,7 +90570,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardCorruptedT3",
@@ -90465,7 +90823,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardCorruptedT4",
@@ -90717,7 +91076,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardCorruptedT5",
@@ -90969,7 +91329,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardAngryEarthT3",
@@ -91221,7 +91582,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardAngryEarthT4",
@@ -91473,7 +91835,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardAngryEarthT5",
@@ -91725,7 +92088,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardAncientT3",
@@ -91977,7 +92341,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardAncientT4",
@@ -92229,7 +92594,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardAncientT5",
@@ -92481,7 +92847,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardBeastT3",
@@ -92733,7 +93100,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardBeastT4",
@@ -92985,7 +93353,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardBeastT5",
@@ -93237,7 +93606,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardBeastTurkeyT5",
@@ -93489,7 +93859,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardAeternianT3",
@@ -93741,7 +94112,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardAeternianT4",
@@ -93993,7 +94365,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PotionFamilyWardAeternianT5",
@@ -94245,7 +94618,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect",
@@ -94497,7 +94871,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Beasts_T2",
@@ -94749,7 +95124,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Ancient_T2",
@@ -95001,7 +95377,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Lost_T2",
@@ -95253,7 +95630,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Corrupted_T2",
@@ -95505,7 +95883,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_AngryEarth_T2",
@@ -95757,7 +96136,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Beasts_T3",
@@ -96009,7 +96389,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Ancient_T3",
@@ -96261,7 +96642,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Lost_T3",
@@ -96513,7 +96895,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Corrupted_T3",
@@ -96765,7 +97148,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_AngryEarth_T3",
@@ -97017,7 +97401,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Beasts_T4",
@@ -97269,7 +97654,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Ancient_T4",
@@ -97521,7 +97907,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Lost_T4",
@@ -97773,7 +98160,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Corrupted_T4",
@@ -98025,7 +98413,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_AngryEarth_T4",
@@ -98277,7 +98666,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Beasts_T5",
@@ -98529,7 +98919,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_BeastsTurkey_T5",
@@ -98781,7 +99172,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Ancient_T5",
@@ -99033,7 +99425,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Lost_T5",
@@ -99285,7 +99678,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Corrupted_T5",
@@ -99537,7 +99931,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_AngryEarth_T5",
@@ -99789,7 +100184,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Aeternian_T2",
@@ -100041,7 +100437,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Aeternian_T3",
@@ -100293,7 +100690,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Aeternian_T4",
@@ -100545,7 +100943,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "WeaponCoatingEffect_Aeternian_T5",
@@ -100797,7 +101196,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "Season_01_Event_DamageBoostEffect",
@@ -101049,7 +101449,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "Season1_TrophySeasonXPBonus",
@@ -101301,7 +101702,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "SummerMedley_GrilledFishPlate",
@@ -101553,7 +101955,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "SummerMedley_Kebabs",
@@ -101805,7 +102208,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "SummerMedley_FlatWraps",
@@ -102057,7 +102461,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "SummerMedley_FirecrackerSturgeon",
@@ -102309,7 +102714,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "SummerMedley_Caviar",
@@ -102561,7 +102967,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "SummerMedley_ScaledustDelight",
@@ -102813,7 +103220,1020 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
+    },
+    {
+        "StatusID": "SpringtideBloom_SpringtideDram",
+        "DisplayName": "@SpringtideBloom_SpringtideDram_MasterName",
+        "Description": "@SBConsumable_SpringtideDram_Description",
+        "EffectCategories": "Attributes+FoodUtility+Food",
+        "PlaceholderIcon": "lyshineui/images/status/SE_HealthRecConT2.png",
+        "ShowInUITray": true,
+        "ShowTextInDamageNumbers": true,
+        "FxScriptOn": "",
+        "FxScriptOff": "",
+        "ShouldRefreshFxScript": "",
+        "WeaponEffectType": "",
+        "Notification": "",
+        "DisableTelemetry": "",
+        "PersistEffectInCrossWorldInstances": null,
+        "ReapplyAfterPersistenceReload": "",
+        "IsClientPredicted": "",
+        "UseLightweightReplication": null,
+        "PotencyPerLevel": 0.55,
+        "BaseDuration": 1500,
+        "TickRate": null,
+        "DelayInitialTick": "",
+        "TickCondition": "",
+        "OnTickStatusEffect": "",
+        "KeepOnTickEffectOnEnd": "",
+        "StopOnHitCount": null,
+        "HitCondition": "",
+        "RequireReaction": null,
+        "OnStackStatusEffect": "",
+        "AddOnStackSize": "",
+        "AddOnStackSizeComparison": "",
+        "HealThreatMultiplier": "",
+        "ScaleAmountOverTime": "",
+        "ScaleAmountOverTimeMin": "",
+        "ScaleAmountOverTimeMax": "",
+        "DamageSkipsDeathsDoor": "",
+        "Health": null,
+        "HealthMin": "",
+        "HealthModifierPercent": null,
+        "HealthModifierDamageBased": null,
+        "UseHealScalingValue": "",
+        "HealScalingValueMultiplier": "",
+        "ShowUiDamageNumbersOnHeal": null,
+        "StaminaDamageModifier": "",
+        "ManaModifierDamageBased": "",
+        "DamageType": "",
+        "CritChanceModifier": "",
+        "CritDamageModifier": "",
+        "OnEndStatusEffect": "",
+        "CastSpell": "",
+        "TargetOwnsSpell": "",
+        "UseSourceWeaponForSpell": "",
+        "FromAlchemy": null,
+        "FromSpell": null,
+        "NoHealthRegen": null,
+        "HealMod": null,
+        "MaxHealthMod": null,
+        "HealthRate": null,
+        "CoreTempMod": null,
+        "TempMod": null,
+        "Stamina": null,
+        "StaminaRate": null,
+        "Mana": null,
+        "ManaRate": null,
+        "Food": null,
+        "FoodBurn": null,
+        "Drink": null,
+        "DrinkBurn": null,
+        "Encumbrance": null,
+        "ItemClassWeightMods": "",
+        "XPIncreases": "",
+        "AzothMod": "",
+        "FactionReputationMod": "",
+        "FactionTokensMod": "",
+        "EXPLogging": "",
+        "EXPMining": "",
+        "EXPHarvesting": "",
+        "EXPSkinning": "",
+        "EXPSmelting": "",
+        "EXPWoodworking": "",
+        "EXPLeatherworking": "",
+        "EXPWeaving": "",
+        "EXPStonecutting": "",
+        "EXPFishing": null,
+        "EXPCategoricalProgression": "",
+        "GrantSanctuary": null,
+        "NoSprint": null,
+        "NoRun": null,
+        "NoDodge": null,
+        "NoNav": null,
+        "Silenced": null,
+        "Stunned": null,
+        "RemoveOnDeath": null,
+        "RemoveOnDeathsDoor": 0,
+        "RemoveOnRespawn": "",
+        "RemoveOnGameModeExit": null,
+        "IgnoreDiminishingReturns": "",
+        "OnlyChangeOwnedStatusEffects": "",
+        "Afflictions": "",
+        "OnHitAffixes": "",
+        "EquipAbility": "",
+        "UseSourceWeaponForAbilityEffect": "",
+        "IsNegative": "",
+        "RespecTradeskills": null,
+        "RespecAttributes": null,
+        "EffectDurationMods": "",
+        "EffectPotencyMods": "",
+        "RemoveEffectModsOnInactive": null,
+        "RemoveStatusEffects": "",
+        "RemoveStatusEffectCategories": "",
+        "GlobalRollMod": 100,
+        "LootTags": "",
+        "FishingLineStrength": "",
+        "FishSizeRollModifier": "",
+        "MODConstitution": null,
+        "MODFocus": null,
+        "MODStrength": null,
+        "MODDexterity": null,
+        "MODIntelligence": null,
+        "MGSArcana": null,
+        "MGSWeaponsmithing": null,
+        "MGSJewelcrafting": null,
+        "MGSEngineering": null,
+        "MGSArmoring": null,
+        "MaxGSArcana": null,
+        "MaxGSWeaponsmithing": null,
+        "MaxGSJewelcrafting": null,
+        "MaxGSEngineering": null,
+        "MaxGSArmoring": null,
+        "ROLCooking": null,
+        "ROLWeaving": "",
+        "ROLStonecutting": "",
+        "ROLSmelting": "",
+        "ROLLeatherworking": "",
+        "ROLWoodworking": "",
+        "ROLLogging": null,
+        "ROLMining": null,
+        "ROLSkinning": null,
+        "ROLHarvesting": null,
+        "ROLFishing": null,
+        "MULTLogging": null,
+        "MULTMining": null,
+        "MULTSkinning": null,
+        "MULTHarvesting": null,
+        "MULTFishing": "",
+        "EFFLogging": "",
+        "EFFMining": "",
+        "EFFSkinning": "",
+        "EFFHarvesting": "",
+        "INSLogging": "",
+        "INSMining": "",
+        "INSSkinning": "",
+        "INSHarvesting": "",
+        "PhysicalArmor": null,
+        "ElementalArmor": null,
+        "ABSStandard": "",
+        "ABSSiege": "",
+        "ABSStrike": "",
+        "ABSSlash": "",
+        "ABSThrust": "",
+        "ABSArcane": null,
+        "ABSFire": null,
+        "ABSIce": "",
+        "ABSNature": null,
+        "ABSLightning": null,
+        "ABSCorruption": null,
+        "ABSVitalsCategory": "",
+        "RESPoison": null,
+        "RESDisease": null,
+        "RESBleed": null,
+        "RESFrostbite": null,
+        "RESCurse": null,
+        "RESBlight": null,
+        "BLAStandard": null,
+        "BLASiege": null,
+        "BLAStrike": null,
+        "BLASlash": null,
+        "BLAThrust": null,
+        "BLAArcane": null,
+        "BLAFire": null,
+        "BLAIce": null,
+        "BLALightning": null,
+        "BLACorruption": null,
+        "ABAPoison": "",
+        "ABADisease": "",
+        "ABABleed": "",
+        "ABAFrostbite": "",
+        "ABACurse": "",
+        "ABABlight": "",
+        "WKNStandard": "",
+        "WKNSiege": "",
+        "WKNStrike": "",
+        "WKNSlash": "",
+        "WKNThrust": "",
+        "WKNArcane": "",
+        "WKNFire": "",
+        "WKNIce": "",
+        "WKNNature": "",
+        "WKNLightning": "",
+        "WKNCorruption": "",
+        "DMGStandard": null,
+        "DMGSiege": null,
+        "DMGStrike": null,
+        "DMGSlash": null,
+        "DMGThrust": null,
+        "DMGArcane": null,
+        "DMGFire": null,
+        "DMGIce": null,
+        "DMGNature": null,
+        "DMGLightning": null,
+        "DMGCorruption": null,
+        "DMGVitalsCategory": "",
+        "AFAPoison": null,
+        "AFADisease": null,
+        "AFABleed": null,
+        "AFAFrostbite": null,
+        "AFACurse": null,
+        "AFABlight": null,
+        "StackDuration": "",
+        "DurationMax": "43200",
+        "InheritDuration": "",
+        "InheritTotalDuration": "",
+        "RefreshDuration": "",
+        "StackMax": null,
+        "InitialStackSize": "",
+        "RemoveUnappliedStacks": null,
+        "PotencyMax": null,
+        "DontReplaceStack": "",
+        "MoveSpeedMod": "",
+        "SprintSpeedMod": "",
+        "FastTravelEncumbranceMod": "",
+        "GameEventId": "",
+        "HealRewardGameEventId": "",
+        "HealRewardThreshold": "",
+        "WeaponMasteryCategoryId": "",
+        "UIPriority": null,
+        "UiNameplatePriority": null,
+        "ShowInNameplates": null,
+        "ShowTextInNameplates": "",
+        "OverrideOtherNameplateText": "",
+        "HidesOtherStatusEffectIcons": "",
+        "DynamicModelScaleFactor": "",
+        "DynamicModelScaleRampTimeSecs": "",
+        "SpawnSlice": "",
+        "DisableSupportContributionRewards": "",
+        "BlockMultipleEffectsFromSameSource": "",
+        "AllowSelfOnlyAsSourceForAbilities": "",
+        "IgnoreInvulnerable": "",
+        "NotCombatAction": "",
+        "ItemLootVolumeMods": "",
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
+    },
+    {
+        "StatusID": "SpringtideBloom_SpringtideWafer",
+        "DisplayName": "@SpringtideBloom_SpringtideWafer_MasterName",
+        "Description": "@SBConsumable_SpringtideWafer_Description",
+        "EffectCategories": "Attributes+FoodUtility+Food",
+        "PlaceholderIcon": "lyshineui/images/status/SE_HealthRecConT2.png",
+        "ShowInUITray": true,
+        "ShowTextInDamageNumbers": true,
+        "FxScriptOn": "",
+        "FxScriptOff": "",
+        "ShouldRefreshFxScript": "",
+        "WeaponEffectType": "",
+        "Notification": "",
+        "DisableTelemetry": "",
+        "PersistEffectInCrossWorldInstances": null,
+        "ReapplyAfterPersistenceReload": "",
+        "IsClientPredicted": "",
+        "UseLightweightReplication": null,
+        "PotencyPerLevel": 0.55,
+        "BaseDuration": 1500,
+        "TickRate": null,
+        "DelayInitialTick": "",
+        "TickCondition": "",
+        "OnTickStatusEffect": "",
+        "KeepOnTickEffectOnEnd": "",
+        "StopOnHitCount": null,
+        "HitCondition": "",
+        "RequireReaction": null,
+        "OnStackStatusEffect": "",
+        "AddOnStackSize": "",
+        "AddOnStackSizeComparison": "",
+        "HealThreatMultiplier": "",
+        "ScaleAmountOverTime": "",
+        "ScaleAmountOverTimeMin": "",
+        "ScaleAmountOverTimeMax": "",
+        "DamageSkipsDeathsDoor": "",
+        "Health": null,
+        "HealthMin": "",
+        "HealthModifierPercent": null,
+        "HealthModifierDamageBased": null,
+        "UseHealScalingValue": "",
+        "HealScalingValueMultiplier": "",
+        "ShowUiDamageNumbersOnHeal": null,
+        "StaminaDamageModifier": "",
+        "ManaModifierDamageBased": "",
+        "DamageType": "",
+        "CritChanceModifier": "",
+        "CritDamageModifier": "",
+        "OnEndStatusEffect": "",
+        "CastSpell": "",
+        "TargetOwnsSpell": "",
+        "UseSourceWeaponForSpell": "",
+        "FromAlchemy": null,
+        "FromSpell": null,
+        "NoHealthRegen": null,
+        "HealMod": null,
+        "MaxHealthMod": null,
+        "HealthRate": null,
+        "CoreTempMod": null,
+        "TempMod": null,
+        "Stamina": null,
+        "StaminaRate": null,
+        "Mana": null,
+        "ManaRate": null,
+        "Food": null,
+        "FoodBurn": null,
+        "Drink": null,
+        "DrinkBurn": null,
+        "Encumbrance": null,
+        "ItemClassWeightMods": "",
+        "XPIncreases": "",
+        "AzothMod": "",
+        "FactionReputationMod": "",
+        "FactionTokensMod": "",
+        "EXPLogging": "",
+        "EXPMining": "",
+        "EXPHarvesting": "",
+        "EXPSkinning": "",
+        "EXPSmelting": "",
+        "EXPWoodworking": "",
+        "EXPLeatherworking": "",
+        "EXPWeaving": "",
+        "EXPStonecutting": "",
+        "EXPFishing": null,
+        "EXPCategoricalProgression": "",
+        "GrantSanctuary": null,
+        "NoSprint": null,
+        "NoRun": null,
+        "NoDodge": null,
+        "NoNav": null,
+        "Silenced": null,
+        "Stunned": null,
+        "RemoveOnDeath": null,
+        "RemoveOnDeathsDoor": 0,
+        "RemoveOnRespawn": "",
+        "RemoveOnGameModeExit": null,
+        "IgnoreDiminishingReturns": "",
+        "OnlyChangeOwnedStatusEffects": "",
+        "Afflictions": "",
+        "OnHitAffixes": "",
+        "EquipAbility": "",
+        "UseSourceWeaponForAbilityEffect": "",
+        "IsNegative": "",
+        "RespecTradeskills": null,
+        "RespecAttributes": null,
+        "EffectDurationMods": "",
+        "EffectPotencyMods": "",
+        "RemoveEffectModsOnInactive": null,
+        "RemoveStatusEffects": "",
+        "RemoveStatusEffectCategories": "",
+        "GlobalRollMod": null,
+        "LootTags": "",
+        "FishingLineStrength": "",
+        "FishSizeRollModifier": "",
+        "MODConstitution": null,
+        "MODFocus": null,
+        "MODStrength": null,
+        "MODDexterity": null,
+        "MODIntelligence": null,
+        "MGSArcana": null,
+        "MGSWeaponsmithing": null,
+        "MGSJewelcrafting": null,
+        "MGSEngineering": null,
+        "MGSArmoring": null,
+        "MaxGSArcana": null,
+        "MaxGSWeaponsmithing": null,
+        "MaxGSJewelcrafting": null,
+        "MaxGSEngineering": null,
+        "MaxGSArmoring": null,
+        "ROLCooking": null,
+        "ROLWeaving": "",
+        "ROLStonecutting": "",
+        "ROLSmelting": "",
+        "ROLLeatherworking": "",
+        "ROLWoodworking": "",
+        "ROLLogging": null,
+        "ROLMining": null,
+        "ROLSkinning": null,
+        "ROLHarvesting": null,
+        "ROLFishing": null,
+        "MULTLogging": null,
+        "MULTMining": null,
+        "MULTSkinning": null,
+        "MULTHarvesting": null,
+        "MULTFishing": "",
+        "EFFLogging": "",
+        "EFFMining": "",
+        "EFFSkinning": "",
+        "EFFHarvesting": "",
+        "INSLogging": "",
+        "INSMining": "",
+        "INSSkinning": "",
+        "INSHarvesting": "",
+        "PhysicalArmor": null,
+        "ElementalArmor": null,
+        "ABSStandard": "",
+        "ABSSiege": "",
+        "ABSStrike": "",
+        "ABSSlash": "",
+        "ABSThrust": "",
+        "ABSArcane": null,
+        "ABSFire": null,
+        "ABSIce": "",
+        "ABSNature": null,
+        "ABSLightning": null,
+        "ABSCorruption": null,
+        "ABSVitalsCategory": "",
+        "RESPoison": null,
+        "RESDisease": null,
+        "RESBleed": null,
+        "RESFrostbite": null,
+        "RESCurse": null,
+        "RESBlight": null,
+        "BLAStandard": null,
+        "BLASiege": null,
+        "BLAStrike": null,
+        "BLASlash": null,
+        "BLAThrust": null,
+        "BLAArcane": null,
+        "BLAFire": null,
+        "BLAIce": null,
+        "BLALightning": null,
+        "BLACorruption": null,
+        "ABAPoison": "",
+        "ABADisease": "",
+        "ABABleed": "",
+        "ABAFrostbite": "",
+        "ABACurse": "",
+        "ABABlight": "",
+        "WKNStandard": "",
+        "WKNSiege": "",
+        "WKNStrike": "",
+        "WKNSlash": "",
+        "WKNThrust": "",
+        "WKNArcane": "",
+        "WKNFire": "",
+        "WKNIce": "",
+        "WKNNature": "",
+        "WKNLightning": "",
+        "WKNCorruption": "",
+        "DMGStandard": null,
+        "DMGSiege": null,
+        "DMGStrike": null,
+        "DMGSlash": null,
+        "DMGThrust": null,
+        "DMGArcane": null,
+        "DMGFire": null,
+        "DMGIce": null,
+        "DMGNature": null,
+        "DMGLightning": null,
+        "DMGCorruption": null,
+        "DMGVitalsCategory": "",
+        "AFAPoison": null,
+        "AFADisease": null,
+        "AFABleed": null,
+        "AFAFrostbite": null,
+        "AFACurse": null,
+        "AFABlight": null,
+        "StackDuration": "",
+        "DurationMax": "43200",
+        "InheritDuration": "",
+        "InheritTotalDuration": "",
+        "RefreshDuration": "",
+        "StackMax": null,
+        "InitialStackSize": "",
+        "RemoveUnappliedStacks": null,
+        "PotencyMax": null,
+        "DontReplaceStack": "",
+        "MoveSpeedMod": "",
+        "SprintSpeedMod": "",
+        "FastTravelEncumbranceMod": "",
+        "GameEventId": "",
+        "HealRewardGameEventId": "",
+        "HealRewardThreshold": "",
+        "WeaponMasteryCategoryId": "",
+        "UIPriority": null,
+        "UiNameplatePriority": null,
+        "ShowInNameplates": null,
+        "ShowTextInNameplates": "",
+        "OverrideOtherNameplateText": "",
+        "HidesOtherStatusEffectIcons": "",
+        "DynamicModelScaleFactor": "",
+        "DynamicModelScaleRampTimeSecs": "",
+        "SpawnSlice": "",
+        "DisableSupportContributionRewards": "",
+        "BlockMultipleEffectsFromSameSource": "",
+        "AllowSelfOnlyAsSourceForAbilities": "",
+        "IgnoreInvulnerable": "",
+        "NotCombatAction": "",
+        "ItemLootVolumeMods": "",
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
+    },
+    {
+        "StatusID": "SpringtideBloom_SpringtideCrumble",
+        "DisplayName": "@SpringtideBloom_SpringtideCrumble_MasterName",
+        "Description": "@SBConsumable_SpringtideCrumble_Description",
+        "EffectCategories": "Attributes+FoodUtility+Food",
+        "PlaceholderIcon": "lyshineui/images/status/SE_HealthRecConT2.png",
+        "ShowInUITray": true,
+        "ShowTextInDamageNumbers": true,
+        "FxScriptOn": "",
+        "FxScriptOff": "",
+        "ShouldRefreshFxScript": "",
+        "WeaponEffectType": "",
+        "Notification": "",
+        "DisableTelemetry": "",
+        "PersistEffectInCrossWorldInstances": null,
+        "ReapplyAfterPersistenceReload": "",
+        "IsClientPredicted": "",
+        "UseLightweightReplication": null,
+        "PotencyPerLevel": 0.55,
+        "BaseDuration": 1500,
+        "TickRate": null,
+        "DelayInitialTick": "",
+        "TickCondition": "",
+        "OnTickStatusEffect": "",
+        "KeepOnTickEffectOnEnd": "",
+        "StopOnHitCount": null,
+        "HitCondition": "",
+        "RequireReaction": null,
+        "OnStackStatusEffect": "",
+        "AddOnStackSize": "",
+        "AddOnStackSizeComparison": "",
+        "HealThreatMultiplier": "",
+        "ScaleAmountOverTime": "",
+        "ScaleAmountOverTimeMin": "",
+        "ScaleAmountOverTimeMax": "",
+        "DamageSkipsDeathsDoor": "",
+        "Health": null,
+        "HealthMin": "",
+        "HealthModifierPercent": null,
+        "HealthModifierDamageBased": null,
+        "UseHealScalingValue": "",
+        "HealScalingValueMultiplier": "",
+        "ShowUiDamageNumbersOnHeal": null,
+        "StaminaDamageModifier": "",
+        "ManaModifierDamageBased": "",
+        "DamageType": "",
+        "CritChanceModifier": "",
+        "CritDamageModifier": "",
+        "OnEndStatusEffect": "",
+        "CastSpell": "",
+        "TargetOwnsSpell": "",
+        "UseSourceWeaponForSpell": "",
+        "FromAlchemy": null,
+        "FromSpell": null,
+        "NoHealthRegen": null,
+        "HealMod": null,
+        "MaxHealthMod": null,
+        "HealthRate": null,
+        "CoreTempMod": null,
+        "TempMod": null,
+        "Stamina": null,
+        "StaminaRate": null,
+        "Mana": null,
+        "ManaRate": null,
+        "Food": null,
+        "FoodBurn": null,
+        "Drink": null,
+        "DrinkBurn": null,
+        "Encumbrance": null,
+        "ItemClassWeightMods": "",
+        "XPIncreases": "",
+        "AzothMod": "",
+        "FactionReputationMod": "",
+        "FactionTokensMod": "",
+        "EXPLogging": "",
+        "EXPMining": "",
+        "EXPHarvesting": "",
+        "EXPSkinning": "",
+        "EXPSmelting": "",
+        "EXPWoodworking": "",
+        "EXPLeatherworking": "",
+        "EXPWeaving": "",
+        "EXPStonecutting": "",
+        "EXPFishing": null,
+        "EXPCategoricalProgression": "",
+        "GrantSanctuary": null,
+        "NoSprint": null,
+        "NoRun": null,
+        "NoDodge": null,
+        "NoNav": null,
+        "Silenced": null,
+        "Stunned": null,
+        "RemoveOnDeath": null,
+        "RemoveOnDeathsDoor": 0,
+        "RemoveOnRespawn": "",
+        "RemoveOnGameModeExit": null,
+        "IgnoreDiminishingReturns": "",
+        "OnlyChangeOwnedStatusEffects": "",
+        "Afflictions": "",
+        "OnHitAffixes": "",
+        "EquipAbility": "",
+        "UseSourceWeaponForAbilityEffect": "",
+        "IsNegative": "",
+        "RespecTradeskills": null,
+        "RespecAttributes": null,
+        "EffectDurationMods": "",
+        "EffectPotencyMods": "",
+        "RemoveEffectModsOnInactive": null,
+        "RemoveStatusEffects": "",
+        "RemoveStatusEffectCategories": "",
+        "GlobalRollMod": null,
+        "LootTags": "",
+        "FishingLineStrength": "",
+        "FishSizeRollModifier": "",
+        "MODConstitution": 1,
+        "MODFocus": null,
+        "MODStrength": null,
+        "MODDexterity": null,
+        "MODIntelligence": null,
+        "MGSArcana": null,
+        "MGSWeaponsmithing": null,
+        "MGSJewelcrafting": null,
+        "MGSEngineering": null,
+        "MGSArmoring": null,
+        "MaxGSArcana": null,
+        "MaxGSWeaponsmithing": null,
+        "MaxGSJewelcrafting": null,
+        "MaxGSEngineering": null,
+        "MaxGSArmoring": null,
+        "ROLCooking": null,
+        "ROLWeaving": "",
+        "ROLStonecutting": "",
+        "ROLSmelting": "",
+        "ROLLeatherworking": "",
+        "ROLWoodworking": "",
+        "ROLLogging": null,
+        "ROLMining": null,
+        "ROLSkinning": null,
+        "ROLHarvesting": null,
+        "ROLFishing": null,
+        "MULTLogging": null,
+        "MULTMining": null,
+        "MULTSkinning": null,
+        "MULTHarvesting": null,
+        "MULTFishing": "",
+        "EFFLogging": "",
+        "EFFMining": "",
+        "EFFSkinning": "",
+        "EFFHarvesting": "",
+        "INSLogging": "",
+        "INSMining": "",
+        "INSSkinning": "",
+        "INSHarvesting": "",
+        "PhysicalArmor": null,
+        "ElementalArmor": null,
+        "ABSStandard": "",
+        "ABSSiege": "",
+        "ABSStrike": "",
+        "ABSSlash": "",
+        "ABSThrust": "",
+        "ABSArcane": null,
+        "ABSFire": null,
+        "ABSIce": "",
+        "ABSNature": null,
+        "ABSLightning": null,
+        "ABSCorruption": null,
+        "ABSVitalsCategory": "",
+        "RESPoison": null,
+        "RESDisease": null,
+        "RESBleed": null,
+        "RESFrostbite": null,
+        "RESCurse": null,
+        "RESBlight": null,
+        "BLAStandard": null,
+        "BLASiege": null,
+        "BLAStrike": null,
+        "BLASlash": null,
+        "BLAThrust": null,
+        "BLAArcane": null,
+        "BLAFire": null,
+        "BLAIce": null,
+        "BLALightning": null,
+        "BLACorruption": null,
+        "ABAPoison": "",
+        "ABADisease": "",
+        "ABABleed": "",
+        "ABAFrostbite": "",
+        "ABACurse": "",
+        "ABABlight": "",
+        "WKNStandard": "",
+        "WKNSiege": "",
+        "WKNStrike": "",
+        "WKNSlash": "",
+        "WKNThrust": "",
+        "WKNArcane": "",
+        "WKNFire": "",
+        "WKNIce": "",
+        "WKNNature": "",
+        "WKNLightning": "",
+        "WKNCorruption": "",
+        "DMGStandard": null,
+        "DMGSiege": null,
+        "DMGStrike": null,
+        "DMGSlash": null,
+        "DMGThrust": null,
+        "DMGArcane": null,
+        "DMGFire": null,
+        "DMGIce": null,
+        "DMGNature": null,
+        "DMGLightning": null,
+        "DMGCorruption": null,
+        "DMGVitalsCategory": "",
+        "AFAPoison": null,
+        "AFADisease": null,
+        "AFABleed": null,
+        "AFAFrostbite": null,
+        "AFACurse": null,
+        "AFABlight": null,
+        "StackDuration": "",
+        "DurationMax": "43200",
+        "InheritDuration": "",
+        "InheritTotalDuration": "",
+        "RefreshDuration": "",
+        "StackMax": null,
+        "InitialStackSize": "",
+        "RemoveUnappliedStacks": null,
+        "PotencyMax": null,
+        "DontReplaceStack": "",
+        "MoveSpeedMod": "",
+        "SprintSpeedMod": "",
+        "FastTravelEncumbranceMod": "",
+        "GameEventId": "",
+        "HealRewardGameEventId": "",
+        "HealRewardThreshold": "",
+        "WeaponMasteryCategoryId": "",
+        "UIPriority": null,
+        "UiNameplatePriority": null,
+        "ShowInNameplates": null,
+        "ShowTextInNameplates": "",
+        "OverrideOtherNameplateText": "",
+        "HidesOtherStatusEffectIcons": "",
+        "DynamicModelScaleFactor": "",
+        "DynamicModelScaleRampTimeSecs": "",
+        "SpawnSlice": "",
+        "DisableSupportContributionRewards": "",
+        "BlockMultipleEffectsFromSameSource": "",
+        "AllowSelfOnlyAsSourceForAbilities": "",
+        "IgnoreInvulnerable": "",
+        "NotCombatAction": "",
+        "ItemLootVolumeMods": "",
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
+    },
+    {
+        "StatusID": "SpringtideBloom_Wispybloom",
+        "DisplayName": "",
+        "Description": "",
+        "EffectCategories": "",
+        "PlaceholderIcon": "",
+        "ShowInUITray": null,
+        "ShowTextInDamageNumbers": null,
+        "FxScriptOn": "",
+        "FxScriptOff": "",
+        "ShouldRefreshFxScript": "",
+        "WeaponEffectType": "",
+        "Notification": "",
+        "DisableTelemetry": "",
+        "PersistEffectInCrossWorldInstances": null,
+        "ReapplyAfterPersistenceReload": "",
+        "IsClientPredicted": "",
+        "UseLightweightReplication": null,
+        "PotencyPerLevel": null,
+        "BaseDuration": 1500,
+        "TickRate": null,
+        "DelayInitialTick": "",
+        "TickCondition": "",
+        "OnTickStatusEffect": "",
+        "KeepOnTickEffectOnEnd": "",
+        "StopOnHitCount": null,
+        "HitCondition": "",
+        "RequireReaction": null,
+        "OnStackStatusEffect": "",
+        "AddOnStackSize": "",
+        "AddOnStackSizeComparison": "",
+        "HealThreatMultiplier": "",
+        "ScaleAmountOverTime": "",
+        "ScaleAmountOverTimeMin": "",
+        "ScaleAmountOverTimeMax": "",
+        "DamageSkipsDeathsDoor": "",
+        "Health": null,
+        "HealthMin": "",
+        "HealthModifierPercent": null,
+        "HealthModifierDamageBased": null,
+        "UseHealScalingValue": "",
+        "HealScalingValueMultiplier": "",
+        "ShowUiDamageNumbersOnHeal": null,
+        "StaminaDamageModifier": "",
+        "ManaModifierDamageBased": "",
+        "DamageType": "",
+        "CritChanceModifier": "",
+        "CritDamageModifier": "",
+        "OnEndStatusEffect": "",
+        "CastSpell": "",
+        "TargetOwnsSpell": "",
+        "UseSourceWeaponForSpell": "",
+        "FromAlchemy": null,
+        "FromSpell": null,
+        "NoHealthRegen": null,
+        "HealMod": null,
+        "MaxHealthMod": null,
+        "HealthRate": null,
+        "CoreTempMod": null,
+        "TempMod": null,
+        "Stamina": null,
+        "StaminaRate": null,
+        "Mana": null,
+        "ManaRate": null,
+        "Food": null,
+        "FoodBurn": null,
+        "Drink": null,
+        "DrinkBurn": null,
+        "Encumbrance": null,
+        "ItemClassWeightMods": "",
+        "XPIncreases": "",
+        "AzothMod": "",
+        "FactionReputationMod": "",
+        "FactionTokensMod": "",
+        "EXPLogging": "",
+        "EXPMining": "",
+        "EXPHarvesting": "",
+        "EXPSkinning": "",
+        "EXPSmelting": "",
+        "EXPWoodworking": "",
+        "EXPLeatherworking": "",
+        "EXPWeaving": "",
+        "EXPStonecutting": "",
+        "EXPFishing": null,
+        "EXPCategoricalProgression": "",
+        "GrantSanctuary": null,
+        "NoSprint": null,
+        "NoRun": null,
+        "NoDodge": null,
+        "NoNav": null,
+        "Silenced": null,
+        "Stunned": null,
+        "RemoveOnDeath": null,
+        "RemoveOnDeathsDoor": null,
+        "RemoveOnRespawn": "",
+        "RemoveOnGameModeExit": null,
+        "IgnoreDiminishingReturns": "",
+        "OnlyChangeOwnedStatusEffects": "",
+        "Afflictions": "",
+        "OnHitAffixes": "",
+        "EquipAbility": "",
+        "UseSourceWeaponForAbilityEffect": "",
+        "IsNegative": "",
+        "RespecTradeskills": null,
+        "RespecAttributes": null,
+        "EffectDurationMods": "",
+        "EffectPotencyMods": "",
+        "RemoveEffectModsOnInactive": null,
+        "RemoveStatusEffects": "",
+        "RemoveStatusEffectCategories": "",
+        "GlobalRollMod": null,
+        "LootTags": "",
+        "FishingLineStrength": "",
+        "FishSizeRollModifier": "",
+        "MODConstitution": null,
+        "MODFocus": null,
+        "MODStrength": null,
+        "MODDexterity": null,
+        "MODIntelligence": null,
+        "MGSArcana": null,
+        "MGSWeaponsmithing": null,
+        "MGSJewelcrafting": null,
+        "MGSEngineering": null,
+        "MGSArmoring": null,
+        "MaxGSArcana": null,
+        "MaxGSWeaponsmithing": null,
+        "MaxGSJewelcrafting": null,
+        "MaxGSEngineering": null,
+        "MaxGSArmoring": null,
+        "ROLCooking": null,
+        "ROLWeaving": "",
+        "ROLStonecutting": "",
+        "ROLSmelting": "",
+        "ROLLeatherworking": "",
+        "ROLWoodworking": "",
+        "ROLLogging": null,
+        "ROLMining": null,
+        "ROLSkinning": null,
+        "ROLHarvesting": null,
+        "ROLFishing": null,
+        "MULTLogging": null,
+        "MULTMining": null,
+        "MULTSkinning": null,
+        "MULTHarvesting": null,
+        "MULTFishing": "",
+        "EFFLogging": "",
+        "EFFMining": "",
+        "EFFSkinning": "",
+        "EFFHarvesting": "",
+        "INSLogging": "",
+        "INSMining": "",
+        "INSSkinning": "",
+        "INSHarvesting": "",
+        "PhysicalArmor": null,
+        "ElementalArmor": null,
+        "ABSStandard": "",
+        "ABSSiege": "",
+        "ABSStrike": "",
+        "ABSSlash": "",
+        "ABSThrust": "",
+        "ABSArcane": null,
+        "ABSFire": null,
+        "ABSIce": "",
+        "ABSNature": null,
+        "ABSLightning": null,
+        "ABSCorruption": null,
+        "ABSVitalsCategory": "",
+        "RESPoison": null,
+        "RESDisease": null,
+        "RESBleed": null,
+        "RESFrostbite": null,
+        "RESCurse": null,
+        "RESBlight": null,
+        "BLAStandard": null,
+        "BLASiege": null,
+        "BLAStrike": null,
+        "BLASlash": null,
+        "BLAThrust": null,
+        "BLAArcane": null,
+        "BLAFire": null,
+        "BLAIce": null,
+        "BLALightning": null,
+        "BLACorruption": null,
+        "ABAPoison": "",
+        "ABADisease": "",
+        "ABABleed": "",
+        "ABAFrostbite": "",
+        "ABACurse": "",
+        "ABABlight": "",
+        "WKNStandard": "",
+        "WKNSiege": "",
+        "WKNStrike": "",
+        "WKNSlash": "",
+        "WKNThrust": "",
+        "WKNArcane": "",
+        "WKNFire": "",
+        "WKNIce": "",
+        "WKNNature": "",
+        "WKNLightning": "",
+        "WKNCorruption": "",
+        "DMGStandard": null,
+        "DMGSiege": null,
+        "DMGStrike": null,
+        "DMGSlash": null,
+        "DMGThrust": null,
+        "DMGArcane": null,
+        "DMGFire": null,
+        "DMGIce": null,
+        "DMGNature": null,
+        "DMGLightning": null,
+        "DMGCorruption": null,
+        "DMGVitalsCategory": "",
+        "AFAPoison": null,
+        "AFADisease": null,
+        "AFABleed": null,
+        "AFAFrostbite": null,
+        "AFACurse": null,
+        "AFABlight": null,
+        "StackDuration": "",
+        "DurationMax": "",
+        "InheritDuration": "",
+        "InheritTotalDuration": "",
+        "RefreshDuration": "",
+        "StackMax": null,
+        "InitialStackSize": "",
+        "RemoveUnappliedStacks": null,
+        "PotencyMax": null,
+        "DontReplaceStack": "",
+        "MoveSpeedMod": "",
+        "SprintSpeedMod": "",
+        "FastTravelEncumbranceMod": "",
+        "GameEventId": "",
+        "HealRewardGameEventId": "",
+        "HealRewardThreshold": "",
+        "WeaponMasteryCategoryId": "",
+        "UIPriority": null,
+        "UiNameplatePriority": null,
+        "ShowInNameplates": null,
+        "ShowTextInNameplates": "",
+        "OverrideOtherNameplateText": "",
+        "HidesOtherStatusEffectIcons": "",
+        "DynamicModelScaleFactor": "",
+        "DynamicModelScaleRampTimeSecs": "",
+        "SpawnSlice": "",
+        "DisableSupportContributionRewards": "",
+        "BlockMultipleEffectsFromSameSource": "",
+        "AllowSelfOnlyAsSourceForAbilities": "",
+        "IgnoreInvulnerable": "",
+        "NotCombatAction": "",
+        "ItemLootVolumeMods": "SB_Wispybloom=1.0",
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "SummerMedley_HousingEXPBonusFishing",
@@ -103065,7 +104485,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "TurkeyTerror_FoodEffectDurationBonus",
@@ -103317,7 +104738,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodSTRT3",
@@ -103569,7 +104991,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodSTRT4",
@@ -103821,7 +105244,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodSTRT5",
@@ -104073,7 +105497,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodDEXT3",
@@ -104325,7 +105750,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodDEXT4",
@@ -104577,7 +106003,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodDEXT5",
@@ -104829,7 +106256,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodINTT3",
@@ -105081,7 +106509,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodINTT4",
@@ -105333,7 +106762,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodINTT5",
@@ -105585,7 +107015,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodCONT3",
@@ -105837,7 +107268,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodCONT4",
@@ -106089,7 +107521,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodCONT5",
@@ -106341,7 +107774,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodFOCT3",
@@ -106593,7 +108027,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodFOCT4",
@@ -106845,7 +108280,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodFOCT5",
@@ -107097,7 +108533,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_PotionHealT3",
@@ -107349,7 +108786,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_PotionHealT4",
@@ -107601,7 +109039,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_PotionHealT5",
@@ -107853,7 +109292,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_PotionManaT3",
@@ -108105,7 +109545,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_PotionManaT4",
@@ -108357,7 +109798,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_PotionManaT5",
@@ -108609,7 +110051,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_MajorPotionRegen",
@@ -108861,7 +110304,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_GreaterPotionRegen",
@@ -109113,7 +110557,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_GrandPotionRegen",
@@ -109365,7 +110810,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_GrandPotionFocus",
@@ -109617,7 +111063,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodRecoveryT3",
@@ -109869,7 +111316,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodRecoveryT4",
@@ -110121,7 +111569,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_FoodRecoveryT5",
@@ -110373,7 +111822,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_HoningStoneT3",
@@ -110625,7 +112075,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_HoningStoneT4",
@@ -110877,7 +112328,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "PvPArena_HoningStoneT5",
@@ -111129,7 +112581,8 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     },
     {
         "StatusID": "Status_TinctureAcidT5",
@@ -111381,6 +112834,7 @@
         "IgnoreInvulnerable": "",
         "NotCombatAction": "",
         "ItemLootVolumeMods": "",
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "AntirequisiteEffectCategories": ""
     }
 ]

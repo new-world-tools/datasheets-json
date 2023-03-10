@@ -55004,7 +55004,7 @@
     },
     {
         "VitalsCategoryID": "Rabbit",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit\"\u003eRabbit\u003c/string\u003e",
@@ -55012,12 +55012,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_02BW07",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_02BW07",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_02BW07\"\u003eRabbit_02BW07\u003c/string\u003e",
@@ -55025,12 +55025,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_08QP03",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_08QP03",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_08QP03\"\u003eRabbit_08QP03\u003c/string\u003e",
@@ -55038,12 +55038,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Corrupted_07SM08",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Corrupted_07SM08",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Corrupted_07SM08\"\u003eRabbit_Corrupted_07SM08\u003c/string\u003e",
@@ -55051,7 +55051,20 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Rabbit_Snowshoe",
+        "DisplayName": "@VC_Rabbit_Snowshoe",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe\"\u003eRabbit_Snowshoe\u003c/string\u003e",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
@@ -55068,21 +55081,8 @@
         "FemaleMtlOverride": ""
     },
     {
-        "VitalsCategoryID": "Rabbit_Snowshoe",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
-        "Icon": "",
-        "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe\"\u003eRabbit_Snowshoe\u003c/string\u003e",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": null,
-        "IsDynamicPoiTarget": null,
-        "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
-        "FemaleMtlOverride": ""
-    },
-    {
         "VitalsCategoryID": "Rabbit_Snowshoe_03GC06",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Snowshoe_03GC06",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe_03GC06\"\u003eRabbit_Snowshoe_03GC06\u003c/string\u003e",
@@ -55090,12 +55090,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Snowshoe_03GC08",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Snowshoe_03GC08",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe_03GC08\"\u003eRabbit_Snowshoe_03GC08\u003c/string\u003e",
@@ -55103,12 +55103,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Snowshoe_08QP05",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Snowshoe_08QP05",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe_08QP05\"\u003eRabbit_Snowshoe_08QP05\u003c/string\u003e",
@@ -55116,12 +55116,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Snowshoe_11MD09",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Snowshoe_11MD09",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe_11MD09\"\u003eRabbit_Snowshoe_11MD09\u003c/string\u003e",
@@ -55129,12 +55129,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Snowshoe_20",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Snowshoe_20",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe_20\"\u003eRabbit_Snowshoe_20\u003c/string\u003e",
@@ -55142,12 +55142,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Snowshoe_22",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Snowshoe_22",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe_22\"\u003eRabbit_Snowshoe_22\u003c/string\u003e",
@@ -55155,12 +55155,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Snowshoe_3",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Snowshoe_3",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe_3\"\u003eRabbit_Snowshoe_3\u003c/string\u003e",
@@ -55168,12 +55168,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Snowshoe_45",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Snowshoe_45",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe_45\"\u003eRabbit_Snowshoe_45\u003c/string\u003e",
@@ -55181,12 +55181,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Snowshoe_8",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Snowshoe_8",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Snowshoe_8\"\u003eRabbit_Snowshoe_8\u003c/string\u003e",
@@ -55194,12 +55194,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted\"\u003eRabbit_Spotted\u003c/string\u003e",
@@ -55207,12 +55207,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_02BW01",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_02BW01",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_02BW01\"\u003eRabbit_Spotted_02BW01\u003c/string\u003e",
@@ -55220,12 +55220,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_02BW02",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_02BW02",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_02BW02\"\u003eRabbit_Spotted_02BW02\u003c/string\u003e",
@@ -55233,12 +55233,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_02BW03",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_02BW03",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_02BW03\"\u003eRabbit_Spotted_02BW03\u003c/string\u003e",
@@ -55246,12 +55246,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_02BW06",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_02BW06",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_02BW06\"\u003eRabbit_Spotted_02BW06\u003c/string\u003e",
@@ -55259,12 +55259,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_02BW08",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_02BW08",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_02BW08\"\u003eRabbit_Spotted_02BW08\u003c/string\u003e",
@@ -55272,12 +55272,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_05WC03",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_05WC03",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_05WC03\"\u003eRabbit_Spotted_05WC03\u003c/string\u003e",
@@ -55285,12 +55285,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_05WC04",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_05WC04",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_05WC04\"\u003eRabbit_Spotted_05WC04\u003c/string\u003e",
@@ -55298,12 +55298,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_05WC07",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_05WC07",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_05WC07\"\u003eRabbit_Spotted_05WC07\u003c/string\u003e",
@@ -55311,12 +55311,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_05WC09",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_05WC09",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_05WC09\"\u003eRabbit_Spotted_05WC09\u003c/string\u003e",
@@ -55324,12 +55324,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_07SM09",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_07SM09",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_07SM09\"\u003eRabbit_Spotted_07SM09\u003c/string\u003e",
@@ -55337,12 +55337,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_11MD01",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_11MD01",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_11MD01\"\u003eRabbit_Spotted_11MD01\u003c/string\u003e",
@@ -55350,12 +55350,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_11MD06",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_11MD06",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_11MD06\"\u003eRabbit_Spotted_11MD06\u003c/string\u003e",
@@ -55363,12 +55363,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_12MB02",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_12MB02",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_12MB02\"\u003eRabbit_Spotted_12MB02\u003c/string\u003e",
@@ -55376,12 +55376,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_12MB08",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_12MB08",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_12MB08\"\u003eRabbit_Spotted_12MB08\u003c/string\u003e",
@@ -55389,12 +55389,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_13WF03",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_13WF03",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_13WF03\"\u003eRabbit_Spotted_13WF03\u003c/string\u003e",
@@ -55402,12 +55402,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_13WF06",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_13WF06",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_13WF06\"\u003eRabbit_Spotted_13WF06\u003c/string\u003e",
@@ -55415,12 +55415,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_15",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_15",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_15\"\u003eRabbit_Spotted_15\u003c/string\u003e",
@@ -55428,12 +55428,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_15EC02",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_15EC02",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_15EC02\"\u003eRabbit_Spotted_15EC02\u003c/string\u003e",
@@ -55441,12 +55441,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_17",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_17",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_17\"\u003eRabbit_Spotted_17\u003c/string\u003e",
@@ -55454,12 +55454,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_18",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_18",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_18\"\u003eRabbit_Spotted_18\u003c/string\u003e",
@@ -55467,12 +55467,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_25",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_25",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_25\"\u003eRabbit_Spotted_25\u003c/string\u003e",
@@ -55480,12 +55480,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_26",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_26",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_26\"\u003eRabbit_Spotted_26\u003c/string\u003e",
@@ -55493,12 +55493,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_27",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_27",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_27\"\u003eRabbit_Spotted_27\u003c/string\u003e",
@@ -55506,12 +55506,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_28",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_28",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_28\"\u003eRabbit_Spotted_28\u003c/string\u003e",
@@ -55519,12 +55519,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_29",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_29",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_29\"\u003eRabbit_Spotted_29\u003c/string\u003e",
@@ -55532,12 +55532,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_30",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_30",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_30\"\u003eRabbit_Spotted_30\u003c/string\u003e",
@@ -55545,12 +55545,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_31",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_31",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_31\"\u003eRabbit_Spotted_31\u003c/string\u003e",
@@ -55558,12 +55558,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_32",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_32",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_32\"\u003eRabbit_Spotted_32\u003c/string\u003e",
@@ -55571,12 +55571,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_33",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_33",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_33\"\u003eRabbit_Spotted_33\u003c/string\u003e",
@@ -55584,12 +55584,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_34",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_34",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_34\"\u003eRabbit_Spotted_34\u003c/string\u003e",
@@ -55597,12 +55597,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_35",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_35",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_35\"\u003eRabbit_Spotted_35\u003c/string\u003e",
@@ -55610,12 +55610,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_38",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_38",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_38\"\u003eRabbit_Spotted_38\u003c/string\u003e",
@@ -55623,12 +55623,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_5",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_5",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_5\"\u003eRabbit_Spotted_5\u003c/string\u003e",
@@ -55636,12 +55636,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_58",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_58",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_58\"\u003eRabbit_Spotted_58\u003c/string\u003e",
@@ -55649,12 +55649,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_58_08QP01",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_58_08QP01",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_58_08QP01\"\u003eRabbit_Spotted_58_08QP01\u003c/string\u003e",
@@ -55662,12 +55662,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_59",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_59",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_59\"\u003eRabbit_Spotted_59\u003c/string\u003e",
@@ -55675,12 +55675,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_60",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_60",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_60\"\u003eRabbit_Spotted_60\u003c/string\u003e",
@@ -55688,12 +55688,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_61",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_61",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_61\"\u003eRabbit_Spotted_61\u003c/string\u003e",
@@ -55701,12 +55701,12 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Rabbit_Spotted_62",
-        "DisplayName": "@VC_Event_Corrupted_Rabbit",
+        "DisplayName": "@VC_Rabbit_Spotted_62",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Rabbit_Spotted_62\"\u003eRabbit_Spotted_62\u003c/string\u003e",
@@ -55714,7 +55714,7 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "objects/characters/npc/natural/hare_corrupted/hare_corrupted",
+        "MtlOverride": "",
         "FemaleMtlOverride": ""
     },
     {

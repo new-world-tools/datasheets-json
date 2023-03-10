@@ -44574,7 +44574,7 @@
         "StatusID": "Status_Perk_FireStaff_Burnout_FortifyStack",
         "DisplayName": "@Status_Fortify",
         "Description": "@Status_Fortify_Description",
-        "EffectCategories": "Buff+Fortify",
+        "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT2.png",
         "ShowInUITray": "1",
         "ShowTextInDamageNumbers": true,
