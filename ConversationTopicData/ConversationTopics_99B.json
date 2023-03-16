@@ -175,7 +175,7 @@
         "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_beauty",
         "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed",
         "AchievementUnlock": "",
-        "RequiredAchievement": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Beauty",
         "RequiredFaction": "",
         "RequiredLevel": ""
     },
@@ -184,7 +184,7 @@
         "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_beauty",
         "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed_wrong",
         "AchievementUnlock": "",
-        "RequiredAchievement": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Beauty",
         "RequiredFaction": "",
         "RequiredLevel": ""
     },
@@ -193,7 +193,7 @@
         "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_family",
         "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed",
         "AchievementUnlock": "",
-        "RequiredAchievement": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Family",
         "RequiredFaction": "",
         "RequiredLevel": ""
     },
@@ -202,7 +202,7 @@
         "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_family",
         "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed_wrong",
         "AchievementUnlock": "",
-        "RequiredAchievement": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Family",
         "RequiredFaction": "",
         "RequiredLevel": ""
     },
@@ -211,7 +211,7 @@
         "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_hunter",
         "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed",
         "AchievementUnlock": "",
-        "RequiredAchievement": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Hunter",
         "RequiredFaction": "",
         "RequiredLevel": ""
     },
@@ -220,7 +220,7 @@
         "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_hunter",
         "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed_wrong",
         "AchievementUnlock": "",
-        "RequiredAchievement": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Hunter",
         "RequiredFaction": "",
         "RequiredLevel": ""
     }

@@ -747,7 +747,7 @@
         "FactionTokenModifier": 200,
         "AzothSaltModifier": 8,
         "PvpXpModifier": 16,
-        "SeasonsXpModifier": 3,
+        "SeasonsXpModifier": 5,
         "Notes": "PvP",
         "Found in": "Flags on Player Kills in PvP"
     },
@@ -763,7 +763,7 @@
         "FactionTokenModifier": 400,
         "AzothSaltModifier": 16,
         "PvpXpModifier": 16,
-        "SeasonsXpModifier": 5,
+        "SeasonsXpModifier": 10,
         "Notes": "PvP",
         "Found in": "Flags on Player Kills in PvP"
     },
@@ -795,7 +795,7 @@
         "FactionTokenModifier": 1.25,
         "AzothSaltModifier": 0,
         "PvpXpModifier": 0,
-        "SeasonsXpModifier": 25,
+        "SeasonsXpModifier": 50,
         "Notes": "Invasion Bad Performance",
         "Found in": "Invasion Reward"
     },
@@ -811,7 +811,7 @@
         "FactionTokenModifier": 1.5,
         "AzothSaltModifier": 0,
         "PvpXpModifier": 0,
-        "SeasonsXpModifier": 25,
+        "SeasonsXpModifier": 50,
         "Notes": "Invasion OK Performance",
         "Found in": "Invasion Reward"
     },
@@ -827,7 +827,7 @@
         "FactionTokenModifier": 1.75,
         "AzothSaltModifier": 0,
         "PvpXpModifier": 0,
-        "SeasonsXpModifier": 25,
+        "SeasonsXpModifier": 50,
         "Notes": "Invasion Good Performance",
         "Found in": "Invasion Reward"
     },
@@ -843,7 +843,7 @@
         "FactionTokenModifier": 2,
         "AzothSaltModifier": 0,
         "PvpXpModifier": 0,
-        "SeasonsXpModifier": 25,
+        "SeasonsXpModifier": 50,
         "Notes": "Invasion Top Tier Performance",
         "Found in": "Invasion Reward"
     },
@@ -859,7 +859,7 @@
         "FactionTokenModifier": 1,
         "AzothSaltModifier": 500,
         "PvpXpModifier": 1000,
-        "SeasonsXpModifier": 25,
+        "SeasonsXpModifier": 50,
         "Notes": "War Bad Performance",
         "Found in": "War Reward"
     },
@@ -875,7 +875,7 @@
         "FactionTokenModifier": 1.125,
         "AzothSaltModifier": 1000,
         "PvpXpModifier": 1500,
-        "SeasonsXpModifier": 25,
+        "SeasonsXpModifier": 50,
         "Notes": "War OK Performance",
         "Found in": "War Reward"
     },
@@ -891,7 +891,7 @@
         "FactionTokenModifier": 1.4,
         "AzothSaltModifier": 1500,
         "PvpXpModifier": 2000,
-        "SeasonsXpModifier": 25,
+        "SeasonsXpModifier": 50,
         "Notes": "War Good Performance",
         "Found in": "War Reward"
     },
@@ -907,7 +907,7 @@
         "FactionTokenModifier": 1.6,
         "AzothSaltModifier": 2500,
         "PvpXpModifier": 2500,
-        "SeasonsXpModifier": 25,
+        "SeasonsXpModifier": 50,
         "Notes": "War Top Tier Performance",
         "Found in": "War Reward"
     },
@@ -1019,7 +1019,7 @@
         "FactionTokenModifier": null,
         "AzothSaltModifier": null,
         "PvpXpModifier": null,
-        "SeasonsXpModifier": 5,
+        "SeasonsXpModifier": 0,
         "Notes": "",
         "Found in": ""
     },

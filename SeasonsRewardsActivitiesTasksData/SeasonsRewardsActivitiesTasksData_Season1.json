@@ -226,14 +226,14 @@
     {
         "ActivitiesTaskId": "ActivitiesS1Task35",
         "Task": "Complete1Expedition_TheEmpyreanForge",
-        "Type": "Expedition",
+        "Type": "Season",
         "Description": "@SeasonsActivities_Complete1Expedition_TheEmpyreanForge",
         "Active": ""
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task36",
         "Task": "Kill1NamedVarangianKnight",
-        "Type": "Expedition",
+        "Type": "Season",
         "Description": "@SeasonsActivities_Kill1NamedVarangianKnight",
         "Active": ""
     },
@@ -254,21 +254,21 @@
     {
         "ActivitiesTaskId": "ActivitiesS1Task40",
         "Task": "DefeatZygormat",
-        "Type": "Season",
+        "Type": "Expedition",
         "Description": "@SeasonsActivities_DefeatZygormat",
         "Active": ""
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task41",
         "Task": "DefeatTheSirenQueen",
-        "Type": "Season",
+        "Type": "Expedition",
         "Description": "@SeasonsActivities_DefeatSirenQueen",
         "Active": ""
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task42",
         "Task": "DefeatAvarice",
-        "Type": "Season",
+        "Type": "Expedition",
         "Description": "@SeasonsActivities_DefeateAvarice",
         "Active": ""
     },
@@ -347,6 +347,13 @@
         "Task": "EarnFlawlessVictoryInPvPArena",
         "Type": "Pvp",
         "Description": "@SeasonsActivities_FlawlessVictoryInPvpArena",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task61",
+        "Task": "UseFlameCoreForgex1",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_UseFlameCoreForgex1",
         "Active": ""
     }
 ]

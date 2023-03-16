@@ -62454,7 +62454,7 @@
         "CheckStatusEffectsOnTargetOwned": null,
         "TargetStatusEffect": "FireStaff_Pyro_DOT",
         "TargetStatusEffectCategory": "",
-        "TargetStatusEffectStackSize": 3,
+        "TargetStatusEffectStackSize": 2,
         "TargetStatusEffectComparison": "GreaterThanOrEqual",
         "TargetCollisionFilters": "",
         "MyMarker": "",

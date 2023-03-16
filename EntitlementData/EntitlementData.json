@@ -12565,7 +12565,7 @@
         "RewardType": "Emote",
         "Reward(s)": "Emote_GleamiteSkip",
         "EntitlementInfo": "",
-        "SourceType": "Store",
+        "SourceType": "Twitch",
         "AchievementId": "",
         "Notes": ""
     },
@@ -13960,7 +13960,7 @@
         "RewardType": "ItemSkin",
         "Reward(s)": "Skin_GreatAxe_DecPrime2022",
         "EntitlementInfo": "",
-        "SourceType": "Store",
+        "SourceType": "Twitch",
         "AchievementId": "",
         "Notes": ""
     },
@@ -15810,21 +15810,6 @@
         "Notes": ""
     },
     {
-        "UniqueTagID": "EntitlementSkin_SpringBeekeeper",
-        "EntitlementIndex": 1203,
-        "IsEnabled": true,
-        "DisplayName": "",
-        "Description": "",
-        "IsConsumable": null,
-        "Icon": "",
-        "RewardType": "ItemSkin",
-        "Reward(s)": "Skin_Chest_Beekeeper_Spring+Skin_Head_Beekeeper_Spring+Skin_Legs_Beekeeper_Spring+Skin_Feet_Beekeeper_Spring+Skin_Hands_Beekeeper_Spring",
-        "EntitlementInfo": "",
-        "SourceType": "Store",
-        "AchievementId": "",
-        "Notes": ""
-    },
-    {
         "UniqueTagID": "Ent_Housing_OmensWinter2023_driftwoodbench01",
         "EntitlementIndex": 1204,
         "IsEnabled": true,
@@ -15969,21 +15954,6 @@
         "Icon": "",
         "RewardType": "SeasonsRewards",
         "Reward(s)": "SeasonLevel",
-        "EntitlementInfo": "",
-        "SourceType": "Store",
-        "AchievementId": "",
-        "Notes": ""
-    },
-    {
-        "UniqueTagID": "EntitlementSkin_VictorianSpring",
-        "EntitlementIndex": 1214,
-        "IsEnabled": true,
-        "DisplayName": "",
-        "Description": "",
-        "IsConsumable": null,
-        "Icon": "",
-        "RewardType": "ItemSkin",
-        "Reward(s)": "Skin_Chest_Victorian_Spring+Skin_Head_Victorian_Spring+Skin_Legs_Victorian_Spring+Skin_Feet_Victorian_Spring+Skin_Hands_Victorian_Spring",
         "EntitlementInfo": "",
         "SourceType": "Store",
         "AchievementId": "",
