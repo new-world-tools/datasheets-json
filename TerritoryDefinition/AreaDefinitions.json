@@ -3190,26 +3190,5 @@
         "PoiDiscoveryXpModifier": 0,
         "AIVariantLevelOverride": 63,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS12"
-    },
-    {
-        "TerritoryID": 9191,
-        "NameLocalizationKey": "@ui_area_shatteredmountain_10",
-        "IsPOI": true,
-        "IsDiscoverable": "",
-        "IsChartable": true,
-        "DefaultAchievement": "",
-        "LootTags": "",
-        "DiscoveredAchievement": "",
-        "ChartedAchievement": "shatteredmountain10_9191_charted",
-        "POITag": "shatteredmountain10",
-        "AudioGroup": "Music_Territory",
-        "AudioState": "Shattered Mountain",
-        "AudioBank": "",
-        "POILevel": 2,
-        "CanPlaceCamp": true,
-        "IsArea": true,
-        "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 62,
-        "AIVariantVitalsCategoryPostfixOverride": "_07SM10"
     }
 ]

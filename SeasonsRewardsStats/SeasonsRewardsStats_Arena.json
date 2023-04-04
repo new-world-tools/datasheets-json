@@ -1,0 +1,20 @@
+[
+    {
+        "TrackedStatID": "PlayArena3x3",
+        "StatType": "CompleteArena",
+        "MustWin": null,
+        "GameModeResult": "Victory,Defeat,Tie"
+    },
+    {
+        "TrackedStatID": "WinArena3x3",
+        "StatType": "CompleteArena",
+        "MustWin": true,
+        "GameModeResult": "Victory"
+    },
+    {
+        "TrackedStatID": "FlawlessVictoryArena3x3",
+        "StatType": "CompleteArena",
+        "MustWin": true,
+        "GameModeResult": "FlawlessVictory"
+    }
+]

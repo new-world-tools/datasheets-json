@@ -2,7 +2,7 @@
     {
         "TerritoryID": 88001,
         "NameLocalizationKey": "@ui_poi_banner_13WF08_Church",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -10,7 +10,7 @@
     {
         "TerritoryID": 88002,
         "NameLocalizationKey": "@ui_poi_banner_05WC11b_Queen",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -18,7 +18,7 @@
     {
         "TerritoryID": 88003,
         "NameLocalizationKey": "@ui_poi_banner_02BW09",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -26,7 +26,7 @@
     {
         "TerritoryID": 88004,
         "NameLocalizationKey": "@ui_poi_banner_02BW03b_Havelock",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -34,7 +34,7 @@
     {
         "TerritoryID": 88005,
         "NameLocalizationKey": "@ui_poi_banner_15EC05_Grove",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -42,7 +42,7 @@
     {
         "TerritoryID": 88006,
         "NameLocalizationKey": "@ui_poi_banner_11MD12_Cloister",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -50,7 +50,7 @@
     {
         "TerritoryID": 88007,
         "NameLocalizationKey": "@ui_poi_banner_07SM06_Pilgrim",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -58,7 +58,7 @@
     {
         "TerritoryID": 88008,
         "NameLocalizationKey": "@ui_poi_banner_07SM06_Amphitheatre",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -66,7 +66,7 @@
     {
         "TerritoryID": 88009,
         "NameLocalizationKey": "@ui_poi_banner_07SM06_Spillway",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -74,7 +74,7 @@
     {
         "TerritoryID": 88010,
         "NameLocalizationKey": "@ui_poi_banner_07SM06_Basilica",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -82,7 +82,7 @@
     {
         "TerritoryID": 88011,
         "NameLocalizationKey": "@ui_poi_banner_07SM06_Quarry",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -90,7 +90,7 @@
     {
         "TerritoryID": 88012,
         "NameLocalizationKey": "@ui_poi_banner_10WS09_Court",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -98,7 +98,7 @@
     {
         "TerritoryID": 88013,
         "NameLocalizationKey": "@ui_poi_banner_12MB01_Hold",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -106,7 +106,7 @@
     {
         "TerritoryID": 88014,
         "NameLocalizationKey": "@ui_poi_banner_12MB03_Keep",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -114,7 +114,7 @@
     {
         "TerritoryID": 88015,
         "NameLocalizationKey": "@ui_poi_banner_12MB04_Tyrnon",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -122,7 +122,7 @@
     {
         "TerritoryID": 88016,
         "NameLocalizationKey": "@ui_poi_banner_12MB05_Castle",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -130,7 +130,7 @@
     {
         "TerritoryID": 88017,
         "NameLocalizationKey": "@ui_poi_banner_12MB06_Boat",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -138,7 +138,7 @@
     {
         "TerritoryID": 88018,
         "NameLocalizationKey": "@ui_poi_banner_12MB01_Cove",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -146,7 +146,7 @@
     {
         "TerritoryID": 88019,
         "NameLocalizationKey": "@ui_poi_banner_16BS10_Pylon",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "pyramid",
         "AudioBank": "",
         "IsPOI": true
@@ -154,7 +154,7 @@
     {
         "TerritoryID": 88020,
         "NameLocalizationKey": "@ui_poi_banner_16BS10_Khepri",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -162,7 +162,7 @@
     {
         "TerritoryID": 88021,
         "NameLocalizationKey": "@ui_poi_banner_16BS09_Scorpius",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -170,7 +170,7 @@
     {
         "TerritoryID": 88022,
         "NameLocalizationKey": "@ui_poi_banner_16BS01_Theatre",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -178,7 +178,7 @@
     {
         "TerritoryID": 88023,
         "NameLocalizationKey": "@ui_poi_banner_16BS02_Jupiter",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -186,7 +186,7 @@
     {
         "TerritoryID": 88024,
         "NameLocalizationKey": "@ui_poi_banner_16BS05_Hermopolis",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -194,7 +194,7 @@
     {
         "TerritoryID": 88025,
         "NameLocalizationKey": "@ui_poi_banner_16BS11_Scale",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -202,7 +202,7 @@
     {
         "TerritoryID": 88026,
         "NameLocalizationKey": "@ui_poi_banner_16BS01_Library",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -210,7 +210,7 @@
     {
         "TerritoryID": 88027,
         "NameLocalizationKey": "@ui_poi_banner_16BS07_Necropolis01",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -218,7 +218,7 @@
     {
         "TerritoryID": 88028,
         "NameLocalizationKey": "@ui_poi_banner_16BS07_Necropolis02",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -226,7 +226,7 @@
     {
         "TerritoryID": 88029,
         "NameLocalizationKey": "@ui_poi_banner_16BS07_Necropolis03",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -234,7 +234,7 @@
     {
         "TerritoryID": 88030,
         "NameLocalizationKey": "@ui_poi_banner_16BS07_Necropolis04",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -242,7 +242,7 @@
     {
         "TerritoryID": 88031,
         "NameLocalizationKey": "@ui_poi_banner_16BS07_Necropolis05",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -250,7 +250,7 @@
     {
         "TerritoryID": 88032,
         "NameLocalizationKey": "@ui_poi_banner_16BS07_Necropolis06",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -258,7 +258,7 @@
     {
         "TerritoryID": 88033,
         "NameLocalizationKey": "@ui_poi_banner_16BS07_Necropolis07",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -266,7 +266,7 @@
     {
         "TerritoryID": 88034,
         "NameLocalizationKey": "@ui_poi_banner_16BS07_Necropolis08",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -274,7 +274,7 @@
     {
         "TerritoryID": 88035,
         "NameLocalizationKey": "@ui_poi_banner_16BS07_Necropolis09",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -282,7 +282,7 @@
     {
         "TerritoryID": 88036,
         "NameLocalizationKey": "@ui_poi_banner_16BS07_Necropolis10",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -290,7 +290,7 @@
     {
         "TerritoryID": 88037,
         "NameLocalizationKey": "@ui_poi_banner_ginghamsfarm",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -298,7 +298,7 @@
     {
         "TerritoryID": 88038,
         "NameLocalizationKey": "@ui_poi_banner_grampasrefuge",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true
@@ -306,7 +306,7 @@
     {
         "TerritoryID": 88039,
         "NameLocalizationKey": "@ui_poi_banner_grampasforge",
-        "AudioGroup": "Music_POI",
+        "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": "",
         "IsPOI": true

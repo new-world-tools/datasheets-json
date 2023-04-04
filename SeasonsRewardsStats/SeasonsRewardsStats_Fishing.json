@@ -1,0 +1,29 @@
+[
+    {
+        "TrackedStatID": "CatchPoundageOfFish",
+        "StatType": "Fishing",
+        "TargetID": "",
+        "Level": null,
+        "MinWeight": "",
+        "PerUse": null,
+        "Precision": 2
+    },
+    {
+        "TrackedStatID": "CatchRareFish",
+        "StatType": "Fishing",
+        "TargetID": "",
+        "Level": 2,
+        "MinWeight": "",
+        "PerUse": true,
+        "Precision": null
+    },
+    {
+        "TrackedStatID": "CatchTreasureChest",
+        "StatType": "Fishing",
+        "TargetID": "FishingTreasureChestT3",
+        "Level": null,
+        "MinWeight": "",
+        "PerUse": true,
+        "Precision": null
+    }
+]

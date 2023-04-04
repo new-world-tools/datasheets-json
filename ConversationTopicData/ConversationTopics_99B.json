@@ -1,0 +1,227 @@
+[
+    {
+        "ConversationTopicId": "Topic_99B_Yonas_p1_01",
+        "PlayerPrompt": "@99B_MSQ_01_searchwalsham_yonas_talkto_prompt",
+        "NPCResponse": "@99B_MSQ_01_searchwalsham_yonas_talkto",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Galahad_p1_01",
+        "PlayerPrompt": "@99B_MSQ_02_meetgalahad_galahad_talktoA_prompt",
+        "NPCResponse": "@99B_MSQ_02_meetgalahad_galahad_talktoA",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Galahad_p1_02",
+        "PlayerPrompt": "@99B_MSQ_02_meetgalahad_galahad_talktoB_prompt",
+        "NPCResponse": "@99B_MSQ_02_meetgalahad_galahad_talktoB",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Yonas_p3_01",
+        "PlayerPrompt": "@99B_MSQ_02_meetgalahad_yonas_talktoA_prompt",
+        "NPCResponse": "@99B_MSQ_02_meetgalahad_yonas_talktoA",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Galahad_p3_01",
+        "PlayerPrompt": "@99B_MSQ_03_lostvillages_galahad_talkto_prompt",
+        "NPCResponse": "@99B_MSQ_03_lostvillages_galahad_talkto",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Yonas_p5_01",
+        "PlayerPrompt": "@99B_MSQ_05_findingfort_yonas_talkto_prompt",
+        "NPCResponse": "@99B_MSQ_05_findingfort_yonas_talkto",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Grace_p1_01",
+        "PlayerPrompt": "@99B_MSQ_05_findingfort_grace_talktoA_prompt",
+        "NPCResponse": "@99B_MSQ_05_findingfort_grace_talktoA",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Grace_p1_02",
+        "PlayerPrompt": "@99B_MSQ_05_findingfort_grace_talktoB_prompt",
+        "NPCResponse": "@99B_MSQ_05_findingfort_grace_talktoB",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Pennyfather_01",
+        "PlayerPrompt": "@99B_MSQ_06_lostcathedral_pennyfather_talktoA_prompt",
+        "NPCResponse": "@99B_MSQ_06_lostcathedral_pennyfather_talktoA",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Pennyfather_03",
+        "PlayerPrompt": "@99B_MSQ_06_lostcathedral_pennyfather_talktoB_prompt",
+        "NPCResponse": "@99B_MSQ_06_lostcathedral_pennyfather_talktoB",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Sun_p1_01",
+        "PlayerPrompt": "@99B_MSQ_07_cursedcemetery_sun_talkto_prompt",
+        "NPCResponse": "@99B_MSQ_07_cursedcemetery_sun_talkto",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Galahad_p5_01",
+        "PlayerPrompt": "@99B_MSQ_07_cursedcemetery_galahad_talkto_prompt",
+        "NPCResponse": "@99B_MSQ_07_cursedcemetery_galahad_talkto",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Sun_p2_02",
+        "PlayerPrompt": "@99B_MSQ_08_azothtree_sun_talkto_prompt",
+        "NPCResponse": "@99B_MSQ_08_azothtree_sun_talkto",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Sun_p3_01",
+        "PlayerPrompt": "@99B_MSQ_10_cleansefort_sun_talktoA_prompt",
+        "NPCResponse": "@99B_MSQ_10_cleansefort_sun_talktoA",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Yonas_p7_01",
+        "PlayerPrompt": "@99B_MSQ_10_cleansefort_yonas_talkto_prompt",
+        "NPCResponse": "@99B_MSQ_10_cleansefort_yonas_talkto",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Sun_p4_01",
+        "PlayerPrompt": "@99B_MSQ_10_cleansefort_sun_talktoB_prompt",
+        "NPCResponse": "@99B_MSQ_10_cleansefort_sun_talktoB",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Galahad_p7_02",
+        "PlayerPrompt": "@99B_MSQ_11_weaversvector_galahad_talkto_prompt",
+        "NPCResponse": "@99B_MSQ_11_weaversvector_galahad_talkto",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Pennyfather_05",
+        "PlayerPrompt": "@99B_MSQ_11_weaversvector_pennyfather_talktoA_prompt",
+        "NPCResponse": "@99B_MSQ_11_weaversvector_pennyfather_talktoA",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Pennyfather_06",
+        "PlayerPrompt": "@99B_MSQ_11_weaversvector_pennyfather_talktoB_prompt",
+        "NPCResponse": "@99B_MSQ_11_weaversvector_pennyfather_talktoB",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_beauty_correct",
+        "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_beauty",
+        "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Beauty",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_beauty_incorrect",
+        "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_beauty",
+        "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed_wrong",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Beauty",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_family_correct",
+        "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_family",
+        "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Family",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_family_incorrect",
+        "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_family",
+        "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed_wrong",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Family",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_hunter_correct",
+        "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_hunter",
+        "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Hunter",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_hunter_incorrect",
+        "PlayerPrompt": "@99B_MSQ_06_lostcathedral_gravetopic_hunter",
+        "NPCResponse": "@99B_MSQ_06_lostcathedral_gravetopic_placed_wrong",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Hunter",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

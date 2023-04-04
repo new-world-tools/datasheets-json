@@ -6,7 +6,7 @@
         "Territory Standing Required Level": 1,
         "Max Number Total Housing Items (Without Perks)": 100,
         "Localization Tag": "@house_type_tier_1",
-        "Housing Tag Limits": "LimiterLighting:30, LimiterAnimatedRigged:5, LimiterAnimatedTimelineLooping:10, LimiterAnimatedTimelineInteract:30, LimiterHouseGuestNPC:1, LimiterStorage:1, LimiterTrophyBuff:5, CombatAncientBonus:1, CombatAngryEarthBonus:1, CombatBeastBonus:1, CombatCorruptedBonus:1, CombatLostBonus:1, CraftingAlchemyBonus:1, CraftingBlacksmithingBonus:1, CraftingCookingBonus:1, CraftingEngineeringBonus:1, CraftingOutfittingBonus:1, GatheringFishingBonus:1, GatheringHarvestingBonus:1, GatheringLoggingBonus:1, GatheringMiningBonus:1, GatheringSkinningBonus:1, OtherLootLuckBonus:1, OtherFoodTimeBonus:1"
+        "Housing Tag Limits": "LimiterLighting:30, LimiterAnimatedRigged:5, LimiterAnimatedTimelineLooping:10, LimiterAnimatedTimelineInteract:30, LimiterHouseGuestNPC:1, LimiterStorage:1, LimiterTrophyBuff:5, CombatAncientBonus:1, CombatAngryEarthBonus:1, CombatBeastBonus:1, CombatCorruptedBonus:1, CombatLostBonus:1, CombatVarangianBonus:1, CraftingAlchemyBonus:1, CraftingBlacksmithingBonus:1, CraftingCookingBonus:1, CraftingEngineeringBonus:1, CraftingOutfittingBonus:1, GatheringFishingBonus:1, GatheringHarvestingBonus:1, GatheringLoggingBonus:1, GatheringMiningBonus:1, GatheringSkinningBonus:1, OtherLootLuckBonus:1, OtherFoodTimeBonus:1, SeasonXPBonus:1\u0026#13;\u0026#10;"
     },
     {
         "HouseTypeID": "HouseTypeTier2",
@@ -15,7 +15,7 @@
         "Territory Standing Required Level": 1,
         "Max Number Total Housing Items (Without Perks)": 125,
         "Localization Tag": "@house_type_tier_2",
-        "Housing Tag Limits": "LimiterLighting:38, LimiterAnimatedRigged:6, LimiterAnimatedTimelineLooping:12, LimiterAnimatedTimelineInteract:38, LimiterHouseGuestNPC:1, LimiterStorage:2, LimiterTrophyBuff:5, CombatAncientBonus:1, CombatAngryEarthBonus:1, CombatBeastBonus:1, CombatCorruptedBonus:1, CombatLostBonus:1, CraftingAlchemyBonus:1, CraftingBlacksmithingBonus:1, CraftingCookingBonus:1, CraftingEngineeringBonus:1, CraftingOutfittingBonus:1, GatheringFishingBonus:1, GatheringHarvestingBonus:1, GatheringLoggingBonus:1, GatheringMiningBonus:1, GatheringSkinningBonus:1, OtherLootLuckBonus:1, OtherFoodTimeBonus:1"
+        "Housing Tag Limits": "LimiterLighting:38, LimiterAnimatedRigged:6, LimiterAnimatedTimelineLooping:12, LimiterAnimatedTimelineInteract:38, LimiterHouseGuestNPC:1, LimiterStorage:2, LimiterTrophyBuff:5, CombatAncientBonus:1, CombatAngryEarthBonus:1, CombatBeastBonus:1, CombatCorruptedBonus:1, CombatLostBonus:1, CombatVarangianBonus:1, CraftingAlchemyBonus:1, CraftingBlacksmithingBonus:1, CraftingCookingBonus:1, CraftingEngineeringBonus:1, CraftingOutfittingBonus:1, GatheringFishingBonus:1, GatheringHarvestingBonus:1, GatheringLoggingBonus:1, GatheringMiningBonus:1, GatheringSkinningBonus:1, OtherLootLuckBonus:1, OtherFoodTimeBonus:1, SeasonXPBonus:1\u0026#13;\u0026#10;"
     },
     {
         "HouseTypeID": "HouseTypeTier3",
@@ -24,7 +24,7 @@
         "Territory Standing Required Level": 20,
         "Max Number Total Housing Items (Without Perks)": 150,
         "Localization Tag": "@house_type_tier_3",
-        "Housing Tag Limits": "LimiterLighting:45, LimiterAnimatedRigged:8, LimiterAnimatedTimelineLooping:15, LimiterAnimatedTimelineInteract:45, LimiterHouseGuestNPC:1, LimiterStorage:3, LimiterTrophyBuff:5, CombatAncientBonus:1, CombatAngryEarthBonus:1, CombatBeastBonus:1, CombatCorruptedBonus:1, CombatLostBonus:1, CraftingAlchemyBonus:1, CraftingBlacksmithingBonus:1, CraftingCookingBonus:1, CraftingEngineeringBonus:1, CraftingOutfittingBonus:1, GatheringFishingBonus:1, GatheringHarvestingBonus:1, GatheringLoggingBonus:1, GatheringMiningBonus:1, GatheringSkinningBonus:1, OtherLootLuckBonus:1, OtherFoodTimeBonus:1"
+        "Housing Tag Limits": "LimiterLighting:45, LimiterAnimatedRigged:8, LimiterAnimatedTimelineLooping:15, LimiterAnimatedTimelineInteract:45, LimiterHouseGuestNPC:1, LimiterStorage:3, LimiterTrophyBuff:5, CombatAncientBonus:1, CombatAngryEarthBonus:1, CombatBeastBonus:1, CombatCorruptedBonus:1, CombatLostBonus:1, CombatVarangianBonus:1, CraftingAlchemyBonus:1, CraftingBlacksmithingBonus:1, CraftingCookingBonus:1, CraftingEngineeringBonus:1, CraftingOutfittingBonus:1, GatheringFishingBonus:1, GatheringHarvestingBonus:1, GatheringLoggingBonus:1, GatheringMiningBonus:1, GatheringSkinningBonus:1, OtherLootLuckBonus:1, OtherFoodTimeBonus:1, SeasonXPBonus:1\u0026#13;\u0026#10;"
     },
     {
         "HouseTypeID": "HouseTypeTier4",
@@ -33,7 +33,7 @@
         "Territory Standing Required Level": 30,
         "Max Number Total Housing Items (Without Perks)": 200,
         "Localization Tag": "@house_type_tier_4",
-        "Housing Tag Limits": "LimiterLighting:60, LimiterAnimatedRigged:10, LimiterAnimatedTimelineLooping:20, LimiterAnimatedTimelineInteract:60, LimiterHouseGuestNPC:1, LimiterStorage:4, LimiterTrophyBuff:5, CombatAncientBonus:1, CombatAngryEarthBonus:1, CombatBeastBonus:1, CombatCorruptedBonus:1, CombatLostBonus:1, CraftingAlchemyBonus:1, CraftingBlacksmithingBonus:1, CraftingCookingBonus:1, CraftingEngineeringBonus:1, CraftingOutfittingBonus:1, GatheringFishingBonus:1, GatheringHarvestingBonus:1, GatheringLoggingBonus:1, GatheringMiningBonus:1, GatheringSkinningBonus:1, OtherLootLuckBonus:1, OtherFoodTimeBonus:1"
+        "Housing Tag Limits": "LimiterLighting:60, LimiterAnimatedRigged:10, LimiterAnimatedTimelineLooping:20, LimiterAnimatedTimelineInteract:60, LimiterHouseGuestNPC:1, LimiterStorage:4, LimiterTrophyBuff:5, CombatAncientBonus:1, CombatAngryEarthBonus:1, CombatBeastBonus:1, CombatCorruptedBonus:1, CombatLostBonus:1, CombatVarangianBonus:1, CraftingAlchemyBonus:1, CraftingBlacksmithingBonus:1, CraftingCookingBonus:1, CraftingEngineeringBonus:1, CraftingOutfittingBonus:1, GatheringFishingBonus:1, GatheringHarvestingBonus:1, GatheringLoggingBonus:1, GatheringMiningBonus:1, GatheringSkinningBonus:1, OtherLootLuckBonus:1, OtherFoodTimeBonus:1, SeasonXPBonus:1\u0026#13;\u0026#10;"
     },
     {
         "HouseTypeID": "HouseTypeTier5_SPECIAL",
@@ -42,6 +42,6 @@
         "Territory Standing Required Level": 50,
         "Max Number Total Housing Items (Without Perks)": 250,
         "Localization Tag": "@house_type_tier_5",
-        "Housing Tag Limits": "LimiterLighting:90, LimiterAnimatedRigged:12, LimiterAnimatedTimelineLooping:25, LimiterAnimatedTimelineInteract:90, LimiterHouseGuestNPC:0, LimiterStorage:0, LimiterTrophyBuff:0, CombatAncientBonus:0, CombatAngryEarthBonus:0, CombatBeastBonus:0, CombatCorruptedBonus:0, CombatLostBonus:0, CraftingAlchemyBonus:0, CraftingBlacksmithingBonus:0, CraftingCookingBonus:0, CraftingEngineeringBonus:0, CraftingOutfittingBonus:0, GatheringFishingBonus:0, GatheringHarvestingBonus:0, GatheringLoggingBonus:0, GatheringMiningBonus:0, GatheringSkinningBonus:0, OtherLootLuckBonus:0, OtherFoodTimeBonus:0"
+        "Housing Tag Limits": "LimiterLighting:90, LimiterAnimatedRigged:12, LimiterAnimatedTimelineLooping:25, LimiterAnimatedTimelineInteract:90, LimiterHouseGuestNPC:0, LimiterStorage:0, LimiterTrophyBuff:0, CombatAncientBonus:0, CombatAngryEarthBonus:0, CombatBeastBonus:0, CombatCorruptedBonus:0, CombatLostBonus:0, CombatVarangianBonus:0, CraftingAlchemyBonus:0, CraftingBlacksmithingBonus:0, CraftingCookingBonus:0, CraftingEngineeringBonus:0, CraftingOutfittingBonus:0, GatheringFishingBonus:0, GatheringHarvestingBonus:0, GatheringLoggingBonus:0, GatheringMiningBonus:0, GatheringSkinningBonus:0, OtherLootLuckBonus:0, OtherFoodTimeBonus:0, SeasonXPBonus:0\u0026#10;"
     }
 ]

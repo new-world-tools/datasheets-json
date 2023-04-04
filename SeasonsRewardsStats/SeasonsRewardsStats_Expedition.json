@@ -1,0 +1,123 @@
+[
+    {
+        "TrackedStatID": "CompleteLevel60Expedition",
+        "StatType": "CompleteExpedition",
+        "GameMode": "",
+        "Level": 60,
+        "MutationLevel": null,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteMutatedExpedition",
+        "StatType": "CompleteExpedition",
+        "GameMode": "",
+        "Level": null,
+        "MutationLevel": 1,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteM10Expedition",
+        "StatType": "CompleteExpedition",
+        "GameMode": "",
+        "Level": null,
+        "MutationLevel": 10,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteM10Expedition75000Score_TheEmpyreanForge",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonGreatCleave01",
+        "Level": null,
+        "MutationLevel": 10,
+        "RequireGroup": "",
+        "Score": 75000,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteExpedition_TheEmpyreanForge",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonGreatCleave01",
+        "Level": null,
+        "MutationLevel": null,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteM1Expedition_TheEmpyreanForge",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonGreatCleave01",
+        "Level": null,
+        "MutationLevel": 1,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteM5Expedition_TheEmpyreanForge",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonGreatCleave01",
+        "Level": null,
+        "MutationLevel": 5,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteM10Expedition_TheEmpyreanForge",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonGreatCleave01",
+        "Level": null,
+        "MutationLevel": 10,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteExpedition",
+        "StatType": "CompleteExpedition",
+        "GameMode": "",
+        "Level": null,
+        "MutationLevel": null,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteM10ExpeditionWithGoldRank",
+        "StatType": "CompleteExpedition",
+        "GameMode": "",
+        "Level": null,
+        "MutationLevel": 10,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "GOLD",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteMutatedExpeditionFlawlessly",
+        "StatType": "CompleteExpedition",
+        "GameMode": "",
+        "Level": null,
+        "MutationLevel": 1,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": true
+    }
+]

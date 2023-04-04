@@ -18,7 +18,9 @@
         "ShowAsObjectiveReward": true,
         "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation1.dds",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Marauder",
@@ -39,7 +41,9 @@
         "ShowAsObjectiveReward": true,
         "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation2.dds",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Covenant",
@@ -60,7 +64,9 @@
         "ShowAsObjectiveReward": true,
         "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation3.dds",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Repair_T1",
@@ -81,7 +87,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "lyshineui/images/icons/items/resource/repairpartst1.dds",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "2",
@@ -102,7 +110,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "4",
@@ -123,7 +133,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "5",
@@ -144,7 +156,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "6",
@@ -165,7 +179,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "8",
@@ -186,7 +202,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "9",
@@ -207,7 +225,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "10",
@@ -228,7 +248,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "11",
@@ -249,7 +271,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "12",
@@ -270,7 +294,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "13",
@@ -291,7 +317,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "15",
@@ -312,7 +340,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "16",
@@ -333,7 +363,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory2_HouseBonusType0",
@@ -354,7 +386,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory4_HouseBonusType0",
@@ -375,7 +409,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory5_HouseBonusType0",
@@ -396,7 +432,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory6_HouseBonusType0",
@@ -417,7 +455,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory8_HouseBonusType0",
@@ -438,7 +478,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory9_HouseBonusType0",
@@ -459,7 +501,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory10_HouseBonusType0",
@@ -480,7 +524,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory11_HouseBonusType0",
@@ -501,7 +547,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory12_HouseBonusType0",
@@ -522,7 +570,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory13_HouseBonusType0",
@@ -543,7 +593,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory15_HouseBonusType0",
@@ -564,7 +616,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Territory16_HouseBonusType0",
@@ -585,7 +639,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Battle_Token",
@@ -606,7 +662,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HatchetAbilityTable",
@@ -627,7 +685,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "SwordAbilityTable",
@@ -648,7 +708,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "WarHammerAbilityTable",
@@ -669,7 +731,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "BowAbilityTable",
@@ -690,7 +754,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "MusketAbilityTable",
@@ -711,7 +777,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "BlunderbussAbilityTable",
@@ -732,7 +800,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "LifeMagicAbilityTable",
@@ -753,7 +823,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "FireMagicAbilityTable",
@@ -774,7 +846,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "GreatAxeAbilityTable",
@@ -795,7 +869,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "SpearAbilityTable",
@@ -816,7 +892,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "RapierAbilityTable",
@@ -837,7 +915,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "IceMagicAbilityTable",
@@ -858,7 +938,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "VoidGauntletAbilityTable",
@@ -879,7 +961,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "GreatSwordAbilityTable",
@@ -900,7 +984,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Weaponsmithing",
@@ -921,7 +1007,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Armoring",
@@ -942,7 +1030,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Jewelcrafting",
@@ -963,7 +1053,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Arcana",
@@ -984,7 +1076,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Cooking",
@@ -1005,7 +1099,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Furnishing",
@@ -1026,7 +1122,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Engineering",
@@ -1047,7 +1145,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Smelting",
@@ -1068,7 +1168,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Woodworking",
@@ -1089,7 +1191,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Leatherworking",
@@ -1110,7 +1214,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Weaving",
@@ -1131,7 +1237,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Stonecutting",
@@ -1152,7 +1260,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Skinning",
@@ -1173,7 +1283,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Mining",
@@ -1194,7 +1306,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Logging",
@@ -1215,7 +1329,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Harvesting",
@@ -1236,7 +1352,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "AzothStaff",
@@ -1257,7 +1375,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Musician",
@@ -1278,7 +1398,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Weaponsmithing_PostCap",
@@ -1299,7 +1421,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Armoring_PostCap",
@@ -1320,7 +1444,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Jewelcrafting_PostCap",
@@ -1341,7 +1467,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Arcana_PostCap",
@@ -1362,7 +1490,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Cooking_PostCap",
@@ -1383,7 +1513,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Fishing_PostCap",
@@ -1404,7 +1536,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Furnishing_PostCap",
@@ -1425,7 +1559,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Engineering_PostCap",
@@ -1446,7 +1582,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Smelting_PostCap",
@@ -1467,7 +1605,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Woodworking_PostCap",
@@ -1488,7 +1628,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Leatherworking_PostCap",
@@ -1509,7 +1651,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Weaving_PostCap",
@@ -1530,7 +1674,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Stonecutting_PostCap",
@@ -1551,7 +1697,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Skinning_PostCap",
@@ -1572,7 +1720,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Mining_PostCap",
@@ -1593,7 +1743,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Logging_PostCap",
@@ -1614,7 +1766,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Harvesting_PostCap",
@@ -1635,7 +1789,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Instruments_PostCap",
@@ -1656,7 +1812,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Azoth_Currency",
@@ -1677,7 +1835,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "lyshineui/images/icons/misc/icon_azothCurrency.dds",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "AzothSalt_Currency",
@@ -1698,7 +1858,9 @@
         "ShowAsObjectiveReward": true,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "PvP_XP",
@@ -1719,7 +1881,9 @@
         "ShowAsObjectiveReward": true,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Fishing",
@@ -1740,7 +1904,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": true,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "CollectibleTest",
@@ -1761,7 +1927,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootHead",
@@ -1782,7 +1950,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "equippablehead"
+        "ItemClass": "equippablehead",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootChest",
@@ -1803,7 +1973,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "equippablechest"
+        "ItemClass": "equippablechest",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootHands",
@@ -1824,7 +1996,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "equippablehands"
+        "ItemClass": "equippablehands",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootLegs",
@@ -1845,7 +2019,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "equippablelegs"
+        "ItemClass": "equippablelegs",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootFeet",
@@ -1866,7 +2042,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "equippablefeet"
+        "ItemClass": "equippablefeet",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootAmulet",
@@ -1887,7 +2065,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "equippableamulet"
+        "ItemClass": "equippableamulet",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootRing",
@@ -1908,7 +2088,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "equippablering"
+        "ItemClass": "equippablering",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootToken",
@@ -1929,7 +2111,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "equippabletoken"
+        "ItemClass": "equippabletoken",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootSword",
@@ -1950,7 +2134,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "sword"
+        "ItemClass": "sword",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootHatchet",
@@ -1971,7 +2157,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "hatchet"
+        "ItemClass": "hatchet",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLoot2HHammer",
@@ -1992,7 +2180,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "2hhammer"
+        "ItemClass": "2hhammer",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLoot2HAxe",
@@ -2013,7 +2203,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "2haxe"
+        "ItemClass": "2haxe",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootBow",
@@ -2034,7 +2226,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "bow"
+        "ItemClass": "bow",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootMusket",
@@ -2055,7 +2249,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "musket"
+        "ItemClass": "musket",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootShield",
@@ -2076,7 +2272,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "shield"
+        "ItemClass": "shield",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootFireStaff",
@@ -2097,7 +2295,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "firestaff"
+        "ItemClass": "firestaff",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootLifeStaff",
@@ -2118,7 +2318,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "lifestaff"
+        "ItemClass": "lifestaff",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootRapier",
@@ -2139,7 +2341,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "rapier"
+        "ItemClass": "rapier",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootSpear",
@@ -2160,7 +2364,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "spear"
+        "ItemClass": "spear",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootIceMagic",
@@ -2181,7 +2387,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "icemagic"
+        "ItemClass": "icemagic",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMLootVoidGauntlet",
@@ -2202,7 +2410,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "voidgauntlet"
+        "ItemClass": "voidgauntlet",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMBlunderbuss",
@@ -2223,7 +2433,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "blunderbuss"
+        "ItemClass": "blunderbuss",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "HWMGreatsword",
@@ -2244,7 +2456,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": "greatsword"
+        "ItemClass": "greatsword",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "74",
@@ -2265,7 +2479,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "75",
@@ -2286,7 +2502,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "Camping",
@@ -2305,9 +2523,11 @@
         "AchievementIdOnMaxRank": "",
         "MinTrackedLevel": null,
         "ShowAsObjectiveReward": true,
-        "IconPath": "lyshineui/images/campingrestrictions/campingAllowed.dds",
+        "IconPath": "lyshineui/images/campingrestrictions/campingAllowed_large.dds",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "@ui_unlock_camping_tooltip",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "SyndicateTokens",
@@ -2325,10 +2545,12 @@
         "GameEventId": "",
         "AchievementIdOnMaxRank": "",
         "MinTrackedLevel": null,
-        "ShowAsObjectiveReward": null,
-        "IconPath": "",
+        "ShowAsObjectiveReward": true,
+        "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation1_large.dds",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "@owg_faction_unlock_tooltip",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "MarauderTokens",
@@ -2346,10 +2568,12 @@
         "GameEventId": "",
         "AchievementIdOnMaxRank": "",
         "MinTrackedLevel": null,
-        "ShowAsObjectiveReward": null,
-        "IconPath": "",
+        "ShowAsObjectiveReward": true,
+        "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation2_large.dds",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "@owg_faction_unlock_tooltip",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "CovenantTokens",
@@ -2367,10 +2591,12 @@
         "GameEventId": "",
         "AchievementIdOnMaxRank": "",
         "MinTrackedLevel": null,
-        "ShowAsObjectiveReward": null,
-        "IconPath": "",
+        "ShowAsObjectiveReward": true,
+        "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation3_large.dds",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "@owg_faction_unlock_tooltip",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "DungeonEdengrove00Difficulty",
@@ -2391,7 +2617,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "DungeonReekwater00Difficulty",
@@ -2412,7 +2640,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "DungeonEbonscale00Difficulty",
@@ -2433,7 +2663,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "DungeonShatterMtn00Difficulty",
@@ -2454,7 +2686,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "DungeonRestlessShores01Difficulty",
@@ -2475,7 +2709,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "DungeonEverfall00Difficulty",
@@ -2496,7 +2732,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "DungeonCutlass00Difficulty",
@@ -2517,7 +2755,9 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "DungeonBrimstoneSands00Difficulty",
@@ -2538,7 +2778,32 @@
         "ShowAsObjectiveReward": null,
         "IconPath": "",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
+    },
+    {
+        "CategoricalProgressionId": "DungeonGreatCleave01Difficulty",
+        "DisplayName": "",
+        "MaxLevel": 10,
+        "AutoRankUp": true,
+        "InfiniteLevels": false,
+        "RepeatMaxLevel": false,
+        "AllowOverflow": false,
+        "RankTableId": "MutatorRankData",
+        "ProgressionPointPool": "",
+        "PreSkillCapSkill": "",
+        "PostSkillCapSkill": "",
+        "EconomyTrackerType": "",
+        "GameEventId": "",
+        "AchievementIdOnMaxRank": "",
+        "MinTrackedLevel": null,
+        "ShowAsObjectiveReward": null,
+        "IconPath": "",
+        "UsesGlobalProgressionMod": null,
+        "ItemClass": "",
+        "DisplayDescription": "",
+        "EventId": ""
     },
     {
         "CategoricalProgressionId": "EventProgress",
@@ -2557,8 +2822,33 @@
         "AchievementIdOnMaxRank": "",
         "MinTrackedLevel": null,
         "ShowAsObjectiveReward": true,
-        "IconPath": "lyshineui/images/icons/objectives/reward_eventProgress.dds",
+        "IconPath": "lyshineui/images/icons/objectives/reward_eventProgress_large.dds",
         "UsesGlobalProgressionMod": null,
-        "ItemClass": ""
+        "ItemClass": "",
+        "DisplayDescription": "@ui_event_reputation_description",
+        "EventId": "WinterConvergence"
+    },
+    {
+        "CategoricalProgressionId": "SeasonPass",
+        "DisplayName": "@seasons_rewards_categorical_progression_id",
+        "MaxLevel": 100,
+        "AutoRankUp": true,
+        "InfiniteLevels": false,
+        "RepeatMaxLevel": false,
+        "AllowOverflow": false,
+        "RankTableId": "SeasonPass_Season1",
+        "ProgressionPointPool": "",
+        "PreSkillCapSkill": "",
+        "PostSkillCapSkill": "",
+        "EconomyTrackerType": "",
+        "GameEventId": "",
+        "AchievementIdOnMaxRank": "",
+        "MinTrackedLevel": null,
+        "ShowAsObjectiveReward": null,
+        "IconPath": "",
+        "UsesGlobalProgressionMod": false,
+        "ItemClass": "",
+        "DisplayDescription": "Season 1",
+        "EventId": ""
     }
 ]

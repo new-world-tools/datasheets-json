@@ -1,0 +1,101 @@
+[
+    {
+        "ConversationTopicId": "13A_Maria",
+        "PlayerPrompt": "@13A_Maria_Prompt",
+        "NPCResponse": "@13A_Maria_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "13A_Agnes",
+        "PlayerPrompt": "@13A_Agnes_Prompt",
+        "NPCResponse": "@13A_Agnes_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "13A_Theuderic",
+        "PlayerPrompt": "@13A_Theuderic_Prompt",
+        "NPCResponse": "@13A_Theuderic_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "13A_Niall",
+        "PlayerPrompt": "@13A_Niall_Prompt",
+        "NPCResponse": "@13A_Niall_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "13A_Theo_FactionRival",
+        "PlayerPrompt": "@13A_SQ_28_Theo_Prompt_FactionSame",
+        "NPCResponse": "@13A_SQ_28_Theo_Response_FactionSame",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "13A_Theo_FactionSame",
+        "PlayerPrompt": "@13A_SQ_28_Theo_Prompt_FactionRival",
+        "NPCResponse": "@13A_SQ_28_Theo_Response_FactionRival",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "13A_HunterJulio_Repellent",
+        "PlayerPrompt": "@13A_SQ_28_HunterJulio_Prompt_Repellent",
+        "NPCResponse": "@13A_SQ_28_HunterJulio_Response_Repellent",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "13A_ResearcherPiper_Repellent",
+        "PlayerPrompt": "@13A_SQ_28_ResearcherPiper_Prompt_Repellent",
+        "NPCResponse": "@13A_SQ_28_ResearcherPiper_Response_Repellent",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "13A_ResearcherLing_Repellent",
+        "PlayerPrompt": "@13A_SQ_28_ResearcherLing_Prompt_Repellent",
+        "NPCResponse": "@13A_SQ_28_ResearcherLing_Response_Repellent",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "13A_ResearcherRinde_Repellent",
+        "PlayerPrompt": "@13A_SQ_28_ResearcherRinde_Prompt_Repellent",
+        "NPCResponse": "@13A_SQ_28_ResearcherRinde_Response_Repellent",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "13A_ResearcherLubin_Repellent",
+        "PlayerPrompt": "@13A_SQ_28_ResearcherLubin_Prompt_Repellent",
+        "NPCResponse": "@13A_SQ_28_ResearcherLubin_Response_Repellent",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

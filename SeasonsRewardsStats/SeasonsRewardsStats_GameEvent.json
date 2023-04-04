@@ -1,0 +1,58 @@
+[
+    {
+        "TrackedStatID": "LocateLostEasel",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "",
+        "GameEventIDs": "ExploreVista_EastCleave01,ExploreVista_EastCutlass01,ExploreVista_EastEdengrove01,ExploreVista_EastEverfall01,ExploreVista_EastShattered01,ExploreVista_MidRestless01,ExploreVista_NorthBrightwood01,ExploreVista_NorthEbonscale01,ExploreVista_NorthFirstLight01,ExploreVista_NorthMonarchs01,ExploreVista_NorthReekwater01,ExploreVista_NorthWeavers01,ExploreVista_NorthWeavers02,ExploreVista_NorthWindsward01,ExploreVista_NorthWindsward02,ExploreVista_SouthBrightwood01,ExploreVista_SouthEbonscale01,ExploreVista_SouthFirstLight01,ExploreVista_SouthMonarchs01,ExploreVista_SouthMourningdale01,ExploreVista_SouthReekwater01,ExploreVista_SouthRestless01,ExploreVista_SouthShattered01,ExploreVista_WestCleave01,ExploreVista_WestEdengrove01,ExploreVista_WestEverfall01,ExploreVista_WestMourningdale01,ExploreVista_WestCutlass01,ExploreVista_EastBrimstone01,ExploreVista_EastBrimstone02"
+    },
+    {
+        "TrackedStatID": "CompleteAnyTrial",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "",
+        "GameEventIDs": "Arena_Spriggan_AngryEarth_T1,Arena_LostSiren_Reekwater,Arena_SwampBeast_Reekwater"
+    },
+    {
+        "TrackedStatID": "GatherWispybloomFlower",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "",
+        "GameEventIDs": "Gather_Springtide_Wispybloom"
+    },
+    {
+        "TrackedStatID": "CompleteFuryOfTheSprigganEvent",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "",
+        "GameEventIDs": "WorldEvent_S1_Success"
+    },
+    {
+        "TrackedStatID": "PlantWispySpritzes",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "",
+        "GameEventIDs": "Gather_WispySpritzPlantSite"
+    },
+    {
+        "TrackedStatID": "GameEvent_Breach",
+        "StatType": "GameEvent",
+        "GameEventTypes": "Darkness",
+        "CreatureTypes": "DarknessMinor,DarknessMinor+,DarknessMajor,DarknessMajor+,Myrkgard",
+        "GameEventIDs": ""
+    },
+    {
+        "TrackedStatID": "GameEvent_MinorBreach",
+        "StatType": "GameEvent",
+        "GameEventTypes": "Darkness",
+        "CreatureTypes": "DarknessMinor,DarknessMinor+",
+        "GameEventIDs": ""
+    },
+    {
+        "TrackedStatID": "GameEvent_MajorBreach",
+        "StatType": "GameEvent",
+        "GameEventTypes": "Darkness",
+        "CreatureTypes": "DarknessMajor,DarknessMajor+,Myrkgard",
+        "GameEventIDs": ""
+    }
+]

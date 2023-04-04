@@ -236,7 +236,7 @@
     {
         "ID": 40,
         "CostID": "LifeStaff_Primary",
-        "ManaCost": 2,
+        "ManaCost": 0,
         "WeaponTag": "MagicStaff"
     },
     {
@@ -302,7 +302,7 @@
     {
         "ID": 51,
         "CostID": "FireStaff_Primary",
-        "ManaCost": 2,
+        "ManaCost": 0,
         "WeaponTag": "MagicStaff"
     },
     {
@@ -338,7 +338,7 @@
     {
         "ID": 57,
         "CostID": "IceMagic_Primary",
-        "ManaCost": 2,
+        "ManaCost": 0,
         "WeaponTag": "MagicGauntlet"
     },
     {
@@ -422,7 +422,7 @@
     {
         "ID": 71,
         "CostID": "VoidGauntlet_Primary",
-        "ManaCost": 2,
+        "ManaCost": 0,
         "WeaponTag": "VoidGauntlet"
     },
     {

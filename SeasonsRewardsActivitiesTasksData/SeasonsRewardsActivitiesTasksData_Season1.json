@@ -1,0 +1,359 @@
+[
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task1",
+        "Task": "Close1MajorBreach",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Close1MajorBreach",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task2",
+        "Task": "Close1MinorBreaches",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Close1MinorBreaches",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task3",
+        "Task": "Kill10Lost",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10Lost",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task4",
+        "Task": "Kill10AngryEarth",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10AngryEarth",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task5",
+        "Task": "Kill10Ancients",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10Ancients",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task6",
+        "Task": "Kill10Corrupted",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10Corrupted",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task7",
+        "Task": "Kill10Beasts",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10Beasts",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task8",
+        "Task": "Kill10EnemiesOneHanded",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10EnemiesOneHanded",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task9",
+        "Task": "Kill10EnemiesTwoHanded",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10EnemiesTwoHanded",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task10",
+        "Task": "Kill10EnemiesRanged",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10EnemiesRanged",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task11",
+        "Task": "Kill10EnemiesMagic",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10EnemiesMagic",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task12",
+        "Task": "Kill1Players",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_Kill1Player",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task13",
+        "Task": "Capture1FactionControlPoint",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_Capture1FactionControlPoint",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task14",
+        "Task": "ParticipateIn1Duels",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_ParticipateIn3Duels",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task15",
+        "Task": "Gather5T5ResourceNodes",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Gather5T5Nodes",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task16",
+        "Task": "Skin10T5Animals",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Skin10T5Animals",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task17",
+        "Task": "Catch150lbsOfFish",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Catch150lbsFish",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task18",
+        "Task": "CraftOrCook50Items",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_CraftOrCook50Items",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task19",
+        "Task": "Complete2TownProjects",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Complete2TownProjects",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task20",
+        "Task": "Salvage5T5Items",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Salvage5T5Items",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task21",
+        "Task": "Complete2FactionMissions",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Complete2FactionMissions",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task22",
+        "Task": "Refine50T5Resources",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Refine50T5Resources",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task23",
+        "Task": "CatchTreasureChest",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Catch1TreasureChest",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task24",
+        "Task": "Catch5RareFish",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Catch5RareFish",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task25",
+        "Task": "Craft5T5WeaponOrApparel",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Craft5T5WeaponOrApparel",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task26",
+        "Task": "Craft10T5Consumables",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Craft10T5Consumables",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task27",
+        "Task": "GetKillingBlowOnEnemyInOutpostRush",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_KillingBlowOPR",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task28",
+        "Task": "Play1OutpostRush",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_ParticipateIn1OPR",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task29",
+        "Task": "ParticipateIn3Arena3x3",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_ParticipateIn3_3v3",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task30",
+        "Task": "DealOrHeal100000InArena3v3",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_DealOrHeal100000In3v3",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task33",
+        "Task": "Kill10FlamePoweredVarangians",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Kill10FlameVarangianKnights",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task34",
+        "Task": "Complete1Expedition",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_Complete1Expedition",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task35",
+        "Task": "Complete1Expedition_TheEmpyreanForge",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Complete1Expedition_TheEmpyreanForge",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task36",
+        "Task": "Kill1NamedVarangianKnight",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Kill1NamedVarangianKnight",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task37",
+        "Task": "Complete1MutatedExpedition",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_Complete1MutatedExpedition",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task39",
+        "Task": "Earn1000PvPXPFromPlayers",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_Earn1000PvpXp",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task40",
+        "Task": "DefeatZygormat",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_DefeatZygormat",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task41",
+        "Task": "DefeatTheSirenQueen",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_DefeatSirenQueen",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task42",
+        "Task": "DefeatAvarice",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_DefeateAvarice",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task43",
+        "Task": "Craft1GypsumOrb",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Craft1GypsumOrb",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task48",
+        "Task": "Consume25T5Items",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_ConsumeXofYT5Items",
+        "Active": "DISABLED"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task51",
+        "Task": "Slay20CorruptedRabbits_RabbitsRevenge",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Slay20CorruptedRabbits_RabbitsRevenge",
+        "Active": "RABBITSREVENGE_EVENT"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task52",
+        "Task": "Kill5WispyWasps",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Defeat5WispyWasps_SpringtideBloom",
+        "Active": "SPRINGTIDEBLOOM_EVENT"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task53",
+        "Task": "GatherWispybloomFlower",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Gather1WispybloomFlower_SpringtideBloom",
+        "Active": "SPRINGTIDEBLOOM_EVENT"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task54",
+        "Task": "Craft5WispySpritzes",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Craft5WispySpritzes_SpringtideBloom",
+        "Active": "SPRINGTIDEBLOOM_EVENT"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task55",
+        "Task": "Plant10WispySpritzes",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Plant10WispySpritzes_Springtide_Bloom",
+        "Active": "SPRINGTIDEBLOOM_EVENT"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task56",
+        "Task": "Earn5000AmountOfAzothSalt",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_Earn5000AzothSalt",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task57",
+        "Task": "Spend250AmountOfAzoth",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Spend250AzothSalt",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task59",
+        "Task": "Complete2PvPFactionMissions",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_Complete2PvpFactionMissions",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task60",
+        "Task": "EarnFlawlessVictoryInPvPArena",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_FlawlessVictoryInPvpArena",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task61",
+        "Task": "UseFlameCoreForgex1",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_UseFlameCoreForgex1",
+        "Active": ""
+    }
+]

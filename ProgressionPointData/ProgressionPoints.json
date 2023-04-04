@@ -5191,8 +5191,8 @@
         "RequiredCharacterLevel": "",
         "RequiredCategoricalProgressionId": "",
         "RequiredCategoricalProgressionLevel": null,
-        "RequiredProgressionPointId": "Passive_Lifestaff_Healing_NoManaOnBasic",
-        "RequiredProgressionPointLevel": 1,
+        "RequiredProgressionPointId": "",
+        "RequiredProgressionPointLevel": null,
         "UpgradeCardDescription": "",
         "UpgradeCardSprite": "",
         "UpgradeCardIcon": "",
@@ -5211,8 +5211,8 @@
         "RequiredCharacterLevel": "",
         "RequiredCategoricalProgressionId": "",
         "RequiredCategoricalProgressionLevel": null,
-        "RequiredProgressionPointId": "Passive_Lifestaff_Healing_NoManaOnBasic",
-        "RequiredProgressionPointLevel": 1,
+        "RequiredProgressionPointId": "",
+        "RequiredProgressionPointLevel": null,
         "UpgradeCardDescription": "",
         "UpgradeCardSprite": "",
         "UpgradeCardIcon": "",
@@ -5820,7 +5820,7 @@
         "UpgradeCardStat": ""
     },
     {
-        "ProgressionPointId": "Upgrade_Firestaff_MeteorShower_Extra",
+        "ProgressionPointId": "Upgrade_Firestaff_MeteorShower_More",
         "Description": "",
         "PointPoolId": "FireMagicAbilityTable",
         "IsAbility": "1",
@@ -5840,7 +5840,7 @@
         "UpgradeCardStat": ""
     },
     {
-        "ProgressionPointId": "Upgrade_Firestaff_MeteorShower_More",
+        "ProgressionPointId": "Upgrade_Firestaff_MeteorShower_Extra",
         "Description": "",
         "PointPoolId": "FireMagicAbilityTable",
         "IsAbility": "1",
@@ -5851,7 +5851,7 @@
         "RequiredCharacterLevel": "",
         "RequiredCategoricalProgressionId": "",
         "RequiredCategoricalProgressionLevel": null,
-        "RequiredProgressionPointId": "Upgrade_Firestaff_MeteorShower_Extra",
+        "RequiredProgressionPointId": "Upgrade_Firestaff_MeteorShower_More",
         "RequiredProgressionPointLevel": 1,
         "UpgradeCardDescription": "",
         "UpgradeCardSprite": "",

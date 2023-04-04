@@ -102,10 +102,10 @@
         "EquipLoadHealMultNormal": 1,
         "EquipLoadHealMultSlow": 0.7,
         "EquipLoadCCStatusEffectDurationMultFast": 0,
-        "EquipLoadCCStatusEffectDurationMultNormal": 0.1,
-        "EquipLoadCCStatusEffectDurationMultSlow": 0.2,
-        "EquipLoadCCStatusEffectDurationMultOverburdened": 0.2,
-        "EquipLoadCCStatusEffectCategories": "Slow,Stun,Root"
+        "EquipLoadCCStatusEffectDurationMultNormal": 0,
+        "EquipLoadCCStatusEffectDurationMultSlow": 0,
+        "EquipLoadCCStatusEffectDurationMultOverburdened": 0,
+        "EquipLoadCCStatusEffectCategories": ""
     },
     {
         "ContainerTypeID": "StorageSmall",

@@ -1392,6 +1392,12 @@
         "Description": "@FoodMana_GroupDesc"
     },
     {
+        "CategoryID": "Scarab",
+        "ImagePath": "",
+        "DisplayText": "@Scarab_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "CONTrinkets",
         "ImagePath": "Icons/Crafting/icon_crafting_category_trinkets",
         "DisplayText": "@CONTrinkets_GroupName",
@@ -3393,6 +3399,12 @@
         "CategoryID": "CoatingAngryEarth",
         "ImagePath": "Icons/Items/Drawing/imbueFire",
         "DisplayText": "@CoatingAngryEarth_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "CoatingAeternian",
+        "ImagePath": "Icons/Items/Drawing/imbueHoly",
+        "DisplayText": "@CoatingAeternian_GroupName",
         "Description": ""
     },
     {
@@ -5460,32 +5472,44 @@
         "Description": ""
     },
     {
-        "CategoryID": "AttributeStr",
+        "CategoryID": "FlameCoreCasting",
         "ImagePath": "",
+        "DisplayText": "@FlameCoreCasting_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FlameCoreCast",
+        "ImagePath": "",
+        "DisplayText": "@FlameCoreCast_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "AttributeStr",
+        "ImagePath": "crafting/itemBgCircleNone",
         "DisplayText": "@AttributeStr",
         "Description": ""
     },
     {
         "CategoryID": "AttributeDex",
-        "ImagePath": "",
+        "ImagePath": "crafting/itemBgCircleNone",
         "DisplayText": "@AttributeDex",
         "Description": ""
     },
     {
         "CategoryID": "AttributeInt",
-        "ImagePath": "",
+        "ImagePath": "crafting/itemBgCircleNone",
         "DisplayText": "@AttributeInt",
         "Description": ""
     },
     {
         "CategoryID": "AttributeFoc",
-        "ImagePath": "",
+        "ImagePath": "crafting/itemBgCircleNone",
         "DisplayText": "@AttributeFoc",
         "Description": ""
     },
     {
         "CategoryID": "AttributeCon",
-        "ImagePath": "",
+        "ImagePath": "crafting/itemBgCircleNone",
         "DisplayText": "@AttributeCon",
         "Description": ""
     },
@@ -5547,12 +5571,6 @@
         "CategoryID": "GoldenScarabCon",
         "ImagePath": "",
         "DisplayText": "@GoldenScarabCon_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "Scarab",
-        "ImagePath": "",
-        "DisplayText": "@Scarab_GroupName",
         "Description": ""
     },
     {

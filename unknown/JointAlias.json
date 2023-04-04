@@ -36,13 +36,13 @@
         "Neck": "Neck",
         "Spine": "Spine2",
         "RightHand": "right_hand_attach",
-        "RightForeArm": "",
-        "RightMidArm": "",
-        "RightUpperArm": "",
+        "RightForeArm": "Forearm_right_twist",
+        "RightMidArm": "MidArm_right",
+        "RightUpperArm": "UpperArm_right",
         "LeftHand": "left_hand_attach",
-        "LeftForeArm": "",
-        "LeftMidArm": "",
-        "LeftUpperArm": ""
+        "LeftForeArm": "Forearm_left_twist",
+        "LeftMidArm": "MidArm_left",
+        "LeftUpperArm": "UpperArm_left"
     },
     {
         "SkeletonName": "alligator_skel",

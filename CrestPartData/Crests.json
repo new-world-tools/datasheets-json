@@ -3764,5 +3764,47 @@
         "Faction": "Any",
         "Notes": "",
         "Intent": ""
+    },
+    {
+        "Index": 273,
+        "OldIndex": 227,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_228",
+        "EntitlementId": "icon_crest_228",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_228_firelight_crest_1.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "",
+        "Intent": ""
+    },
+    {
+        "Index": 274,
+        "OldIndex": 228,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_229",
+        "EntitlementId": "icon_crest_229",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_229_firelight_crest_2.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "",
+        "Intent": ""
+    },
+    {
+        "Index": 275,
+        "OldIndex": 229,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_230",
+        "EntitlementId": "icon_crest_230",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_230_firelight_crest_3.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "",
+        "Intent": ""
     }
 ]

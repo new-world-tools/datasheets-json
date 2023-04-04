@@ -6,7 +6,9 @@
         "ReqAchievementId": "SwapActive_MSQ_MaraBook",
         "OnWatchedAchievementId": "Cinematic_TempestReckoning",
         "DurationInSec": 108,
-        "Description": ""
+        "Description": "",
+        "Subtitle": "@TempestReckoning01",
+        "Comment": ""
     },
     {
         "CinematicVideoId": "TempestRising",
@@ -15,7 +17,9 @@
         "ReqAchievementId": "S_headstatue_cutscene",
         "OnWatchedAchievementId": "Cinematic_TempestRising",
         "DurationInSec": 106,
-        "Description": ""
+        "Description": "",
+        "Subtitle": "@TempestRising01",
+        "Comment": ""
     },
     {
         "CinematicVideoId": "TempestRisingMB",
@@ -24,7 +28,9 @@
         "ReqAchievementId": "S_headstatue_cutscene_mb",
         "OnWatchedAchievementId": "Cinematic_TempestRising",
         "DurationInSec": 106,
-        "Description": ""
+        "Description": "",
+        "Subtitle": "@TempestRisingMB01",
+        "Comment": ""
     },
     {
         "CinematicVideoId": "BS_LegacyofAncients",
@@ -33,7 +39,9 @@
         "ReqAchievementId": "16_ImhotepCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_LegacyOfAncients",
         "DurationInSec": 106,
-        "Description": ""
+        "Description": "",
+        "Subtitle": "@AncientsLegacy01",
+        "Comment": ""
     },
     {
         "CinematicVideoId": "BS_LegacyofRome",
@@ -42,7 +50,9 @@
         "ReqAchievementId": "16_CharmionCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_LegacyOfRome",
         "DurationInSec": 123,
-        "Description": ""
+        "Description": "",
+        "Subtitle": "@RomeLegacy01",
+        "Comment": ""
     },
     {
         "CinematicVideoId": "BS_TheHuntress",
@@ -51,6 +61,63 @@
         "ReqAchievementId": "16_HuntressCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_TheHuntress",
         "DurationInSec": 115,
-        "Description": ""
+        "Description": "",
+        "Subtitle": "@WildHuntress01",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "Seasons_01_SkyeLetter",
+        "VideoPath": "LyShineUI/Videos/SkyesLetter.bk2",
+        "Name": "@cinmatic_video_seasons_01_skyeletter",
+        "ReqAchievementId": "95_s01_Skye_Cinematic_Letter_Unlock",
+        "OnWatchedAchievementId": "Cinematic_95_s01_Skye_Watched",
+        "DurationInSec": 79,
+        "Description": "",
+        "Subtitle": "@SkyeLetter01",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "WF_MorgainesTruth",
+        "VideoPath": "LyShineUI/Videos/MorgainesTruth.bk2",
+        "Name": "@cinmatic_video_wf_morgainestruth",
+        "ReqAchievementId": "99C_MorgaineCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_MorgainesTruth",
+        "DurationInSec": 86,
+        "Description": "",
+        "Subtitle": "@MorgaineTruth01",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "BW_GalahadsRegret",
+        "VideoPath": "LyShineUI/Videos/GalahadsRegret.bk2",
+        "Name": "@cinmatic_video_bw_galahadsregret",
+        "ReqAchievementId": "99B_GalahadCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_GalahadsRegret",
+        "DurationInSec": 86,
+        "Description": "",
+        "Subtitle": "@GalahadRegret01",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "BW_AzothTree",
+        "VideoPath": "LyShineUI/Videos/AzothTree.bk2",
+        "Name": "@cinmatic_video_bw_azothtree",
+        "ReqAchievementId": "99B_AzothTreeCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_AzothTree",
+        "DurationInSec": 111,
+        "Description": "",
+        "Subtitle": "",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "BW_CorpseCrone",
+        "VideoPath": "LyShineUI/Videos/CorpseCrone.bk2",
+        "Name": "@cinmatic_video_bw_corpsecrone",
+        "ReqAchievementId": "99B_PennyfatherCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_CorpseCrone",
+        "DurationInSec": 82,
+        "Description": "",
+        "Subtitle": "@CorpseCrone01",
+        "Comment": ""
     }
 ]

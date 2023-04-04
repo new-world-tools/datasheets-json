@@ -1,0 +1,26 @@
+[
+    {
+        "TrackedStatID": "ParticipateInWar",
+        "StatType": "CompleteWar",
+        "IsInvasion": null,
+        "MustWin": null
+    },
+    {
+        "TrackedStatID": "ParticipateInInvasion",
+        "StatType": "CompleteWar",
+        "IsInvasion": true,
+        "MustWin": null
+    },
+    {
+        "TrackedStatID": "WinWar",
+        "StatType": "CompleteWar",
+        "IsInvasion": null,
+        "MustWin": true
+    },
+    {
+        "TrackedStatID": "WinInvasion",
+        "StatType": "CompleteWar",
+        "IsInvasion": true,
+        "MustWin": true
+    }
+]

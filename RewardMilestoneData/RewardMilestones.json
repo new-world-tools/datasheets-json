@@ -110,6 +110,16 @@
         "Notes": ""
     },
     {
+        "RewardID": "LoadoutSlots",
+        "MilestoneType": "major",
+        "MilestoneLevel": 25,
+        "Name": "@LoadoutSlots_Name",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/gearSet.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_gearSet.dds",
+        "Tooltip": "@LoadoutSlots_Tooltip",
+        "Notes": ""
+    },
+    {
         "RewardID": "Duels",
         "MilestoneType": "major",
         "MilestoneLevel": 10,
@@ -327,6 +337,26 @@
         "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/3v3Arena.dds",
         "Image": "",
         "Tooltip": "@PvPArenas_Tooltip",
+        "Notes": ""
+    },
+    {
+        "RewardID": "SeasonsRewards",
+        "MilestoneType": "minor",
+        "MilestoneLevel": 25,
+        "Name": "@SeasonsRewards_Name",
+        "Icon": "LyShineUI/Images/SeasonsRewards/Icon_Unlock_SeasonRewardTrack_bg.dds",
+        "Image": "",
+        "Tooltip": "",
+        "Notes": ""
+    },
+    {
+        "RewardID": "SeasonsJourney",
+        "MilestoneType": "minor",
+        "MilestoneLevel": 60,
+        "Name": "@SeasonsJourney_Name",
+        "Icon": "LyShineUI/Images/SeasonsRewards/Icon_Unlock_SeasonJourney_bg.dds",
+        "Image": "",
+        "Tooltip": "",
         "Notes": ""
     }
 ]

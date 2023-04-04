@@ -166,5 +166,23 @@
         "CategoryDamageMod": 1.25,
         "CategoryHealthMod": 2,
         "CategoryDropChanceMod": 0.25
+    },
+    {
+        "CategoryId": "Dungeon_NoCurrency",
+        "CategoryDamageMod": 1.7,
+        "CategoryHealthMod": 4,
+        "CategoryDropChanceMod": 0.1
+    },
+    {
+        "CategoryId": "Dungeon-_NoCurrency",
+        "CategoryDamageMod": 1.35,
+        "CategoryHealthMod": 2,
+        "CategoryDropChanceMod": 0.05
+    },
+    {
+        "CategoryId": "Dungeon+_NoCurrency",
+        "CategoryDamageMod": 2.05,
+        "CategoryHealthMod": 10,
+        "CategoryDropChanceMod": 0.5
     }
 ]

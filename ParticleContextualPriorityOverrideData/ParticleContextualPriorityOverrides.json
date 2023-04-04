@@ -214,5 +214,29 @@
     {
         "EffectName": "wfx_GreatSword.Gems.Void.Counter.End",
         "PriorityOverride": "High"
+    },
+    {
+        "EffectName": "cFX_npc_AngryEarthNaga.Pool_Idle",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_FireNaga.Flame_Disk",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_FireNaga_JK.LavaPool",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_FireNaga.FlameThrower",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_FireNaga.LavaSpawn_Glyph",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_FireNaga.Linear_Tell",
+        "PriorityOverride": "Required"
     }
 ]

@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "ConversationTopicId": "Covenant_DeclineRecruitment",
+        "PlayerPrompt": "@Covenant_DeclineRecruitment_Prompt",
+        "NPCResponse": "@Covenant_DeclineRecruitment_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Marauders_DeclineRecruitment",
+        "PlayerPrompt": "@Marauders_DeclineRecruitment_Prompt",
+        "NPCResponse": "@Marauders_DeclineRecruitment_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Syndicate_DeclineRecruitment",
+        "PlayerPrompt": "@Syndicate_DeclineRecruitment_Prompt",
+        "NPCResponse": "@Syndicate_DeclineRecruitment_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

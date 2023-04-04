@@ -1,0 +1,422 @@
+[
+    {
+        "JourneyTaskId": "JourneyS1C1T1",
+        "Chapter": "Season1Chapter1",
+        "Task": "Obtainlevel60",
+        "RewardID": "S1_Journey_Ch01_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS1C1T2",
+        "Chapter": "Season1Chapter1",
+        "Task": "CompleteExpedition",
+        "RewardID": "S1_Journey_Ch01_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS1C1T3",
+        "Chapter": "Season1Chapter1",
+        "Task": "CompleteQuest_FirstCustomer",
+        "RewardID": "S1_Journey_Ch01_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS1C1T4",
+        "Chapter": "Season1Chapter1",
+        "Task": "Kill10Level60VarangianKnights",
+        "RewardID": "S1_Journey_Ch01_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS1C1T5",
+        "Chapter": "Season1Chapter1",
+        "Task": "Complete3FactionMissions",
+        "RewardID": "S1_Journey_Ch01_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS1C1T6",
+        "Chapter": "Season1Chapter1",
+        "Task": "Complete5SongsAnyDifficulty",
+        "RewardID": "S1_Journey_Ch01_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS1C1T7",
+        "Chapter": "Season1Chapter1",
+        "Task": "Capture1FactionControlPoint",
+        "RewardID": "S1_Journey_Ch01_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS1C1T8",
+        "Chapter": "Season1Chapter1",
+        "Task": "Complete1ActivityCard",
+        "RewardID": "S1_Journey_Ch01_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS1C1T9",
+        "Chapter": "Season1Chapter1",
+        "Task": "Win1Duel",
+        "RewardID": "S1_Journey_Ch01_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS1C1T10",
+        "Chapter": "Season1Chapter1",
+        "Task": "LocateLostEasel",
+        "RewardID": "S1_Journey_Ch01_T10",
+        "SortOrder": 10
+    },
+    {
+        "JourneyTaskId": "JourneyS1C2T1",
+        "Chapter": "Season1Chapter2",
+        "Task": "CompleteQuest_CurseOfTheBones",
+        "RewardID": "S1_Journey_Ch02_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS1C2T2",
+        "Chapter": "Season1Chapter2",
+        "Task": "CompleteLevel60Expedition",
+        "RewardID": "S1_Journey_Ch02_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS1C2T3",
+        "Chapter": "Season1Chapter2",
+        "Task": "Complete4TownProjects",
+        "RewardID": "S1_Journey_Ch02_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS1C2T4",
+        "Chapter": "Season1Chapter2",
+        "Task": "Complete1SeasonalChallenge",
+        "RewardID": "S1_Journey_Ch02_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS1C2T5",
+        "Chapter": "Season1Chapter2",
+        "Task": "CompleteQuest_TheEmpyreanForge",
+        "RewardID": "S1_Journey_Ch02_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS1C2T6",
+        "Chapter": "Season1Chapter2",
+        "Task": "UseFlameCoreForgex1",
+        "RewardID": "S1_Journey_Ch02_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS1C2T7",
+        "Chapter": "Season1Chapter2",
+        "Task": "Win3Arena",
+        "RewardID": "S1_Journey_Ch02_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS1C2T8",
+        "Chapter": "Season1Chapter2",
+        "Task": "Complete10FactionMissions",
+        "RewardID": "S1_Journey_Ch02_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS1C2T9",
+        "Chapter": "Season1Chapter2",
+        "Task": "Complete2SongsAnyDifficultyGrouped",
+        "RewardID": "S1_Journey_Ch02_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS1C2T10",
+        "Chapter": "Season1Chapter2",
+        "Task": "Complete2ActivityCards",
+        "RewardID": "S1_Journey_Ch02_T10",
+        "SortOrder": 10
+    },
+    {
+        "JourneyTaskId": "JourneyS1C3T1",
+        "Chapter": "Season1Chapter3",
+        "Task": "CompleteQuest_VineYards",
+        "RewardID": "S1_Journey_Ch03_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS1C3T2",
+        "Chapter": "Season1Chapter3",
+        "Task": "Complete1M1Expedition_TheEmpyreanForge",
+        "RewardID": "S1_Journey_Ch03_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS1C3T3",
+        "Chapter": "Season1Chapter3",
+        "Task": "Complete2SeasonalChallenge",
+        "RewardID": "S1_Journey_Ch03_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS1C3T4",
+        "Chapter": "Season1Chapter3",
+        "Task": "Craft25GypsumOrbs",
+        "RewardID": "S1_Journey_Ch03_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS1C3T5",
+        "Chapter": "Season1Chapter3",
+        "Task": "UseFlameCoreForgex3",
+        "RewardID": "S1_Journey_Ch03_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS1C3T6",
+        "Chapter": "Season1Chapter3",
+        "Task": "Complete6ActivityCards",
+        "RewardID": "S1_Journey_Ch03_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS1C3T7",
+        "Chapter": "Season1Chapter3",
+        "Task": "Close15Breaches",
+        "RewardID": "S1_Journey_Ch03_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS1C3T8",
+        "Chapter": "Season1Chapter3",
+        "Task": "DefeatSirOlga",
+        "RewardID": "S1_Journey_Ch03_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS1C3T9",
+        "Chapter": "Season1Chapter3",
+        "Task": "Craft1HeartgemRuneT3",
+        "RewardID": "S1_Journey_Ch03_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS1C3T10",
+        "Chapter": "Season1Chapter3",
+        "Task": "Complete3PvPRewardTracks",
+        "RewardID": "S1_Journey_Ch03_T10",
+        "SortOrder": 10
+    },
+    {
+        "JourneyTaskId": "JourneyS1C4T1",
+        "Chapter": "Season1Chapter4",
+        "Task": "CompleteQuest_DearlyBeloved",
+        "RewardID": "S1_Journey_Ch04_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS1C4T2",
+        "Chapter": "Season1Chapter4",
+        "Task": "Kill500Level60VarangianKnights",
+        "RewardID": "S1_Journey_Ch04_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS1C4T3",
+        "Chapter": "Season1Chapter4",
+        "Task": "Complete40TownProjects",
+        "RewardID": "S1_Journey_Ch04_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS1C4T4",
+        "Chapter": "Season1Chapter4",
+        "Task": "Complete1M5Expedition_TheEmpyreanForge",
+        "RewardID": "S1_Journey_Ch04_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS1C4T5",
+        "Chapter": "Season1Chapter4",
+        "Task": "UseFlameCoreForgex5",
+        "RewardID": "S1_Journey_Ch04_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS1C4T6",
+        "Chapter": "Season1Chapter4",
+        "Task": "Complete3SeasonalChallenge",
+        "RewardID": "S1_Journey_Ch04_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS1C4T7",
+        "Chapter": "Season1Chapter4",
+        "Task": "Win10OutpostRush",
+        "RewardID": "S1_Journey_Ch04_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS1C4T8",
+        "Chapter": "Season1Chapter4",
+        "Task": "Complete10SongsOnExpert",
+        "RewardID": "S1_Journey_Ch04_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS1C4T9",
+        "Chapter": "Season1Chapter4",
+        "Task": "Complete2Invasions",
+        "RewardID": "S1_Journey_Ch04_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS1C4T10",
+        "Chapter": "Season1Chapter4",
+        "Task": "Complete10ActivityCards",
+        "RewardID": "S1_Journey_Ch04_T10",
+        "SortOrder": 10
+    },
+    {
+        "JourneyTaskId": "JourneyS1C5T1",
+        "Chapter": "Season1Chapter5",
+        "Task": "CompleteQuest_Showdown",
+        "RewardID": "S1_Journey_Ch05_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS1C5T2",
+        "Chapter": "Season1Chapter5",
+        "Task": "Complete1M10Expedition_TheEmpyreanForge",
+        "RewardID": "S1_Journey_Ch05_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS1C5T3",
+        "Chapter": "Season1Chapter5",
+        "Task": "Complete4SeasonalChallenge",
+        "RewardID": "S1_Journey_Ch05_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS1C5T4",
+        "Chapter": "Season1Chapter5",
+        "Task": "Kill100FlamePoweredVarangians",
+        "RewardID": "S1_Journey_Ch05_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS1C5T5",
+        "Chapter": "Season1Chapter5",
+        "Task": "Kill50PlayerInOpenWorld",
+        "RewardID": "S1_Journey_Ch05_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS1C5T6",
+        "Chapter": "Season1Chapter5",
+        "Task": "Complete10SongsAtGreat",
+        "RewardID": "S1_Journey_Ch05_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS1C5T7",
+        "Chapter": "Season1Chapter5",
+        "Task": "Close25MajorBreaches",
+        "RewardID": "S1_Journey_Ch05_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS1C5T8",
+        "Chapter": "Season1Chapter5",
+        "Task": "Complete3Trials",
+        "RewardID": "S1_Journey_Ch05_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS1C5T9",
+        "Chapter": "Season1Chapter5",
+        "Task": "Gather100000Resources",
+        "RewardID": "S1_Journey_Ch05_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS1C5T10",
+        "Chapter": "Season1Chapter5",
+        "Task": "UseFlameCoreForgex10",
+        "RewardID": "S1_Journey_Ch05_T10",
+        "SortOrder": 10
+    },
+    {
+        "JourneyTaskId": "JourneyS1ChallengeT1",
+        "Chapter": "Season1Challenge",
+        "Task": "CompleteM10Expedition75000Score_TheEmpyreanForge",
+        "RewardID": "S1_Journey_Challenge_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS1ChallengeT2",
+        "Chapter": "Season1Challenge",
+        "Task": "Win100OutpostRush",
+        "RewardID": "S1_Journey_Challenge_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS1ChallengeT3",
+        "Chapter": "Season1Challenge",
+        "Task": "Kill500PlayersInOpenWorld",
+        "RewardID": "S1_Journey_Challenge_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS1ChallengeT4",
+        "Chapter": "Season1Challenge",
+        "Task": "Capture50FactionControlPoint",
+        "RewardID": "S1_Journey_Challenge_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS1ChallengeT5",
+        "Chapter": "Season1Challenge",
+        "Task": "Craft125LegendaryItems",
+        "RewardID": "S1_Journey_Challenge_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS1ChallengeT6",
+        "Chapter": "Season1Challenge",
+        "Task": "CompleteFellowshipAndFireStory",
+        "RewardID": "S1_Journey_Challenge_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS1ChallengeT7",
+        "Chapter": "Season1Challenge",
+        "Task": "Craft100GypsumOrbs",
+        "RewardID": "S1_Journey_Challenge_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS1ChallengeT8",
+        "Chapter": "Season1Challenge",
+        "Task": "UseFlameCoreForgex30",
+        "RewardID": "S1_Journey_Challenge_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS1ChallengeT9",
+        "Chapter": "Season1Challenge",
+        "Task": "Complete25M10ExpeditionWithGoldRank",
+        "RewardID": "S1_Journey_Challenge_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS1ChallengeT10",
+        "Chapter": "Season1Challenge",
+        "Task": "Complete10MutatedExpeditionsFlawlessly",
+        "RewardID": "S1_Journey_Challenge_T10",
+        "SortOrder": 10
+    }
+]

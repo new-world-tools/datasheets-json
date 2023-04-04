@@ -1,0 +1,32 @@
+[
+    {
+        "TrackedStatID": "GatherResource",
+        "StatType": "Gather",
+        "TargetID": "",
+        "Level": null,
+        "ItemType": "Resource",
+        "ItemClass": "",
+        "PerUse": null,
+        "Tradeskills": "Skinning,Mining,Logging,Harvesting"
+    },
+    {
+        "TrackedStatID": "GatherT5ResourceNode",
+        "StatType": "Gather",
+        "TargetID": "",
+        "Level": 5,
+        "ItemType": "Resource",
+        "ItemClass": "",
+        "PerUse": true,
+        "Tradeskills": "Skinning,Mining,Logging,Harvesting"
+    },
+    {
+        "TrackedStatID": "SkinT5Animal",
+        "StatType": "Gather",
+        "TargetID": "",
+        "Level": 5,
+        "ItemType": "",
+        "ItemClass": "Rawhide+Resource",
+        "PerUse": true,
+        "Tradeskills": "Skinning"
+    }
+]

@@ -1680,7 +1680,7 @@
         "TargetHealthPercent": null,
         "TargetComparisonType": "",
         "DistFromDefender": 15,
-        "DistComparisonType": "GreaterThanOrEqual",
+        "DistComparisonType": "LessThanOrEqual",
         "MaxNumAroundMe": null,
         "NumAroundMe": null,
         "NumAroundComparisonType": "",
@@ -2811,7 +2811,7 @@
         "SetMannequinTag": "",
         "SetMannequinTagStatus": "",
         "EnableHoldConditionIfTrackedSpellExistsOfType": "IcePylon",
-        "HoldConditionButtonIcon": "lyshineui/images/icons/abilities/iceMagic_Ability6.png"
+        "HoldConditionButtonIcon": "lyshineui/images/icons/abilities/iceMagic_Ability4.png"
     },
     {
         "AbilityID": "IcePylonGreaterPylon",

@@ -1,0 +1,926 @@
+[
+    {
+        "SeasonsTaskID": "ObtainLevel60",
+        "SeasonsTrackedStatID": "ObtainLevel60",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_ObtainLevel_name",
+        "Description": "@ui_seasons_task_ObtainLevel_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteExpedition",
+        "SeasonsTrackedStatID": "CompleteExpedition",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteExpedition_name",
+        "Description": "@ui_seasons_task_CompleteExpedition_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteLevel60Expedition",
+        "SeasonsTrackedStatID": "CompleteLevel60Expedition",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteLevelExpedition_name",
+        "Description": "@ui_seasons_task_CompleteLevelExpedition_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10Level60VarangianKnights",
+        "SeasonsTrackedStatID": "KillLevel60VarangianKnights",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_Kill25Level60VarangianKnights_name",
+        "Description": "@ui_seasons_task_KillVarangianKnights_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill500Level60VarangianKnights",
+        "SeasonsTrackedStatID": "KillLevel60VarangianKnights",
+        "TaskMaxValue": 500,
+        "Name": "@ui_seasons_task_Kill500Level60VarangianKnights_name",
+        "Description": "@ui_seasons_task_KillVarangianKnights_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill100ForgedVaragians",
+        "SeasonsTrackedStatID": "KillForgedVarangian",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_Kill100ForgedVaragians_name",
+        "Description": "@ui_seasons_task_KillForgedVaragians_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete3FactionMissions",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_Complete6FactionMissions_name",
+        "Description": "@ui_seasons_task_CompleteFactionMissions_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete10FactionMissions",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_Complete10FactionMissions_name",
+        "Description": "@ui_seasons_task_CompleteFactionMissions_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete5SongsAnyDifficulty",
+        "SeasonsTrackedStatID": "CompleteSong",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_CompleteSongsAnyDifficulty_name",
+        "Description": "@ui_seasons_task_CompleteSongsAnyDifficulty_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete10SongsOnExpert",
+        "SeasonsTrackedStatID": "CompleteSongOnExpert",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_Complete10SongsOnExpert_name",
+        "Description": "@ui_seasons_task_CompleteSongsOnExpert_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete10SongsAtAmazing",
+        "SeasonsTrackedStatID": "CompleteSongWithAmazingRank",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_Complete10SongsAtAmazing_name",
+        "Description": "@ui_seasons_task_CompleteSongsAtAmazing_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete10SongsAtGreat",
+        "SeasonsTrackedStatID": "CompleteSongWithGreatRank",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_Complete10SongsAtGreat_name",
+        "Description": "@ui_seasons_task_CompleteSongsAtGreat_desc"
+    },
+    {
+        "SeasonsTaskID": "Capture1FactionControlPoint",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_Capture1FactionControlPoint_name",
+        "Description": "@ui_seasons_task_Capture1FactionControlPoint_desc"
+    },
+    {
+        "SeasonsTaskID": "Capture50FactionControlPoint",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 50,
+        "Name": "@ui_seasons_task_Capture50FactionControlPoint_name",
+        "Description": "@ui_seasons_task_CaptureFactionControlPoint_desc"
+    },
+    {
+        "SeasonsTaskID": "Win1OutpostRush",
+        "SeasonsTrackedStatID": "WinOutpostRush",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_Win1OutpostRush_name",
+        "Description": "@ui_seasons_task_Win1OutpostRush_desc"
+    },
+    {
+        "SeasonsTaskID": "Win10OutpostRush",
+        "SeasonsTrackedStatID": "WinOutpostRush",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_Win10OutpostRush_name",
+        "Description": "@ui_seasons_task_WinOutpostRush_desc"
+    },
+    {
+        "SeasonsTaskID": "Win100OutpostRush",
+        "SeasonsTrackedStatID": "WinOutpostRush",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_Win1OutpostRushBy750Points_name",
+        "Description": "@ui_seasons_task_WinOutpostRush_desc"
+    },
+    {
+        "SeasonsTaskID": "Win1Duel",
+        "SeasonsTrackedStatID": "WinDuel",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_Win1Duel_name",
+        "Description": "@ui_seasons_task_Win1Duel_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete1MutatedExpedition",
+        "SeasonsTrackedStatID": "CompleteMutatedExpedition",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_Complete1MutatedExpedition_name",
+        "Description": "@ui_seasons_task_Complete1MutatedExpedition_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete5MutatedExpedition",
+        "SeasonsTrackedStatID": "CompleteMutatedExpedition",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_Complete5MutatedExpedition_name",
+        "Description": "@ui_seasons_task_CompleteMutatedExpedition_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete4TownProjects",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 4,
+        "Name": "@ui_seasons_task_Complete4TownProjects_name",
+        "Description": "@ui_seasons_task_CompleteTownProjects_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete40TownProjects",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 40,
+        "Name": "@ui_seasons_task_Complete40TownProjects_name",
+        "Description": "@ui_seasons_task_CompleteTownProjects_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete100TownProjects",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_Complete100TownProjects_name",
+        "Description": "@ui_seasons_task_CompleteTownProjects_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete1SeasonalChallenge",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_Complete1SeasonalChallenge_name",
+        "Description": "@ui_seasons_task_CompleteSeasonalChallenge_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete2SeasonalChallenge",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_Complete2SeasonalChallenge_name",
+        "Description": "@ui_seasons_task_CompleteSeasonalChallenge_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete3SeasonalChallenge",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_Complete3SeasonalChallenge_name",
+        "Description": "@ui_seasons_task_CompleteSeasonalChallenge_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete4SeasonalChallenge",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 4,
+        "Name": "@ui_seasons_task_Complete4SeasonalChallenge_name",
+        "Description": "@ui_seasons_task_CompleteSeasonalChallenge_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete5JourneyTaskChapter1",
+        "SeasonsTrackedStatID": "CompleteTasksChapter1",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete5JourneyTaskChapter2",
+        "SeasonsTrackedStatID": "CompleteTasksChapter2",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete5JourneyTaskChapter3",
+        "SeasonsTrackedStatID": "CompleteTasksChapter3",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete7JourneyTaskChapter4",
+        "SeasonsTrackedStatID": "CompleteTasksChapter4",
+        "TaskMaxValue": 7,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Win3Arena",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_Win3PvPMatches_name",
+        "Description": "@ui_seasons_task_WinPvPMatches_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete2SongsAnyDifficultyGrouped",
+        "SeasonsTrackedStatID": "CompleteSongInGroup",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_CompleteSongsAnyDifficultyGrouped_name",
+        "Description": "@ui_seasons_task_CompleteSongsAnyDifficultyGrouped_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete1War",
+        "SeasonsTrackedStatID": "ParticipateInWar",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_Complete1War_name",
+        "Description": "@ui_seasons_task_Complete1War_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete2Invasions",
+        "SeasonsTrackedStatID": "ParticipateInInvasion",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_Complete2Invasions_name",
+        "Description": "@ui_seasons_task_CompleteInvasions_desc"
+    },
+    {
+        "SeasonsTaskID": "Play10OutpostRush",
+        "SeasonsTrackedStatID": "PlayOutpostRush",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_Win10OutpostRush_name",
+        "Description": "@ui_seasons_task_WinOutpostRush_desc"
+    },
+    {
+        "SeasonsTaskID": "Win1OutpostRushBy750Points",
+        "SeasonsTrackedStatID": "WinOutpostRushBy750",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_Win1OutpostRushBy750Points_name",
+        "Description": "@ui_seasons_task_Win1OutpostRushByPoints_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill500PlayersInOpenWorld",
+        "SeasonsTrackedStatID": "KillPlayerInOpenWorld",
+        "TaskMaxValue": 500,
+        "Name": "@ui_seasons_task_Kill500PlayersInOpenWorld_name",
+        "Description": "@ui_seasons_task_KillPlayersInOpenWorld_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill50PlayerInOpenWorld",
+        "SeasonsTrackedStatID": "KillPlayerInOpenWorld",
+        "TaskMaxValue": 50,
+        "Name": "@ui_seasons_task_KillAssist50PlayersInOpenWorld_name",
+        "Description": "@ui_seasons_task_KillAssistPlayersInOpenWorld_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteQuest_TheEmpyreanForge",
+        "SeasonsTrackedStatID": "CompleteQuest_TheEmpyreanForge",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteQuest_TheEmpyreanForge_name",
+        "Description": "@ui_seasons_task_CompleteQuest_TheEmpyreanForge_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete1Expedition_TheEmpyreanForge",
+        "SeasonsTrackedStatID": "CompleteExpedition_TheEmpyreanForge",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_Complete1Expedition_TheEmpyreanForge_name",
+        "Description": "@ui_seasons_task_CompleteExpedition_TheEmpyreanForge_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete5Expedition_TheEmpyreanForge",
+        "SeasonsTrackedStatID": "CompleteExpedition_TheEmpyreanForge",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_Complete5Expedition_TheEmpyreanForge_name",
+        "Description": "@ui_seasons_task_CompleteExpedition_TheEmpyreanForge_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete10Expedition_TheEmpyreanForge",
+        "SeasonsTrackedStatID": "CompleteExpedition_TheEmpyreanForge",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_Complete10Expedition_TheEmpyreanForge_name",
+        "Description": "@ui_seasons_task_CompleteExpedition_TheEmpyreanForge_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteQuest_FirstCustomer",
+        "SeasonsTrackedStatID": "CompleteQuest_FirstCustomer",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteQuest_FirstCustomer_name",
+        "Description": "@ui_seasons_task_CompleteQuest_FirstCustomer_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteQuest_VineYards",
+        "SeasonsTrackedStatID": "CompleteQuest_VineYards",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteQuest_VineYards_name",
+        "Description": "@ui_seasons_task_CompleteQuest_VineYards_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteQuest_DearlyBeloved",
+        "SeasonsTrackedStatID": "CompleteQuest_DearlyBeloved",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteQuest_DearlyBeloved_name",
+        "Description": "@ui_seasons_task_CompleteQuest_DearlyBeloved_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteQuest_Showdown",
+        "SeasonsTrackedStatID": "CompleteQuest_Showdown",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteQuest_Showdown_name",
+        "Description": "@ui_seasons_task_CompleteQuest_Showdown_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteQuest_CurseOfTheBones",
+        "SeasonsTrackedStatID": "CompleteQuest_CurseOfTheBones",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteQuest_CurseOfTheBones_name",
+        "Description": "@ui_seasons_task_CompleteQuest_CurseOfTheBones_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill100FlamePoweredVarangians",
+        "SeasonsTrackedStatID": "KillFlamePoweredVarangians",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_Kill100ForgedVaragians_name",
+        "Description": "@ui_seasons_task_KillFlamePoweredVaragians_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteM10Expedition75000Score_TheEmpyreanForge",
+        "SeasonsTrackedStatID": "CompleteM10Expedition75000Score_TheEmpyreanForge",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteM10Expedition75000Score_TheEmpyreanForge_name",
+        "Description": "@ui_seasons_task_CompleteM10Expedition_TheEmpyreanForge_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteEveryM10ExpeditionWithGoldRatingOrHigher",
+        "SeasonsTrackedStatID": "CompleteEveryM10ExpeditionWithGoldRatingOrHigher",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteEveryM10ExpeditionWithGoldRatingOrHigher_name",
+        "Description": "@ui_seasons_task_CompleteEveryM10ExpeditionWithGoldRatingOrHigher_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft250T5Items",
+        "SeasonsTrackedStatID": "CraftAnyT5Item",
+        "TaskMaxValue": 125,
+        "Name": "@ui_seasons_task_Craft125LegendaryItems_name",
+        "Description": "@ui_seasons_task_CraftLegendaryItems_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete1M1Expedition_TheEmpyreanForge",
+        "SeasonsTrackedStatID": "CompleteM1Expedition_TheEmpyreanForge",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteMutation1EmpyreanForge_name",
+        "Description": "@ui_seasons_task_CompleteMutation1EmpyreanForge_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete1M5Expedition_TheEmpyreanForge",
+        "SeasonsTrackedStatID": "CompleteM5Expedition_TheEmpyreanForge",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteMutation5EmpyreanForge_name",
+        "Description": "@ui_seasons_task_CompleteMutation5EmpyreanForge_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete1M10Expedition_TheEmpyreanForge",
+        "SeasonsTrackedStatID": "CompleteM10Expedition_TheEmpyreanForge",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteMutation10EmpyreanForge_name",
+        "Description": "@ui_seasons_task_CompleteMutation10EmpyreanForge_desc"
+    },
+    {
+        "SeasonsTaskID": "UseFlameCoreForgex1",
+        "SeasonsTrackedStatID": "CraftUsingFlameCores",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_FlameCoreFunI_name",
+        "Description": "@ui_seasons_task_CraftUsingFlameCores_desc"
+    },
+    {
+        "SeasonsTaskID": "UseFlameCoreForgex3",
+        "SeasonsTrackedStatID": "CraftUsingFlameCores",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_FlameCoreFunII_name",
+        "Description": "@ui_seasons_task_CraftUsingFlameCores_desc"
+    },
+    {
+        "SeasonsTaskID": "UseFlameCoreForgex5",
+        "SeasonsTrackedStatID": "CraftUsingFlameCores",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_FlameCoreFunIII_name",
+        "Description": "@ui_seasons_task_CraftUsingFlameCores_desc"
+    },
+    {
+        "SeasonsTaskID": "UseFlameCoreForgex10",
+        "SeasonsTrackedStatID": "CraftUsingFlameCores",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_FlameCoreFunIV_name",
+        "Description": "@ui_seasons_task_CraftUsingFlameCores_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft1HeartgemRuneT3",
+        "SeasonsTrackedStatID": "CraftHeartgemRuneT3",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_Craft1HeartgemRuneT3_name",
+        "Description": "@ui_seasons_task_Craft1HeartgemRuneT3_desc"
+    },
+    {
+        "SeasonsTaskID": "Close15Breaches",
+        "SeasonsTrackedStatID": "GameEvent_Breach",
+        "TaskMaxValue": 15,
+        "Name": "@ui_seasons_task_Close15Breaches_name",
+        "Description": "@ui_seasons_task_CloseBreaches_desc"
+    },
+    {
+        "SeasonsTaskID": "Close15MinorBreaches",
+        "SeasonsTrackedStatID": "GameEvent_MinorBreach",
+        "TaskMaxValue": 15,
+        "Name": "@ui_seasons_task_Close15MinorBreaches_name",
+        "Description": "@ui_seasons_task_CloseMinorBreaches_desc"
+    },
+    {
+        "SeasonsTaskID": "Close25MajorBreaches",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_Close25MajorBreaches_name",
+        "Description": "@ui_seasons_task_CloseMajorBreaches_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete3Trials",
+        "SeasonsTrackedStatID": "CompleteAnyTrial",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_Complete3Trials_name",
+        "Description": "@ui_seasons_task_CompleteTrials_desc"
+    },
+    {
+        "SeasonsTaskID": "Commit5000ResourcesInOutpostRush",
+        "SeasonsTrackedStatID": "CommitResourcesInOutpostRush",
+        "TaskMaxValue": 5000,
+        "Name": "@ui_seasons_task_CommitResourcesInOutpostRush_name",
+        "Description": "@ui_seasons_task_CommitResourcesInOutpostRush_desc"
+    },
+    {
+        "SeasonsTaskID": "LocateLostEasel",
+        "SeasonsTrackedStatID": "LocateLostEasel",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_LocateLostEasel_name",
+        "Description": "@ui_seasons_task_LocateLostEasel_desc"
+    },
+    {
+        "SeasonsTaskID": "Close1MajorBreach",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Close1MinorBreaches",
+        "SeasonsTrackedStatID": "GameEvent_MinorBreach",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill1Players",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10Lost",
+        "SeasonsTrackedStatID": "KillLost",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10AngryEarth",
+        "SeasonsTrackedStatID": "KillAngryEarth",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10Ancients",
+        "SeasonsTrackedStatID": "KillAncient",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10Corrupted",
+        "SeasonsTrackedStatID": "KillCorrupted",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10Beasts",
+        "SeasonsTrackedStatID": "KillBeast",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "ParticipateIn1Duels",
+        "SeasonsTrackedStatID": "ParticipateInDuel",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10FlamePoweredVarangians",
+        "SeasonsTrackedStatID": "KillFlamePoweredVarangians",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete2TownProjects",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete2FactionMissions",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Play1OutpostRush",
+        "SeasonsTrackedStatID": "PlayOutpostRush",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete1Expedition",
+        "SeasonsTrackedStatID": "CompleteExpedition",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill1NamedVarangianKnight",
+        "SeasonsTrackedStatID": "KillNamedVarangianKnight",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Salvage5T5Items",
+        "SeasonsTrackedStatID": "SalvageT5Item",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Win1FlawlessVictoryArena3x3",
+        "SeasonsTrackedStatID": "FlawlessVictoryArena3x3",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill5WispyWasps",
+        "SeasonsTrackedStatID": "KillWispyWasps",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Win3PvPMatches",
+        "SeasonsTrackedStatID": "WinPvPMatch",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_Win3PvPMatches_name",
+        "Description": "@ui_seasons_task_WinPvPMatches_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete1ActivityCard",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_Complete1ActivityCard_name",
+        "Description": "@ui_seasons_task_CompleteActivityCards_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete2ActivityCards",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_Complete2ActivityCards_name",
+        "Description": "@ui_seasons_task_CompleteActivityCards_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete6ActivityCards",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 6,
+        "Name": "@ui_seasons_task_Complete6ActivityCards_name",
+        "Description": "@ui_seasons_task_CompleteActivityCards_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete10ActivityCards",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_Complete10ActivityCards_name",
+        "Description": "@ui_seasons_task_CompleteActivityCards_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete3PvPRewardTracks",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_Complete3PvPRewardTracks_name",
+        "Description": "@ui_seasons_task_Complete3PvPRewardTracks_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteMutation10EmpryeanForge",
+        "SeasonsTrackedStatID": "CompleteMutationEmpyreanForge",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_CompleteMutation10EmpryeanForge_name",
+        "Description": "@ui_seasons_task_CompleteMutation10EmpryeanForge_desc"
+    },
+    {
+        "SeasonsTaskID": "Gather100000Resources",
+        "SeasonsTrackedStatID": "GatherResource",
+        "TaskMaxValue": 100000,
+        "Name": "@ui_seasons_task_Gather10000Resources_name",
+        "Description": "@ui_seasons_task_Gather10000Resources_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft25GypsumOrbs",
+        "SeasonsTrackedStatID": "CraftGypsumOrb",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_Craft25GypsumOrbs_name",
+        "Description": "@ui_seasons_task_Craft25GypsumOrbs_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft100GypsumOrbs",
+        "SeasonsTrackedStatID": "CraftGypsumOrb",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_Craft100GypsumOrbs_name",
+        "Description": "@ui_seasons_task_Craft100GypsumOrbs_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft125LegendaryItems",
+        "SeasonsTrackedStatID": "CraftLegendaryItem",
+        "TaskMaxValue": 125,
+        "Name": "@ui_seasons_task_Craft125LegendaryItems_name",
+        "Description": "@ui_seasons_task_CraftLegendaryItems_desc"
+    },
+    {
+        "SeasonsTaskID": "Gather5T5ResourceNodes",
+        "SeasonsTrackedStatID": "GatherT5ResourceNode",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Catch150lbsOfFish",
+        "SeasonsTrackedStatID": "CatchPoundageOfFish",
+        "TaskMaxValue": 15000,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Refine50T5Resources",
+        "SeasonsTrackedStatID": "RefineT5Resource",
+        "TaskMaxValue": 50,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "CatchTreasureChest",
+        "SeasonsTrackedStatID": "CatchTreasureChest",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Catch5RareFish",
+        "SeasonsTrackedStatID": "CatchRareFish",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "DefeatZygormat",
+        "SeasonsTrackedStatID": "KillZygormat",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "DefeatTheSirenQueen",
+        "SeasonsTrackedStatID": "KillTheSirenQueen",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "DefeatAvarice",
+        "SeasonsTrackedStatID": "KillAvarice",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "DefeatSirOlga",
+        "SeasonsTrackedStatID": "KillSirOlga",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_defeatsirolga_name",
+        "Description": "@ui_seasons_task_defeatsirolga_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft1GypsumOrb",
+        "SeasonsTrackedStatID": "CraftGypsumOrb",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "GatherWispybloomFlower",
+        "SeasonsTrackedStatID": "GatherWispybloomFlower",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete2PvPFactionMissions",
+        "SeasonsTrackedStatID": "CompletePvPFactionMission",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "EarnFlawlessVictoryInPvPArena",
+        "SeasonsTrackedStatID": "FlawlessVictoryArena3x3",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteFellowshipAndFireStory",
+        "SeasonsTrackedStatID": "CompleteQuest_ToBeContinued",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_CompleteFellowshipAndFireSeasonalStory_name",
+        "Description": "@ui_seasons_task_CompleteFellowshipAndFireSeasonalStory_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteSpringtideBoomStory",
+        "SeasonsTrackedStatID": "UnlockSpringtideBoomStorylineAchievement",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft25GS600UsingFlameCore",
+        "SeasonsTrackedStatID": "CraftGS600UsingFlameCores",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_Craft25GS600UsingFlameCore_name",
+        "Description": "@ui_seasons_task_Craft25GS600UsingFlameCore_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete25M10ExpeditionWithGoldRank",
+        "SeasonsTrackedStatID": "CompleteM10ExpeditionWithGoldRank",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_Complete25M10ExpeditionWithGoldRank_name",
+        "Description": "@ui_seasons_task_Complete25M10ExpeditionWithGoldRank_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft5WispySpritzes",
+        "SeasonsTrackedStatID": "CraftWispySpritz",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Slay20CorruptedRabbits_RabbitsRevenge",
+        "SeasonsTrackedStatID": "KillCorruptedRabbit",
+        "TaskMaxValue": 20,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "CraftOrCook50Items",
+        "SeasonsTrackedStatID": "CraftOrCookItem",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Skin10T5Animals",
+        "SeasonsTrackedStatID": "SkinT5Animal",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft10T5Consumables",
+        "SeasonsTrackedStatID": "CraftT5Consumable",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft5T5WeaponOrApparel",
+        "SeasonsTrackedStatID": "CraftT5WeaponOrApparel",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "DealOrHeal100000InArena3v3",
+        "SeasonsTrackedStatID": "DamageOrHealInArena3v3",
+        "TaskMaxValue": 100000,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10EnemiesOneHanded",
+        "SeasonsTrackedStatID": "KillWithOneHanded",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10EnemiesTwoHanded",
+        "SeasonsTrackedStatID": "KillWithTwoHanded",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10EnemiesRanged",
+        "SeasonsTrackedStatID": "KillWithRanged",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "ParticipateIn3Arena3x3",
+        "SeasonsTrackedStatID": "PlayArena3x3",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10EnemiesMagic",
+        "SeasonsTrackedStatID": "KillWithMagic",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "GetKillingBlowOnEnemyInOutpostRush",
+        "SeasonsTrackedStatID": "KillingBlowInOutpostRush",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Consume25T5Items",
+        "SeasonsTrackedStatID": "ConsumeT5Item",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Plant10WispySpritzes",
+        "SeasonsTrackedStatID": "PlantWispySpritzes",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Earn5000AmountOfAzothSalt",
+        "SeasonsTrackedStatID": "EarnAzoth",
+        "TaskMaxValue": 5000,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Spend250AmountOfAzoth",
+        "SeasonsTrackedStatID": "SpendAzoth",
+        "TaskMaxValue": 250,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete10MutatedExpeditionsFlawlessly",
+        "SeasonsTrackedStatID": "CompleteMutatedExpeditionFlawlessly",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_Complete10MutatedExpeditionsFlawlessly_name",
+        "Description": "@ui_seasons_task_Complete10MutatedExpeditionsFlawlessly_desc"
+    },
+    {
+        "SeasonsTaskID": "Earn1000PvPXPFromPlayers",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPXP",
+        "TaskMaxValue": 1000,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "UseFlameCoreForgex30",
+        "SeasonsTrackedStatID": "CraftUsingFlameCores",
+        "TaskMaxValue": 30,
+        "Name": "@ui_seasons_task_Collect2500VarangianFlameCores_name",
+        "Description": "@ui_seasons_task_CraftUsingFlameCores_desc"
+    }
+]

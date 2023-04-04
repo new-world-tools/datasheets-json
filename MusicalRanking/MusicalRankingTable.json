@@ -2,21 +2,25 @@
     {
         "Grade": "Amazing",
         "MinimumScore": 0.95,
-        "RankGameEventId": "MusicPerformance_Amazing_Result"
+        "RankGameEventId": "MusicPerformance_Amazing_Result",
+        "MusicalScoreMult": 2
     },
     {
         "Grade": "Great",
         "MinimumScore": 0.75,
-        "RankGameEventId": ""
+        "RankGameEventId": "",
+        "MusicalScoreMult": 1.6
     },
     {
         "Grade": "Okay",
         "MinimumScore": 0.5,
-        "RankGameEventId": ""
+        "RankGameEventId": "",
+        "MusicalScoreMult": 1.3
     },
     {
         "Grade": "Bad",
         "MinimumScore": 0,
-        "RankGameEventId": ""
+        "RankGameEventId": "",
+        "MusicalScoreMult": 1
     }
 ]

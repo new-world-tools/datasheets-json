@@ -1,0 +1,28 @@
+[
+    {
+        "WhisperVfxId": "whisper_vfx_test",
+        "VfxLibrary": "env_darkness",
+        "IntroFlash": "Corruption_eruption.Corruption_explosion01",
+        "IntroFx": "Core.Core_death01",
+        "MainFx": "Minor_aftermath01",
+        "Main_VoiceFx": "Azoth_staff01",
+        "Main_VoiceFx_Pulse": "Core.Core_minor_monolith_gather01",
+        "Main_VoiceFx_Tendrils": "Core.Core_minor_monolith_idle01",
+        "RefractPlayer": "Core.Core_shell_impacts01",
+        "RefractWisp": "Core.Coreshell_minor_monolith_idle01",
+        "ExitFx": "Azoth_staffbeam01"
+    },
+    {
+        "WhisperVfxId": "whisper_vfx_01",
+        "VfxLibrary": "wFX_whisper_system",
+        "IntroFlash": "",
+        "IntroFx": "intro_fx",
+        "MainFx": "main_corrupt_pools",
+        "Main_VoiceFx": "isabella_voice_L1",
+        "Main_VoiceFx_Pulse": "isabella_voice_L2",
+        "Main_VoiceFx_Tendrils": "isabella_voice_L3",
+        "RefractPlayer": "refract_ring_player",
+        "RefractWisp": "main_refract_wisps",
+        "ExitFx": "exit_fx"
+    }
+]

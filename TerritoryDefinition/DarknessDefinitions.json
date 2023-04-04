@@ -10,7 +10,10 @@
         "POITag": "DarknessMinor",
         "RequiredItemId": "Darkness_AzothStaff_T1",
         "RecommendedLevel": null,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "darkness_minor",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8002,
@@ -23,7 +26,10 @@
         "POITag": "DarknessMinor",
         "RequiredItemId": "Darkness_AzothStaff_T1",
         "RecommendedLevel": null,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "darkness_minor",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8003,
@@ -36,7 +42,10 @@
         "POITag": "DarknessMinor",
         "RequiredItemId": "Darkness_AzothStaff_T1",
         "RecommendedLevel": null,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "darkness_minor",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8004,
@@ -49,7 +58,10 @@
         "POITag": "DarknessMinor",
         "RequiredItemId": "Darkness_AzothStaff_T1",
         "RecommendedLevel": null,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "darkness_minor",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8005,
@@ -62,7 +74,10 @@
         "POITag": "DarknessMajor",
         "RequiredItemId": "Darkness_AzothStaff_T1",
         "RecommendedLevel": null,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "darkness_major",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8006,
@@ -75,7 +90,10 @@
         "POITag": "DarknessMajor",
         "RequiredItemId": "Darkness_AzothStaff_T1",
         "RecommendedLevel": null,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "darkness_major",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8007,
@@ -88,7 +106,10 @@
         "POITag": "DarknessMinor",
         "RequiredItemId": "Darkness_AzothStaff_T1",
         "RecommendedLevel": null,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "darkness_minor",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8008,
@@ -101,7 +122,10 @@
         "POITag": "DarknessMajor",
         "RequiredItemId": "Darkness_AzothStaff_T1",
         "RecommendedLevel": 65,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "darkness_major",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8009,
@@ -114,7 +138,10 @@
         "POITag": "DarknessMajor",
         "RequiredItemId": "Darkness_AzothStaff_T1",
         "RecommendedLevel": 65,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "darkness_major",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8010,
@@ -127,7 +154,10 @@
         "POITag": "MaudlinbugWaltz",
         "RequiredItemId": "2hInstrumentGuitarT2",
         "RecommendedLevel": null,
-        "PulseColor": "0 128 255"
+        "PulseColor": "0 128 255",
+        "AudioGroup": "POI_State",
+        "AudioState": "maudlinbugwaltz",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8011,
@@ -140,7 +170,10 @@
         "POITag": "DefendObject",
         "RequiredItemId": "",
         "RecommendedLevel": 15,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8012,
@@ -153,7 +186,10 @@
         "POITag": "DefendObject",
         "RequiredItemId": "",
         "RecommendedLevel": 17,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8013,
@@ -166,7 +202,10 @@
         "POITag": "DefendObject",
         "RequiredItemId": "",
         "RecommendedLevel": 10,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8014,
@@ -179,7 +218,10 @@
         "POITag": "DefendObject",
         "RequiredItemId": "",
         "RecommendedLevel": 15,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8015,
@@ -192,7 +234,10 @@
         "POITag": "EventEncounter",
         "RequiredItemId": "",
         "RecommendedLevel": 65,
-        "PulseColor": "110 116 240"
+        "PulseColor": "110 116 240",
+        "AudioGroup": "POI_State",
+        "AudioState": "worldboss",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8016,
@@ -205,7 +250,10 @@
         "POITag": "ChaplainEncounter",
         "RequiredItemId": "",
         "RecommendedLevel": 5,
-        "PulseColor": ""
+        "PulseColor": "",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8017,
@@ -218,7 +266,10 @@
         "POITag": "HeartforgeEncounter",
         "RequiredItemId": "",
         "RecommendedLevel": null,
-        "PulseColor": ""
+        "PulseColor": "",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8018,
@@ -231,7 +282,10 @@
         "POITag": "DefendObject",
         "RequiredItemId": "",
         "RecommendedLevel": 15,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8019,
@@ -244,7 +298,10 @@
         "POITag": "DefendObject",
         "RequiredItemId": "",
         "RecommendedLevel": 10,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "pyramid",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8020,
@@ -257,7 +314,10 @@
         "POITag": "DefendObject",
         "RequiredItemId": "",
         "RecommendedLevel": 17,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8021,
@@ -270,7 +330,10 @@
         "POITag": "",
         "RequiredItemId": "",
         "RecommendedLevel": null,
-        "PulseColor": ""
+        "PulseColor": "",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8022,
@@ -283,7 +346,10 @@
         "POITag": "EliteOverlord",
         "RequiredItemId": "",
         "RecommendedLevel": 66,
-        "PulseColor": "255 0 0"
+        "PulseColor": "255 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8023,
@@ -296,7 +362,10 @@
         "POITag": "EliteOverlord",
         "RequiredItemId": "",
         "RecommendedLevel": 66,
-        "PulseColor": "255 0 0"
+        "PulseColor": "255 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8024,
@@ -309,7 +378,10 @@
         "POITag": "BrimstoneSiegeEncounter",
         "RequiredItemId": "",
         "RecommendedLevel": 60,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8025,
@@ -322,7 +394,10 @@
         "POITag": "BrimstoneSulfurEncounter",
         "RequiredItemId": "",
         "RecommendedLevel": 60,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8026,
@@ -335,7 +410,10 @@
         "POITag": "RemnantEncounter",
         "RequiredItemId": "",
         "RecommendedLevel": 17,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8027,
@@ -348,7 +426,10 @@
         "POITag": "ZaneEncounter",
         "RequiredItemId": "",
         "RecommendedLevel": 21,
-        "PulseColor": "1 0 0"
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8028,
@@ -361,7 +442,10 @@
         "POITag": "EventEncounter",
         "RequiredItemId": "",
         "RecommendedLevel": 65,
-        "PulseColor": "195 219 255"
+        "PulseColor": "195 219 255",
+        "AudioGroup": "POI_State",
+        "AudioState": "worldboss",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8029,
@@ -374,7 +458,42 @@
         "POITag": "EventEncounter",
         "RequiredItemId": "",
         "RecommendedLevel": 65,
-        "PulseColor": "110 116 240"
+        "PulseColor": "110 116 240",
+        "AudioGroup": "POI_State",
+        "AudioState": "worldboss",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8030,
+        "NameLocalizationKey": "@ui_lostattack_swampwaterfishery",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
+        "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
+        "TooltipBackground": "LyShineUI/Images/map/tooltipImages/POI/mapTooltip_darkness_minor_monolith.png",
+        "GroupSize": 0,
+        "POITag": "EventEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 40,
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8031,
+        "NameLocalizationKey": "@ui_lostattack_piscarianfishery",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
+        "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
+        "TooltipBackground": "LyShineUI/Images/map/tooltipImages/POI/mapTooltip_darkness_minor_monolith.png",
+        "GroupSize": 0,
+        "POITag": "EventEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 40,
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
     },
     {
         "TerritoryID": 8032,
@@ -387,6 +506,73 @@
         "POITag": "EventEncounter",
         "RequiredItemId": "",
         "RecommendedLevel": 65,
-        "PulseColor": "110 116 240"
+        "PulseColor": "110 116 240",
+        "AudioGroup": "POI_State",
+        "AudioState": "worldboss",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8033,
+        "NameLocalizationKey": "@ui_worldboss_season_01_event",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/furySpriggan.png",
+        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/furySpriggan.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_furyspriggan.png",
+        "GroupSize": 4,
+        "POITag": "SeasonEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "235 52 52",
+        "AudioGroup": "POI_State",
+        "AudioState": "worldboss",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8034,
+        "NameLocalizationKey": "@objective_S01_Aidyn",
+        "IsPOI": true,
+        "MapIcon": "",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+        "GroupSize": 0,
+        "POITag": "AidynEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": null,
+        "PulseColor": "",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8035,
+        "NameLocalizationKey": "@objective_S01_Faceless",
+        "IsPOI": true,
+        "MapIcon": "",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+        "GroupSize": 0,
+        "POITag": "FacelessEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": null,
+        "PulseColor": "",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8036,
+        "NameLocalizationKey": "@ui_worldboss_season_02_event",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/furySpriggan.png",
+        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/furySpriggan.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_furyspriggan.png",
+        "GroupSize": 0,
+        "POITag": "SeasonEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "235 52 52",
+        "AudioGroup": "POI_State",
+        "AudioState": "worldboss",
+        "AudioBank": ""
     }
 ]

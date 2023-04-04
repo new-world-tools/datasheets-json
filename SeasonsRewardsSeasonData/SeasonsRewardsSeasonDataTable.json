@@ -1,0 +1,11 @@
+[
+    {
+        "SeasonId": "Season1",
+        "SeasonIndex": 1,
+        "Name": "@data_season_01_name",
+        "Description": "@data_season_01_desc",
+        "TotalXPToEarn": 400000,
+        "PremiumEntitlementId": "Entitlement_SeasonPassPurchase_Season1",
+        "PurchasedLevelsEntitlementId": "Entitlement_SeasonPassLevels_Season1"
+    }
+]
