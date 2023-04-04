@@ -951,7 +951,7 @@
         "RewardId": "S1_BattlePass_Free_79",
         "RewardIndex": 79,
         "RewardType": "BattlePass_Free",
-        "ItemId": "Bundle_GypsumOrb_2",
+        "ItemId": "Bundle_GypsumOrb_5",
         "EntitlementId": "",
         "EntitlementQuantity": null,
         "DisplayItemId": "",
@@ -1059,7 +1059,7 @@
         "RewardId": "S1_BattlePass_Free_88",
         "RewardIndex": 88,
         "RewardType": "BattlePass_Free",
-        "ItemId": "Bundle_GypsumOrb_2",
+        "ItemId": "Bundle_GypsumOrb_5",
         "EntitlementId": "",
         "EntitlementQuantity": null,
         "DisplayItemId": "",
@@ -1191,13 +1191,13 @@
         "RewardId": "S1_BattlePass_Free_99",
         "RewardIndex": 99,
         "RewardType": "BattlePass_Free",
-        "ItemId": "Bundle_GypsumOrb_5",
-        "EntitlementId": "",
-        "EntitlementQuantity": null,
-        "DisplayItemId": "",
+        "ItemId": "",
+        "EntitlementId": "EntitlementTitle_Season1_BattlePass",
+        "EntitlementQuantity": 1,
+        "DisplayItemId": "EntDisplay_Title_Season",
         "SeasonsXp": null,
         "SeasonsXpModifiable": "",
-        "LimitingEntitlementId": ""
+        "LimitingEntitlementId": "Entitlement_Season1_UnclaimedFreePass99"
     },
     {
         "RewardId": "S1_BattlePass_Free_100",
@@ -1469,8 +1469,8 @@
         "RewardType": "BattlePass_Premium",
         "ItemId": "",
         "EntitlementId": "Ent_StatusEffect_Token_Territory_1",
-        "EntitlementQuantity": 1,
-        "DisplayItemId": "EntDisplay_StatusEffect_Token_Territory_1",
+        "EntitlementQuantity": 2,
+        "DisplayItemId": "EntDisplay_StatusEffect_Token_Territory_2",
         "SeasonsXp": null,
         "SeasonsXpModifiable": "",
         "LimitingEntitlementId": ""
@@ -1589,8 +1589,8 @@
         "RewardType": "BattlePass_Premium",
         "ItemId": "",
         "EntitlementId": "Ent_StatusEffect_Token_Season_1",
-        "EntitlementQuantity": 1,
-        "DisplayItemId": "EntDisplay_StatusEffect_Token_Season_1",
+        "EntitlementQuantity": 2,
+        "DisplayItemId": "EntDisplay_StatusEffect_Token_Season_2",
         "SeasonsXp": null,
         "SeasonsXpModifiable": "",
         "LimitingEntitlementId": ""
@@ -1649,8 +1649,8 @@
         "RewardType": "BattlePass_Premium",
         "ItemId": "",
         "EntitlementId": "Ent_StatusEffect_Token_Weapon_1",
-        "EntitlementQuantity": 1,
-        "DisplayItemId": "EntDisplay_StatusEffect_Token_Weapon_1",
+        "EntitlementQuantity": 2,
+        "DisplayItemId": "EntDisplay_StatusEffect_Token_Weapon_2",
         "SeasonsXp": null,
         "SeasonsXpModifiable": "",
         "LimitingEntitlementId": ""
@@ -1769,8 +1769,8 @@
         "RewardType": "BattlePass_Premium",
         "ItemId": "",
         "EntitlementId": "Ent_StatusEffect_Token_Gather_1",
-        "EntitlementQuantity": 1,
-        "DisplayItemId": "EntDisplay_StatusEffect_Token_Gather_1",
+        "EntitlementQuantity": 2,
+        "DisplayItemId": "EntDisplay_StatusEffect_Token_Gather_2",
         "SeasonsXp": null,
         "SeasonsXpModifiable": "",
         "LimitingEntitlementId": ""
@@ -1793,8 +1793,8 @@
         "RewardType": "BattlePass_Premium",
         "ItemId": "",
         "EntitlementId": "Ent_StatusEffect_Token_Proficiency_1",
-        "EntitlementQuantity": 1,
-        "DisplayItemId": "EntDisplay_StatusEffect_Token_Proficiency_1",
+        "EntitlementQuantity": 2,
+        "DisplayItemId": "EntDisplay_StatusEffect_Token_Proficiency_2",
         "SeasonsXp": null,
         "SeasonsXpModifiable": "",
         "LimitingEntitlementId": ""
@@ -2420,7 +2420,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 850,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2432,7 +2432,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2444,7 +2444,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2456,7 +2456,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2468,7 +2468,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2480,7 +2480,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 850,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2492,7 +2492,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2504,7 +2504,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2516,7 +2516,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 850,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2528,7 +2528,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 850,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2540,7 +2540,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2552,7 +2552,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2564,7 +2564,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2576,7 +2576,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2588,7 +2588,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2600,7 +2600,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 4500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2612,7 +2612,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2624,7 +2624,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2636,7 +2636,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2648,7 +2648,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2660,7 +2660,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2672,7 +2672,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2684,7 +2684,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2696,7 +2696,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2708,7 +2708,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 850,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2720,7 +2720,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2732,7 +2732,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2744,7 +2744,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2756,7 +2756,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2768,7 +2768,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2780,7 +2780,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2792,7 +2792,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 4500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2804,7 +2804,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2816,7 +2816,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2828,7 +2828,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2840,7 +2840,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2852,7 +2852,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2864,7 +2864,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2876,7 +2876,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2888,7 +2888,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2900,7 +2900,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2912,7 +2912,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2924,7 +2924,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2936,7 +2936,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2948,7 +2948,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2960,7 +2960,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2972,7 +2972,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2984,7 +2984,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 4500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -2996,7 +2996,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3008,7 +3008,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3020,7 +3020,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3032,7 +3032,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3044,7 +3044,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3056,7 +3056,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3068,7 +3068,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3080,7 +3080,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 850,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3092,7 +3092,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 850,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3104,7 +3104,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3116,7 +3116,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3128,7 +3128,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3140,7 +3140,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3152,7 +3152,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3164,7 +3164,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3176,7 +3176,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "",
         "SeasonsXp": 4500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3188,7 +3188,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3200,7 +3200,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3212,7 +3212,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3224,7 +3224,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3236,7 +3236,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3248,7 +3248,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 850,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3260,7 +3260,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3000,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3272,7 +3272,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3284,7 +3284,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3296,7 +3296,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1750,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3308,7 +3308,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3320,7 +3320,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3332,7 +3332,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3344,7 +3344,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3356,7 +3356,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 1,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3368,7 +3368,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Apparel_Skye",
         "SeasonsXp": 4500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3380,7 +3380,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Title_Season1_JourneyChallenge1",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3392,7 +3392,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Title_Season1_JourneyChallenge2",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3404,7 +3404,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Title_Season1_JourneyChallenge3",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3416,7 +3416,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Title_Season1_JourneyChallenge4",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3428,7 +3428,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Title_Season1_JourneyChallenge5",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3440,7 +3440,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Title_Season1_JourneyChallenge6",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3452,7 +3452,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Title_Season1_JourneyChallenge7",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3464,7 +3464,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Title_Season1_JourneyChallenge8",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3476,7 +3476,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Title_Season1_JourneyChallenge9",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3488,7 +3488,7 @@
         "EntitlementQuantity": 1,
         "DisplayItemId": "EntDisplay_Title_Season1_JourneyChallenge10",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     },
     {
@@ -3500,7 +3500,7 @@
         "EntitlementQuantity": null,
         "DisplayItemId": "",
         "SeasonsXp": 3500,
-        "SeasonsXpModifiable": "TRUE",
+        "SeasonsXpModifiable": "FALSE",
         "LimitingEntitlementId": ""
     }
 ]

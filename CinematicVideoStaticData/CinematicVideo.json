@@ -67,40 +67,40 @@
     },
     {
         "CinematicVideoId": "Seasons_01_SkyeLetter",
-        "VideoPath": "LyShineUI/Videos/SkyesLetter_PlaceHolder.bk2",
+        "VideoPath": "LyShineUI/Videos/SkyesLetter.bk2",
         "Name": "@cinmatic_video_seasons_01_skyeletter",
         "ReqAchievementId": "95_s01_Skye_Cinematic_Letter_Unlock",
         "OnWatchedAchievementId": "Cinematic_95_s01_Skye_Watched",
-        "DurationInSec": 15,
+        "DurationInSec": 79,
         "Description": "",
-        "Subtitle": "",
+        "Subtitle": "@SkyeLetter01",
         "Comment": ""
     },
     {
         "CinematicVideoId": "WF_MorgainesTruth",
-        "VideoPath": "LyShineUI/Videos/MorgainsTruth_PlaceHolder.bk2",
+        "VideoPath": "LyShineUI/Videos/MorgainesTruth.bk2",
         "Name": "@cinmatic_video_wf_morgainestruth",
         "ReqAchievementId": "99C_MorgaineCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_MorgainesTruth",
-        "DurationInSec": 90,
+        "DurationInSec": 86,
         "Description": "",
-        "Subtitle": "",
+        "Subtitle": "@MorgaineTruth01",
         "Comment": ""
     },
     {
         "CinematicVideoId": "BW_GalahadsRegret",
-        "VideoPath": "LyShineUI/Videos/GalahadsRegret_PlaceHolder.bk2",
+        "VideoPath": "LyShineUI/Videos/GalahadsRegret.bk2",
         "Name": "@cinmatic_video_bw_galahadsregret",
         "ReqAchievementId": "99B_GalahadCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_GalahadsRegret",
-        "DurationInSec": 90,
+        "DurationInSec": 86,
         "Description": "",
-        "Subtitle": "",
+        "Subtitle": "@GalahadRegret01",
         "Comment": ""
     },
     {
         "CinematicVideoId": "BW_AzothTree",
-        "VideoPath": "LyShineUI/Videos/AzothTree_PlaceHolder.bk2",
+        "VideoPath": "LyShineUI/Videos/AzothTree.bk2",
         "Name": "@cinmatic_video_bw_azothtree",
         "ReqAchievementId": "99B_AzothTreeCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_AzothTree",
@@ -111,13 +111,13 @@
     },
     {
         "CinematicVideoId": "BW_CorpseCrone",
-        "VideoPath": "LyShineUI/Videos/CorpseCrone_PlaceHolder.bk2",
+        "VideoPath": "LyShineUI/Videos/CorpseCrone.bk2",
         "Name": "@cinmatic_video_bw_corpsecrone",
         "ReqAchievementId": "99B_PennyfatherCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_CorpseCrone",
-        "DurationInSec": 90,
+        "DurationInSec": 82,
         "Description": "",
-        "Subtitle": "",
+        "Subtitle": "@CorpseCrone01",
         "Comment": ""
     }
 ]

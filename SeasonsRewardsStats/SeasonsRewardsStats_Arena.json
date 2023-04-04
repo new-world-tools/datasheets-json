@@ -3,7 +3,7 @@
         "TrackedStatID": "PlayArena3x3",
         "StatType": "CompleteArena",
         "MustWin": null,
-        "GameModeResult": ""
+        "GameModeResult": "Victory,Defeat,Tie"
     },
     {
         "TrackedStatID": "WinArena3x3",

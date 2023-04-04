@@ -58111,7 +58111,7 @@
         "DepletedGatherableID": null,
         "BaseGatherTime": 5,
         "WaitForImpact": true,
-        "Restriction": "ToolRequired",
+        "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
         "GameEventID": "Dungeon_GreatCleave_01_GemGather_interact",
         "ItemRestrictionId": "",

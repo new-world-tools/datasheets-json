@@ -1781,8 +1781,8 @@
     },
     {
         "SpellID": "Rune_FireStorm_AoE_Dominator_Enemy",
-        "StatusEffects": "",
-        "StatusEffectDurations": "",
+        "StatusEffects": "Status_Rune_FireStorm_Major",
+        "StatusEffectDurations": "8",
         "Revive": "",
         "Siphon": "",
         "AttachToOwner": null,
