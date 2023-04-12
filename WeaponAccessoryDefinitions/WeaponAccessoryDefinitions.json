@@ -2240,6 +2240,22 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+        "#": 15147,
+        "WeaponID": "2hIceGauntletHighwaymanT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "objects/weapons/Magic/gauntletcore/1h/icegauntletHighwayman/wep_mag_gauntcore_1h_icegauntletHighwayman.cdf",
+        "SkinOverride1": "objects/weapons/Magic/gauntletcore/1h/icegauntletHighwayman/wep_mag_gauntcore_1h_icegauntletHighwayman.skin",
+        "MaterialOverride1": "objects/weapons/Magic/gauntlets/1h/icegauntletHighwayman/wep_mag_gaunt_1h_icegauntletHighwayman_matGroup.mtl",
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
         "#": 25000,
         "WeaponID": "1hVoidGauntlet_VoidT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",

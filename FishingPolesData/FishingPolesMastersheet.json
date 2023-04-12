@@ -168,5 +168,15 @@
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
         "LineTensionRecoverPerSecond": 37.5
+    },
+    {
+        "Id": "QuestReward_MSQ2_2hFishingPole_Yonas",
+        "CastDistanceRange": "5-16",
+        "FishRarityRollModifier": 0.75,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "FishReelTimeSeconds": 8,
+        "LineTensionGainPerSecond": 12.5,
+        "LineTensionRecoverPerSecond": 32.5
     }
 ]

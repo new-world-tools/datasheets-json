@@ -5982,5 +5982,181 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Firelight_TableLantern.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Firelight_TableLantern.png",
         "TypeDescription": "@reward_type_housing_item"
+    },
+    {
+        "UniqueTagID": "Apparel_Highwayman_Capelet",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Highwayman_Capelet_name",
+        "Description": "@Apparel_Highwayman_Capelet_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Portrait_Highwayman_Capelet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Rectangle_Highwayman_Capelet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Square_Highwayman_Capelet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Thumbnail_Highwayman_Capelet.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Highwayman_Tricorn",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Highwayman_Tricorn_name",
+        "Description": "@Skin_Chest_Apr2023_HighwaymanTricorn_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Highwayman_Tricorn.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Highwayman_Tricorn.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Highwayman_Tricorn.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Highwayman_Tricorn.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Highwayman_PrickleRust",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Highwayman_PrickleRust_name",
+        "Description": "@Skin_Chest_Apr2023_HighwaymanPrickleRust_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Highwayman_PrickleRust.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Highwayman_PrickleRust.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Highwayman_PrickleRust.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Highwayman_PrickleRust.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Weapon_Highwayman_Rapier",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Apr2023_Rapier_MasterName",
+        "Description": "@Skin_Apr2023_Rapier_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Highwayman_Rapier.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Highwayman_Rapier.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Highwayman_Rapier.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Highwayman_Rapier.png",
+        "TypeDescription": ""
+    },
+    {
+        "UniqueTagID": "Weapon_Highwayman_ShieldT",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Apr2023_ShieldT_MasterName",
+        "Description": "@Skin_Apr2023_ShieldT_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Highwayman_TowerShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Highwayman_TowerShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Highwayman_TowerShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Highwayman_TowerShield.png",
+        "TypeDescription": ""
+    },
+    {
+        "UniqueTagID": "Weapon_Highwayman_Hatchet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Apr2023_Hatchet_MasterName",
+        "Description": "@Skin_Apr2023_Hatchet_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Highwayman_ThrowingAxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Highwayman_ThrowingAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Highwayman_ThrowingAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Highwayman_ThrowingAxe.png",
+        "TypeDescription": ""
+    },
+    {
+        "UniqueTagID": "Weapon_Highwayman_Warhammer",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Apr2023_Warhammer_MasterName",
+        "Description": "@Skin_Apr2023_Warhammer_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Highwayman_Warhammer.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Highwayman_Warhammer.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Highwayman_Warhammer.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Highwayman_Warhammer.png",
+        "TypeDescription": ""
+    },
+    {
+        "UniqueTagID": "Weapon_Highwayman_IceGauntlet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Apr2023_IceGauntlet_MasterName",
+        "Description": "@Skin_Apr2023_IceGauntlet_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Highwayman_IceGauntlet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Highwayman_IceGauntlet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Highwayman_IceGauntlet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Highwayman_IceGauntlet.png",
+        "TypeDescription": ""
+    },
+    {
+        "UniqueTagID": "Weapon_Highwayman_Musket",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Apr2023_Musket_MasterName",
+        "Description": "@Skin_Apr2023_Musket_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Highwayman_Musket.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Highwayman_Musket.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Highwayman_Musket.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Highwayman_Musket.png",
+        "TypeDescription": ""
+    },
+    {
+        "UniqueTagID": "Apparel_Highwayman_Twitch_Collar",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Highwayman_Twitch_Collar_name",
+        "Description": "@Skin_Chest_Apr2023_HighwaymanCollar_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Highwayman_Collar.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Highwayman_Collar.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Highwayman_Collar.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Highwayman_Collar.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Emote_StumblingWalk",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Walk_Drunk_name",
+        "Description": "@ui_emote_Walk_Drunk_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_DrunkWalk.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_DrunkWalk.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_DrunkWalk.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_DrunkWalk.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_Dance_HipTwist",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_HipTwistDance_name",
+        "Description": "@ui_emote_HipTwistDance_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_HipDance.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_HipDance.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_HipDance.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_HipDance.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_PointAndLaugh",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_PointLaugh_name",
+        "Description": "@ui_emote_PointLaugh_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_PointLaugh.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_PointLaugh.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_PointLaugh.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_PointLaugh.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_Highwayman_Apparel",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_Highwayman_Apparel_name",
+        "Description": "@Bundle_PR_Highwayman_Apparel_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Armor_Highwayman.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Armor_Highwayman.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Armor_Highwayman.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Armor_Highwayman.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_Highwayman_Weapon",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_Highwayman_Weapon_name",
+        "Description": "@Bundle_PR_Highwayman_Weapon_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Weapon_Highwayman.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_Highwayman.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_Highwayman.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_Highwayman.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_LichenLord",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_LichenLord_name",
+        "Description": "@Bundle_PR_LichenLord_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_LichenLord2023.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_LichenLord2023.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_LichenLord2023.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_LichenLord2023.png",
+        "TypeDescription": "@ui_bundle"
     }
 ]
