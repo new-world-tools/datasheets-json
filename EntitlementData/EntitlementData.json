@@ -15810,6 +15810,21 @@
         "Notes": ""
     },
     {
+        "UniqueTagID": "EntitlementSkin_SpringBeekeeper",
+        "EntitlementIndex": 1203,
+        "IsEnabled": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsConsumable": null,
+        "Icon": "",
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Beekeeper_Spring+Skin_Head_Beekeeper_Spring+Skin_Legs_Beekeeper_Spring+Skin_Feet_Beekeeper_Spring+Skin_Hands_Beekeeper_Spring",
+        "EntitlementInfo": "",
+        "SourceType": "Store",
+        "AchievementId": "",
+        "Notes": ""
+    },
+    {
         "UniqueTagID": "Ent_Housing_OmensWinter2023_driftwoodbench01",
         "EntitlementIndex": 1204,
         "IsEnabled": true,
@@ -15954,6 +15969,21 @@
         "Icon": "",
         "RewardType": "SeasonsRewards",
         "Reward(s)": "SeasonLevel",
+        "EntitlementInfo": "",
+        "SourceType": "Store",
+        "AchievementId": "",
+        "Notes": ""
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_VictorianSpring",
+        "EntitlementIndex": 1214,
+        "IsEnabled": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsConsumable": null,
+        "Icon": "",
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Victorian_Spring+Skin_Head_Victorian_Spring+Skin_Legs_Victorian_Spring+Skin_Feet_Victorian_Spring+Skin_Hands_Victorian_Spring",
         "EntitlementInfo": "",
         "SourceType": "Store",
         "AchievementId": "",
@@ -16585,7 +16615,7 @@
         "RewardType": "ItemSkin",
         "Reward(s)": "Skin_Chest_Apr2023_HighwaymanCollar+Skin_Head_Apr2023_HighwaymanCollar+Skin_Legs_Apr2023_HighwaymanCollar+Skin_Feet_Apr2023_HighwaymanCollar+Skin_Hands_Apr2023_HighwaymanCollar",
         "EntitlementInfo": "",
-        "SourceType": "Twitch",
+        "SourceType": "Store",
         "AchievementId": "",
         "Notes": ""
     },
@@ -16646,7 +16676,7 @@
         "Reward(s)": "Apr2023_Container",
         "EntitlementInfo": "",
         "SourceType": "Prime",
-        "AchievementId": "",
+        "AchievementId": "RewardClaim_Highwayman_Prime",
         "Notes": ""
     },
     {

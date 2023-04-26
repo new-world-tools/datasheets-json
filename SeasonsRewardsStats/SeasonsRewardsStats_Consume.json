@@ -4,6 +4,39 @@
         "StatType": "Consume",
         "Target": "",
         "ItemTier": 5,
-        "ItemClass": ""
+        "ItemClass": "",
+        "TradingCategories": "",
+        "TradingFamilies": "",
+        "TradingGroups": ""
+    },
+    {
+        "TrackedStatID": "ConsumeT5Coating",
+        "StatType": "Consume",
+        "Target": "",
+        "ItemTier": 5,
+        "ItemClass": "WeaponOil",
+        "TradingCategories": "",
+        "TradingFamilies": "",
+        "TradingGroups": ""
+    },
+    {
+        "TrackedStatID": "ConsumeT5TradeskillConsumable",
+        "StatType": "Consume",
+        "Target": "",
+        "ItemTier": 5,
+        "ItemClass": "Consumable",
+        "TradingCategories": "",
+        "TradingFamilies": "",
+        "TradingGroups": "CraftingConsumables"
+    },
+    {
+        "TrackedStatID": "ConsumeT5ResistanceConsumable",
+        "StatType": "Consume",
+        "Target": "",
+        "ItemTier": 5,
+        "ItemClass": "Consumable",
+        "TradingCategories": "",
+        "TradingFamilies": "",
+        "TradingGroups": "PotionElemDefense,PotionWellness,PotionPurifyB"
     }
 ]

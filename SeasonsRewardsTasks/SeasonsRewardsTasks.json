@@ -922,5 +922,61 @@
         "TaskMaxValue": 30,
         "Name": "@ui_seasons_task_Collect2500VarangianFlameCores_name",
         "Description": "@ui_seasons_task_CraftUsingFlameCores_desc"
+    },
+    {
+        "SeasonsTaskID": "Activity_CraftUsingTimelessShard",
+        "SeasonsTrackedStatID": "CraftUsingTimelessShard",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Activity_CraftUsingPoultryThigh",
+        "SeasonsTrackedStatID": "CraftUsingPoultryThigh",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Activity_CraftUsingSumptuousRabbit",
+        "SeasonsTrackedStatID": "CraftUsingSumptuousRabbit",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Activity_CraftUsingPrimeArmadillo",
+        "SeasonsTrackedStatID": "CraftUsingPrimeArmadillo",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Activity_SalvageT5Named",
+        "SeasonsTrackedStatID": "SalvageT5Named",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Activity_ConsumeT5Coating",
+        "SeasonsTrackedStatID": "ConsumeT5Coating",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Activity_ConsumeT5TradeskillConsumable",
+        "SeasonsTrackedStatID": "ConsumeT5TradeskillConsumable",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Activity_ConsumeT5ResistanceConsumable",
+        "SeasonsTrackedStatID": "ConsumeT5ResistanceConsumable",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
     }
 ]

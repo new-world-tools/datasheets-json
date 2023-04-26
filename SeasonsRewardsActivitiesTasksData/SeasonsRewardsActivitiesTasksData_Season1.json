@@ -355,5 +355,61 @@
         "Type": "Season",
         "Description": "@SeasonsActivities_UseFlameCoreForgex1",
         "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task62",
+        "Task": "Activity_CraftUsingTimelessShard",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_CraftUsingTimelessShard",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task63",
+        "Task": "Activity_CraftUsingPoultryThigh",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_CraftUsingPoultryThigh",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task64",
+        "Task": "Activity_CraftUsingSumptuousRabbit",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_CraftUsingSumptuousRabbit",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task65",
+        "Task": "Activity_CraftUsingPrimeArmadillo",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_CraftUsingPrimeArmadillo",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task66",
+        "Task": "Activity_SalvageT5Named",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_SalvageT5Named",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task67",
+        "Task": "Activity_ConsumeT5Coating",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_ConsumeT5Coating",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task68",
+        "Task": "Activity_ConsumeT5TradeskillConsumable",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_ConsumeT5TradeskillConsumable",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task69",
+        "Task": "Activity_ConsumeT5ResistanceConsumable",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_ConsumeT5ResistanceConsumable",
+        "Active": ""
     }
 ]
