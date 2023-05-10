@@ -411,5 +411,54 @@
         "Type": "Gathering",
         "Description": "@SeasonsActivities_ConsumeT5ResistanceConsumable",
         "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task70",
+        "Task": "Kill10EnemiesMyrkgard",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillPOIMyrkgard",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task71",
+        "Task": "Kill10EnemiesImperialPalace",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillPOIImperialPalace",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task72",
+        "Task": "Kill10EnemiesMalevolence",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillPOIMalevolence",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task73",
+        "Task": "Kill10EnemiesEternalPool",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillPOIEternalPool",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task74",
+        "Task": "Kill10EnemiesBedsOfTaBitJet",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillPOIBedsOfTaBitJet",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task75",
+        "Task": "Kill2Named",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillNamed",
+        "Active": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task76",
+        "Task": "Kill20Elite",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillElite",
+        "Active": ""
     }
 ]

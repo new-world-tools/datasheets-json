@@ -93,7 +93,7 @@
     {
         "SeasonsTaskID": "Capture50FactionControlPoint",
         "SeasonsTrackedStatID": "CaptureFCP",
-        "TaskMaxValue": 50,
+        "TaskMaxValue": 30,
         "Name": "@ui_seasons_task_Capture50FactionControlPoint_name",
         "Description": "@ui_seasons_task_CaptureFactionControlPoint_desc"
     },
@@ -107,14 +107,14 @@
     {
         "SeasonsTaskID": "Win10OutpostRush",
         "SeasonsTrackedStatID": "WinOutpostRush",
-        "TaskMaxValue": 10,
+        "TaskMaxValue": 5,
         "Name": "@ui_seasons_task_Win10OutpostRush_name",
         "Description": "@ui_seasons_task_WinOutpostRush_desc"
     },
     {
         "SeasonsTaskID": "Win100OutpostRush",
         "SeasonsTrackedStatID": "WinOutpostRush",
-        "TaskMaxValue": 100,
+        "TaskMaxValue": 30,
         "Name": "@ui_seasons_task_Win1OutpostRushBy750Points_name",
         "Description": "@ui_seasons_task_WinOutpostRush_desc"
     },
@@ -240,7 +240,7 @@
     {
         "SeasonsTaskID": "Complete2Invasions",
         "SeasonsTrackedStatID": "ParticipateInInvasion",
-        "TaskMaxValue": 2,
+        "TaskMaxValue": 1,
         "Name": "@ui_seasons_task_Complete2Invasions_name",
         "Description": "@ui_seasons_task_CompleteInvasions_desc"
     },
@@ -261,14 +261,14 @@
     {
         "SeasonsTaskID": "Kill500PlayersInOpenWorld",
         "SeasonsTrackedStatID": "KillPlayerInOpenWorld",
-        "TaskMaxValue": 500,
+        "TaskMaxValue": 100,
         "Name": "@ui_seasons_task_Kill500PlayersInOpenWorld_name",
         "Description": "@ui_seasons_task_KillPlayersInOpenWorld_desc"
     },
     {
         "SeasonsTaskID": "Kill50PlayerInOpenWorld",
         "SeasonsTrackedStatID": "KillPlayerInOpenWorld",
-        "TaskMaxValue": 50,
+        "TaskMaxValue": 15,
         "Name": "@ui_seasons_task_KillAssist50PlayersInOpenWorld_name",
         "Description": "@ui_seasons_task_KillAssistPlayersInOpenWorld_desc"
     },
@@ -660,7 +660,7 @@
     {
         "SeasonsTaskID": "Craft125LegendaryItems",
         "SeasonsTrackedStatID": "CraftLegendaryItem",
-        "TaskMaxValue": 125,
+        "TaskMaxValue": 100,
         "Name": "@ui_seasons_task_Craft125LegendaryItems_name",
         "Description": "@ui_seasons_task_CraftLegendaryItems_desc"
     },
@@ -744,7 +744,7 @@
     {
         "SeasonsTaskID": "Complete2PvPFactionMissions",
         "SeasonsTrackedStatID": "CompletePvPFactionMission",
-        "TaskMaxValue": 2,
+        "TaskMaxValue": 1,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     },
@@ -821,14 +821,14 @@
     {
         "SeasonsTaskID": "Craft5T5WeaponOrApparel",
         "SeasonsTrackedStatID": "CraftT5WeaponOrApparel",
-        "TaskMaxValue": 5,
+        "TaskMaxValue": 3,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     },
     {
         "SeasonsTaskID": "DealOrHeal100000InArena3v3",
         "SeasonsTrackedStatID": "DamageOrHealInArena3v3",
-        "TaskMaxValue": 100000,
+        "TaskMaxValue": 50000,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     },
@@ -856,7 +856,7 @@
     {
         "SeasonsTaskID": "ParticipateIn3Arena3x3",
         "SeasonsTrackedStatID": "PlayArena3x3",
-        "TaskMaxValue": 3,
+        "TaskMaxValue": 1,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     },
@@ -891,7 +891,7 @@
     {
         "SeasonsTaskID": "Earn5000AmountOfAzothSalt",
         "SeasonsTrackedStatID": "EarnAzoth",
-        "TaskMaxValue": 5000,
+        "TaskMaxValue": 1000,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     },
@@ -912,7 +912,7 @@
     {
         "SeasonsTaskID": "Earn1000PvPXPFromPlayers",
         "SeasonsTrackedStatID": "CategoricalProgressionPvPXP",
-        "TaskMaxValue": 1000,
+        "TaskMaxValue": 100,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     },
@@ -961,7 +961,7 @@
     {
         "SeasonsTaskID": "Activity_ConsumeT5Coating",
         "SeasonsTrackedStatID": "ConsumeT5Coating",
-        "TaskMaxValue": 10,
+        "TaskMaxValue": 2,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     },
@@ -976,6 +976,55 @@
         "SeasonsTaskID": "Activity_ConsumeT5ResistanceConsumable",
         "SeasonsTrackedStatID": "ConsumeT5ResistanceConsumable",
         "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10EnemiesMyrkgard",
+        "SeasonsTrackedStatID": "KillPOIMyrkgard",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10EnemiesImperialPalace",
+        "SeasonsTrackedStatID": "KillPOIImperialPalace",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10EnemiesMalevolence",
+        "SeasonsTrackedStatID": "KillPOIMalevolence",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10EnemiesEternalPool",
+        "SeasonsTrackedStatID": "KillPOIEternalPool",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10EnemiesBedsOfTaBitJet",
+        "SeasonsTrackedStatID": "KillPOIBedsOfTaBitJet",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill2Named",
+        "SeasonsTrackedStatID": "KillNamed",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill20Elite",
+        "SeasonsTrackedStatID": "KillElite",
+        "TaskMaxValue": 20,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     }

@@ -4855,10 +4855,10 @@
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_DevilHornRock_name",
         "Description": "@ui_emote_DevilHornRock_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_DevilHorns.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_DevilHorns.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_DevilHorns.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_DevilHorns.png",
         "TypeDescription": "@reward_type_emote"
     },
     {
@@ -6158,5 +6158,170 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_LichenLord2023.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_LichenLord2023.png",
         "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_PauldronedFears",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_PauldronedFears_name",
+        "Description": "@Bundle_PR_PauldronedFears_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Firelight_TableLantern.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Firelight_TableLantern.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Firelight_TableLantern.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Firelight_TableLantern.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Apparel_MedievalHistoric_HounSkull",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_MedievalHistoric_HounSkull_name",
+        "Description": "@Skin_Chest_MedievalHistoric_HounSkull_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Portrait_HistoricMedieval_Hounskull.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Rectangle_HistoricMedieval_Hounskull.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Square_HistoricMedieval_Hounskull.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Thumbnail_HistoricMedieval_Hounskull.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_MedievalHistoric_DarkHorns",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_MedievalHistoric_DarkHorns_name",
+        "Description": "@Skin_Chest_MedievalHistoric_DarkHorns_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Portrait_HistoricMedieval_DarkHorns.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Rectangle_HistoricMedieval_DarkHorns.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Square_HistoricMedieval_DarkHorns.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Thumbnail_HistoricMedieval_DarkHorns.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_MedievalHistoric_Twitch01",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_MedievalHistoric_Twitch01_name",
+        "Description": "@Skin_Chest_MedievalHistoric_Twitch01_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Portrait_HistoricMedieval_DragonWings.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Rectangle_HistoricMedieval_DragonWings.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Square_HistoricMedieval_DragonWings.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Thumbnail_HistoricMedieval_DragonWings.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_MedievalHistoric_Twitch02",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_MedievalHistoric_Twitch02_name",
+        "Description": "@Skin_Chest_MedievalHistoric_Twitch02_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Portrait_HistoricMedieval_DragonWingsDirty.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Rectangle_HistoricMedieval_DragonWingsDirty.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Square_HistoricMedieval_DragonWingsDirty.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Thumbnail_HistoricMedieval_DragonWingsDirty.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Weapon_MedievalHistoric_Longsword",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_MedievalHistoric_Longsword_MasterName",
+        "Description": "@Skin_MedievalHistoric_Longsword_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MedievalHistoric_Longsword.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MedievalHistoric_Longsword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MedievalHistoric_Longsword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MedievalHistoric_Longsword.png",
+        "TypeDescription": "@reward_type_Weaponskin_Sword"
+    },
+    {
+        "UniqueTagID": "Weapon_MedievalHistoric_Greataxe",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_MedievalHistoric_Greataxe_MasterName",
+        "Description": "@Skin_MedievalHistoric_Greataxe_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MedievalHistoric_Greataxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MedievalHistoric_Greataxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MedievalHistoric_Greataxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MedievalHistoric_Greataxe.png",
+        "TypeDescription": "@reward_type_Weaponskin_GreatAxe"
+    },
+    {
+        "UniqueTagID": "Weapon_MedievalHistoric_FireStaff",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_MedievalHistoric_FireStaff_MasterName",
+        "Description": "@Skin_MedievalHistoric_FireStaff_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MedievalHistoric_FireStaff.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MedievalHistoric_FireStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MedievalHistoric_FireStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MedievalHistoric_FireStaff.png",
+        "TypeDescription": "@reward_type_Weaponskin_FireStaff"
+    },
+    {
+        "UniqueTagID": "Weapon_MedievalHistoric_Blunderbuss",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_MedievalHistoric_Blunderbuss_MasterName",
+        "Description": "@Skin_MedievalHistoric_Blunderbuss_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MedievalHistoric_Blunderbuss.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MedievalHistoric_Blunderbuss.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MedievalHistoric_Blunderbuss.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MedievalHistoric_Blunderbuss.png",
+        "TypeDescription": "@reward_type_Weaponskin_Blunderbuss"
+    },
+    {
+        "UniqueTagID": "Weapon_MedievalHistoric_Greatsword",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_MedievalHistoric_Greatsword_MasterName",
+        "Description": "@Skin_MedievalHistoric_Greatsword_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MedievalHistoric_Greatsword.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MedievalHistoric_Greatsword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MedievalHistoric_Greatsword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MedievalHistoric_Greatsword.png",
+        "TypeDescription": "@reward_type_Weaponskin_Greatsword"
+    },
+    {
+        "UniqueTagID": "Weapon_MedievalHistoric_Spear",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_MedievalHistoric_Spear_MasterName",
+        "Description": "@Skin_MedievalHistoric_Spear_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_MedievalHistoric_Spear.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_MedievalHistoric_Spear.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_MedievalHistoric_Spear.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_MedievalHistoric_Spear.png",
+        "TypeDescription": "@reward_type_Weaponskin_Spear"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_MedievalHistoric_Apparel",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_MedievalHistoric_Apparel_name",
+        "Description": "@Bundle_PR_MedievalHistoric_Apparel_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/Bundle_Portrait_Armor_HistoricMedieval.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Bundle_Rectangle_Armor_HistoricMedieval.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Bundle_Square_Armor_HistoricMedieval.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Bundle_Thumbnail_Armor_HistoricMedieval.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_MedievalHistoric_Weapon",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_MedievalHistoric_Weapon_name",
+        "Description": "@Bundle_PR_MedievalHistoric_Weapon_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Weapon_MedievalHistoric.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_MedievalHistoric.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_MedievalHistoric.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_MedievalHistoric.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Emote_BreakDanceArmWave",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_ArmWaveDance_name",
+        "Description": "@ui_emote_ArmWaveDance_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_BreakdanceArmwave.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_BreakdanceArmwave.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_BreakdanceArmwave.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_BreakdanceArmwave.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_FashionWalk",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Walk_Fashion_name",
+        "Description": "@ui_emote_Walk_Fashion_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_FashionWalk.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_FashionWalk.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_FashionWalk.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_FashionWalk.png",
+        "TypeDescription": "@reward_type_emote"
     }
 ]

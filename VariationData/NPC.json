@@ -6916,7 +6916,7 @@
         "GreetTimeline": "Libs\\Timeline\\Npc\\NPC_PlayGreetAnim.timeline",
         "IdleTimeline": "Libs\\Timeline\\Npc\\NPC_PlayIdleLoop.timeline",
         "InteractTimeline": "Libs\\Timeline\\Npc\\NPC_PlayInteractLoop.timeline",
-        "SwapAchievementId": "((99_MSQ_20 || 99_MSQ_21) \u0026\u0026 (SwapActive_99A_Yonas_02 || SwapActive_AlazarYonas_OnOff) \u0026\u0026 !99_MSQ_34)",
+        "SwapAchievementId": "!99_MSQ_34 \u0026\u0026 (((99_MSQ_20 || 99_MSQ_21) \u0026\u0026 (SwapActive_99A_Yonas_02 || SwapActive_AlazarYonas_OnOff)) || (99_MSQ_22 \u0026\u0026 !SwapActive_99A_Yonas_02 \u0026\u0026 !SwapActive_99B_Yonas_p1_On \u0026\u0026 !SwapActive_99B_Yonas_p2_On \u0026\u0026 !99B_MSQ_01))",
         "PlaceholderMesh": "",
         "AttachedMesh": "",
         "AttachmentPositionX": null,

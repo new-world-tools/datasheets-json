@@ -46,8 +46,8 @@
         "CritTargetCameraShakeID": "",
         "StunBreakoutIncrement": 0,
         "UseAttackerPosForReaction": "",
-        "HitRuneCharge": 0,
-        "HitBlockedRuneCharge": 0
+        "HitRuneCharge": 0.1625,
+        "HitBlockedRuneCharge": 0.325
     },
     {
         "DamageID": "Fall",
