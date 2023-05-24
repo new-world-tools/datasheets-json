@@ -3806,5 +3806,19 @@
         "Faction": "Any",
         "Notes": "",
         "Intent": ""
+    },
+    {
+        "Index": 276,
+        "OldIndex": 230,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_231",
+        "EntitlementId": "icon_crest_231",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_231_gryphon_crest_1.dds",
+        "Color": "",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Notes": "",
+        "Intent": ""
     }
 ]

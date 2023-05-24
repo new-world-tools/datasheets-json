@@ -5,7 +5,8 @@
         "TargetID": "",
         "RequireGroup": "",
         "ChapterType": "Challenge",
-        "ChapterIndex": null
+        "ChapterIndex": null,
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CompleteTasksChapter1",
@@ -13,7 +14,8 @@
         "TargetID": "",
         "RequireGroup": "",
         "ChapterType": "Chapter",
-        "ChapterIndex": 1
+        "ChapterIndex": 1,
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CompleteTasksChapter2",
@@ -21,7 +23,8 @@
         "TargetID": "",
         "RequireGroup": "",
         "ChapterType": "Chapter",
-        "ChapterIndex": 2
+        "ChapterIndex": 2,
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CompleteTasksChapter3",
@@ -29,7 +32,8 @@
         "TargetID": "",
         "RequireGroup": "",
         "ChapterType": "Chapter",
-        "ChapterIndex": 3
+        "ChapterIndex": 3,
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CompleteTasksChapter4",
@@ -37,6 +41,7 @@
         "TargetID": "",
         "RequireGroup": "",
         "ChapterType": "Chapter",
-        "ChapterIndex": 4
+        "ChapterIndex": 4,
+        "IsPermanent": true
     }
 ]

@@ -16,41 +16,5 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1530_Topic1_Springtide",
-        "PlayerPrompt": "@1530_Topic1_Springtide_prompt",
-        "NPCResponse": "@1530_Topic1_Springtide_response",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "SpringtideBloom_Topic1",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1530_Topic2_Children",
-        "PlayerPrompt": "@1530_Topic2_Children_prompt",
-        "NPCResponse": "@1530_Topic2_Children_response",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "SpringtideBloom_Topic1",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1530_Topic3_Wasp",
-        "PlayerPrompt": "@1530_Topic3_Wasp_prompt",
-        "NPCResponse": "@1530_Topic3_Wasp_response",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "SpringtideBloom_Topic1",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1530_Topic4_Folk",
-        "PlayerPrompt": "@1530_Topic4_Folk_prompt",
-        "NPCResponse": "@1530_Topic4_Folk_response",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "SpringtideBloom_Topic2",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
     }
 ]
