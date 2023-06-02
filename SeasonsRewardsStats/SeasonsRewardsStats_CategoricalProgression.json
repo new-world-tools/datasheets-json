@@ -30,5 +30,21 @@
         "TrackingType": "Points",
         "IsDebit": null,
         "Reasons": "PvpKill,ContributionReward"
+    },
+    {
+        "TrackedStatID": "CategoricalProgressionFishingPostCap",
+        "StatType": "CategoricalProgression",
+        "CategoricalProgressionIds": "Fishing_PostCap",
+        "TrackingType": "Ranked",
+        "IsDebit": null,
+        "Reasons": ""
+    },
+    {
+        "TrackedStatID": "CategoricalProgressionPvPXPAnyReason",
+        "StatType": "CategoricalProgression",
+        "CategoricalProgressionIds": "PvP_XP",
+        "TrackingType": "Points",
+        "IsDebit": null,
+        "Reasons": ""
     }
 ]

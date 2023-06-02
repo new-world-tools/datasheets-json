@@ -119,5 +119,104 @@
         "Score": null,
         "MutatorRank": "",
         "IsFlawless": true
+    },
+    {
+        "TrackedStatID": "CompleteSandwormTrial",
+        "StatType": "CompleteExpedition",
+        "GameMode": "TrialBrimstoneSandworm",
+        "Level": null,
+        "MutationLevel": null,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteSandwormTrialFlawlessly",
+        "StatType": "CompleteExpedition",
+        "GameMode": "TrialBrimstoneSandworm",
+        "Level": null,
+        "MutationLevel": null,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": true
+    },
+    {
+        "TrackedStatID": "CompleteHatcheryTrial",
+        "StatType": "CompleteExpedition",
+        "GameMode": "TrialSeason01",
+        "Level": null,
+        "MutationLevel": null,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteHatcheryTrialIn10Minutes",
+        "StatType": "CompleteExpedition",
+        "GameMode": "TrialSeason01",
+        "Level": null,
+        "MutationLevel": null,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteMutatedExpeditionWithSilverRank",
+        "StatType": "CompleteExpedition",
+        "GameMode": "",
+        "Level": null,
+        "MutationLevel": null,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "SILVER",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteExpedition_TheEnnead",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonBrimstoneSands00",
+        "Level": null,
+        "MutationLevel": null,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteM1Expedition_TheEnnead",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonBrimstoneSands00",
+        "Level": null,
+        "MutationLevel": 1,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteM10Expedition_TheEnnead",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonBrimstoneSands00",
+        "Level": null,
+        "MutationLevel": 10,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteM10ExpeditionFlawlessly",
+        "StatType": "CompleteExpedition",
+        "GameMode": "",
+        "Level": null,
+        "MutationLevel": 10,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": true
     }
 ]

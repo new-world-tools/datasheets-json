@@ -1,12 +1,12 @@
 [
     {
         "Id": "FreshWater_VeryShallow",
-        "TimeToNibbleSecondsRange": "20-30",
+        "TimeToNibbleSecondsRange": "15-25",
         "TimeToBiteSecondsRange": "1-1.5"
     },
     {
         "Id": "FreshWater_Shallow",
-        "TimeToNibbleSecondsRange": "10-25",
+        "TimeToNibbleSecondsRange": "10-20",
         "TimeToBiteSecondsRange": "1-1.5"
     },
     {

@@ -3956,7 +3956,7 @@
         "TaskID": "04A_Side03_02_02_Task_HaveScroll",
         "Type": "TaskGatherAndReturnItems",
         "FailOnCondition": "",
-        "StayActive": 1,
+        "StayActive": null,
         "RequiredLevel": "",
         "TargetQty": 12,
         "ItemName": "04aSide03_0201_AncientScroll",

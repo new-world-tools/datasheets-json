@@ -127,7 +127,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -260,7 +260,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -393,7 +393,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -467,7 +467,7 @@
         "MyComparisonType": "",
         "MyStaminaPercent": "",
         "MyStaminaComparisonType": "",
-        "TargetHealthPercent": 99,
+        "TargetHealthPercent": 70,
         "TargetComparisonType": "GreaterThan",
         "DistFromDefender": "",
         "DistComparisonType": "",
@@ -526,7 +526,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -659,7 +659,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -792,7 +792,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -925,7 +925,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -1058,7 +1058,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -1166,7 +1166,7 @@
         "MaxHealth": "",
         "Mana": "",
         "MaxMana": "",
-        "DamageTableRowOverride": "Warhammer_Damage_MightyGavel_Upg",
+        "DamageTableRowOverride": "",
         "RangedAttackNameOverride": "",
         "EnableCrit": "",
         "PerStatusEffectOnTarget": "",
@@ -1191,7 +1191,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": 1,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -1324,7 +1324,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -1457,7 +1457,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -1590,7 +1590,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -1723,7 +1723,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -1856,7 +1856,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -1989,7 +1989,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -2122,7 +2122,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -2255,7 +2255,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -2388,7 +2388,7 @@
         "CDRImmediatelyOptions": "ActiveWeapon",
         "ResetCooldownTimers": "",
         "CooldownTimer": -0.07,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -2521,7 +2521,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -2654,7 +2654,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -2787,7 +2787,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -2920,7 +2920,7 @@
         "CDRImmediatelyOptions": "AbilitySpecific",
         "ResetCooldownTimers": "",
         "CooldownTimer": -0.05,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -3053,7 +3053,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -3186,7 +3186,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -3319,7 +3319,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -3452,7 +3452,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -3585,7 +3585,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -3718,7 +3718,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -3851,7 +3851,7 @@
         "CDRImmediatelyOptions": "AbilitySpecific",
         "ResetCooldownTimers": "",
         "CooldownTimer": -0.05,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -3984,7 +3984,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -4117,7 +4117,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -4250,7 +4250,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -4383,7 +4383,7 @@
         "CDRImmediatelyOptions": "ActiveWeapon",
         "ResetCooldownTimers": "",
         "CooldownTimer": -0.07,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -4516,7 +4516,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -4649,7 +4649,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -4782,7 +4782,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -4915,7 +4915,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""
@@ -5048,7 +5048,7 @@
         "CDRImmediatelyOptions": "",
         "ResetCooldownTimers": "",
         "CooldownTimer": null,
-        "NumFreeCooldownsPerUse": "",
+        "NumFreeCooldownsPerUse": null,
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": ""

@@ -21,7 +21,7 @@
         "Value": 0.05,
         "Name": "@ui_progression_global_modifier_name",
         "Description": "@ui_progression_global_modifier_desc",
-        "Comments": "Percentage increase to global experience (combat, tradeskill, mastery, territory)"
+        "Comments": "Percentageincreasetoglobalexperience(combat,tradeskill,mastery,territory)"
     },
     {
         "FactionControlBuffID": "Azoth_FastTravel_GeneralCost_Reduction",
@@ -45,7 +45,7 @@
         "Value": 5,
         "Name": "@ui_azoth_fasttravel_distance_reduction_name",
         "Description": "@ui_azoth_fasttravel_distance_reduction_desc",
-        "Comments": "Implemented as subtracting this value from the base cost, instead of setting it to 1"
+        "Comments": "Implementedassubtractingthisvaluefromthebasecost,insteadofsettingitto1"
     },
     {
         "FactionControlBuffID": "Azoth_Crafting_Effectiveness_Modifer",
@@ -157,7 +157,7 @@
         "Value": 5,
         "Name": "@ui_crafting_max_gs_bonus_name",
         "Description": "@ui_crafting_max_gs_bonus_desc",
-        "Comments": "GS bonus for crafting rolls (ceiling, not floor.)"
+        "Comments": "GSbonusforcraftingrolls(ceiling,notfloor.)"
     },
     {
         "FactionControlBuffID": "Azoth_Salt_Yield_Modifier",
@@ -189,7 +189,7 @@
         "Value": 0,
         "Name": "",
         "Description": "",
-        "Comments": "Not approved for use, consider removing if will not be reworked"
+        "Comments": "Notapprovedforuse,considerremovingifwillnotbereworked"
     },
     {
         "FactionControlBuffID": "Faction_Store_Discount_Modifier",

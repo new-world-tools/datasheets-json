@@ -468,5 +468,15 @@
         "ExclusiveLabelID": "Gem",
         "Weight": 5,
         "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Motes",
+        "Weight": 500,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "5thPerk",
+        "Weight": 500,
+        "ItemClassOverrides": ""
     }
 ]

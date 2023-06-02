@@ -346,7 +346,7 @@
         "Name": "@SeasonsRewards_Name",
         "Icon": "LyShineUI/Images/SeasonsRewards/Icon_Unlock_SeasonRewardTrack_bg.dds",
         "Image": "",
-        "Tooltip": "",
+        "Tooltip": "@seasons_leveling_guide_tooltip_text",
         "Notes": ""
     },
     {

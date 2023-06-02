@@ -160,6 +160,16 @@
         "IsLarge": true
     },
     {
+        "FishId": "FishingSalmonFatT1",
+        "Size": "Large",
+        "FishingXp": 10,
+        "MinWeight": 0,
+        "MaxWeight": 1,
+        "IsSmall": false,
+        "IsMedium": false,
+        "IsLarge": true
+    },
+    {
         "FishId": "FishingMackerelSmallT1",
         "Size": "Small",
         "FishingXp": 20,
@@ -860,7 +870,47 @@
         "IsLarge": false
     },
     {
+        "FishId": "FishingJunkSaltChestT2",
+        "Size": "Invalid",
+        "FishingXp": 20,
+        "MinWeight": 1,
+        "MaxWeight": 2,
+        "IsSmall": false,
+        "IsMedium": false,
+        "IsLarge": false
+    },
+    {
+        "FishId": "FishingJunkFreshChestT2",
+        "Size": "Invalid",
+        "FishingXp": 20,
+        "MinWeight": 1,
+        "MaxWeight": 2,
+        "IsSmall": false,
+        "IsMedium": false,
+        "IsLarge": false
+    },
+    {
         "FishId": "FishingTreasureChestT3",
+        "Size": "Invalid",
+        "FishingXp": 20,
+        "MinWeight": 1,
+        "MaxWeight": 2,
+        "IsSmall": false,
+        "IsMedium": false,
+        "IsLarge": false
+    },
+    {
+        "FishId": "FishingProvisionChestT3",
+        "Size": "Invalid",
+        "FishingXp": 20,
+        "MinWeight": 1,
+        "MaxWeight": 2,
+        "IsSmall": false,
+        "IsMedium": false,
+        "IsLarge": false
+    },
+    {
+        "FishId": "FishingResourcesChestT3",
         "Size": "Invalid",
         "FishingXp": 20,
         "MinWeight": 1,

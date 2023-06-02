@@ -7,7 +7,8 @@
         "ItemType": "Resource",
         "ItemClass": "",
         "PerUse": null,
-        "Tradeskills": "Skinning,Mining,Logging,Harvesting"
+        "Tradeskills": "Skinning,Mining,Logging,Harvesting",
+        "GatherableIds": ""
     },
     {
         "TrackedStatID": "GatherT5ResourceNode",
@@ -17,7 +18,8 @@
         "ItemType": "Resource",
         "ItemClass": "",
         "PerUse": true,
-        "Tradeskills": "Skinning,Mining,Logging,Harvesting"
+        "Tradeskills": "Skinning,Mining,Logging,Harvesting",
+        "GatherableIds": ""
     },
     {
         "TrackedStatID": "SkinT5Animal",
@@ -27,6 +29,51 @@
         "ItemType": "",
         "ItemClass": "Rawhide+Resource",
         "PerUse": true,
-        "Tradeskills": "Skinning"
+        "Tradeskills": "Skinning",
+        "GatherableIds": ""
+    },
+    {
+        "TrackedStatID": "LootSulfurChest",
+        "StatType": "Gather",
+        "TargetID": "",
+        "Level": null,
+        "ItemType": "",
+        "ItemClass": "",
+        "PerUse": true,
+        "Tradeskills": "",
+        "GatherableIds": "16BS_LegionStoneTomb"
+    },
+    {
+        "TrackedStatID": "LootEliteChest",
+        "StatType": "Gather",
+        "TargetID": "",
+        "Level": null,
+        "ItemType": "",
+        "ItemClass": "",
+        "PerUse": true,
+        "Tradeskills": "",
+        "GatherableIds": "LootLargeT3ElitePOI"
+    },
+    {
+        "TrackedStatID": "Gather3AeternumSturgeon",
+        "StatType": "Gather",
+        "TargetID": "FishingSummerMedleySturgeonSmallT3,FishingSummerMedleySturgeonMediumT3,FishingSummerMedleySturgeonLargeT3",
+        "Level": null,
+        "ItemType": "Resource",
+        "ItemClass": "",
+        "PerUse": true,
+        "Tradeskills": "Fishing",
+        "GatherableIds": ""
+    },
+    {
+        "TrackedStatID": "GatherPrismabloom",
+        "StatType": "Gather",
+        "TargetID": "",
+        "Level": null,
+        "ItemType": "Resource",
+        "ItemClass": "",
+        "PerUse": true,
+        "Tradeskills": "",
+        "GatherableIds": "DyePlantDesertRose"
     }
 ]

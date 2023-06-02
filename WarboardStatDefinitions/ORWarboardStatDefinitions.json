@@ -284,5 +284,16 @@
         "AG_AITakedowns": 0,
         "AG_PlayerTakedowns": 0,
         "AG_TotalResourcesDeposited": 0
+    },
+    {
+        "WarboardStatID": "DamageBlocked",
+        "InGameStat": false,
+        "EndGameStat": true,
+        "AG_TotalDamageDealt": 0,
+        "AG_HealingDone": 0,
+        "AG_Score": 0.01,
+        "AG_AITakedowns": 0,
+        "AG_PlayerTakedowns": 0,
+        "AG_TotalResourcesDeposited": 0
     }
 ]

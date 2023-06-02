@@ -1392,6 +1392,18 @@
         "Description": "@FoodMana_GroupDesc"
     },
     {
+        "CategoryID": "GatherableResearch",
+        "ImagePath": "",
+        "DisplayText": "@GatherableResearch",
+        "Description": ""
+    },
+    {
+        "CategoryID": "ArtisanCrafting",
+        "ImagePath": "",
+        "DisplayText": "@ArtisanCrafting_GroupName",
+        "Description": "@ArtisanCrafting_GroupDesc"
+    },
+    {
         "CategoryID": "Scarab",
         "ImagePath": "",
         "DisplayText": "@Scarab_GroupName",
@@ -5094,12 +5106,6 @@
         "Description": ""
     },
     {
-        "CategoryID": "DungeonReps12",
-        "ImagePath": "",
-        "DisplayText": "@DungeonReps12_GroupName",
-        "Description": ""
-    },
-    {
         "CategoryID": "DungeonNamedReplicas",
         "ImagePath": "",
         "DisplayText": "@DungeonNamedReplicas_GroupName",
@@ -5169,6 +5175,36 @@
         "CategoryID": "UniqueDungeonReps11",
         "ImagePath": "",
         "DisplayText": "@UniqueDungeonReps11_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PVPReplicas",
+        "ImagePath": "",
+        "DisplayText": "@PVPReplicas_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PVPReplicaWeapon",
+        "ImagePath": "",
+        "DisplayText": "@PVPReplicaWeapon_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PVPReplicaLightArmor",
+        "ImagePath": "",
+        "DisplayText": "@PVPReplicaLightArmor_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PVPReplicaMediumArmor",
+        "ImagePath": "",
+        "DisplayText": "@PVPReplicaMediumArmor_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PVPReplicaHeavyArmor",
+        "ImagePath": "",
+        "DisplayText": "@PVPReplicaHeavyArmor_GroupName",
         "Description": ""
     },
     {
@@ -5430,6 +5466,30 @@
         "Description": ""
     },
     {
+        "CategoryID": "PatternWeapon",
+        "ImagePath": "",
+        "DisplayText": "@PatternWeapon_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PatternArmorHeavy",
+        "ImagePath": "",
+        "DisplayText": "@PatternArmorHeavy_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PatternArmorMedium",
+        "ImagePath": "",
+        "DisplayText": "@PatternArmorMedium_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "PatternArmorLight",
+        "ImagePath": "",
+        "DisplayText": "@PatternArmorLight_GroupName",
+        "Description": ""
+    },
+    {
         "CategoryID": "Lodestone",
         "ImagePath": "Icons\\Items\\Drawing\\lodestone",
         "DisplayText": "@Lodestone",
@@ -5463,6 +5523,12 @@
         "CategoryID": "InfusedCasts",
         "ImagePath": "",
         "DisplayText": "@InfusedCasts_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "GypsumLegendaryCasts",
+        "ImagePath": "",
+        "DisplayText": "@GypsumLegendaryCasts_GroupName",
         "Description": ""
     },
     {
@@ -5685,6 +5751,36 @@
         "CategoryID": "Summer",
         "ImagePath": "",
         "DisplayText": "@Summer",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SummerMemento",
+        "ImagePath": "",
+        "DisplayText": "@SummerMemento",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MementoStand",
+        "ImagePath": "",
+        "DisplayText": "@MementoStand",
+        "Description": ""
+    },
+    {
+        "CategoryID": "SmallMemento",
+        "ImagePath": "",
+        "DisplayText": "@SmallMemento",
+        "Description": ""
+    },
+    {
+        "CategoryID": "MediumMemento",
+        "ImagePath": "",
+        "DisplayText": "@MediumMemento",
+        "Description": ""
+    },
+    {
+        "CategoryID": "LargeMemento",
+        "ImagePath": "",
+        "DisplayText": "@LargeMemento",
         "Description": ""
     },
     {
@@ -5937,6 +6033,18 @@
         "CategoryID": "Greatsword",
         "ImagePath": "",
         "DisplayText": "@Greatsword_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrialCrafting",
+        "ImagePath": "",
+        "DisplayText": "@TrialCrafting_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TheHatchery",
+        "ImagePath": "",
+        "DisplayText": "@TheHatchery_GroupName",
         "Description": ""
     }
 ]

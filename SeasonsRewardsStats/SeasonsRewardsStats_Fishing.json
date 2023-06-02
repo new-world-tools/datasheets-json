@@ -25,5 +25,14 @@
         "MinWeight": "",
         "PerUse": true,
         "Precision": null
+    },
+    {
+        "TrackedStatID": "CatchBrimstoneLegendaryFish",
+        "StatType": "Fishing",
+        "TargetID": "FishingAnmisemaT5",
+        "Level": null,
+        "MinWeight": "",
+        "PerUse": null,
+        "Precision": null
     }
 ]

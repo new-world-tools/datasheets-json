@@ -114,6 +114,25 @@
         "InteractOnlyOnQuest": ""
     },
     {
+        "VariantID": "SingleStone_Jagged_a",
+        "StartMesh": "Objects\\Nature\\Rock_Boulders\\Boulders_Super\\wld_boulder_jagged_flint.cgf",
+        "GatherableEntryID": "SingleStone",
+        "GatheringRadius": 0.07,
+        "InteractionRadius": 1.8,
+        "DetectableRadius": 0.5,
+        "DepletedVFX": "Gatherable.Rock.Base_Pickup_A",
+        "VegAreaDataSet": "GroundCover/ObjectSets/Nature/bush_01.vegsetdb",
+        "VegAreaClearRadius": 0.6,
+        "VegAreaInnerRadius": 0.61,
+        "VegAreaOuterRadius": 0.7,
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "AOIRadius": 25,
+        "MarkerRadius": 8,
+        "InteractTag": "",
+        "InteractOnlyOnQuest": ""
+    },
+    {
         "VariantID": "PotionHealthT1",
         "StartMesh": "Objects\\Crafting\\Props\\Shopwares\\AlchemyProps\\JAV_PRP_Glass bottles_A.cgf",
         "GatherableEntryID": "ItemPotionHealT1",

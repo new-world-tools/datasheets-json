@@ -1,0 +1,13 @@
+[
+    {
+        "DarknessId": "test",
+        "DarknessLevels": "None-0,Low-1,Medium-50,High-99",
+        "DarknessDuration": 96,
+        "DarknessActivationSpec": "0-48",
+        "DarknessGroupSpec": "1-1,50-1,99-1",
+        "TerritoryType": 3,
+        "DifficultyScalingGroup": "Tier2",
+        "DifficultyScalingTable": "sharedassets/springboardentitites/datatables/javelindata_difficulty_darkness",
+        "UpdateEnabled": true
+    }
+]

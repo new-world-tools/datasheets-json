@@ -42,6 +42,20 @@
         "Expires": false
     },
     {
+        "ContributionId": "Damage_Dealt",
+        "Category": "default",
+        "Value": 1,
+        "Shared": false,
+        "Expires": false
+    },
+    {
+        "ContributionId": "Encounter_Activated",
+        "Category": "default",
+        "Value": 1,
+        "Shared": false,
+        "Expires": false
+    },
+    {
         "ContributionId": "Spawn_Interacted : BoatEncounter_Cannon_01",
         "Category": "interaction",
         "Value": 100,
@@ -57,6 +71,20 @@
     },
     {
         "ContributionId": "Spawn_Interacted:98_Syndicate_03_Well_B",
+        "Category": "interaction",
+        "Value": 100,
+        "Shared": true,
+        "Expires": false
+    },
+    {
+        "ContributionId": "Spawn_Interacted:95A_S02_Geyser_Puzzle_Boulder_Interact",
+        "Category": "interaction",
+        "Value": 100,
+        "Shared": true,
+        "Expires": false
+    },
+    {
+        "ContributionId": "Spawn_Interacted:DepositBoulder",
         "Category": "interaction",
         "Value": 100,
         "Shared": true,

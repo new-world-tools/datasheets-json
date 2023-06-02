@@ -106,7 +106,7 @@
     },
     {
         "ItemID": "FurT3",
-        "Loc Note": "Furry Skinnable Creatures, Uncommon",
+        "Loc Note": "FurrySkinnableCreatures,Uncommon",
         "DerivedFromText": "@FurT3_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -141,7 +141,7 @@
     },
     {
         "ItemID": "FurT4",
-        "Loc Note": "Furry Skinnable Creatures, Uncommon",
+        "Loc Note": "FurrySkinnableCreatures,Uncommon",
         "DerivedFromText": "@FurT4_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -176,7 +176,7 @@
     },
     {
         "ItemID": "FurT5",
-        "Loc Note": "Furry Skinnable Creatures, Uncommon",
+        "Loc Note": "FurrySkinnableCreatures,Uncommon",
         "DerivedFromText": "@FurT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -1191,7 +1191,7 @@
     },
     {
         "ItemID": "WoodT1",
-        "Loc Note": "Bushes, Young Trees",
+        "Loc Note": "Bushes,YoungTrees",
         "DerivedFromText": "@WoodT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -1961,7 +1961,7 @@
     },
     {
         "ItemID": "FaeIronT1",
-        "Loc Note": "Iron Veins, Rare",
+        "Loc Note": "IronVeins,Rare",
         "DerivedFromText": "@FaeIronT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -1996,7 +1996,7 @@
     },
     {
         "ItemID": "VoidsteelT1",
-        "Loc Note": "Iron Veins, Rare",
+        "Loc Note": "IronVeins,Rare",
         "DerivedFromText": "@VoidsteelT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2031,7 +2031,7 @@
     },
     {
         "ItemID": "BlessedCrucibleT1",
-        "Loc Note": "Starmetal Veins, Rare",
+        "Loc Note": "StarmetalVeins,Rare",
         "DerivedFromText": "@BlessedCrucibleT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2066,7 +2066,7 @@
     },
     {
         "ItemID": "AzuriteChunkT1",
-        "Loc Note": "Starmetal Veins, Rare",
+        "Loc Note": "StarmetalVeins,Rare",
         "DerivedFromText": "@AzuriteChunkT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2101,7 +2101,7 @@
     },
     {
         "ItemID": "CinnabarT1",
-        "Loc Note": "Orichalcum Veins, Rare",
+        "Loc Note": "OrichalcumVeins,Rare",
         "DerivedFromText": "@CinnabarT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2136,7 +2136,7 @@
     },
     {
         "ItemID": "TolviumT1",
-        "Loc Note": "Orichalcum Veins, Rare",
+        "Loc Note": "OrichalcumVeins,Rare",
         "DerivedFromText": "@TolviumT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2171,7 +2171,7 @@
     },
     {
         "ItemID": "PetrifiedWoodT1",
-        "Loc Note": "Young and Mature Trees, Rare",
+        "Loc Note": "YoungandMatureTrees,Rare",
         "DerivedFromText": "@PetrifiedWoodT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2206,7 +2206,7 @@
     },
     {
         "ItemID": "WhisperwoodT1",
-        "Loc Note": "Young Trees, Mature Trees, Wyrdwood Trees, Rare",
+        "Loc Note": "YoungTrees,MatureTrees,WyrdwoodTrees,Rare",
         "DerivedFromText": "@WhisperwoodT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2241,7 +2241,7 @@
     },
     {
         "ItemID": "QuillbarkT1",
-        "Loc Note": "Wyrdwood Trees, Rare",
+        "Loc Note": "WyrdwoodTrees,Rare",
         "DerivedFromText": "@QuillbarkT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2276,7 +2276,7 @@
     },
     {
         "ItemID": "EbonwoodT1",
-        "Loc Note": "Wyrdwood Trees, Rare",
+        "Loc Note": "WyrdwoodTrees,Rare",
         "DerivedFromText": "@EbonwoodT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2311,7 +2311,7 @@
     },
     {
         "ItemID": "WildwoodT1",
-        "Loc Note": "Ironwood Trees, Rare",
+        "Loc Note": "IronwoodTrees,Rare",
         "DerivedFromText": "@WildwoodT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2346,7 +2346,7 @@
     },
     {
         "ItemID": "BarbvineT1",
-        "Loc Note": "Ironwood Trees, Rare",
+        "Loc Note": "IronwoodTrees,Rare",
         "DerivedFromText": "@BarbvineT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2381,7 +2381,7 @@
     },
     {
         "ItemID": "RagehideT1",
-        "Loc Note": "Skinnable Creatures, Rare",
+        "Loc Note": "SkinnableCreatures,Rare",
         "DerivedFromText": "@RagehideT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2416,7 +2416,7 @@
     },
     {
         "ItemID": "ShadowfurT1",
-        "Loc Note": "Skinnable Creatures, Rare",
+        "Loc Note": "SkinnableCreatures,Rare",
         "DerivedFromText": "@ShadowfurT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2451,7 +2451,7 @@
     },
     {
         "ItemID": "BrightscaleHideT1",
-        "Loc Note": "Skinnable Creatures, Rare",
+        "Loc Note": "SkinnableCreatures,Rare",
         "DerivedFromText": "@BrightscaleHideT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2486,7 +2486,7 @@
     },
     {
         "ItemID": "ShifthideT1",
-        "Loc Note": "Skinnable Creatures, Rare",
+        "Loc Note": "SkinnableCreatures,Rare",
         "DerivedFromText": "@ShifthideT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2521,7 +2521,7 @@
     },
     {
         "ItemID": "SmolderhideT1",
-        "Loc Note": "Skinnable Creatures, Rare",
+        "Loc Note": "SkinnableCreatures,Rare",
         "DerivedFromText": "@SmolderhideT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -2556,7 +2556,7 @@
     },
     {
         "ItemID": "ScarhideT1",
-        "Loc Note": "Skinnable Creatures, Rare",
+        "Loc Note": "SkinnableCreatures,Rare",
         "DerivedFromText": "@ScarhideT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -4376,7 +4376,7 @@
     },
     {
         "ItemID": "AnimalVisceraT1",
-        "Loc Note": "Boars, Elk",
+        "Loc Note": "Boars,Elk",
         "DerivedFromText": "@AnimalVisceraT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5356,7 +5356,7 @@
     },
     {
         "ItemID": "GlimmeringTwineT5",
-        "Loc Note": "Wirefiber Plants, Rare",
+        "Loc Note": "WirefiberPlants,Rare",
         "DerivedFromText": "@GlimmeringTwineT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5391,7 +5391,7 @@
     },
     {
         "ItemID": "GlowingTallowT5",
-        "Loc Note": "Powerful Skinnable Creatures, Rare",
+        "Loc Note": "PowerfulSkinnableCreatures,Rare",
         "DerivedFromText": "@GlowingTallowT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5426,7 +5426,7 @@
     },
     {
         "ItemID": "SparklingDustT5",
-        "Loc Note": "Orichalcum Veins, Rare",
+        "Loc Note": "OrichalcumVeins,Rare",
         "DerivedFromText": "@SparklingDustT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5461,7 +5461,7 @@
     },
     {
         "ItemID": "EtchedHandguardT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@EtchedHandguardT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5496,7 +5496,7 @@
     },
     {
         "ItemID": "EmbossedWrappingT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@EmbossedWrappingT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5531,7 +5531,7 @@
     },
     {
         "ItemID": "EmpoweredCounterbalanceT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@EmpoweredCounterbalanceT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5566,7 +5566,7 @@
     },
     {
         "ItemID": "InscribedBossT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@InscribedBossT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5601,7 +5601,7 @@
     },
     {
         "ItemID": "EnchantedBowStringT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@EnchantedBowStringT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5636,7 +5636,7 @@
     },
     {
         "ItemID": "IntricateLockT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@IntricateLockT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5671,7 +5671,7 @@
     },
     {
         "ItemID": "RunicThreadT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@RunicThreadT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5706,7 +5706,7 @@
     },
     {
         "ItemID": "EmbroideredPaddingT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@EmbroideredPaddingT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5741,7 +5741,7 @@
     },
     {
         "ItemID": "CrystallineRivetsT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@CrystallineRivetsT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5776,7 +5776,7 @@
     },
     {
         "ItemID": "CoreCrystalLifeT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@CoreCrystalLifeT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5811,7 +5811,7 @@
     },
     {
         "ItemID": "CoreCrystalFireT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@CoreCrystalFireT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5846,7 +5846,7 @@
     },
     {
         "ItemID": "CoreCrystalIceT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@CoreCrystalIceT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -5881,7 +5881,7 @@
     },
     {
         "ItemID": "CoreCrystalVoidT5",
-        "Loc Note": "Humanoid Creatures, Rare",
+        "Loc Note": "HumanoidCreatures,Rare",
         "DerivedFromText": "@CoreCrystalVoidT5_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -7876,7 +7876,7 @@
     },
     {
         "ItemID": "PorkT1",
-        "Loc Note": "Boar, Pigs",
+        "Loc Note": "Boar,Pigs",
         "DerivedFromText": "@PorkT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -7911,7 +7911,7 @@
     },
     {
         "ItemID": "TurkeyBreastT1",
-        "Loc Note": "Turkey, Uncommon",
+        "Loc Note": "Turkey,Uncommon",
         "DerivedFromText": "@TurkeyBreastT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -7946,7 +7946,7 @@
     },
     {
         "ItemID": "TurkeyThighT1",
-        "Loc Note": "Turkey, Uncommon",
+        "Loc Note": "Turkey,Uncommon",
         "DerivedFromText": "@TurkeyThighT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -7981,7 +7981,7 @@
     },
     {
         "ItemID": "BearFlankT1",
-        "Loc Note": "Bear, Rare",
+        "Loc Note": "Bear,Rare",
         "DerivedFromText": "@BearFlankT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8016,7 +8016,7 @@
     },
     {
         "ItemID": "HamHockT1",
-        "Loc Note": "Boar, Rare",
+        "Loc Note": "Boar,Rare",
         "DerivedFromText": "@HamHockT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8051,7 +8051,7 @@
     },
     {
         "ItemID": "RabbitT1",
-        "Loc Note": "Rabbits, Rare",
+        "Loc Note": "Rabbits,Rare",
         "DerivedFromText": "@RabbitT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8086,7 +8086,7 @@
     },
     {
         "ItemID": "VenisonTenderloinT1",
-        "Loc Note": "Elk, Rare",
+        "Loc Note": "Elk,Rare",
         "DerivedFromText": "@VenisonTenderloinT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8121,7 +8121,7 @@
     },
     {
         "ItemID": "WolfLoinT1",
-        "Loc Note": "Wolves, Rare",
+        "Loc Note": "Wolves,Rare",
         "DerivedFromText": "@WolfLoinT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8156,7 +8156,7 @@
     },
     {
         "ItemID": "PrimeRedMeatT1",
-        "Loc Note": "Wolves, Bears, Cows, Sheep, Goats, Cats, Alligators, Bison, Rare",
+        "Loc Note": "Wolves,Bears,Cows,Sheep,Goats,Cats,Alligators,Bison,Rare",
         "DerivedFromText": "@PrimeRedMeatT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8191,7 +8191,7 @@
     },
     {
         "ItemID": "PorkBellyT1",
-        "Loc Note": "Boar, Rare",
+        "Loc Note": "Boar,Rare",
         "DerivedFromText": "@PorkBellyT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8226,7 +8226,7 @@
     },
     {
         "ItemID": "FishRoeT1",
-        "Loc Note": "Sturgeon, Paddlefish",
+        "Loc Note": "Sturgeon,Paddlefish",
         "DerivedFromText": "@FishRoeT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8296,7 +8296,7 @@
     },
     {
         "ItemID": "FishOilT1",
-        "Loc Note": "Fish, Uncommon",
+        "Loc Note": "Fish,Uncommon",
         "DerivedFromText": "@FishOilT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8366,7 +8366,7 @@
     },
     {
         "ItemID": "WaterT1",
-        "Loc Note": "Freshwater Sources, Wells",
+        "Loc Note": "FreshwaterSources,Wells",
         "DerivedFromText": "@WaterT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8401,7 +8401,7 @@
     },
     {
         "ItemID": "RedMeatT1",
-        "Loc Note": "Wolves, Bears, Cows, Sheep, Goats, Cats, Alligators, Bison",
+        "Loc Note": "Wolves,Bears,Cows,Sheep,Goats,Cats,Alligators,Bison",
         "DerivedFromText": "@RedMeatT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -8646,7 +8646,7 @@
     },
     {
         "ItemID": "EggT1",
-        "Loc Note": "Turkey, Turkey Nest",
+        "Loc Note": "Turkey,TurkeyNest",
         "DerivedFromText": "@EggT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -9171,7 +9171,7 @@
     },
     {
         "ItemID": "MushroomT1",
-        "Loc Note": "Sporebloom, Toadpot, and any other Fungi",
+        "Loc Note": "Sporebloom,Toadpot,andanyotherFungi",
         "DerivedFromText": "@MushroomT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -12496,7 +12496,7 @@
     },
     {
         "ItemID": "AlchemyEarthT1",
-        "Loc Note": "Earthspine, Earthcrag, Earthshell Turtle",
+        "Loc Note": "Earthspine,Earthcrag,EarthshellTurtle",
         "DerivedFromText": "@AlchemyEarthT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -12601,7 +12601,7 @@
     },
     {
         "ItemID": "AlchemyFireT1",
-        "Loc Note": "Dragonglory, Scorchstone, Salamander Snail",
+        "Loc Note": "Dragonglory,Scorchstone,SalamanderSnail",
         "DerivedFromText": "@AlchemyFireT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -12706,7 +12706,7 @@
     },
     {
         "ItemID": "AlchemyAirT1",
-        "Loc Note": "Shockbulb, Shockspire, Lightning Beetle",
+        "Loc Note": "Shockbulb,Shockspire,LightningBeetle",
         "DerivedFromText": "@AlchemyAirT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -12811,7 +12811,7 @@
     },
     {
         "ItemID": "AlchemyWaterT1",
-        "Loc Note": "Rivercress, Springstone, Foating Spinefish",
+        "Loc Note": "Rivercress,Springstone,FoatingSpinefish",
         "DerivedFromText": "@AlchemyWaterT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -12916,7 +12916,7 @@
     },
     {
         "ItemID": "AlchemySpiritT1",
-        "Loc Note": "Soulsprout, Soulspire, Soulwyrm",
+        "Loc Note": "Soulsprout,Soulspire,Soulwyrm",
         "DerivedFromText": "@AlchemySpiritT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -13021,7 +13021,7 @@
     },
     {
         "ItemID": "AlchemyLifeT1",
-        "Loc Note": "Lifebloom, Lifejewel, Lifemoth",
+        "Loc Note": "Lifebloom,Lifejewel,Lifemoth",
         "DerivedFromText": "@AlchemyLifeT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -13126,7 +13126,7 @@
     },
     {
         "ItemID": "AlchemyDeathT1",
-        "Loc Note": "Blightroot, Blightcrag, Blightmoth",
+        "Loc Note": "Blightroot,Blightcrag,Blightmoth",
         "DerivedFromText": "@AlchemyDeathT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -13476,7 +13476,7 @@
     },
     {
         "ItemID": "STRBonusT1",
-        "Loc Note": "Containers, Humanoid Enemies",
+        "Loc Note": "Containers,HumanoidEnemies",
         "DerivedFromText": "@STRBonusT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -13616,7 +13616,7 @@
     },
     {
         "ItemID": "DEXBonusT1",
-        "Loc Note": "Containers, Humanoid Enemies",
+        "Loc Note": "Containers,HumanoidEnemies",
         "DerivedFromText": "@DEXBonusT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -13756,7 +13756,7 @@
     },
     {
         "ItemID": "INTBonusT1",
-        "Loc Note": "Containers, Humanoid Enemies",
+        "Loc Note": "Containers,HumanoidEnemies",
         "DerivedFromText": "@INTBonusT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -13896,7 +13896,7 @@
     },
     {
         "ItemID": "CONBonusT1",
-        "Loc Note": "Containers, Humanoid Enemies",
+        "Loc Note": "Containers,HumanoidEnemies",
         "DerivedFromText": "@CONBonusT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14036,7 +14036,7 @@
     },
     {
         "ItemID": "FOCBonusT1",
-        "Loc Note": "Containers, Humanoid Enemies",
+        "Loc Note": "Containers,HumanoidEnemies",
         "DerivedFromText": "@FOCBonusT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14211,7 +14211,7 @@
     },
     {
         "ItemID": "STRDEXBonusT2",
-        "Loc Note": "Wolves, Forge Tier 3",
+        "Loc Note": "Wolves,ForgeTier3",
         "DerivedFromText": "@STRDEXBonusT2_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14246,7 +14246,7 @@
     },
     {
         "ItemID": "STRDEXBonusT3",
-        "Loc Note": "Wolves, Forge Tier 4",
+        "Loc Note": "Wolves,ForgeTier4",
         "DerivedFromText": "@STRDEXBonusT3_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14281,7 +14281,7 @@
     },
     {
         "ItemID": "STRDEXBonusT4",
-        "Loc Note": "Wolves, Forge Tier 5",
+        "Loc Note": "Wolves,ForgeTier5",
         "DerivedFromText": "@STRDEXBonusT4_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14491,7 +14491,7 @@
     },
     {
         "ItemID": "STRCONBonusT2",
-        "Loc Note": "Bears, Forge Tier 3",
+        "Loc Note": "Bears,ForgeTier3",
         "DerivedFromText": "@STRCONBonusT2_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14526,7 +14526,7 @@
     },
     {
         "ItemID": "STRCONBonusT3",
-        "Loc Note": "Bears, Forge Tier 4",
+        "Loc Note": "Bears,ForgeTier4",
         "DerivedFromText": "@STRCONBonusT3_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14561,7 +14561,7 @@
     },
     {
         "ItemID": "STRCONBonusT4",
-        "Loc Note": "Bears, Forge Tier 5",
+        "Loc Note": "Bears,ForgeTier5",
         "DerivedFromText": "@STRCONBonusT4_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14631,7 +14631,7 @@
     },
     {
         "ItemID": "STRFOCBonusT2",
-        "Loc Note": "Boars, Forge Tier 3",
+        "Loc Note": "Boars,ForgeTier3",
         "DerivedFromText": "@STRFOCBonusT2_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14666,7 +14666,7 @@
     },
     {
         "ItemID": "STRFOCBonusT3",
-        "Loc Note": "Boars, Forge Tier 4",
+        "Loc Note": "Boars,ForgeTier4",
         "DerivedFromText": "@STRFOCBonusT3_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14701,7 +14701,7 @@
     },
     {
         "ItemID": "STRFOCBonusT4",
-        "Loc Note": "Boars, Forge Tier 5",
+        "Loc Note": "Boars,ForgeTier5",
         "DerivedFromText": "@STRFOCBonusT4_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14911,7 +14911,7 @@
     },
     {
         "ItemID": "DEXINTBonusT2",
-        "Loc Note": "Dragonfish, Workshop Tier 3",
+        "Loc Note": "Dragonfish,WorkshopTier3",
         "DerivedFromText": "@DEXINTBonusT2_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14946,7 +14946,7 @@
     },
     {
         "ItemID": "DEXINTBonusT3",
-        "Loc Note": "Piranha, Workshop Tier 4",
+        "Loc Note": "Piranha,WorkshopTier4",
         "DerivedFromText": "@DEXINTBonusT3_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -14981,7 +14981,7 @@
     },
     {
         "ItemID": "DEXINTBonusT4",
-        "Loc Note": "Stingray, Workshop Tier 5",
+        "Loc Note": "Stingray,WorkshopTier5",
         "DerivedFromText": "@DEXINTBonusT4_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -15891,7 +15891,7 @@
     },
     {
         "ItemID": "CONSTRBonusT2",
-        "Loc Note": "Starmetal Veins, Outfitter Tier 3",
+        "Loc Note": "StarmetalVeins,OutfitterTier3",
         "DerivedFromText": "@CONSTRBonusT2_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -15926,7 +15926,7 @@
     },
     {
         "ItemID": "CONSTRBonusT3",
-        "Loc Note": "Orichalcum Veins, Outfitter Tier 4",
+        "Loc Note": "OrichalcumVeins,OutfitterTier4",
         "DerivedFromText": "@CONSTRBonusT3_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -15961,7 +15961,7 @@
     },
     {
         "ItemID": "CONSTRBonusT4",
-        "Loc Note": "Orichalcum Veins, Outfitter Tier 5",
+        "Loc Note": "OrichalcumVeins,OutfitterTier5",
         "DerivedFromText": "@CONSTRBonusT4_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -16591,7 +16591,7 @@
     },
     {
         "ItemID": "FOCDEXBonusT2",
-        "Loc Note": "Mature Trees, Workshop Tier 3",
+        "Loc Note": "MatureTrees,WorkshopTier3",
         "DerivedFromText": "@FOCDEXBonusT2_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -16626,7 +16626,7 @@
     },
     {
         "ItemID": "FOCDEXBonusT3",
-        "Loc Note": "Wyrdwood Trees, Workshop Tier 4",
+        "Loc Note": "WyrdwoodTrees,WorkshopTier4",
         "DerivedFromText": "@FOCDEXBonusT3_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -16661,7 +16661,7 @@
     },
     {
         "ItemID": "FOCDEXBonusT4",
-        "Loc Note": "Ironwood Trees, Workshop Tier 5",
+        "Loc Note": "IronwoodTrees,WorkshopTier5",
         "DerivedFromText": "@FOCDEXBonusT4_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -22576,7 +22576,7 @@
     },
     {
         "ItemID": "PotionHealthT1",
-        "Loc Note": "Arcane Repository Tier 2, Camp Tier 1",
+        "Loc Note": "ArcaneRepositoryTier2,CampTier1",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -22611,7 +22611,7 @@
     },
     {
         "ItemID": "PotionHealthT2",
-        "Loc Note": "Arcane Repository Tier 2, Camp Tier 2",
+        "Loc Note": "ArcaneRepositoryTier2,CampTier2",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -22646,7 +22646,7 @@
     },
     {
         "ItemID": "PotionHealthT3",
-        "Loc Note": "Arcane Repository Tier 3, Camp Tier 3",
+        "Loc Note": "ArcaneRepositoryTier3,CampTier3",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -22681,7 +22681,7 @@
     },
     {
         "ItemID": "PotionHealthT4",
-        "Loc Note": "Arcane Repository Tier 4, Camp Tier 4",
+        "Loc Note": "ArcaneRepositoryTier4,CampTier4",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -22716,7 +22716,7 @@
     },
     {
         "ItemID": "PotionHealthT5",
-        "Loc Note": "Arcane Repository Tier 5, Camp Tier 5",
+        "Loc Note": "ArcaneRepositoryTier5,CampTier5",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -22751,7 +22751,7 @@
     },
     {
         "ItemID": "PotionManaT1",
-        "Loc Note": "Arcane Repository Tier 2, Camp Tier 1",
+        "Loc Note": "ArcaneRepositoryTier2,CampTier1",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -22786,7 +22786,7 @@
     },
     {
         "ItemID": "PotionManaT2",
-        "Loc Note": "Arcane Repository Tier 2, Camp Tier 2",
+        "Loc Note": "ArcaneRepositoryTier2,CampTier2",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -22821,7 +22821,7 @@
     },
     {
         "ItemID": "PotionManaT3",
-        "Loc Note": "Arcane Repository Tier 3, Camp Tier 3",
+        "Loc Note": "ArcaneRepositoryTier3,CampTier3",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -22856,7 +22856,7 @@
     },
     {
         "ItemID": "PotionManaT4",
-        "Loc Note": "Arcane Repository Tier 4, Camp Tier 4",
+        "Loc Note": "ArcaneRepositoryTier4,CampTier4",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -22891,7 +22891,7 @@
     },
     {
         "ItemID": "PotionManaT5",
-        "Loc Note": "Arcane Repository Tier 5, Camp Tier 5",
+        "Loc Note": "ArcaneRepositoryTier5,CampTier5",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -24466,7 +24466,7 @@
     },
     {
         "ItemID": "TinctureCorruptionT2",
-        "Loc Note": "Arcane Repository Tier 2, Camp Tier 1",
+        "Loc Note": "ArcaneRepositoryTier2,CampTier1",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -24501,7 +24501,7 @@
     },
     {
         "ItemID": "TinctureCorruptionT3",
-        "Loc Note": "Arcane Repository Tier 2, Camp Tier 2",
+        "Loc Note": "ArcaneRepositoryTier2,CampTier2",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -24536,7 +24536,7 @@
     },
     {
         "ItemID": "TinctureCorruptionT4",
-        "Loc Note": "Arcane Repository Tier 3, Camp Tier 3",
+        "Loc Note": "ArcaneRepositoryTier3,CampTier3",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -24571,7 +24571,7 @@
     },
     {
         "ItemID": "TinctureCorruptionT5",
-        "Loc Note": "Arcane Repository Tier 4, Camp Tier 4",
+        "Loc Note": "ArcaneRepositoryTier4,CampTier4",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -24606,7 +24606,7 @@
     },
     {
         "ItemID": "TinctureBlightT2",
-        "Loc Note": "Arcane Repository Tier 2, Camp Tier 1",
+        "Loc Note": "ArcaneRepositoryTier2,CampTier1",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -24641,7 +24641,7 @@
     },
     {
         "ItemID": "TinctureBlightT3",
-        "Loc Note": "Arcane Repository Tier 2, Camp Tier 2",
+        "Loc Note": "ArcaneRepositoryTier2,CampTier2",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -24676,7 +24676,7 @@
     },
     {
         "ItemID": "TinctureBlightT4",
-        "Loc Note": "Arcane Repository Tier 3, Camp Tier 3",
+        "Loc Note": "ArcaneRepositoryTier3,CampTier3",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -24711,7 +24711,7 @@
     },
     {
         "ItemID": "TinctureBlightT5",
-        "Loc Note": "Arcane Repository Tier 4, Camp Tier 4",
+        "Loc Note": "ArcaneRepositoryTier4,CampTier4",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -27231,7 +27231,7 @@
     },
     {
         "ItemID": "BaitFreshBreadT1",
-        "Loc Note": "Kitchen Tier 2, Provision Containers",
+        "Loc Note": "KitchenTier2,ProvisionContainers",
         "DerivedFromText": "@BaitFreshBreadT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -27266,7 +27266,7 @@
     },
     {
         "ItemID": "BaitFreshMeatT1",
-        "Loc Note": "Kitchen Tier 2, Camp Tier 1",
+        "Loc Note": "KitchenTier2,CampTier1",
         "DerivedFromText": "@BaitFreshMeatT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -27301,7 +27301,7 @@
     },
     {
         "ItemID": "BaitSaltFishT1",
-        "Loc Note": "Kitchen Tier 2, Camp Tier 1",
+        "Loc Note": "KitchenTier2,CampTier1",
         "DerivedFromText": "@BaitSaltFishT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -27336,7 +27336,7 @@
     },
     {
         "ItemID": "BaitSaltCheeseT1",
-        "Loc Note": "Kitchen Tier 2, Provision Containers",
+        "Loc Note": "KitchenTier2,ProvisionContainers",
         "DerivedFromText": "@BaitSaltCheeseT1_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -27476,7 +27476,7 @@
     },
     {
         "ItemID": "BaitSaltNightcrawlerT2",
-        "Loc Note": "Flint, Day",
+        "Loc Note": "Flint,Day",
         "DerivedFromText": "@BaitSaltNightcrawlerT2_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -27546,7 +27546,7 @@
     },
     {
         "ItemID": "BaitFreshFireflyT3",
-        "Loc Note": "Bulrush Plants, Briar Plants",
+        "Loc Note": "BulrushPlants,BriarPlants",
         "DerivedFromText": "@BaitFreshFireflyT3_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -27616,7 +27616,7 @@
     },
     {
         "ItemID": "BaitSaltGlowwormT3",
-        "Loc Note": "Flint, Night",
+        "Loc Note": "Flint,Night",
         "DerivedFromText": "@BaitSaltGlowwormT3_DerivedFrom",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -27651,7 +27651,7 @@
     },
     {
         "ItemID": "FoodHealthRecoveryT1",
-        "Loc Note": "Kitchen Tier 2, Camp Tier 1",
+        "Loc Note": "KitchenTier2,CampTier1",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -28246,7 +28246,7 @@
     },
     {
         "ItemID": "FoodHealthRecoveryT2",
-        "Loc Note": "Kitchen Tier 2, Camp Tier 2",
+        "Loc Note": "KitchenTier2,CampTier2",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -28456,7 +28456,7 @@
     },
     {
         "ItemID": "FoodManaT2",
-        "Loc Note": "Kitchen Tier 2, Camp Tier 2",
+        "Loc Note": "KitchenTier2,CampTier2",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -28841,7 +28841,7 @@
     },
     {
         "ItemID": "FoodHealthRecoveryT3",
-        "Loc Note": "Kitchen Tier 3, Camp Tier 3",
+        "Loc Note": "KitchenTier3,CampTier3",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -29051,7 +29051,7 @@
     },
     {
         "ItemID": "FoodManaT3",
-        "Loc Note": "Kitchen Tier 3, Camp Tier 3",
+        "Loc Note": "KitchenTier3,CampTier3",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -29436,7 +29436,7 @@
     },
     {
         "ItemID": "FoodHealthRecoveryT4",
-        "Loc Note": "Kitchen Tier 4, Camp Tier 4",
+        "Loc Note": "KitchenTier4,CampTier4",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -29646,7 +29646,7 @@
     },
     {
         "ItemID": "FoodManaT4",
-        "Loc Note": "Kitchen Tier 4, Camp Tier 4",
+        "Loc Note": "KitchenTier4,CampTier4",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -30031,7 +30031,7 @@
     },
     {
         "ItemID": "FoodHealthRecoveryT5",
-        "Loc Note": "Kitchen Tier 5, Camp Tier 5",
+        "Loc Note": "KitchenTier5,CampTier5",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",
@@ -30241,7 +30241,7 @@
     },
     {
         "ItemID": "FoodManaT5",
-        "Loc Note": "Kitchen Tier 5, Camp Tier 5",
+        "Loc Note": "KitchenTier5,CampTier5",
         "DerivedFromText": "",
         "DerivedFromIcon": "",
         "RefinedAtText": "",

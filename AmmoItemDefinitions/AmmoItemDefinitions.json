@@ -675,11 +675,38 @@
         "MeshOverride": ""
     },
     {
+        "AmmoID": "Sandworm_BreachEvent_AcidBallLauncher_Projectile_Burst_NoGather",
+        "AmmoType": "Siege",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "WorldEvents/BrimstoneSands/SandwormBreach/Projectiles/Sandworm_BreachEvent_AcidBall_Projectile_Burst_NoGather",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Sandworm_BreachEvent_AcidBallLauncher_Projectile_Rapid_NoGather",
+        "AmmoType": "Siege",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "WorldEvents/BrimstoneSands/SandwormBreach/Projectiles/Sandworm_BreachEvent_AcidBall_Projectile_Rapid_NoGather",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
         "AmmoID": "Turret_T1_ExplosiveLauncher_Projectile_12MB04",
         "AmmoType": "Siege",
         "DamageModifier": 1,
         "StaggerDamageModifier": 1,
         "AmmoPrefabPath": "WorldEvents/MonarchsBluffs/LakesideFarm/Turret_T1_ExplosiveLauncher_Projectile_12MB04",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Gimmick_BreakingWallsCannon_Ammo",
+        "AmmoType": "Siege",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "WorldEvents/Universal/Gimmicks/BreakingWallsCannon/Gimmick_BreakingWallsCannon_Ammo",
         "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
         "MeshOverride": ""
     },

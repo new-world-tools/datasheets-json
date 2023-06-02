@@ -86,5 +86,16 @@
         "GameEventId_Rank_Great": "MusicReward_Great_Waltz",
         "GameEventId_Rank_Okay": "MusicReward_Okay_Waltz",
         "GameEventId_Rank_Bad": "MusicReward_Bad_Waltz"
+    },
+    {
+        "RewardId": "MusicBuff_ShredlyFair",
+        "Name": "@MusicBuff_ShredlyFair_Name",
+        "Description": "@MusicBuff_ShredlyFair_Desc",
+        "Rank": 0,
+        "FilterType": "Summer",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Shredly",
+        "GameEventId_Rank_Great": "MusicReward_Great_Shredly",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Shredly",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Shredly"
     }
 ]

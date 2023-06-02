@@ -520,7 +520,7 @@
     {
         "SeasonsTaskID": "ParticipateIn1Duels",
         "SeasonsTrackedStatID": "ParticipateInDuel",
-        "TaskMaxValue": 3,
+        "TaskMaxValue": 1,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     },
@@ -541,7 +541,7 @@
     {
         "SeasonsTaskID": "Complete2FactionMissions",
         "SeasonsTrackedStatID": "CompleteFactionMission",
-        "TaskMaxValue": 2,
+        "TaskMaxValue": 1,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     },
@@ -575,7 +575,7 @@
     },
     {
         "SeasonsTaskID": "Win1FlawlessVictoryArena3x3",
-        "SeasonsTrackedStatID": "FlawlessVictoryArena3x3",
+        "SeasonsTrackedStatID": "WinArena3x3",
         "TaskMaxValue": 1,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
@@ -744,13 +744,13 @@
     {
         "SeasonsTaskID": "Complete2PvPFactionMissions",
         "SeasonsTrackedStatID": "CompletePvPFactionMission",
-        "TaskMaxValue": 1,
+        "TaskMaxValue": 2,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     },
     {
-        "SeasonsTaskID": "EarnFlawlessVictoryInPvPArena",
-        "SeasonsTrackedStatID": "FlawlessVictoryArena3x3",
+        "SeasonsTaskID": "EarnVictoryInPvPArena",
+        "SeasonsTrackedStatID": "WinArena3x3",
         "TaskMaxValue": 1,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
@@ -826,7 +826,7 @@
         "Description": "@ui_seasons_task_placeholder_desc"
     },
     {
-        "SeasonsTaskID": "DealOrHeal100000InArena3v3",
+        "SeasonsTaskID": "DealOrHeal50000InArena3v3",
         "SeasonsTrackedStatID": "DamageOrHealInArena3v3",
         "TaskMaxValue": 50000,
         "Name": "@ui_seasons_task_placeholder_name",
@@ -910,7 +910,7 @@
         "Description": "@ui_seasons_task_Complete10MutatedExpeditionsFlawlessly_desc"
     },
     {
-        "SeasonsTaskID": "Earn1000PvPXPFromPlayers",
+        "SeasonsTaskID": "Earn100PvPXPFromPlayers",
         "SeasonsTrackedStatID": "CategoricalProgressionPvPXP",
         "TaskMaxValue": 100,
         "Name": "@ui_seasons_task_placeholder_name",
@@ -980,6 +980,615 @@
         "Description": "@ui_seasons_task_placeholder_desc"
     },
     {
+        "SeasonsTaskID": "S2_CollectGlyph_1",
+        "SeasonsTrackedStatID": "UnlockBrimstoneGlyphAchievement",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CollectGlyph_1",
+        "Description": "@ui_seasons_task_description_CollectGlyphSingle"
+    },
+    {
+        "SeasonsTaskID": "S2_CraftGoldenScarab_1",
+        "SeasonsTrackedStatID": "CraftUsingGoldenScarab",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CraftGoldenScarab_1",
+        "Description": "@ui_seasons_task_description_CraftGoldenScarabSingle"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteEnnead",
+        "SeasonsTrackedStatID": "CompleteExpedition_TheEnnead",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteEnnead",
+        "Description": "@ui_seasons_task_description_CompleteEnnead"
+    },
+    {
+        "SeasonsTaskID": "S2_SongCallOfTheAncientsExpert",
+        "SeasonsTrackedStatID": "CompleteSongCallOfTheAncientsWithExpertRating",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_SongCallOfTheAncientsExpert",
+        "Description": "@ui_seasons_task_description_SongCallOfTheAncientsExpert"
+    },
+    {
+        "SeasonsTaskID": "S2_WinArenaMatches_1",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_name_WinArenaMatches_1",
+        "Description": "@ui_seasons_task_WinPvPMatches_desc"
+    },
+    {
+        "SeasonsTaskID": "S2_CaptureFactionControlPoints_1",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_name_CaptureFactionControlPoints_1",
+        "Description": "@ui_seasons_task_description_CaptureFactionControlPoints"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteTownProjects_1",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_name_CompleteTownProjects_1",
+        "Description": "@ui_seasons_task_description_CompleteTownProjects"
+    },
+    {
+        "SeasonsTaskID": "S2_KillAnubianGuardians",
+        "SeasonsTrackedStatID": "KillAnubianGuardian",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_name_KillAnubianGuardians_1",
+        "Description": "@ui_seasons_task_description_KillAnubianGuardians"
+    },
+    {
+        "SeasonsTaskID": "S2_CloseBreaches_1",
+        "SeasonsTrackedStatID": "GameEvent_Breach",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_name_CloseBreaches_1",
+        "Description": "@ui_seasons_task_description_CloseBreaches"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteQuest_WordOfAThief",
+        "SeasonsTrackedStatID": "CompleteQuest_WordOfAThief",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteQuest_WordOfAThief",
+        "Description": "@ui_seasons_task_descriptionCompleteQuest_WordOfAThief"
+    },
+    {
+        "SeasonsTaskID": "S2_CollectGlyph_2",
+        "SeasonsTrackedStatID": "UnlockBrimstoneGlyphAchievement",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_name_CollectGlyph_2",
+        "Description": "@ui_seasons_task_description_CollectGlyph"
+    },
+    {
+        "SeasonsTaskID": "S2_SongsExpertWithFullBand",
+        "SeasonsTrackedStatID": "CompleteSongInGroupWithExpertRating",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_name_SongsExpertWithFullBand_1",
+        "Description": "@ui_seasons_task_description_SongsExpertWithFullBand"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteFactionMissions_1",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 12,
+        "Name": "@ui_seasons_task_name_CompleteFactionMissions_1",
+        "Description": "@ui_seasons_task_description_CompleteFactionMissions"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteActivityCards_1",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_name_CompleteActivityCards_1",
+        "Description": "@ui_seasons_task_description_CompleteActivityCards"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteM1Ennead",
+        "SeasonsTrackedStatID": "CompleteM1Expedition_TheEnnead",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteEnneadM1",
+        "Description": "@ui_seasons_task_description_CompleteEnneadM1"
+    },
+    {
+        "SeasonsTaskID": "S2_CatchBrimstoneLegendaryFish",
+        "SeasonsTrackedStatID": "CatchBrimstoneLegendaryFish",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CatchBrimstoneLegendaryFish",
+        "Description": "@ui_seasons_task_description_CatchBrimstoneLegendaryFish"
+    },
+    {
+        "SeasonsTaskID": "S2_WinArenaMatches_2",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_name_WinArenaMatches_2",
+        "Description": "@ui_seasons_task_WinPvPMatches_desc"
+    },
+    {
+        "SeasonsTaskID": "S2_PlayOutpostRush_1",
+        "SeasonsTrackedStatID": "PlayOutpostRush",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_name_PlayOutpostRush_1",
+        "Description": "@ui_seasons_task_description_PlayOutpostRush"
+    },
+    {
+        "SeasonsTaskID": "S2_CloseBreaches_2",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_name_CloseBreaches_2",
+        "Description": "@ui_seasons_task_description_CloseMajorBreaches"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteQuest_SecondThoughts",
+        "SeasonsTrackedStatID": "CompleteQuest_SecondThoughts",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteQuest_SecondThoughts",
+        "Description": "@ui_seasons_task_description_CompleteQuest_SecondThoughts"
+    },
+    {
+        "SeasonsTaskID": "S2_LocateBrimstoneLostEasel",
+        "SeasonsTrackedStatID": "LocateBrimstoneLostEasel",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_LootBrimstoneEasel",
+        "Description": "@ui_seasons_task_description_LootBrimstoneEasel"
+    },
+    {
+        "SeasonsTaskID": "S2_CollectGlyph_3",
+        "SeasonsTrackedStatID": "UnlockBrimstoneGlyphAchievement",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_name_CollectGlyph_3",
+        "Description": "@ui_seasons_task_description_CollectGlyph"
+    },
+    {
+        "SeasonsTaskID": "S2_DefeatSolariumKhepri",
+        "SeasonsTrackedStatID": "KillKhepri",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_DefeatSolariumKhepri",
+        "Description": "@ui_seasons_task_description_DefeatSolariumKhepri"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteTownProjects_2",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_name_CompleteTownProjects_2",
+        "Description": "@ui_seasons_task_description_CompleteTownProjects"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteActivityCards_2",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_name_CompleteActivityCards_1",
+        "Description": "@ui_seasons_task_description_CompleteActivityCards"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteSeasonalChallenge_1",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_name_CompleteSeasonalChallenge_1",
+        "Description": "@ui_seasons_task_descripion_CompleteSeasonalChallenge"
+    },
+    {
+        "SeasonsTaskID": "S2_KillDunewalkers",
+        "SeasonsTrackedStatID": "KillDunewalker",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_name_KillDunewalkers_1",
+        "Description": "@ui_seasons_task_description_KillDunewalkers"
+    },
+    {
+        "SeasonsTaskID": "S2_KillPlayerOpenWorld_1",
+        "SeasonsTrackedStatID": "KillPlayerInOpenWorld",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_name_KillPlayerOpenWorld_1",
+        "Description": "@ui_seasons_task_description_KillPlayerOpenWorld"
+    },
+    {
+        "SeasonsTaskID": "S2_CraftGypsumOrbs_1",
+        "SeasonsTrackedStatID": "CraftGypsumOrb",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_name_CraftGypsumOrbs_1",
+        "Description": "@ui_seasons_task_description_CraftGypsumOrbs"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteQuest_TheOrdealOfTheNineGates",
+        "SeasonsTrackedStatID": "CompleteQuest_TheOrdealOfTheNineGates",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteQuest_TheOrdealOfTheNineGates",
+        "Description": "@ui_seasons_task_description_CompleteQuest_TheOrdealOfTheNineGates"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteQuest_PrecariousPosition",
+        "SeasonsTrackedStatID": "CompleteQuest_PrecariousPosition",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteQuest_PrecariousPosition",
+        "Description": "@ui_seasons_task_description_CompleteQuest_PrecariousPosition"
+    },
+    {
+        "SeasonsTaskID": "S2_CollectGlyph_4",
+        "SeasonsTrackedStatID": "UnlockBrimstoneGlyphAchievement",
+        "TaskMaxValue": 15,
+        "Name": "@ui_seasons_task_name_CollectGlyph_4",
+        "Description": "@ui_seasons_task_description_CollectGlyph"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteTrialHatchery",
+        "SeasonsTrackedStatID": "CompleteHatcheryTrial",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteTrialHatchery",
+        "Description": "@ui_seasons_task_description_CompleteTrialHatchery"
+    },
+    {
+        "SeasonsTaskID": "S2_CraftGoldenScarab_2",
+        "SeasonsTrackedStatID": "CraftUsingGoldenScarab",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_name_CraftGoldenScarab_2",
+        "Description": "@ui_seasons_task_description_CraftGoldenScarab"
+    },
+    {
+        "SeasonsTaskID": "S2_KillSulfurElemental",
+        "SeasonsTrackedStatID": "KillSulfurElemental",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_name_KillSulfurElementals_1",
+        "Description": "@ui_seasons_task_description_KillSulfurElementals"
+    },
+    {
+        "SeasonsTaskID": "S2_KillRafflebones",
+        "SeasonsTrackedStatID": "KillRafflebones",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_KillRafflebones_1",
+        "Description": "@ui_seasons_task_description_KillRafflebonesSingle"
+    },
+    {
+        "SeasonsTaskID": "S2_LootEliteSulfurChests_1",
+        "SeasonsTrackedStatID": "LootSulfurChest",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_name_LootEliteSulfurChests_1",
+        "Description": "@ui_seasons_task_description_LootEliteSulfurChests"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteStory_BrimstoneSands",
+        "SeasonsTrackedStatID": "CompleteQuest_TheWildHuntress",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteStory_BrimstoneSands",
+        "Description": "@ui_seasons_task_description_CompleteStory_BrimstoneSands"
+    },
+    {
+        "SeasonsTaskID": "S2_CaptureFactionControlPoints_2",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 8,
+        "Name": "@ui_seasons_task_name_CaptureFactionControlPoints_2",
+        "Description": "@ui_seasons_task_description_CaptureFactionControlPoints"
+    },
+    {
+        "SeasonsTaskID": "S2_PlayOutpostRush_2",
+        "SeasonsTrackedStatID": "PlayOutpostRush",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_name_PlayOutpostRush_2",
+        "Description": "@ui_seasons_task_description_PlayOutpostRush"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteQuest_EmptyNest",
+        "SeasonsTrackedStatID": "CompleteQuest_EmptyNest",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteQuest_EmptyNest",
+        "Description": "@ui_seasons_task_description_CompleteQuest_EmptyNest"
+    },
+    {
+        "SeasonsTaskID": "S2_GatherPrismabloom_15",
+        "SeasonsTrackedStatID": "GatherPrismabloom",
+        "TaskMaxValue": 15,
+        "Name": "@ui_seasons_task_name_GatherPrismabloom_15",
+        "Description": "@ui_seasons_task_description_GatherPrismabloom_15"
+    },
+    {
+        "SeasonsTaskID": "S2_KillHeka",
+        "SeasonsTrackedStatID": "KillHeka",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_KillHeka",
+        "Description": "@ui_seasons_task_description_KillHeka"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteTrialSandworm",
+        "SeasonsTrackedStatID": "CompleteSandwormTrial",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteTrialSandworm",
+        "Description": "@ui_seasons_task_description_CompleteTrialSandworm"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteM10Ennead",
+        "SeasonsTrackedStatID": "CompleteM10Expedition_TheEnnead",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteEnneadM10",
+        "Description": "@ui_seasons_task_description_CompleteEnneadM10"
+    },
+    {
+        "SeasonsTaskID": "S2_CollectGlyph_5",
+        "SeasonsTrackedStatID": "UnlockBrimstoneGlyphAchievement",
+        "TaskMaxValue": 26,
+        "Name": "@ui_seasons_task_name_CollectGlyph_5",
+        "Description": "@ui_seasons_task_description_CollectGlyph"
+    },
+    {
+        "SeasonsTaskID": "S2_LootEliteSulfurChests_2",
+        "SeasonsTrackedStatID": "LootSulfurChest",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_name_LootEliteSulfurChests_2",
+        "Description": "@ui_seasons_task_description_LootEliteSulfurChests"
+    },
+    {
+        "SeasonsTaskID": "S2_CraftRuneglass",
+        "SeasonsTrackedStatID": "CraftRuneglass",
+        "TaskMaxValue": 30,
+        "Name": "@ui_seasons_task_name_CraftRuneglass",
+        "Description": "@ui_seasons_task_description_CraftRuneglass"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteFactionMissions_2",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_name_CompleteFactionMissions_2",
+        "Description": "@ui_seasons_task_description_CompleteFactionMissions"
+    },
+    {
+        "SeasonsTaskID": "S2_CatchLbsOfFish",
+        "SeasonsTrackedStatID": "CatchPoundageOfFish",
+        "TaskMaxValue": 100000,
+        "Name": "@ui_seasons_task_name_CatchLbsOfFish_1",
+        "Description": "@ui_seasons_task_description_CatchLbsOfFish"
+    },
+    {
+        "SeasonsTaskID": "S2_KillNamedBrimstone",
+        "SeasonsTrackedStatID": "KillNamedBrimstone",
+        "TaskMaxValue": 30,
+        "Name": "@ui_seasons_task_name_KillNamedBrimstone",
+        "Description": "@ui_seasons_task_description_KillNamedBrimstone"
+    },
+    {
+        "SeasonsTaskID": "S2_PvPXP",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPXPAnyReason",
+        "TaskMaxValue": 30000,
+        "Name": "@ui_seasons_task_name_PvPXP",
+        "Description": "@ui_seasons_task_description_PvPXP"
+    },
+    {
+        "SeasonsTaskID": "S2_CompleteQuest_Rememberance",
+        "SeasonsTrackedStatID": "CompleteQuest_Rememberance",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_CompleteQuest_Rememberance",
+        "Description": "@ui_seasons_task_description_CompleteQuest_Rememberance"
+    },
+    {
+        "SeasonsTaskID": "S2_CloseBreaches_3",
+        "SeasonsTrackedStatID": "GameEvent_Breach",
+        "TaskMaxValue": 30,
+        "Name": "@ui_seasons_task_name_CloseBreaches_3",
+        "Description": "@ui_seasons_task_description_CloseBreaches"
+    },
+    {
+        "SeasonsTaskID": "S2_KillStubbles",
+        "SeasonsTrackedStatID": "KillStubbles",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_KillStubbles",
+        "Description": "@ui_seasons_task_description_KillStubbles"
+    },
+    {
+        "SeasonsTaskID": "S2_KillDunewalkers_2",
+        "SeasonsTrackedStatID": "KillDunewalker",
+        "TaskMaxValue": 500,
+        "Name": "@ui_seasons_task_name_KillDunewalkers_2",
+        "Description": "@ui_seasons_task_description_KillDunewalkers"
+    },
+    {
+        "SeasonsTaskID": "S2_Challenge_CompleteTrialSandwormFlawless",
+        "SeasonsTrackedStatID": "CompleteSandwormTrialFlawlessly",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_Challenge_CompleteTrialSandwormFlawless",
+        "Description": "@ui_seasons_task_description_Challenge_CompleteTrialSandwormFlawless"
+    },
+    {
+        "SeasonsTaskID": "S2_Challenge_CompleteTrialHatchery10Minutes",
+        "SeasonsTrackedStatID": "CompleteHatcheryTrialIn10Minutes",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_Challenge_CompleteTrialHatchery10Minutes",
+        "Description": "@ui_seasons_task_description_Challenge_CompleteTrialHatchery10Minutes"
+    },
+    {
+        "SeasonsTaskID": "S2_Challenge_CompleteM10ExpeditionsFlawless",
+        "SeasonsTrackedStatID": "CompleteM10ExpeditionFlawlessly",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_name_Challenge_CompleteM10ExpeditionsFlawless",
+        "Description": "@ui_seasons_task_description_Challenge_CompleteM10ExpeditionsFlawless"
+    },
+    {
+        "SeasonsTaskID": "S2_Challenge_KillRafflebones",
+        "SeasonsTrackedStatID": "KillRafflebones",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_name_Challenge_KillRafflebones",
+        "Description": "@ui_seasons_task_description_KillRafflebones"
+    },
+    {
+        "SeasonsTaskID": "S2_Challenge_CompleteStory_BloodOfTheSands",
+        "SeasonsTrackedStatID": "CompleteQuest_Rememberance",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_name_Challenge_CompleteStory_BloodOfTheSands",
+        "Description": "@ui_seasons_task_description_Challenge_CompleteStory_BloodOfTheSands"
+    },
+    {
+        "SeasonsTaskID": "S2_Challenge_PlayerKillingBlows",
+        "SeasonsTrackedStatID": "KillingBlowPlayer",
+        "TaskMaxValue": 300,
+        "Name": "@ui_seasons_task_name_Challenge_PlayerKillingBlows",
+        "Description": "@ui_seasons_task_description_Challenge_PlayerKillingBlows"
+    },
+    {
+        "SeasonsTaskID": "S2_Challenge_WinArenaMatchesNewMap",
+        "SeasonsTrackedStatID": "WinArena3x3Map2",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_name_Challenge_WinArenaMatchesNewMap",
+        "Description": "@ui_seasons_task_description_Challenge_WinArenaMatchesNewMap"
+    },
+    {
+        "SeasonsTaskID": "S2_Challenge_CompleteActivityCards",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_name_Challenge_CompleteActivityCards",
+        "Description": "@ui_seasons_task_description_CompleteActivityCards"
+    },
+    {
+        "SeasonsTaskID": "S2_Challenge_FishingAptitudeLevels",
+        "SeasonsTrackedStatID": "CategoricalProgressionFishingPostCap",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_name_Challenge_FishingAptitudeLevels",
+        "Description": "@ui_seasons_task_description_Challenge_FishingAptitudeLevels"
+    },
+    {
+        "SeasonsTaskID": "S2_Challenge_CraftItemsGoldenScarabs",
+        "SeasonsTrackedStatID": "CraftUsingGoldenScarab",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_name_Challenge_CraftItemsGoldenScarabs",
+        "Description": "@ui_seasons_task_description_CraftGoldenScarab"
+    },
+    {
+        "SeasonsTaskID": "Kill3Players",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill100Players",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "ParticipateIn3Duels",
+        "SeasonsTrackedStatID": "ParticipateInDuel",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Close2MinorBreaches",
+        "SeasonsTrackedStatID": "GameEvent_MinorBreach",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete5FactionMissions",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete5TownProjects",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill20Lost",
+        "SeasonsTrackedStatID": "KillLost",
+        "TaskMaxValue": 20,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill20AngryEarth",
+        "SeasonsTrackedStatID": "KillAngryEarth",
+        "TaskMaxValue": 20,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill20Ancients",
+        "SeasonsTrackedStatID": "KillAncient",
+        "TaskMaxValue": 20,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill20Corrupted",
+        "SeasonsTrackedStatID": "KillCorrupted",
+        "TaskMaxValue": 20,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill25Beasts",
+        "SeasonsTrackedStatID": "KillBeast",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill25EnemiesOneHanded",
+        "SeasonsTrackedStatID": "KillWithOneHanded",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill25EnemiesTwoHanded",
+        "SeasonsTrackedStatID": "KillWithTwoHanded",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill25EnemiesRanged",
+        "SeasonsTrackedStatID": "KillWithRanged",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill25EnemiesMagic",
+        "SeasonsTrackedStatID": "KillWithMagic",
+        "TaskMaxValue": 25,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft15T5Consumables",
+        "SeasonsTrackedStatID": "CraftT5Consumable",
+        "TaskMaxValue": 15,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Refine100T5Resources",
+        "SeasonsTrackedStatID": "RefineT5Resource",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Salvage10T5Items",
+        "SeasonsTrackedStatID": "SalvageT5Item",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Gather10T5ResourceNodes",
+        "SeasonsTrackedStatID": "GatherT5ResourceNode",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "CraftGypsumCast",
+        "SeasonsTrackedStatID": "CraftGypsumCast",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "LootEliteChest",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
         "SeasonsTaskID": "Kill10EnemiesMyrkgard",
         "SeasonsTrackedStatID": "KillPOIMyrkgard",
         "TaskMaxValue": 10,
@@ -1025,6 +1634,97 @@
         "SeasonsTaskID": "Kill20Elite",
         "SeasonsTrackedStatID": "KillElite",
         "TaskMaxValue": 20,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Gather1MaudlinDust",
+        "SeasonsTrackedStatID": "GatherMaudlinDust",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteSongMaudlinWaltz",
+        "SeasonsTrackedStatID": "CompleteSongMaudlinWaltz",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Gather3AeternumSturgeon",
+        "SeasonsTrackedStatID": "",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "CompleteSongYAAAHHHH",
+        "SeasonsTrackedStatID": "CompleteSongYAAAHHHH",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Complete2Songs",
+        "SeasonsTrackedStatID": "CompleteSong",
+        "TaskMaxValue": 2,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill5Scorpions",
+        "SeasonsTrackedStatID": "KillScorpions",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "DefeatBrimstoneSandsBoss",
+        "SeasonsTrackedStatID": "DefeatWurmBoss",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Gather500Resources",
+        "SeasonsTrackedStatID": "GatherResource",
+        "TaskMaxValue": 500,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill10Dunewalkers",
+        "SeasonsTrackedStatID": "KillDunewalker",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "KillNamedDunewalker",
+        "SeasonsTrackedStatID": "KillNamedDunewalker",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "LootSulfurChest",
+        "SeasonsTrackedStatID": "LootSulfurChest",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Kill1Player",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 1,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Gain100PvPXP",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPXPAnyReason",
+        "TaskMaxValue": 100,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
     }

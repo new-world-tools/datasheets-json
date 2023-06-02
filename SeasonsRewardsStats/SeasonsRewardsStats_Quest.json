@@ -96,5 +96,54 @@
         "TargetID": "95_s01_10_TEMP_ToBeContinued",
         "QuestType": "",
         "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_WordOfAThief",
+        "StatType": "CompleteQuest",
+        "TargetID": "95A_S02_WordofaThief",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_SecondThoughts",
+        "StatType": "CompleteQuest",
+        "TargetID": "95A_S02_SecondThoughts",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_PrecariousPosition",
+        "StatType": "CompleteQuest",
+        "TargetID": "95A_S02_PrecariousPosition",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_EmptyNest",
+        "StatType": "CompleteQuest",
+        "TargetID": "95A_S02_EmptyNest",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_Rememberance",
+        "StatType": "CompleteQuest",
+        "TargetID": "95A_S02_Remembrance",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_TheOrdealOfTheNineGates",
+        "StatType": "CompleteQuest",
+        "TargetID": "1624_0801_agodawakens",
+        "QuestType": "",
+        "IsPVP": null
+    },
+    {
+        "TrackedStatID": "CompleteQuest_TheWildHuntress",
+        "StatType": "CompleteQuest",
+        "TargetID": "1624_1001_thewildhuntress",
+        "QuestType": "",
+        "IsPVP": null
     }
 ]

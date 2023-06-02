@@ -27,7 +27,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 32.5
+        "LineTensionRecoverPerSecond": 33.5
     },
     {
         "Id": "2hFishingPoleT4",
@@ -37,7 +37,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 35
+        "LineTensionRecoverPerSecond": 39
     },
     {
         "Id": "2hFishingPoleT5",
@@ -47,7 +47,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 37.5
+        "LineTensionRecoverPerSecond": 47
     },
     {
         "Id": "2hFishingPole_Ancient",
@@ -57,7 +57,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 37.5
+        "LineTensionRecoverPerSecond": 47
     },
     {
         "Id": "2hFishingPole_AngryEarth",
@@ -67,7 +67,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 37.5
+        "LineTensionRecoverPerSecond": 47
     },
     {
         "Id": "2hFishingPole_Corrupted",
@@ -77,7 +77,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 37.5
+        "LineTensionRecoverPerSecond": 47
     },
     {
         "Id": "2hFishingPole_Lost",
@@ -87,7 +87,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 37.5
+        "LineTensionRecoverPerSecond": 47
     },
     {
         "Id": "2hFishingPole_LegendaryAzoth",
@@ -97,7 +97,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 37.5
+        "LineTensionRecoverPerSecond": 47
     },
     {
         "Id": "2hFishingPole_LegendaryStrength",
@@ -107,7 +107,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 37.5
+        "LineTensionRecoverPerSecond": 47
     },
     {
         "Id": "2hFishingPole_LegendaryTech",
@@ -117,7 +117,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 37.5
+        "LineTensionRecoverPerSecond": 47
     },
     {
         "Id": "Omega_FishingPole_T5",
@@ -127,7 +127,7 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 37.5
+        "LineTensionRecoverPerSecond": 47
     },
     {
         "Id": "2hSummerFishingPoleT2",
@@ -147,7 +147,7 @@
         "SummerFishRarityRollModifier": 0.5,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 32.5
+        "LineTensionRecoverPerSecond": 33.5
     },
     {
         "Id": "2hSummerFishingPoleT4",
@@ -157,7 +157,7 @@
         "SummerFishRarityRollModifier": 0.75,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 35
+        "LineTensionRecoverPerSecond": 39
     },
     {
         "Id": "2hSummerCommemorativeFishingPoleT5",
@@ -167,7 +167,7 @@
         "SummerFishRarityRollModifier": 1,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 37.5
+        "LineTensionRecoverPerSecond": 47
     },
     {
         "Id": "QuestReward_MSQ2_2hFishingPole_Yonas",
@@ -177,6 +177,36 @@
         "SummerFishRarityRollModifier": 0,
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
-        "LineTensionRecoverPerSecond": 32.5
+        "LineTensionRecoverPerSecond": 33.5
+    },
+    {
+        "Id": "Marauder_2hFishingPoleT3",
+        "CastDistanceRange": "5-16",
+        "FishRarityRollModifier": 0.75,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "FishReelTimeSeconds": 8,
+        "LineTensionGainPerSecond": 12.5,
+        "LineTensionRecoverPerSecond": 33.5
+    },
+    {
+        "Id": "Syndicate_2hFishingPoleT3",
+        "CastDistanceRange": "5-16",
+        "FishRarityRollModifier": 0.75,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "FishReelTimeSeconds": 8,
+        "LineTensionGainPerSecond": 12.5,
+        "LineTensionRecoverPerSecond": 33.5
+    },
+    {
+        "Id": "Covenant_2hFishingPoleT3",
+        "CastDistanceRange": "5-16",
+        "FishRarityRollModifier": 0.75,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "FishReelTimeSeconds": 8,
+        "LineTensionGainPerSecond": 12.5,
+        "LineTensionRecoverPerSecond": 33.5
     }
 ]
