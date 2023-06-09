@@ -693,6 +693,24 @@
         "MeshOverride": ""
     },
     {
+        "AmmoID": "Sandworm_ArenaEncounter_WormPellet_Projectile_Rapid",
+        "AmmoType": "Siege",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Arenas/Events/Sandworm/Phase3/Sandworm_ArenaEncounter_WormPellet_Projectile_Rapid",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
+        "AmmoID": "Sandworm_ArenaEncounter_WormPellet_Projectile_Burst",
+        "AmmoType": "Siege",
+        "DamageModifier": 1,
+        "StaggerDamageModifier": 1,
+        "AmmoPrefabPath": "Arenas/Events/Sandworm/Phase3/Sandworm_ArenaEncounter_WormPellet_Projectile_Rapid",
+        "AmmoWhizByTrigger": "Play_Bullet_WizzBys",
+        "MeshOverride": ""
+    },
+    {
         "AmmoID": "Turret_T1_ExplosiveLauncher_Projectile_12MB04",
         "AmmoType": "Siege",
         "DamageModifier": 1,

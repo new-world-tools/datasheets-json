@@ -1,18 +1,5 @@
 [
     {
-        "Id": "BaitMaudlinbugT1",
-        "FishRarityRollModifier": 0,
-        "FishSizeRollModifier": 0,
-        "SummerFishRarityRollModifier": 2,
-        "RequiredWaterTags": "Fresh,Salt",
-        "ActiveAtDawn": true,
-        "ActiveAtDaytime": true,
-        "ActiveAtDusk": true,
-        "ActiveAtNight": true,
-        "LootTableId": "FishingSummerMedley",
-        "TimeToNibbleSecondsMultiplier": 0.2
-    },
-    {
         "Id": "BaitFreshMeatT1",
         "FishRarityRollModifier": 0,
         "FishSizeRollModifier": 1.5,

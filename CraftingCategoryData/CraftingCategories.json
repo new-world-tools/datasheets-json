@@ -5754,36 +5754,6 @@
         "Description": ""
     },
     {
-        "CategoryID": "SummerMemento",
-        "ImagePath": "",
-        "DisplayText": "@SummerMemento",
-        "Description": ""
-    },
-    {
-        "CategoryID": "MementoStand",
-        "ImagePath": "",
-        "DisplayText": "@MementoStand",
-        "Description": ""
-    },
-    {
-        "CategoryID": "SmallMemento",
-        "ImagePath": "",
-        "DisplayText": "@SmallMemento",
-        "Description": ""
-    },
-    {
-        "CategoryID": "MediumMemento",
-        "ImagePath": "",
-        "DisplayText": "@MediumMemento",
-        "Description": ""
-    },
-    {
-        "CategoryID": "LargeMemento",
-        "ImagePath": "",
-        "DisplayText": "@LargeMemento",
-        "Description": ""
-    },
-    {
         "CategoryID": "Instruments",
         "ImagePath": "",
         "DisplayText": "@Instruments_GroupName",
@@ -6045,6 +6015,18 @@
         "CategoryID": "TheHatchery",
         "ImagePath": "",
         "DisplayText": "@TheHatchery_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrialNamedReplicas",
+        "ImagePath": "",
+        "DisplayText": "@TrialNamedReplicas_GroupName",
+        "Description": ""
+    },
+    {
+        "CategoryID": "UniqueEliteTrialReplicas1",
+        "ImagePath": "",
+        "DisplayText": "@UniqueEliteTrialReplicas1_GroupName",
         "Description": ""
     }
 ]

@@ -138,7 +138,7 @@
     {
         "FactionControlBuffID": "Gathering_Luck_Roll_Bonus",
         "IsTerritoryBuff": false,
-        "Value": 10000,
+        "Value": 1000,
         "Name": "@ui_gathering_luck_roll_bonus_name",
         "Description": "@ui_gathering_luck_roll_bonus_desc",
         "Comments": "Percentage bonus to gathering luck"
