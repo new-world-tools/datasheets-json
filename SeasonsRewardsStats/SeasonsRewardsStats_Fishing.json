@@ -20,7 +20,7 @@
     {
         "TrackedStatID": "CatchTreasureChest",
         "StatType": "Fishing",
-        "TargetID": "FishingTreasureChestT3",
+        "TargetID": "FishingTreasureChestT3,FishingTreasureGoodProvisionT3,FishingTreasurePigmentT3,FishingTreasureGearT3,FishingTreasureMoteT3,FishingTreasureSeaweedT2,FishingTreasureBootT2,FishingTreasureOarT2,FishingTreasureSwordT2,FishingTreasureHammerT2",
         "Level": null,
         "MinWeight": "",
         "PerUse": true,
