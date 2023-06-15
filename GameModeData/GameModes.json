@@ -116,7 +116,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "TestMode2",
@@ -235,7 +237,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "Duel",
@@ -354,7 +358,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "OutpostRush",
@@ -473,7 +479,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "DungeonAmrine",
@@ -592,7 +600,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "DungeonEdengrove00",
@@ -711,7 +721,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "DungeonShatteredObelisk",
@@ -830,7 +842,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "DungeonRestlessShores01",
@@ -949,7 +963,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "DungeonReekwater00",
@@ -1068,7 +1084,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "DungeonEbonscale00",
@@ -1187,7 +1205,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "DungeonCutlassKeys00",
@@ -1306,7 +1326,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "DungeonBrimstoneSands00",
@@ -1425,7 +1447,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "DungeonGreatCleave01",
@@ -1544,7 +1568,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "DungeonShatterMtn00",
@@ -1663,7 +1689,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "Arena3v3",
@@ -1782,7 +1810,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "Arena3v3_02",
@@ -1901,7 +1931,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "TrialBrimstoneSandworm",
@@ -2020,7 +2052,9 @@
         "HideCompass": true,
         "ExclusiveRewardIds": "UmbralShardT1,GypsumOrb,Sandworm_Trial_Materia,Shard_Heavy_Chest,MediumHead_Sandworm_Trial_T5,MediumChest_Sandworm_Trial_T5,MediumHands_Sandworm_Trial_T5,MediumLegs_Sandworm_Trial_T5,MediumFeet_Sandworm_Trial_T5,HeavyHead_Sandworm_Trial_T5,HeavyChest_Sandworm_Trial_T5,HeavyHands_Sandworm_Trial_T5,HeavyLegs_Sandworm_Trial_T5,HeavyFeet_Sandworm_Trial_T5,LightHead_Sandworm_Trial_T5,LightChest_Sandworm_Trial_T5,LightHands_Sandworm_Trial_T5,LightLegs_Sandworm_Trial_T5,LightFeet_Sandworm_Trial_T5,MediumHead_Sandworm_Trial_Named_T5,MediumChest_Sandworm_Trial_Named_T5,MediumHands_Sandworm_Trial_Named_T5,MediumLegs_Sandworm_Trial_Named_T5,MediumFeet_Sandworm_Trial_Named_T5,HeavyHead_Sandworm_Trial_Named_T5,HeavyChest_Sandworm_Trial_Named_T5,HeavyHands_Sandworm_Trial_Named_T5,HeavyLegs_Sandworm_Trial_Named_T5,HeavyFeet_Sandworm_Trial_Named_T5,LightHead_Sandworm_Trial_Named_T5,LightChest_Sandworm_Trial_Named_T5,LightHands_Sandworm_Trial_Named_T5,LightLegs_Sandworm_Trial_Named_T5,LightFeet_Sandworm_Trial_Named_T5,Sandworm_Trial_WeaponLongsword_T5,Sandworm_Trial_WeaponGreatAxe_T5,Sandworm_Trial_WeaponMusket_T5,Sandworm_Trial_WeaponBlunderbuss_T5,Sandworm_Trial_WeaponBow_T5,Sandworm_Trial_WeaponThrowingAxe_T5,Sandworm_Trial_WeaponFireStaff_T5,Sandworm_Trial_WeaponLifeStaff_T5,Sandworm_Trial_WeaponWarhammer_T5,Sandworm_Trial_WeaponGreatsword_T5,Sandworm_Trial_WeaponRapier_T5,Sandworm_Trial_WeaponSpear_T5,Sandworm_Trial_WeaponIceGauntlet_T5,Sandworm_Trial_WeaponVoidGauntlet_T5,Sandworm_Trial_WeaponKiteShield_T5,Sandworm_Trial_WeaponRoundShieldT5,Sandworm_Trial_WeaponTowerShield_T5,Sandworm_Trial_AmuletT5,Sandworm_Trial_RingT5,Sandworm_Trial_EarringT5",
         "UniqueRewardIds": "UmbralShardT1,GypsumOrb,Sandworm_Trial_Materia,RuneSandwormT1,MediumHead_Sandworm_Trial_Named_T5,MediumChest_Sandworm_Trial_Named_T5,MediumHands_Sandworm_Trial_Named_T5,MediumLegs_Sandworm_Trial_Named_T5,MediumFeet_Sandworm_Trial_Named_T5,HeavyHead_Sandworm_Trial_Named_T5,HeavyChest_Sandworm_Trial_Named_T5,HeavyHands_Sandworm_Trial_Named_T5,HeavyLegs_Sandworm_Trial_Named_T5,HeavyFeet_Sandworm_Trial_Named_T5,LightHead_Sandworm_Trial_Named_T5,LightChest_Sandworm_Trial_Named_T5,LightHands_Sandworm_Trial_Named_T5,LightLegs_Sandworm_Trial_Named_T5,LightFeet_Sandworm_Trial_Named_T5,Sandworm_Trial_WeaponLongsword_T5,Sandworm_Trial_WeaponGreatAxe_T5,Sandworm_Trial_WeaponMusket_T5,Sandworm_Trial_WeaponBlunderbuss_T5,Sandworm_Trial_WeaponBow_T5,Sandworm_Trial_WeaponThrowingAxe_T5,Sandworm_Trial_WeaponFireStaff_T5,Sandworm_Trial_WeaponLifeStaff_T5,Sandworm_Trial_WeaponWarhammer_T5,Sandworm_Trial_WeaponGreatsword_T5,Sandworm_Trial_WeaponRapier_T5,Sandworm_Trial_WeaponSpear_T5,Sandworm_Trial_WeaponIceGauntlet_T5,Sandworm_Trial_WeaponVoidGauntlet_T5,Sandworm_Trial_WeaponKiteShield_T5,Sandworm_Trial_WeaponRoundShieldT5,Sandworm_Trial_WeaponTowerShield_T5,Sandworm_Trial_AmuletT5,Sandworm_Trial_RingT5,Sandworm_Trial_EarringT5",
-        "BasicRewardIds": "UmbralShardT1,MediumHead_Sandworm_Trial_T5,MediumChest_Sandworm_Trial_T5,MediumHands_Sandworm_Trial_T5,MediumLegs_Sandworm_Trial_T5,MediumFeet_Sandworm_Trial_T5,HeavyHead_Sandworm_Trial_T5,HeavyChest_Sandworm_Trial_T5,HeavyHands_Sandworm_Trial_T5,HeavyLegs_Sandworm_Trial_T5,HeavyFeet_Sandworm_Trial_T5,LightHead_Sandworm_Trial_T5,LightChest_Sandworm_Trial_T5,LightHands_Sandworm_Trial_T5,LightLegs_Sandworm_Trial_T5,LightFeet_Sandworm_Trial_T5"
+        "BasicRewardIds": "UmbralShardT1,MediumHead_Sandworm_Trial_T5,MediumChest_Sandworm_Trial_T5,MediumHands_Sandworm_Trial_T5,MediumLegs_Sandworm_Trial_T5,MediumFeet_Sandworm_Trial_T5,HeavyHead_Sandworm_Trial_T5,HeavyChest_Sandworm_Trial_T5,HeavyHands_Sandworm_Trial_T5,HeavyLegs_Sandworm_Trial_T5,HeavyFeet_Sandworm_Trial_T5,LightHead_Sandworm_Trial_T5,LightChest_Sandworm_Trial_T5,LightHands_Sandworm_Trial_T5,LightLegs_Sandworm_Trial_T5,LightFeet_Sandworm_Trial_T5",
+        "GearScoreRecommendedValueMin": 600,
+        "GearScoreRecommendedValueMax": 625
     },
     {
         "GameModeId": "QuestApophis",
@@ -2139,7 +2173,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "TrialSeason01",
@@ -2256,9 +2292,11 @@
         "Tip03Text": "@Trial_Season_01_Objective_3",
         "HidePoiName": null,
         "HideCompass": null,
-        "ExclusiveRewardIds": "UmbralShardT1,HeavyChest_Trial_S2_NamedT5,HeavyHead_Trial_S2_NamedT5,HeavyLegs_Trial_S2_NamedT5,HeavyFeet_Trial_S2_NamedT5,HeavyHands_Trial_S2_NamedT5,MediumChest_Trial_S2_RimaT5,MediumHead_Trial_S2_RimaT5,MediumLegs_Trial_S2_RimaT5,MediumFeet_Trial_S2_RimaT5,MediumHands_Trial_S2_RimaT5,LightChest_Trial_S2_SharifT5,LightHead_Trial_S2_SharifT5,LightLegs_Trial_S2_SharifT5,LightFeet_Trial_S2_SharifT5,LightHands_Trial_S2_SharifT5,House_HousingItem_Season2_SandwormEgg_Variant5,WritofAdventure,GlyphStone_Night,GlyphStone_Water,GlyphStone_Gift,GlyphStone_Mountain,GlyphStone_River,GlyphStone_Shadow,GlyphStone_Chaos,GlyphStone_Sun,GlyphStone_Sealed,GlyphStone_Destruction,GlyphStone_Strength,GlyphStone_Food,GlyphStone_Above",
-        "UniqueRewardIds": "GlassTalismanT1,LightChest_Trial_S2_T5,LightHead_Trial_S2_T5,LightLegs_Trial_S2_T5,LightFeet_Trial_S2_T5,LightHands_Trial_S2_T5,MediumChest_Trial_S2_T5,MediumHead_Trial_S2_T5,MediumLegs_Trial_S2_T5,MediumFeet_Trial_S2_T5,MediumHands_Trial_S2_T5,HeavyChest_Trial_S2_T5,HeavyHead_Trial_S2_T5,HeavyLegs_Trial_S2_T5,HeavyFeet_Trial_S2_T5,HeavyHands_Trial_S2_T5,2hBow_Trial_S2_T5,2hGreatAxe_Trial_S2_T5,1hSword_Trial_S2_T5,2hMusket_Trial_S2_T5,1hRapier_Trial_S2_T5,2hSpear_Trial_S2_T5,1hHatchet_Trial_S2_T5,2hWarhammer_Trial_S2_T5,2hFireStaff_Trial_S2_T5,2hLifeStaff_Trial_S2_T5,1hGauntletIce_Trial_S2_T5,1hGauntletVoid_Trial_S2_T5,2hBlunderbuss_Trial_S2_T5,2hGreatsword_Trial_S2_T5,1hRoundShield_Trial_S2_T5,1hKiteShield_Trial_S2_T5,1hTowerShield_Trial_S2_T5",
-        "BasicRewardIds": "SmolderingSandT1,PotionHealthT5,PotionManaT5,PotionRegenT4"
+        "ExclusiveRewardIds": "UmbralShardT1,HeavyChest_Trial_S2_NamedT5,HeavyHead_Trial_S2_NamedT5,HeavyLegs_Trial_S2_NamedT5,HeavyFeet_Trial_S2_NamedT5,HeavyHands_Trial_S2_NamedT5,MediumChest_Trial_S2_RimaT5,MediumHead_Trial_S2_RimaT5,MediumLegs_Trial_S2_RimaT5,MediumFeet_Trial_S2_RimaT5,MediumHands_Trial_S2_RimaT5,LightChest_Trial_S2_SharifT5,LightHead_Trial_S2_SharifT5,LightLegs_Trial_S2_SharifT5,LightFeet_Trial_S2_SharifT5,LightHands_Trial_S2_SharifT5,House_HousingItem_Season2_SandwormEgg_Variant5,GoldenScarab,WritofAdventure,GlyphStone_Night,GlyphStone_Water,GlyphStone_Gift,GlyphStone_Mountain,GlyphStone_River,GlyphStone_Shadow,GlyphStone_Chaos,GlyphStone_Sun,GlyphStone_Sealed,GlyphStone_Destruction,GlyphStone_Strength,GlyphStone_Food,GlyphStone_Above",
+        "UniqueRewardIds": "GlassTalismanT1,ItemDisplay_2hBow_Trial_S2_T5,ItemDisplay_2hGreatAxe_Trial_S2_T5,ItemDisplay_1hSword_Trial_S2_T5,ItemDisplay_2hMusket_Trial_S2_T5,ItemDisplay_1hRapier_Trial_S2_T5,ItemDisplay_2hSpear_Trial_S2_T5,ItemDisplay_1hHatchet_Trial_S2_T5,ItemDisplay_2hWarhammer_Trial_S2_T5,ItemDisplay_2hFireStaff_Trial_S2_T5,ItemDisplay_2hLifeStaff_Trial_S2_T5,ItemDisplay_1hGauntletIce_Trial_S2_T5,ItemDisplay_1hGauntletVoid_Trial_S2_T5,ItemDisplay_2hBlunderbuss_Trial_S2_T5,ItemDisplay_2hGreatsword_Trial_S2_T5,ItemDisplay_1hRoundShield_Trial_S2_T5,ItemDisplay_1hKiteShield_Trial_S2_T5,ItemDisplay_1hTowerShield_Trial_S2_T5,ItemDisplay_LightChest_Trial_S2_T5,ItemDisplay_LightHead_Trial_S2_T5,ItemDisplay_LightLegs_Trial_S2_T5,ItemDisplay_LightFeet_Trial_S2_T5,ItemDisplay_LightHands_Trial_S2_T5,ItemDisplay_MediumChest_Trial_S2_T5,ItemDisplay_MediumHead_Trial_S2_T5,ItemDisplay_MediumLegs_Trial_S2_T5,ItemDisplay_MediumFeet_Trial_S2_T5,ItemDisplay_MediumHands_Trial_S2_T5,ItemDisplay_HeavyChest_Trial_S2_T5,ItemDisplay_HeavyHead_Trial_S2_T5,ItemDisplay_HeavyLegs_Trial_S2_T5,ItemDisplay_HeavyFeet_Trial_S2_T5,ItemDisplay_HeavyHands_Trial_S2_T5",
+        "BasicRewardIds": "SmolderingSandT1,PotionHealthT5,PotionManaT5,PotionRegenT4",
+        "GearScoreRecommendedValueMin": 600,
+        "GearScoreRecommendedValueMax": 625
     },
     {
         "GameModeId": "QuestCaerDun",
@@ -2377,7 +2415,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "TrialSeason02Q13",
@@ -2496,7 +2536,9 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     },
     {
         "GameModeId": "TrialSeason02Q12",
@@ -2615,6 +2657,8 @@
         "HideCompass": null,
         "ExclusiveRewardIds": "",
         "UniqueRewardIds": "",
-        "BasicRewardIds": ""
+        "BasicRewardIds": "",
+        "GearScoreRecommendedValueMin": null,
+        "GearScoreRecommendedValueMax": null
     }
 ]

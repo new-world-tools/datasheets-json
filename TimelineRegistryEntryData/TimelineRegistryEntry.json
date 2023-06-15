@@ -32438,5 +32438,15 @@
         "TimelineEntryName": "npc_95a_s02_egghunt_talkzander_01",
         "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_egghunt_talkzander_01.timeline",
         "AssetDependencyPath": "npc_95a_s02_egghunt_talkzander_01.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01b_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_01b_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01b_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "vox_jackal_laugh_4",
+        "TimelineAssetPath": "charactervo/strangejackal/vox_jackal_laugh_4.timeline",
+        "AssetDependencyPath": "vox_jackal_laugh_4.timeline"
     }
 ]
