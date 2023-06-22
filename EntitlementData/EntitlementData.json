@@ -19025,7 +19025,7 @@
         "IsEnabled": true,
         "DisplayName": "",
         "Description": "",
-        "IsConsumable": null,
+        "IsConsumable": true,
         "Icon": "",
         "RewardType": "InventoryItem",
         "Reward(s)": "Jun2023_Container",
@@ -19253,7 +19253,7 @@
         "IsConsumable": null,
         "Icon": "",
         "RewardType": "Entitlement",
-        "Reward(s)": "EntitlementSkin_Head_Sandborn+EntitlementTitle_Season1_DeluxeBattlePass+Ent_Housing_Season2_SandwormEgg",
+        "Reward(s)": "EntitlementSkin_Head_Sandborn+EntitlementTitle_Season2_DeluxeBattlePass+Ent_Housing_Season2_SandwormEgg",
         "EntitlementInfo": "",
         "SourceType": "SeasonRewardTrack",
         "AchievementId": "",
@@ -19857,6 +19857,21 @@
         "EntitlementInfo": "",
         "SourceType": "SeasonRewardTrack",
         "AchievementId": "",
+        "Notes": ""
+    },
+    {
+        "UniqueTagID": "RewardCache_PrimeDay2023_Prime",
+        "EntitlementIndex": 1521,
+        "IsEnabled": true,
+        "DisplayName": "",
+        "Description": "",
+        "IsConsumable": true,
+        "Icon": "",
+        "RewardType": "InventoryItem",
+        "Reward(s)": "PrimeDay2023_Container",
+        "EntitlementInfo": "",
+        "SourceType": "Prime",
+        "AchievementId": "RewardClaim_PrimeDay2023_Prime",
         "Notes": ""
     }
 ]

@@ -31241,8 +31241,8 @@
         "StatusEffectId": "",
         "RemoveStatusEffects": "",
         "RemoveStatusEffectCategories": "",
-        "LootLimitId": "Arena_Spriggan_AngryEarth_T1_Limit",
-        "LootLimitReachedGameEventId": "Arena_PVE_Limit_Reached",
+        "LootLimitId": "",
+        "LootLimitReachedGameEventId": "",
         "LootLimitReachedGameEventKeepOverrides": "",
         "LeaderboardValue": null,
         "SeasonsXp": 10
@@ -31277,8 +31277,8 @@
         "StatusEffectId": "",
         "RemoveStatusEffects": "",
         "RemoveStatusEffectCategories": "",
-        "LootLimitId": "Arena_LostSiren_Reekwater_Limit",
-        "LootLimitReachedGameEventId": "Arena_PVE_Limit_Reached",
+        "LootLimitId": "",
+        "LootLimitReachedGameEventId": "",
         "LootLimitReachedGameEventKeepOverrides": "",
         "LeaderboardValue": null,
         "SeasonsXp": 10
@@ -31313,47 +31313,11 @@
         "StatusEffectId": "",
         "RemoveStatusEffects": "",
         "RemoveStatusEffectCategories": "",
-        "LootLimitId": "Arena_SwampBeast_Reekwater_Limit",
-        "LootLimitReachedGameEventId": "Arena_PVE_Limit_Reached",
-        "LootLimitReachedGameEventKeepOverrides": "",
-        "LeaderboardValue": null,
-        "SeasonsXp": 10
-    },
-    {
-        "EventID": "Arena_PVE_Limit_Reached",
-        "GameEventType": "Arena",
-        "Level": 66,
-        "CreatureType": "",
-        "UniversalExpAmount": 8750,
-        "UseRestedExp": "",
-        "CurrencyReward": "9600",
-        "CoinRewardChance": null,
-        "ItemReward": "[LTID]Arena_PVP_Limit_ReachedEvent",
-        "ItemRewardQty": null,
-        "GearScoreRange": "",
-        "LootTags": "",
-        "CategoricalProgressionId": "",
-        "CategoricalProgressionReward": null,
-        "TerritoryStanding": "",
-        "FactionReputation": null,
-        "FactionTokens": null,
-        "AzothSalt": null,
-        "AzothSaltChance": null,
-        "PvpXp": null,
-        "FactionInfluenceAmount": null,
-        "FactionInfluenceSrc": "",
-        "EmitTelemetry": true,
-        "AzothReward": 30,
-        "AzothRewardChance": 1,
-        "EntitlementId": "",
-        "StatusEffectId": "",
-        "RemoveStatusEffects": "",
-        "RemoveStatusEffectCategories": "",
         "LootLimitId": "",
         "LootLimitReachedGameEventId": "",
         "LootLimitReachedGameEventKeepOverrides": "",
         "LeaderboardValue": null,
-        "SeasonsXp": null
+        "SeasonsXp": 10
     },
     {
         "EventID": "Arena_CorruptedSpriggan_Myrkgard",
@@ -31424,7 +31388,7 @@
         "LootLimitId": "",
         "LootLimitReachedGameEventId": "",
         "LootLimitReachedGameEventKeepOverrides": "",
-        "LeaderboardValue": 5250,
+        "LeaderboardValue": null,
         "SeasonsXp": 15
     },
     {
@@ -31460,7 +31424,7 @@
         "LootLimitId": "",
         "LootLimitReachedGameEventId": "",
         "LootLimitReachedGameEventKeepOverrides": "",
-        "LeaderboardValue": 5250,
+        "LeaderboardValue": null,
         "SeasonsXp": 15
     },
     {
@@ -31496,7 +31460,7 @@
         "LootLimitId": "",
         "LootLimitReachedGameEventId": "",
         "LootLimitReachedGameEventKeepOverrides": "",
-        "LeaderboardValue": 5250,
+        "LeaderboardValue": null,
         "SeasonsXp": 15
     },
     {
@@ -31532,7 +31496,7 @@
         "LootLimitId": "",
         "LootLimitReachedGameEventId": "",
         "LootLimitReachedGameEventKeepOverrides": "",
-        "LeaderboardValue": 5250,
+        "LeaderboardValue": null,
         "SeasonsXp": 15
     },
     {
@@ -31568,7 +31532,7 @@
         "LootLimitId": "",
         "LootLimitReachedGameEventId": "",
         "LootLimitReachedGameEventKeepOverrides": "",
-        "LeaderboardValue": 5250,
+        "LeaderboardValue": null,
         "SeasonsXp": 15
     },
     {

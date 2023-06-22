@@ -1586,45 +1586,6 @@
         "LimitNotificationLocTag": ""
     },
     {
-        "LootLimitID": "Arena_Spriggan_AngryEarth_T1_Limit",
-        "IsReplicated": false,
-        "MinLimitSeconds": 0,
-        "MaxLimitSeconds": 0,
-        "CountLimit": 5,
-        "MinLimitMult": 604800,
-        "MaxLimitMult": 604800,
-        "LimitExpireSeconds": 604800,
-        "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
-    },
-    {
-        "LootLimitID": "Arena_LostSiren_Reekwater_Limit",
-        "IsReplicated": false,
-        "MinLimitSeconds": 0,
-        "MaxLimitSeconds": 0,
-        "CountLimit": 5,
-        "MinLimitMult": 604800,
-        "MaxLimitMult": 604800,
-        "LimitExpireSeconds": 604800,
-        "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
-    },
-    {
-        "LootLimitID": "Arena_SwampBeast_Reekwater_Limit",
-        "IsReplicated": false,
-        "MinLimitSeconds": 0,
-        "MaxLimitSeconds": 0,
-        "CountLimit": 5,
-        "MinLimitMult": 604800,
-        "MaxLimitMult": 604800,
-        "LimitExpireSeconds": 604800,
-        "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
-    },
-    {
         "LootLimitID": "Trial_Sandworm_DailyBox",
         "IsReplicated": true,
         "MinLimitSeconds": 0,

@@ -32448,5 +32448,20 @@
         "TimelineEntryName": "vox_jackal_laugh_4",
         "TimelineAssetPath": "charactervo/strangejackal/vox_jackal_laugh_4.timeline",
         "AssetDependencyPath": "vox_jackal_laugh_4.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_obj_complete_alt",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_wordofathief_obj_complete_alt.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_obj_complete_alt.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_obj_complete_next_alt",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_wordofathief_obj_complete_next_alt.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_obj_complete_next_alt.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02_sharif_alt",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_02_sharif_alt.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02_sharif_alt.timeline"
     }
 ]
