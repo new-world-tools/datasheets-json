@@ -1058,7 +1058,7 @@
     },
     {
         "SeasonsTaskID": "S2_SongsExpertWithFullBand",
-        "SeasonsTrackedStatID": "CompleteSongInGroupWithExpertRating",
+        "SeasonsTrackedStatID": "CompleteSongOnExpert",
         "TaskMaxValue": 5,
         "Name": "@ui_seasons_task_name_SongsExpertWithFullBand_1",
         "Description": "@ui_seasons_task_description_SongsExpertWithFullBand"
@@ -1304,7 +1304,7 @@
     {
         "SeasonsTaskID": "S2_LootEliteSulfurChests_2",
         "SeasonsTrackedStatID": "LootSulfurChest",
-        "TaskMaxValue": 100,
+        "TaskMaxValue": 50,
         "Name": "@ui_seasons_task_name_LootEliteSulfurChests_2",
         "Description": "@ui_seasons_task_description_LootEliteSulfurChests"
     },
@@ -1416,7 +1416,7 @@
     {
         "SeasonsTaskID": "S2_Challenge_WinArenaMatchesNewMap",
         "SeasonsTrackedStatID": "WinArena3x3Map2",
-        "TaskMaxValue": 100,
+        "TaskMaxValue": 50,
         "Name": "@ui_seasons_task_name_Challenge_WinArenaMatchesNewMap",
         "Description": "@ui_seasons_task_description_Challenge_WinArenaMatchesNewMap"
     },
@@ -1437,7 +1437,7 @@
     {
         "SeasonsTaskID": "S2_Challenge_CraftItemsGoldenScarabs",
         "SeasonsTrackedStatID": "CraftUsingGoldenScarab",
-        "TaskMaxValue": 100,
+        "TaskMaxValue": 50,
         "Name": "@ui_seasons_task_name_Challenge_CraftItemsGoldenScarabs",
         "Description": "@ui_seasons_task_description_CraftGoldenScarab"
     },

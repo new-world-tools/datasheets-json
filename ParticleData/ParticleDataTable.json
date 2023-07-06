@@ -1408,11 +1408,19 @@
         "Constants": null
     },
     {
-        "Effect Name": "wfx_rune_ability_detonate.denotation_end",
+        "Effect Name": "wfx_rune_ability_detonate.denotation_warning",
         "Group": "PlayerWeapon_AOE",
         "Priority Within Group": 3,
         "Max Number": 5,
         "Priority": 103,
+        "Constants": null
+    },
+    {
+        "Effect Name": "wfx_rune_ability_detonate.denotation_end",
+        "Group": "PlayerWeapon_AOE",
+        "Priority Within Group": 5,
+        "Max Number": 5,
+        "Priority": 105,
         "Constants": null
     },
     {
@@ -2249,14 +2257,6 @@
     },
     {
         "Effect Name": "wfx_rune_ability_heretic.dive",
-        "Group": "PlayerWeapon_Abilities",
-        "Priority Within Group": 5,
-        "Max Number": 5,
-        "Priority": 45,
-        "Constants": null
-    },
-    {
-        "Effect Name": "wfx_rune_ability_detonate.denotation_warning",
         "Group": "PlayerWeapon_Abilities",
         "Priority Within Group": 5,
         "Max Number": 5,
