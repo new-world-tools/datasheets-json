@@ -1438,5 +1438,35 @@
         "LeftForeArm": "Forearm_left_twist",
         "LeftMidArm": "MidArm_left",
         "LeftUpperArm": "UpperArm_left"
+    },
+    {
+        "SkeletonName": "lostknighttank_skel",
+        "Xform": "Xform",
+        "Head": "Head",
+        "Neck": "Neck",
+        "Spine": "Spine2",
+        "RightHand": "right_hand_attach",
+        "RightForeArm": "Forearm_right",
+        "RightMidArm": "UpperArm_right",
+        "RightUpperArm": "UpperArm_right",
+        "LeftHand": "left_hand_attach",
+        "LeftForeArm": "Forearm_left",
+        "LeftMidArm": "UpperArm_left",
+        "LeftUpperArm": "UpperArm_left"
+    },
+    {
+        "SkeletonName": "Malek_skel",
+        "Xform": "Xform",
+        "Head": "Head",
+        "Neck": "Neck",
+        "Spine": "Spine",
+        "RightHand": "right_hand_attach",
+        "RightForeArm": "Forearm_right",
+        "RightMidArm": "UpperArm_right",
+        "RightUpperArm": "UpperArm_right",
+        "LeftHand": "left_hand_attach",
+        "LeftForeArm": "Forearm_left",
+        "LeftMidArm": "UpperArm_left",
+        "LeftUpperArm": "UpperArm_left"
     }
 ]

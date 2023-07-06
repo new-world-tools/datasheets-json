@@ -10,6 +10,31 @@
         "ItemClassOverrides": ""
     },
     {
+        "ExclusiveLabelID": "Strength",
+        "Weight": 0,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Dexterity",
+        "Weight": 0,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Intelligence",
+        "Weight": 0,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Focus",
+        "Weight": 0,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Constitution",
+        "Weight": 0,
+        "ItemClassOverrides": ""
+    },
+    {
         "ExclusiveLabelID": "Lightning",
         "Weight": 1,
         "ItemClassOverrides": ""
@@ -467,6 +492,16 @@
     {
         "ExclusiveLabelID": "Gem",
         "Weight": 5,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Motes",
+        "Weight": 500,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "5thPerk",
+        "Weight": 500,
         "ItemClassOverrides": ""
     }
 ]

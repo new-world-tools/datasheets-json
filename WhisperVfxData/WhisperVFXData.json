@@ -24,5 +24,18 @@
         "RefractPlayer": "refract_ring_player",
         "RefractWisp": "main_refract_wisps",
         "ExitFx": "exit_fx"
+    },
+    {
+        "WhisperVfxId": "whisper_vfx_youngworm_01",
+        "VfxLibrary": "wFX_whisper_SandWorm",
+        "IntroFlash": "",
+        "IntroFx": "Intro_fx",
+        "MainFx": "",
+        "Main_VoiceFx": "Worm_Voice_01",
+        "Main_VoiceFx_Pulse": "Worm_Voice_02",
+        "Main_VoiceFx_Tendrils": "Worm_Voice_03",
+        "RefractPlayer": "",
+        "RefractWisp": "",
+        "ExitFx": "Exit_FX"
     }
 ]

@@ -1,0 +1,464 @@
+[
+    {
+        "JourneyTaskId": "JourneyS2C1T1",
+        "Chapter": "Season2Chapter1",
+        "Task": "S2_CollectGlyph_1",
+        "RewardID": "S2_Journey_Ch01_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS2C1T2",
+        "Chapter": "Season2Chapter1",
+        "Task": "S2_CraftGoldenScarab_1",
+        "RewardID": "S2_Journey_Ch01_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS2C1T3",
+        "Chapter": "Season2Chapter1",
+        "Task": "S2_CompleteEnnead",
+        "RewardID": "S2_Journey_Ch01_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS2C1T4",
+        "Chapter": "Season2Chapter1",
+        "Task": "S2_SongCallOfTheAncientsExpert",
+        "RewardID": "S2_Journey_Ch01_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS2C1T5",
+        "Chapter": "Season2Chapter1",
+        "Task": "S2_WinArenaMatches_1",
+        "RewardID": "S2_Journey_Ch01_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS2C1T6",
+        "Chapter": "Season2Chapter1",
+        "Task": "S2_CaptureFactionControlPoints_1",
+        "RewardID": "S2_Journey_Ch01_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS2C1T7",
+        "Chapter": "Season2Chapter1",
+        "Task": "S2_CompleteTownProjects_1",
+        "RewardID": "S2_Journey_Ch01_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS2C1T8",
+        "Chapter": "Season2Chapter1",
+        "Task": "S2_KillAnubianGuardians",
+        "RewardID": "S2_Journey_Ch01_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS2C1T9",
+        "Chapter": "Season2Chapter1",
+        "Task": "S2_CloseBreaches_1",
+        "RewardID": "S2_Journey_Ch01_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS2C1T10",
+        "Chapter": "Season2Chapter1",
+        "Task": "S2_CompleteQuest_WordOfAThief",
+        "RewardID": "S2_Journey_Ch01_T10",
+        "SortOrder": 10
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T1",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_CollectGlyph_2",
+        "RewardID": "S2_Journey_Ch02_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T2",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_SongsExpertWithFullBand",
+        "RewardID": "S2_Journey_Ch02_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T3",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_CompleteFactionMissions_1",
+        "RewardID": "S2_Journey_Ch02_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T4",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_CompleteActivityCards_1",
+        "RewardID": "S2_Journey_Ch02_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T5",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_CompleteM1Ennead",
+        "RewardID": "S2_Journey_Ch02_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T6",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_CatchBrimstoneLegendaryFish",
+        "RewardID": "S2_Journey_Ch02_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T7",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_WinArenaMatches_2",
+        "RewardID": "S2_Journey_Ch02_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T8",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_PlayOutpostRush_1",
+        "RewardID": "S2_Journey_Ch02_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T9",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_CloseBreaches_2",
+        "RewardID": "S2_Journey_Ch02_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T10",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_CompleteQuest_SecondThoughts",
+        "RewardID": "S2_Journey_Ch02_T10",
+        "SortOrder": 10
+    },
+    {
+        "JourneyTaskId": "JourneyS2C2T11",
+        "Chapter": "Season2Chapter2",
+        "Task": "S2_LocateBrimstoneLostEasel",
+        "RewardID": "S2_Journey_Ch02_T11",
+        "SortOrder": 11
+    },
+    {
+        "JourneyTaskId": "JourneyS2C3T1",
+        "Chapter": "Season2Chapter3",
+        "Task": "S2_CollectGlyph_3",
+        "RewardID": "S2_Journey_Ch03_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS2C3T2",
+        "Chapter": "Season2Chapter3",
+        "Task": "S2_DefeatSolariumKhepri",
+        "RewardID": "S2_Journey_Ch03_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS2C3T3",
+        "Chapter": "Season2Chapter3",
+        "Task": "S2_CompleteTownProjects_2",
+        "RewardID": "S2_Journey_Ch03_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS2C3T4",
+        "Chapter": "Season2Chapter3",
+        "Task": "S2_CompleteActivityCards_2",
+        "RewardID": "S2_Journey_Ch03_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS2C3T5",
+        "Chapter": "Season2Chapter3",
+        "Task": "S2_CompleteSeasonalChallenge_1",
+        "RewardID": "S2_Journey_Ch03_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS2C3T6",
+        "Chapter": "Season2Chapter3",
+        "Task": "S2_KillDunewalkers",
+        "RewardID": "S2_Journey_Ch03_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS2C3T7",
+        "Chapter": "Season2Chapter3",
+        "Task": "S2_KillPlayerOpenWorld_1",
+        "RewardID": "S2_Journey_Ch03_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS2C3T8",
+        "Chapter": "Season2Chapter3",
+        "Task": "S2_CraftGypsumOrbs_1",
+        "RewardID": "S2_Journey_Ch03_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS2C3T9",
+        "Chapter": "Season2Chapter3",
+        "Task": "S2_CompleteQuest_TheOrdealOfTheNineGates",
+        "RewardID": "S2_Journey_Ch03_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS2C3T10",
+        "Chapter": "Season2Chapter3",
+        "Task": "S2_CompleteQuest_PrecariousPosition",
+        "RewardID": "S2_Journey_Ch03_T10",
+        "SortOrder": 10
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T1",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_CollectGlyph_4",
+        "RewardID": "S2_Journey_Ch04_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T2",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_CompleteTrialHatchery",
+        "RewardID": "S2_Journey_Ch04_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T3",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_CraftGoldenScarab_2",
+        "RewardID": "S2_Journey_Ch04_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T4",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_KillSulfurElemental",
+        "RewardID": "S2_Journey_Ch04_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T5",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_KillRafflebones",
+        "RewardID": "S2_Journey_Ch04_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T6",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_LootEliteSulfurChests_1",
+        "RewardID": "S2_Journey_Ch04_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T7",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_CompleteStory_BrimstoneSands",
+        "RewardID": "S2_Journey_Ch04_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T8",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_CaptureFactionControlPoints_2",
+        "RewardID": "S2_Journey_Ch04_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T9",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_PlayOutpostRush_2",
+        "RewardID": "S2_Journey_Ch04_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T10",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_CompleteQuest_EmptyNest",
+        "RewardID": "S2_Journey_Ch04_T10",
+        "SortOrder": 10
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T11",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_GatherPrismabloom_15",
+        "RewardID": "S2_Journey_Ch04_T11",
+        "SortOrder": 11
+    },
+    {
+        "JourneyTaskId": "JourneyS2C4T12",
+        "Chapter": "Season2Chapter4",
+        "Task": "S2_KillHeka",
+        "RewardID": "S2_Journey_Ch04_T12",
+        "SortOrder": 12
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T1",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_CompleteTrialSandworm",
+        "RewardID": "S2_Journey_Ch05_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T2",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_CompleteM10Ennead",
+        "RewardID": "S2_Journey_Ch05_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T3",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_CollectGlyph_5",
+        "RewardID": "S2_Journey_Ch05_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T4",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_LootEliteSulfurChests_2",
+        "RewardID": "S2_Journey_Ch05_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T5",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_CraftRuneglass",
+        "RewardID": "S2_Journey_Ch05_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T6",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_CompleteFactionMissions_2",
+        "RewardID": "S2_Journey_Ch05_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T7",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_CatchLbsOfFish",
+        "RewardID": "S2_Journey_Ch05_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T8",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_KillNamedBrimstone",
+        "RewardID": "S2_Journey_Ch05_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T9",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_PvPXP",
+        "RewardID": "S2_Journey_Ch05_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T10",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_CompleteQuest_Rememberance",
+        "RewardID": "S2_Journey_Ch05_T10",
+        "SortOrder": 10
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T11",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_CloseBreaches_3",
+        "RewardID": "S2_Journey_Ch05_T11",
+        "SortOrder": 11
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T12",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_KillStubbles",
+        "RewardID": "S2_Journey_Ch05_T12",
+        "SortOrder": 12
+    },
+    {
+        "JourneyTaskId": "JourneyS2C5T13",
+        "Chapter": "Season2Chapter5",
+        "Task": "S2_KillDunewalkers_2",
+        "RewardID": "S2_Journey_Ch05_T13",
+        "SortOrder": 13
+    },
+    {
+        "JourneyTaskId": "JourneyS2ChallengeT1",
+        "Chapter": "Season2Challenge",
+        "Task": "S2_Challenge_CompleteTrialSandwormFlawless",
+        "RewardID": "S2_Journey_Challenge_T01",
+        "SortOrder": 1
+    },
+    {
+        "JourneyTaskId": "JourneyS2ChallengeT2",
+        "Chapter": "Season2Challenge",
+        "Task": "S2_Challenge_CompleteTrialHatchery10Minutes",
+        "RewardID": "S2_Journey_Challenge_T02",
+        "SortOrder": 2
+    },
+    {
+        "JourneyTaskId": "JourneyS2ChallengeT3",
+        "Chapter": "Season2Challenge",
+        "Task": "S2_Challenge_CompleteM10ExpeditionsFlawless",
+        "RewardID": "S2_Journey_Challenge_T03",
+        "SortOrder": 3
+    },
+    {
+        "JourneyTaskId": "JourneyS2ChallengeT4",
+        "Chapter": "Season2Challenge",
+        "Task": "S2_Challenge_KillRafflebones",
+        "RewardID": "S2_Journey_Challenge_T04",
+        "SortOrder": 4
+    },
+    {
+        "JourneyTaskId": "JourneyS2ChallengeT5",
+        "Chapter": "Season2Challenge",
+        "Task": "S2_Challenge_CompleteStory_BloodOfTheSands",
+        "RewardID": "S2_Journey_Challenge_T05",
+        "SortOrder": 5
+    },
+    {
+        "JourneyTaskId": "JourneyS2ChallengeT6",
+        "Chapter": "Season2Challenge",
+        "Task": "S2_Challenge_PlayerKillingBlows",
+        "RewardID": "S2_Journey_Challenge_T06",
+        "SortOrder": 6
+    },
+    {
+        "JourneyTaskId": "JourneyS2ChallengeT7",
+        "Chapter": "Season2Challenge",
+        "Task": "S2_Challenge_WinArenaMatchesNewMap",
+        "RewardID": "S2_Journey_Challenge_T07",
+        "SortOrder": 7
+    },
+    {
+        "JourneyTaskId": "JourneyS2ChallengeT8",
+        "Chapter": "Season2Challenge",
+        "Task": "S2_Challenge_CompleteActivityCards",
+        "RewardID": "S2_Journey_Challenge_T08",
+        "SortOrder": 8
+    },
+    {
+        "JourneyTaskId": "JourneyS2ChallengeT9",
+        "Chapter": "Season2Challenge",
+        "Task": "S2_Challenge_FishingAptitudeLevels",
+        "RewardID": "S2_Journey_Challenge_T09",
+        "SortOrder": 9
+    },
+    {
+        "JourneyTaskId": "JourneyS2ChallengeT10",
+        "Chapter": "Season2Challenge",
+        "Task": "S2_Challenge_CraftItemsGoldenScarabs",
+        "RewardID": "S2_Journey_Challenge_T10",
+        "SortOrder": 10
+    }
+]

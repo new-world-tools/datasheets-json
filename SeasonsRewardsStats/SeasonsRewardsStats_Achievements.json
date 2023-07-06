@@ -2,7 +2,15 @@
     {
         "TrackedStatID": "UnlockSpringtideBoomStorylineAchievement",
         "StatType": "Achievement",
+        "IsPermanent": true,
         "TargetID": "SpringtideBloom_Quest2",
+        "Categories": ""
+    },
+    {
+        "TrackedStatID": "UnlockBrimstoneGlyphAchievement",
+        "StatType": "Achievement",
+        "IsPermanent": true,
+        "TargetID": "Lore_unlock_Tales_of_Brimstone_Sands_Title_13_01,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_02,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_03,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_04,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_05,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_06,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_07,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_08,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_09,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_10,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_11,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_12,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_13,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_14,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_15,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_16,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_17,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_18,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_19,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_20,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_21,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_22,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_23,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_24,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_25,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_26",
         "Categories": ""
     }
 ]

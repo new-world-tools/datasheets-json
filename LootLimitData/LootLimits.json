@@ -9,7 +9,7 @@
         "MaxLimitMult": 100,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -22,7 +22,7 @@
         "MaxLimitMult": 400,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -35,7 +35,7 @@
         "MaxLimitMult": 20,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -48,7 +48,7 @@
         "MaxLimitMult": 120,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -56,12 +56,12 @@
         "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
-        "CountLimit": 10,
+        "CountLimit": 15,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -69,12 +69,12 @@
         "IsReplicated": false,
         "MinLimitSeconds": 3500,
         "MaxLimitSeconds": 3600,
-        "CountLimit": 1,
+        "CountLimit": 2,
         "MinLimitMult": 20,
         "MaxLimitMult": 20,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -87,7 +87,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -100,24 +100,11 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
         "LootLimitID": "GypsumGreen",
-        "IsReplicated": false,
-        "MinLimitSeconds": 0,
-        "MaxLimitSeconds": 0,
-        "CountLimit": 1,
-        "MinLimitMult": 64800,
-        "MaxLimitMult": 64800,
-        "LimitExpireSeconds": 64800,
-        "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
-        "LimitNotificationLocTag": ""
-    },
-    {
-        "LootLimitID": "GypsumRed",
         "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
@@ -126,7 +113,20 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "GypsumRed",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -139,7 +139,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -147,12 +147,12 @@
         "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
-        "CountLimit": 7,
+        "CountLimit": 10,
         "MinLimitMult": 64800,
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -165,7 +165,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -178,7 +178,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -191,7 +191,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -204,7 +204,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -217,7 +217,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -230,7 +230,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -243,7 +243,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -256,7 +256,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -269,7 +269,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -282,7 +282,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -295,7 +295,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -308,7 +308,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -321,7 +321,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -334,7 +334,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -347,7 +347,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -360,7 +360,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -373,7 +373,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -386,7 +386,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -399,7 +399,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -412,7 +412,7 @@
         "MaxLimitMult": 86400,
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": "@ui_reached_max_fort_takeover_rewards"
     },
     {
@@ -425,7 +425,7 @@
         "MaxLimitMult": 86400,
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -438,7 +438,7 @@
         "MaxLimitMult": 86400,
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": "@ui_reached_max_daily_pvp_arena_reward"
     },
     {
@@ -451,7 +451,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -464,7 +464,7 @@
         "MaxLimitMult": 86400,
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -477,7 +477,7 @@
         "MaxLimitMult": 86400,
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -490,7 +490,7 @@
         "MaxLimitMult": 86400,
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -503,7 +503,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -516,7 +516,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -529,7 +529,7 @@
         "MaxLimitMult": 604800,
         "LimitExpireSeconds": 604800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -542,7 +542,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -555,7 +555,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -568,7 +568,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -581,7 +581,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -594,7 +594,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -607,7 +607,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -620,7 +620,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -633,7 +633,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -646,7 +646,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -659,7 +659,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -672,7 +672,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -685,7 +685,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -698,7 +698,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -711,7 +711,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -724,7 +724,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -737,7 +737,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -750,7 +750,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -763,7 +763,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -776,7 +776,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -789,7 +789,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -802,7 +802,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -815,7 +815,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -828,7 +828,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -841,7 +841,7 @@
         "MaxLimitMult": 86400,
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -854,7 +854,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -867,7 +867,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -880,7 +880,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -893,7 +893,7 @@
         "MaxLimitMult": 86400,
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -906,7 +906,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -919,7 +919,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -932,7 +932,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -945,7 +945,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -958,7 +958,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -971,7 +971,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -984,7 +984,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -997,7 +997,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1010,7 +1010,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1023,7 +1023,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1036,7 +1036,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1049,7 +1049,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1062,7 +1062,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1075,7 +1075,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1088,7 +1088,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1101,7 +1101,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1114,7 +1114,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1127,7 +1127,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1140,7 +1140,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1153,7 +1153,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1166,7 +1166,33 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "DarknessBreachNamed",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 86400,
+        "MaxLimitMult": 86400,
+        "LimitExpireSeconds": 86400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "DailyArenaCache",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 2,
+        "MinLimitMult": 86400,
+        "MaxLimitMult": 86400,
+        "LimitExpireSeconds": 86400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1179,7 +1205,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1192,7 +1218,7 @@
         "MaxLimitMult": 1209600,
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1205,7 +1231,7 @@
         "MaxLimitMult": 1209600,
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": 1,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1216,9 +1242,9 @@
         "CountLimit": 2,
         "MinLimitMult": 1209600,
         "MaxLimitMult": 1209600,
-        "LimitExpireSeconds": 1209600,
+        "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1229,9 +1255,9 @@
         "CountLimit": 2,
         "MinLimitMult": 1209600,
         "MaxLimitMult": 1209600,
-        "LimitExpireSeconds": 1209600,
+        "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1242,9 +1268,9 @@
         "CountLimit": 2,
         "MinLimitMult": 1209600,
         "MaxLimitMult": 1209600,
-        "LimitExpireSeconds": 1209600,
+        "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1255,9 +1281,9 @@
         "CountLimit": 2,
         "MinLimitMult": 1209600,
         "MaxLimitMult": 1209600,
-        "LimitExpireSeconds": 1209600,
+        "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1268,9 +1294,9 @@
         "CountLimit": 2,
         "MinLimitMult": 1209600,
         "MaxLimitMult": 1209600,
-        "LimitExpireSeconds": 1209600,
+        "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1281,9 +1307,9 @@
         "CountLimit": 2,
         "MinLimitMult": 1209600,
         "MaxLimitMult": 1209600,
-        "LimitExpireSeconds": 1209600,
+        "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1296,7 +1322,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1309,7 +1335,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": 1,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1322,7 +1348,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1335,7 +1361,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1348,7 +1374,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1361,7 +1387,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1374,7 +1400,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1387,7 +1413,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1400,7 +1426,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1413,7 +1439,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1426,7 +1452,7 @@
         "MaxLimitMult": 2678400,
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1439,7 +1465,7 @@
         "MaxLimitMult": 64800,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1452,7 +1478,7 @@
         "MaxLimitMult": 1209600,
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": 1,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1465,7 +1491,7 @@
         "MaxLimitMult": 1209600,
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
         "LimitNotificationLocTag": ""
     },
     {
@@ -1478,7 +1504,176 @@
         "MaxLimitMult": 1209600,
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": "",
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "Trial_S2_BonusBox",
+        "IsReplicated": true,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 7,
+        "MinLimitMult": 604800,
+        "MaxLimitMult": 604800,
+        "LimitExpireSeconds": 604800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "House_HousingItem_Season2_SandwormEgg_Variant5",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 1209600,
+        "MaxLimitMult": 1209600,
+        "LimitExpireSeconds": 1209600,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "House_HousingItem_Season2_TrialDecor",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 1209600,
+        "MaxLimitMult": 1209600,
+        "LimitExpireSeconds": 1209600,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "WorldEvent_Lakeside_Limit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 2678400,
+        "MaxLimitMult": 2678400,
+        "LimitExpireSeconds": 2678400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "WorldEvent_ScallywagShore_Limit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 2678400,
+        "MaxLimitMult": 2678400,
+        "LimitExpireSeconds": 2678400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "WorldEvent_TraitorsHold_Limit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 2678400,
+        "MaxLimitMult": 2678400,
+        "LimitExpireSeconds": 2678400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "Trial_Sandworm_DailyBox",
+        "IsReplicated": true,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "Trial_Sandworm_WeeklyBox",
+        "IsReplicated": true,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 604800,
+        "MaxLimitMult": 604800,
+        "LimitExpireSeconds": 604800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "SummerMedley_PremiumToken",
+        "IsReplicated": true,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "RidingProgression",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 749,
+        "MinLimitMult": 86400,
+        "MaxLimitMult": 86400,
+        "LimitExpireSeconds": 86400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "Mount_FoodDailyXP_Limit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 86400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "FishingFreshJunk",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 5,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 300,
+        "LootTagValuePerCount": 0,
+        "LootTagValueOverrideAtLimit": 1,
+        "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "FishingSaltJunk",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 5,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 300,
+        "LootTagValuePerCount": 0,
+        "LootTagValueOverrideAtLimit": 1,
         "LimitNotificationLocTag": ""
     }
 ]

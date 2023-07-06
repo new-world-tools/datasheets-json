@@ -4,97 +4,167 @@
         "StatType": "CompleteQuest",
         "TargetID": "",
         "QuestType": "Quest",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CompleteTownProject",
         "StatType": "CompleteQuest",
         "TargetID": "",
         "QuestType": "CommunityGoal",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CompleteFactionMission",
         "StatType": "CompleteQuest",
         "TargetID": "",
         "QuestType": "Mission",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CompletePvPFactionMission",
         "StatType": "CompleteQuest",
         "TargetID": "",
         "QuestType": "Mission",
-        "IsPVP": true
+        "IsPVP": true,
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CompleteQuest_TheEmpyreanForge",
         "StatType": "CompleteQuest",
         "TargetID": "95_s01_X1_EXPD_Empyrean",
         "QuestType": "",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CompleteQuest_FirstCustomer",
         "StatType": "CompleteQuest",
         "TargetID": "95_s01_02_TEMP_FirstCustomer",
         "QuestType": "",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CompleteQuest_VineYards",
         "StatType": "CompleteQuest",
         "TargetID": "95_s01_07_TEMP_PossibilitiesOfFire",
         "QuestType": "",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CompleteQuest_DearlyBeloved",
         "StatType": "CompleteQuest",
         "TargetID": "95_s01_08_TEMP_HotOnTheTrail",
         "QuestType": "",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CompleteQuest_Showdown",
         "StatType": "CompleteQuest",
         "TargetID": "95_s01_09_TEMP_Faceless",
         "QuestType": "",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CompleteQuest_CurseOfTheBones",
         "StatType": "CompleteQuest",
         "TargetID": "95_s01_02a_TEMP_TheCurse",
         "QuestType": "",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CompleteQuest_MinorBreach",
         "StatType": "CompleteQuest",
         "TargetID": "",
         "QuestType": "DarknessMinor",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CompleteQuest_MajorBreach",
         "StatType": "CompleteQuest",
         "TargetID": "",
         "QuestType": "DarknessMajor",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CompleteQuest_Breach",
         "StatType": "CompleteQuest",
         "TargetID": "",
         "QuestType": "DarknessMinor,DarknessMajor",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CompleteQuest_ToBeContinued",
         "StatType": "CompleteQuest",
         "TargetID": "95_s01_10_TEMP_ToBeContinued",
         "QuestType": "",
-        "IsPVP": null
+        "IsPVP": null,
+        "IsPermanent": true
+    },
+    {
+        "TrackedStatID": "CompleteQuest_WordOfAThief",
+        "StatType": "CompleteQuest",
+        "TargetID": "95A_S02_WordofaThief",
+        "QuestType": "",
+        "IsPVP": null,
+        "IsPermanent": true
+    },
+    {
+        "TrackedStatID": "CompleteQuest_SecondThoughts",
+        "StatType": "CompleteQuest",
+        "TargetID": "95A_S02_SecondThoughts",
+        "QuestType": "",
+        "IsPVP": null,
+        "IsPermanent": true
+    },
+    {
+        "TrackedStatID": "CompleteQuest_PrecariousPosition",
+        "StatType": "CompleteQuest",
+        "TargetID": "95A_S02_PrecariousPosition",
+        "QuestType": "",
+        "IsPVP": null,
+        "IsPermanent": true
+    },
+    {
+        "TrackedStatID": "CompleteQuest_EmptyNest",
+        "StatType": "CompleteQuest",
+        "TargetID": "95A_S02_EmptyNest",
+        "QuestType": "",
+        "IsPVP": null,
+        "IsPermanent": true
+    },
+    {
+        "TrackedStatID": "CompleteQuest_Rememberance",
+        "StatType": "CompleteQuest",
+        "TargetID": "95A_S02_Remembrance",
+        "QuestType": "",
+        "IsPVP": null,
+        "IsPermanent": true
+    },
+    {
+        "TrackedStatID": "CompleteQuest_TheOrdealOfTheNineGates",
+        "StatType": "CompleteQuest",
+        "TargetID": "1624_0801_agodawakens",
+        "QuestType": "",
+        "IsPVP": null,
+        "IsPermanent": true
+    },
+    {
+        "TrackedStatID": "CompleteQuest_TheWildHuntress",
+        "StatType": "CompleteQuest",
+        "TargetID": "1624_1001_thewildhuntress",
+        "QuestType": "",
+        "IsPVP": null,
+        "IsPermanent": true
     }
 ]

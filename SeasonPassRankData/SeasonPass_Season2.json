@@ -1,0 +1,709 @@
+[
+    {
+        "Level": 0,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 0,
+        "FreeRewardId": "S2_BattlePass_Free_00",
+        "PremiumRewardId": ""
+    },
+    {
+        "Level": 1,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_01",
+        "PremiumRewardId": "S2_BattlePass_Premium_01"
+    },
+    {
+        "Level": 2,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_02",
+        "PremiumRewardId": "S2_BattlePass_Premium_02"
+    },
+    {
+        "Level": 3,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_03",
+        "PremiumRewardId": "S2_BattlePass_Premium_03"
+    },
+    {
+        "Level": 4,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_04",
+        "PremiumRewardId": "S2_BattlePass_Premium_04"
+    },
+    {
+        "Level": 5,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_05",
+        "PremiumRewardId": "S2_BattlePass_Premium_05"
+    },
+    {
+        "Level": 6,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_06",
+        "PremiumRewardId": "S2_BattlePass_Premium_06"
+    },
+    {
+        "Level": 7,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_07",
+        "PremiumRewardId": "S2_BattlePass_Premium_07"
+    },
+    {
+        "Level": 8,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_08",
+        "PremiumRewardId": "S2_BattlePass_Premium_08"
+    },
+    {
+        "Level": 9,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_09",
+        "PremiumRewardId": "S2_BattlePass_Premium_09"
+    },
+    {
+        "Level": 10,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_10",
+        "PremiumRewardId": "S2_BattlePass_Premium_10"
+    },
+    {
+        "Level": 11,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_11",
+        "PremiumRewardId": "S2_BattlePass_Premium_11"
+    },
+    {
+        "Level": 12,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_12",
+        "PremiumRewardId": "S2_BattlePass_Premium_12"
+    },
+    {
+        "Level": 13,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_13",
+        "PremiumRewardId": "S2_BattlePass_Premium_13"
+    },
+    {
+        "Level": 14,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_14",
+        "PremiumRewardId": "S2_BattlePass_Premium_14"
+    },
+    {
+        "Level": 15,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_15",
+        "PremiumRewardId": "S2_BattlePass_Premium_15"
+    },
+    {
+        "Level": 16,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_16",
+        "PremiumRewardId": "S2_BattlePass_Premium_16"
+    },
+    {
+        "Level": 17,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_17",
+        "PremiumRewardId": "S2_BattlePass_Premium_17"
+    },
+    {
+        "Level": 18,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_18",
+        "PremiumRewardId": "S2_BattlePass_Premium_18"
+    },
+    {
+        "Level": 19,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_19",
+        "PremiumRewardId": "S2_BattlePass_Premium_19"
+    },
+    {
+        "Level": 20,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_20",
+        "PremiumRewardId": "S2_BattlePass_Premium_20"
+    },
+    {
+        "Level": 21,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_21",
+        "PremiumRewardId": "S2_BattlePass_Premium_21"
+    },
+    {
+        "Level": 22,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_22",
+        "PremiumRewardId": "S2_BattlePass_Premium_22"
+    },
+    {
+        "Level": 23,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_23",
+        "PremiumRewardId": "S2_BattlePass_Premium_23"
+    },
+    {
+        "Level": 24,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_24",
+        "PremiumRewardId": "S2_BattlePass_Premium_24"
+    },
+    {
+        "Level": 25,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_25",
+        "PremiumRewardId": "S2_BattlePass_Premium_25"
+    },
+    {
+        "Level": 26,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_26",
+        "PremiumRewardId": "S2_BattlePass_Premium_26"
+    },
+    {
+        "Level": 27,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_27",
+        "PremiumRewardId": "S2_BattlePass_Premium_27"
+    },
+    {
+        "Level": 28,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_28",
+        "PremiumRewardId": "S2_BattlePass_Premium_28"
+    },
+    {
+        "Level": 29,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_29",
+        "PremiumRewardId": "S2_BattlePass_Premium_29"
+    },
+    {
+        "Level": 30,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_30",
+        "PremiumRewardId": "S2_BattlePass_Premium_30"
+    },
+    {
+        "Level": 31,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_31",
+        "PremiumRewardId": "S2_BattlePass_Premium_31"
+    },
+    {
+        "Level": 32,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_32",
+        "PremiumRewardId": "S2_BattlePass_Premium_32"
+    },
+    {
+        "Level": 33,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_33",
+        "PremiumRewardId": "S2_BattlePass_Premium_33"
+    },
+    {
+        "Level": 34,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_34",
+        "PremiumRewardId": "S2_BattlePass_Premium_34"
+    },
+    {
+        "Level": 35,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_35",
+        "PremiumRewardId": "S2_BattlePass_Premium_35"
+    },
+    {
+        "Level": 36,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_36",
+        "PremiumRewardId": "S2_BattlePass_Premium_36"
+    },
+    {
+        "Level": 37,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_37",
+        "PremiumRewardId": "S2_BattlePass_Premium_37"
+    },
+    {
+        "Level": 38,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_38",
+        "PremiumRewardId": "S2_BattlePass_Premium_38"
+    },
+    {
+        "Level": 39,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_39",
+        "PremiumRewardId": "S2_BattlePass_Premium_39"
+    },
+    {
+        "Level": 40,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_40",
+        "PremiumRewardId": "S2_BattlePass_Premium_40"
+    },
+    {
+        "Level": 41,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_41",
+        "PremiumRewardId": "S2_BattlePass_Premium_41"
+    },
+    {
+        "Level": 42,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_42",
+        "PremiumRewardId": "S2_BattlePass_Premium_42"
+    },
+    {
+        "Level": 43,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_43",
+        "PremiumRewardId": "S2_BattlePass_Premium_43"
+    },
+    {
+        "Level": 44,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_44",
+        "PremiumRewardId": "S2_BattlePass_Premium_44"
+    },
+    {
+        "Level": 45,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_45",
+        "PremiumRewardId": "S2_BattlePass_Premium_45"
+    },
+    {
+        "Level": 46,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_46",
+        "PremiumRewardId": "S2_BattlePass_Premium_46"
+    },
+    {
+        "Level": 47,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_47",
+        "PremiumRewardId": "S2_BattlePass_Premium_47"
+    },
+    {
+        "Level": 48,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_48",
+        "PremiumRewardId": "S2_BattlePass_Premium_48"
+    },
+    {
+        "Level": 49,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_49",
+        "PremiumRewardId": "S2_BattlePass_Premium_49"
+    },
+    {
+        "Level": 50,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_50",
+        "PremiumRewardId": "S2_BattlePass_Premium_50"
+    },
+    {
+        "Level": 51,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_51",
+        "PremiumRewardId": "S2_BattlePass_Premium_51"
+    },
+    {
+        "Level": 52,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_52",
+        "PremiumRewardId": "S2_BattlePass_Premium_52"
+    },
+    {
+        "Level": 53,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_53",
+        "PremiumRewardId": "S2_BattlePass_Premium_53"
+    },
+    {
+        "Level": 54,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_54",
+        "PremiumRewardId": "S2_BattlePass_Premium_54"
+    },
+    {
+        "Level": 55,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_55",
+        "PremiumRewardId": "S2_BattlePass_Premium_55"
+    },
+    {
+        "Level": 56,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_56",
+        "PremiumRewardId": "S2_BattlePass_Premium_56"
+    },
+    {
+        "Level": 57,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_57",
+        "PremiumRewardId": "S2_BattlePass_Premium_57"
+    },
+    {
+        "Level": 58,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_58",
+        "PremiumRewardId": "S2_BattlePass_Premium_58"
+    },
+    {
+        "Level": 59,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_59",
+        "PremiumRewardId": "S2_BattlePass_Premium_59"
+    },
+    {
+        "Level": 60,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_60",
+        "PremiumRewardId": "S2_BattlePass_Premium_60"
+    },
+    {
+        "Level": 61,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_61",
+        "PremiumRewardId": "S2_BattlePass_Premium_61"
+    },
+    {
+        "Level": 62,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_62",
+        "PremiumRewardId": "S2_BattlePass_Premium_62"
+    },
+    {
+        "Level": 63,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_63",
+        "PremiumRewardId": "S2_BattlePass_Premium_63"
+    },
+    {
+        "Level": 64,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_64",
+        "PremiumRewardId": "S2_BattlePass_Premium_64"
+    },
+    {
+        "Level": 65,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_65",
+        "PremiumRewardId": "S2_BattlePass_Premium_65"
+    },
+    {
+        "Level": 66,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_66",
+        "PremiumRewardId": "S2_BattlePass_Premium_66"
+    },
+    {
+        "Level": 67,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_67",
+        "PremiumRewardId": "S2_BattlePass_Premium_67"
+    },
+    {
+        "Level": 68,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_68",
+        "PremiumRewardId": "S2_BattlePass_Premium_68"
+    },
+    {
+        "Level": 69,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_69",
+        "PremiumRewardId": "S2_BattlePass_Premium_69"
+    },
+    {
+        "Level": 70,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_70",
+        "PremiumRewardId": "S2_BattlePass_Premium_70"
+    },
+    {
+        "Level": 71,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_71",
+        "PremiumRewardId": "S2_BattlePass_Premium_71"
+    },
+    {
+        "Level": 72,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_72",
+        "PremiumRewardId": "S2_BattlePass_Premium_72"
+    },
+    {
+        "Level": 73,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_73",
+        "PremiumRewardId": "S2_BattlePass_Premium_73"
+    },
+    {
+        "Level": 74,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_74",
+        "PremiumRewardId": "S2_BattlePass_Premium_74"
+    },
+    {
+        "Level": 75,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_75",
+        "PremiumRewardId": "S2_BattlePass_Premium_75"
+    },
+    {
+        "Level": 76,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_76",
+        "PremiumRewardId": "S2_BattlePass_Premium_76"
+    },
+    {
+        "Level": 77,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_77",
+        "PremiumRewardId": "S2_BattlePass_Premium_77"
+    },
+    {
+        "Level": 78,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_78",
+        "PremiumRewardId": "S2_BattlePass_Premium_78"
+    },
+    {
+        "Level": 79,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_79",
+        "PremiumRewardId": "S2_BattlePass_Premium_79"
+    },
+    {
+        "Level": 80,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_80",
+        "PremiumRewardId": "S2_BattlePass_Premium_80"
+    },
+    {
+        "Level": 81,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_81",
+        "PremiumRewardId": "S2_BattlePass_Premium_81"
+    },
+    {
+        "Level": 82,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_82",
+        "PremiumRewardId": "S2_BattlePass_Premium_82"
+    },
+    {
+        "Level": 83,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_83",
+        "PremiumRewardId": "S2_BattlePass_Premium_83"
+    },
+    {
+        "Level": 84,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_84",
+        "PremiumRewardId": "S2_BattlePass_Premium_84"
+    },
+    {
+        "Level": 85,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_85",
+        "PremiumRewardId": "S2_BattlePass_Premium_85"
+    },
+    {
+        "Level": 86,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_86",
+        "PremiumRewardId": "S2_BattlePass_Premium_86"
+    },
+    {
+        "Level": 87,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_87",
+        "PremiumRewardId": "S2_BattlePass_Premium_87"
+    },
+    {
+        "Level": 88,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_88",
+        "PremiumRewardId": "S2_BattlePass_Premium_88"
+    },
+    {
+        "Level": 89,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_89",
+        "PremiumRewardId": "S2_BattlePass_Premium_89"
+    },
+    {
+        "Level": 90,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_90",
+        "PremiumRewardId": "S2_BattlePass_Premium_90"
+    },
+    {
+        "Level": 91,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_91",
+        "PremiumRewardId": "S2_BattlePass_Premium_91"
+    },
+    {
+        "Level": 92,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_92",
+        "PremiumRewardId": "S2_BattlePass_Premium_92"
+    },
+    {
+        "Level": 93,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_93",
+        "PremiumRewardId": "S2_BattlePass_Premium_93"
+    },
+    {
+        "Level": 94,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_94",
+        "PremiumRewardId": "S2_BattlePass_Premium_94"
+    },
+    {
+        "Level": 95,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_95",
+        "PremiumRewardId": "S2_BattlePass_Premium_95"
+    },
+    {
+        "Level": 96,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_96",
+        "PremiumRewardId": "S2_BattlePass_Premium_96"
+    },
+    {
+        "Level": 97,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_97",
+        "PremiumRewardId": "S2_BattlePass_Premium_97"
+    },
+    {
+        "Level": 98,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_98",
+        "PremiumRewardId": "S2_BattlePass_Premium_98"
+    },
+    {
+        "Level": 99,
+        "MaximumInfluence": 2750,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_99",
+        "PremiumRewardId": "S2_BattlePass_Premium_99"
+    },
+    {
+        "Level": 100,
+        "MaximumInfluence": 0,
+        "InfluenceCost": 2750,
+        "FreeRewardId": "S2_BattlePass_Free_100",
+        "PremiumRewardId": "S2_BattlePass_Premium_100"
+    }
+]

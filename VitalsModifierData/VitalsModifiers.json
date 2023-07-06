@@ -184,5 +184,71 @@
         "CategoryDamageMod": 2.05,
         "CategoryHealthMod": 10,
         "CategoryDropChanceMod": 0.5
+    },
+    {
+        "CategoryId": "Raid20Boss",
+        "CategoryDamageMod": 10,
+        "CategoryHealthMod": 200,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Raid20MiniBoss",
+        "CategoryDamageMod": 7.6,
+        "CategoryHealthMod": 100,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Raid20+",
+        "CategoryDamageMod": 6.8,
+        "CategoryHealthMod": 32,
+        "CategoryDropChanceMod": 0.45
+    },
+    {
+        "CategoryId": "Raid20",
+        "CategoryDamageMod": 5.6,
+        "CategoryHealthMod": 12,
+        "CategoryDropChanceMod": 0.15
+    },
+    {
+        "CategoryId": "Raid20-",
+        "CategoryDamageMod": 4.8,
+        "CategoryHealthMod": 7.2,
+        "CategoryDropChanceMod": 0.1
+    },
+    {
+        "CategoryId": "Raid10Boss",
+        "CategoryDamageMod": 3,
+        "CategoryHealthMod": 100,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Raid10MiniBoss",
+        "CategoryDamageMod": 2.65,
+        "CategoryHealthMod": 50,
+        "CategoryDropChanceMod": 1
+    },
+    {
+        "CategoryId": "Raid10+",
+        "CategoryDamageMod": 2.2,
+        "CategoryHealthMod": 16,
+        "CategoryDropChanceMod": 0.45
+    },
+    {
+        "CategoryId": "Raid10",
+        "CategoryDamageMod": 1.85,
+        "CategoryHealthMod": 6,
+        "CategoryDropChanceMod": 0.15
+    },
+    {
+        "CategoryId": "Raid10-",
+        "CategoryDamageMod": 1.5,
+        "CategoryHealthMod": 3.6,
+        "CategoryDropChanceMod": 0.1
+    },
+    {
+        "CategoryId": "Ally",
+        "CategoryDamageMod": 2.5,
+        "CategoryHealthMod": 50,
+        "CategoryDropChanceMod": 1
     }
 ]

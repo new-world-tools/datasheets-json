@@ -6,7 +6,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": false,
-        "Comments": "For internal testing, do not remove"
+        "Comments": "Forinternaltesting,donotremove"
     },
     {
         "ScheduleId": "test_2",
@@ -15,12 +15,12 @@
         "StartWeekday": "Wednesday",
         "EndWeekday": "Thursday",
         "UTC": false,
-        "Comments": "For internal testing, do not remove"
+        "Comments": "Forinternaltesting,donotremove"
     },
     {
         "ScheduleId": "TurkeyTerror",
-        "StartDate": "2022-11-15T*:*:*",
-        "EndDate": "2022-11-29T*:*:*",
+        "StartDate": "2023-11-15T*:*:*",
+        "EndDate": "2023-11-29T*:*:*",
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
@@ -34,5 +34,50 @@
         "EndWeekday": "",
         "UTC": null,
         "Comments": "Legacy of Crassus February Event"
+    },
+    {
+        "ScheduleId": "EggcitingDefense",
+        "StartDate": "2023-08-14T*:*:*",
+        "EndDate": "2023-08-28T*:*:*",
+        "StartWeekday": "",
+        "EndWeekday": "",
+        "UTC": null,
+        "Comments": "Eggciting Defense August Event"
+    },
+    {
+        "ScheduleId": "EventKill",
+        "StartDate": "*-01-*T*:*:*",
+        "EndDate": "*-03-*T*:*:*",
+        "StartWeekday": "",
+        "EndWeekday": "",
+        "UTC": null,
+        "Comments": "For Diamond Gypsum Events (JuniperBag)"
+    },
+    {
+        "ScheduleId": "EventDarkness",
+        "StartDate": "*-04-*T*:*:*",
+        "EndDate": "*-06-*T*:*:*",
+        "StartWeekday": "",
+        "EndWeekday": "",
+        "UTC": null,
+        "Comments": "For Diamond Gypsum Events (RitualBag)"
+    },
+    {
+        "ScheduleId": "EventGather",
+        "StartDate": "*-07-*T*:*:*",
+        "EndDate": "*-09-*T*:*:*",
+        "StartWeekday": "",
+        "EndWeekday": "",
+        "UTC": null,
+        "Comments": "For Diamond Gypsum Events (BagofEarthGifts)"
+    },
+    {
+        "ScheduleId": "EventChest",
+        "StartDate": "*-10-*T*:*:*",
+        "EndDate": "*-12-*T*:*:*",
+        "StartWeekday": "",
+        "EndWeekday": "",
+        "UTC": null,
+        "Comments": "For Diamond Gypsum Events (ConcealedVault)"
     }
 ]

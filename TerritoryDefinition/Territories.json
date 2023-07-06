@@ -314,14 +314,14 @@
         "CanPlaceCamp": true,
         "ObjectiveID": "06_getoffbeach",
         "IsTerritory": true,
-        "FactionControlBuff": "Crafting_Refining_Yield_Modifier",
+        "FactionControlBuff": "",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner09",
         "UpkeepModifier": 0.1,
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 75,
-        "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryAchievementId": "09_FirstLightUnlock",
+        "EntryStatusEffectId": "Env_FirstLightLock_DoT"
     },
     {
         "TerritoryID": 10,
@@ -458,7 +458,7 @@
         "CanPlaceCamp": true,
         "ObjectiveID": "",
         "IsTerritory": true,
-        "FactionControlBuff": "Taxes_Global_Modifier",
+        "FactionControlBuff": "Crafting_Refining_Yield_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner13",
         "UpkeepModifier": 0.1,

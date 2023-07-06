@@ -6,7 +6,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_farm_village.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -29,7 +29,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_farm.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40002,
@@ -38,7 +40,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_farm_mill.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -61,7 +63,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_windmill.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40003,
@@ -70,7 +74,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Shipwreck.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -93,7 +97,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40004,
@@ -102,7 +108,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Shipwreck.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -125,7 +131,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40005,
@@ -134,7 +142,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Shipwreck.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -157,7 +165,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40006,
@@ -166,7 +176,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Shipwreck.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -189,7 +199,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40007,
@@ -198,7 +210,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Shipwreck.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -221,7 +233,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_territory9.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40008,
@@ -230,7 +244,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_lighthouse.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 360,
         "IsDiscoverable": true,
@@ -253,7 +267,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40009,
@@ -262,7 +278,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_lookout.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -285,7 +301,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40010,
@@ -294,7 +312,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/wolf_den.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 100,
         "IsDiscoverable": true,
@@ -317,7 +335,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40011,
@@ -326,7 +346,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/wolf_den.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -349,7 +369,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40012,
@@ -358,7 +380,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_village.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -381,7 +403,9 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_poi_graveyard.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40013,
@@ -390,7 +414,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_campsite.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -413,7 +437,9 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40014,
@@ -422,7 +448,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Mine.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -445,7 +471,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40015,
@@ -454,7 +482,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_fishing_village.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -477,7 +505,9 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40016,
@@ -486,7 +516,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/hero_shipwreck.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -509,7 +539,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40017,
@@ -518,7 +550,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/hero_shipwreck.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -541,7 +573,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40018,
@@ -550,7 +584,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Shipwreck.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -573,7 +607,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40019,
@@ -582,7 +618,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_temple_sm.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -605,7 +641,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40020,
@@ -614,7 +652,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/ancient_ruins.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -637,7 +675,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40021,
@@ -646,7 +686,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/cave.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -669,7 +709,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40022,
@@ -678,7 +720,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/cave.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -701,7 +743,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_darkness_minor_hive.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40023,
@@ -710,7 +754,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/wolf_den.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -733,7 +777,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40024,
@@ -742,7 +788,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_fishing_village.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -765,7 +811,9 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40025,
@@ -774,7 +822,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/abandoned_village.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 200,
         "IsDiscoverable": true,
@@ -797,7 +845,9 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_poi_graveyard.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40026,
@@ -806,7 +856,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/watchtower.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -829,7 +879,9 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_outpost_default.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40027,
@@ -838,7 +890,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/NPCs/Boar_Compass.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 100,
         "IsDiscoverable": true,
@@ -861,7 +913,9 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_boar_island.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40028,
@@ -870,7 +924,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot1.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
@@ -893,7 +947,9 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40029,
@@ -902,7 +958,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot1.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
@@ -925,7 +981,9 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40030,
@@ -934,7 +992,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot1.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
@@ -957,7 +1015,9 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40031,
@@ -966,7 +1026,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot1.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
@@ -989,7 +1049,9 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40032,
@@ -998,7 +1060,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot1.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
@@ -1021,7 +1083,9 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40033,
@@ -1030,7 +1094,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/fish_hotspot1.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
@@ -1053,7 +1117,9 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40034,
@@ -1085,7 +1151,9 @@
         "TooltipBackground": "",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40035,
@@ -1117,7 +1185,9 @@
         "TooltipBackground": "",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40036,
@@ -1149,7 +1219,9 @@
         "TooltipBackground": "",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40037,
@@ -1158,7 +1230,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine_bg.dds",
+        "MapIcon": "",
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\spirit_shrine_charted.dds",
         "DiscoveryRadius": 150,
         "IsDiscoverable": false,
@@ -1181,7 +1253,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40038,
@@ -1190,7 +1264,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine_bg.dds",
+        "MapIcon": "",
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\spirit_shrine_charted.dds",
         "DiscoveryRadius": 150,
         "IsDiscoverable": false,
@@ -1213,7 +1287,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40039,
@@ -1222,7 +1298,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Shipwreck.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1245,7 +1321,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40040,
@@ -1254,7 +1332,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/military_camp.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1277,7 +1355,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_varangian.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40041,
@@ -1309,7 +1389,9 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_icecave.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     },
     {
         "TerritoryID": 40042,
@@ -1318,7 +1400,7 @@
         "MaxStructureLimit": "",
         "TerritoryScore": "",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/cave.png",
+        "MapIcon": "",
         "CompassIcon": "",
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
@@ -1341,6 +1423,8 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_varangian.png",
         "GameMode": "",
         "UnchartedIcon": "",
-        "EventId": ""
+        "EventId": "",
+        "RecommendedLevel": null,
+        "GroupSize": null
     }
 ]

@@ -252,6 +252,20 @@
         "RewardGameEventId": ""
     },
     {
+        "Id": "FishingSalmonFatT1",
+        "FishSize": "Large",
+        "FishWeightRange": "36-46",
+        "FishLengthRange": "30-45",
+        "FishingXp": 140,
+        "FishDistanceSwamAwayPerSecond": 0.1,
+        "LineTensionGainPerSecondMultiplier": 1.4,
+        "FishBehaviors": "Lazy,LateAggressive,Sporadic",
+        "ZoomCameraOnSuccess": false,
+        "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\Fish_A_SockeyeSalmon.cdf",
+        "FishScale": 1.1,
+        "RewardGameEventId": ""
+    },
+    {
         "Id": "FishingMackerelSmallT1",
         "FishSize": "Small",
         "FishWeightRange": "0-1",
@@ -470,7 +484,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_11\\Jav_Prp_Sturgeon.cdf",
         "FishScale": 0.7,
         "RewardGameEventId": ""
@@ -484,7 +498,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_11\\Jav_Prp_Sturgeon.cdf",
         "FishScale": 1,
         "RewardGameEventId": ""
@@ -498,7 +512,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_11\\Jav_Prp_Sturgeon.cdf",
         "FishScale": 1.2,
         "RewardGameEventId": ""
@@ -512,7 +526,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\Fish_B_Catfish.cdf",
         "FishScale": 0.6,
         "RewardGameEventId": ""
@@ -526,7 +540,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\Fish_B_Catfish.cdf",
         "FishScale": 0.75,
         "RewardGameEventId": ""
@@ -540,7 +554,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\Fish_B_Catfish.cdf",
         "FishScale": 1.1,
         "RewardGameEventId": ""
@@ -554,7 +568,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "LateAggressive,Sporadic,SporadicEasy",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_09\\Jav_Prp_Tadpole.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -568,7 +582,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "LateAggressive,Sporadic,SporadicEasy",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_10\\Jav_Prp_Snail.cdf",
         "FishScale": 0.25,
         "RewardGameEventId": ""
@@ -582,7 +596,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_11\\Jav_Prp_Cod.cdf",
         "FishScale": 0.3,
         "RewardGameEventId": ""
@@ -596,7 +610,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_11\\Jav_Prp_Cod.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -610,7 +624,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_11\\Jav_Prp_Cod.cdf",
         "FishScale": 0.8,
         "RewardGameEventId": ""
@@ -624,7 +638,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\Fish_B_Halibut.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -638,7 +652,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\Fish_B_Halibut.cdf",
         "FishScale": 0.7,
         "RewardGameEventId": ""
@@ -652,7 +666,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\Fish_B_Halibut.cdf",
         "FishScale": 0.9,
         "RewardGameEventId": ""
@@ -666,7 +680,7 @@
         "FishDistanceSwamAwayPerSecond": 0,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "LateAggressive,Sporadic,SporadicEasy",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_10\\Jav_Prp_Clam.cdf",
         "FishScale": 0.15,
         "RewardGameEventId": ""
@@ -680,7 +694,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\jav_prp_squid.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -694,7 +708,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\jav_prp_squid.cdf",
         "FishScale": 0.7,
         "RewardGameEventId": ""
@@ -708,7 +722,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\jav_prp_squid.cdf",
         "FishScale": 1,
         "RewardGameEventId": ""
@@ -722,7 +736,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\Jav_Prp_electriceel.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -736,7 +750,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\Jav_Prp_electriceel.cdf",
         "FishScale": 0.7,
         "RewardGameEventId": ""
@@ -750,7 +764,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\Jav_Prp_electriceel.cdf",
         "FishScale": 1,
         "RewardGameEventId": ""
@@ -764,7 +778,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_09\\Jav_Prp_Piranha.cdf",
         "FishScale": 0.3,
         "RewardGameEventId": ""
@@ -778,7 +792,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_09\\Jav_Prp_Piranha.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -792,7 +806,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_09\\Jav_Prp_Piranha.cdf",
         "FishScale": 0.8,
         "RewardGameEventId": ""
@@ -806,7 +820,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit04\\jav_prp_paddlefish_.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -820,7 +834,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit04\\jav_prp_paddlefish_.cdf",
         "FishScale": 0.7,
         "RewardGameEventId": ""
@@ -834,7 +848,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit04\\jav_prp_paddlefish_.cdf",
         "FishScale": 1,
         "RewardGameEventId": ""
@@ -848,7 +862,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit03\\jav_prp_sharkspeartooth1.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -862,7 +876,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit03\\jav_prp_sharkspeartooth1.cdf",
         "FishScale": 0.8,
         "RewardGameEventId": ""
@@ -876,7 +890,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit03\\jav_prp_sharkspeartooth1.cdf",
         "FishScale": 1.2,
         "RewardGameEventId": ""
@@ -890,7 +904,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\jav_prp_madtom.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -904,7 +918,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\jav_prp_madtom.cdf",
         "FishScale": 0.7,
         "RewardGameEventId": ""
@@ -918,7 +932,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\jav_prp_madtom.cdf",
         "FishScale": 1,
         "RewardGameEventId": ""
@@ -932,7 +946,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit01\\Jav_Prp_Frogfish.cdf",
         "FishScale": 0.15,
         "RewardGameEventId": ""
@@ -946,7 +960,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit01\\Jav_Prp_Frogfish.cdf",
         "FishScale": 0.3,
         "RewardGameEventId": ""
@@ -960,7 +974,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit01\\Jav_Prp_Frogfish.cdf",
         "FishScale": 0.6,
         "RewardGameEventId": ""
@@ -974,7 +988,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_09\\Jav_Prp_DragonFish.cdf",
         "FishScale": 0.3,
         "RewardGameEventId": ""
@@ -988,7 +1002,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_09\\Jav_Prp_DragonFish.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -1002,7 +1016,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\FishingKit_09\\Jav_Prp_DragonFish.cdf",
         "FishScale": 0.8,
         "RewardGameEventId": ""
@@ -1016,7 +1030,7 @@
         "FishDistanceSwamAwayPerSecond": 0,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "LateAggressive,Sporadic,SporadicEasy",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit01\\Jav_Prp_PearlOyster.cdf",
         "FishScale": 0.25,
         "RewardGameEventId": ""
@@ -1030,7 +1044,7 @@
         "FishDistanceSwamAwayPerSecond": 0,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "LateAggressive,Sporadic,SporadicEasy",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit01\\Jav_Prp_Starfish_A.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -1044,7 +1058,7 @@
         "FishDistanceSwamAwayPerSecond": 0,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "LateAggressive,Sporadic,SporadicEasy",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit01\\Jav_Prp_Starfish_A.cdf",
         "FishScale": 0.4,
         "RewardGameEventId": ""
@@ -1058,7 +1072,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\jav_prp_stingray.cdf",
         "FishScale": 0.6,
         "RewardGameEventId": ""
@@ -1072,7 +1086,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\jav_prp_stingray.cdf",
         "FishScale": 0.8,
         "RewardGameEventId": ""
@@ -1086,7 +1100,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Characters\\npc\\natural\\fish\\jav_prp_stingray.cdf",
         "FishScale": 1,
         "RewardGameEventId": ""
@@ -1100,7 +1114,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit03\\jav_prp_sculpin1.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -1114,7 +1128,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit03\\jav_prp_sculpin1.cdf",
         "FishScale": 0.7,
         "RewardGameEventId": ""
@@ -1128,7 +1142,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit03\\jav_prp_sculpin1.cdf",
         "FishScale": 1,
         "RewardGameEventId": ""
@@ -1142,7 +1156,7 @@
         "FishDistanceSwamAwayPerSecond": 0.2,
         "LineTensionGainPerSecondMultiplier": 0.8,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit04\\jav_prp_swordfish_.cdf",
         "FishScale": 0.5,
         "RewardGameEventId": ""
@@ -1156,7 +1170,7 @@
         "FishDistanceSwamAwayPerSecond": 0.15,
         "LineTensionGainPerSecondMultiplier": 1.2,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit04\\jav_prp_swordfish_.cdf",
         "FishScale": 0.7,
         "RewardGameEventId": ""
@@ -1170,7 +1184,7 @@
         "FishDistanceSwamAwayPerSecond": 0.1,
         "LineTensionGainPerSecondMultiplier": 1.4,
         "FishBehaviors": "EarlyAggressive,LateAggressive,TotalAggressive",
-        "ZoomCameraOnSuccess": true,
+        "ZoomCameraOnSuccess": false,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\Fishing_Kit04\\jav_prp_swordfish_.cdf",
         "FishScale": 1.2,
         "RewardGameEventId": ""
@@ -1470,20 +1484,6 @@
         "RewardGameEventId": ""
     },
     {
-        "Id": "FishingTreasureChestT3",
-        "FishSize": "None",
-        "FishWeightRange": "28-30",
-        "FishLengthRange": "40",
-        "FishingXp": 200,
-        "FishDistanceSwamAwayPerSecond": 0.05,
-        "LineTensionGainPerSecondMultiplier": 1.2,
-        "FishBehaviors": "Lazy",
-        "ZoomCameraOnSuccess": true,
-        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
-        "FishScale": 0.85,
-        "RewardGameEventId": ""
-    },
-    {
         "Id": "1323_0101_SlimyBoot",
         "FishSize": "None",
         "FishWeightRange": "3",
@@ -1565,6 +1565,160 @@
         "ZoomCameraOnSuccess": true,
         "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\FoodStuffs\\Fish\\VeryRareFish_E1\\Jav_Prp_VeryRareFish_E2.cdf",
         "FishScale": 0.5,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasureChestT3",
+        "FishSize": "None",
+        "FishWeightRange": "28-30",
+        "FishLengthRange": "40",
+        "FishingXp": 200,
+        "FishDistanceSwamAwayPerSecond": 0.05,
+        "LineTensionGainPerSecondMultiplier": 1.2,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
+        "FishScale": 0.85,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasureSeaweedT2",
+        "FishSize": "None",
+        "FishWeightRange": "28-30",
+        "FishLengthRange": "40",
+        "FishingXp": 200,
+        "FishDistanceSwamAwayPerSecond": 0.05,
+        "LineTensionGainPerSecondMultiplier": 1.2,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
+        "FishScale": 0.85,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasureBootT2",
+        "FishSize": "None",
+        "FishWeightRange": "28-30",
+        "FishLengthRange": "40",
+        "FishingXp": 200,
+        "FishDistanceSwamAwayPerSecond": 0.05,
+        "LineTensionGainPerSecondMultiplier": 1.2,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
+        "FishScale": 0.85,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasureOarT2",
+        "FishSize": "None",
+        "FishWeightRange": "28-30",
+        "FishLengthRange": "40",
+        "FishingXp": 200,
+        "FishDistanceSwamAwayPerSecond": 0.05,
+        "LineTensionGainPerSecondMultiplier": 1.2,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
+        "FishScale": 0.85,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasureSwordT2",
+        "FishSize": "None",
+        "FishWeightRange": "28-30",
+        "FishLengthRange": "40",
+        "FishingXp": 200,
+        "FishDistanceSwamAwayPerSecond": 0.05,
+        "LineTensionGainPerSecondMultiplier": 1.2,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
+        "FishScale": 0.85,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasureHammerT2",
+        "FishSize": "None",
+        "FishWeightRange": "28-30",
+        "FishLengthRange": "40",
+        "FishingXp": 200,
+        "FishDistanceSwamAwayPerSecond": 0.05,
+        "LineTensionGainPerSecondMultiplier": 1.2,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
+        "FishScale": 0.85,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasureBigAnchorT3",
+        "FishSize": "None",
+        "FishWeightRange": "250",
+        "FishLengthRange": "50",
+        "FishingXp": 750,
+        "FishDistanceSwamAwayPerSecond": 0.02,
+        "LineTensionGainPerSecondMultiplier": 8,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit06\\Jav_Prp_Anchor_A.cdf",
+        "FishScale": 2,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasureGoodProvisionT3",
+        "FishSize": "None",
+        "FishWeightRange": "28-30",
+        "FishLengthRange": "40",
+        "FishingXp": 200,
+        "FishDistanceSwamAwayPerSecond": 0.05,
+        "LineTensionGainPerSecondMultiplier": 1.2,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
+        "FishScale": 0.85,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasurePigmentT3",
+        "FishSize": "None",
+        "FishWeightRange": "28-30",
+        "FishLengthRange": "40",
+        "FishingXp": 200,
+        "FishDistanceSwamAwayPerSecond": 0.05,
+        "LineTensionGainPerSecondMultiplier": 1.2,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
+        "FishScale": 0.85,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasureMoteT3",
+        "FishSize": "None",
+        "FishWeightRange": "28-30",
+        "FishLengthRange": "40",
+        "FishingXp": 200,
+        "FishDistanceSwamAwayPerSecond": 0.05,
+        "LineTensionGainPerSecondMultiplier": 1.2,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
+        "FishScale": 0.85,
+        "RewardGameEventId": ""
+    },
+    {
+        "Id": "FishingTreasureGearT3",
+        "FishSize": "None",
+        "FishWeightRange": "28-30",
+        "FishLengthRange": "40",
+        "FishingXp": 200,
+        "FishDistanceSwamAwayPerSecond": 0.05,
+        "LineTensionGainPerSecondMultiplier": 1.2,
+        "FishBehaviors": "Lazy",
+        "ZoomCameraOnSuccess": true,
+        "FishCharacterDefinitionPath": "Objects\\Crafting\\Props\\catchables\\Fishing_Kit07\\Jav_Prp_ChestFishing.cdf",
+        "FishScale": 0.85,
         "RewardGameEventId": ""
     }
 ]

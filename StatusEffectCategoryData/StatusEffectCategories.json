@@ -398,5 +398,25 @@
         "PotencyModMin": 0,
         "PotencyModMax": 0,
         "ValueLimits": "StaminaRate:-1"
+    },
+    {
+        "StatusEffectCategoryID": "SporeOffense",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
+        "ValueLimits": ""
+    },
+    {
+        "StatusEffectCategoryID": "SporeDefense",
+        "DurationDiminishingMod": null,
+        "DurationModMin": null,
+        "DurationModMax": null,
+        "PotencyDiminishingMod": 0,
+        "PotencyModMin": 0,
+        "PotencyModMax": 0,
+        "ValueLimits": ""
     }
 ]

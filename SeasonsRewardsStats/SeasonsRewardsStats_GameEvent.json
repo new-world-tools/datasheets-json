@@ -54,5 +54,33 @@
         "GameEventTypes": "Darkness",
         "CreatureTypes": "DarknessMajor,DarknessMajor+,Myrkgard",
         "GameEventIDs": ""
+    },
+    {
+        "TrackedStatID": "DefeatSolariumKhepri",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "",
+        "GameEventIDs": "SolariumKhepri_EliteOverlord_MinorSuccess,SolariumKhepri_EliteOverlord_MajorSuccess"
+    },
+    {
+        "TrackedStatID": "GatherMaudlinDust",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "",
+        "GameEventIDs": "Gather_SummerMedley_Maudlindust"
+    },
+    {
+        "TrackedStatID": "LocateBrimstoneLostEasel",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "",
+        "GameEventIDs": "ExploreVista_EastBrimstone01,ExploreVista_EastBrimstone02"
+    },
+    {
+        "TrackedStatID": "DefeatWurmBoss",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "",
+        "GameEventIDs": "SandwormEliteTrial_Reward"
     }
 ]

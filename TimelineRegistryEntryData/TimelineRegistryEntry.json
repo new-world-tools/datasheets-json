@@ -30933,5 +30933,1535 @@
         "TimelineEntryName": "13a_sq_01_hakenstadtdoll_incomplete",
         "TimelineAssetPath": "charactervo/primrosegabrielis/13a_sq_01_hakenstadtdoll_incomplete.timeline",
         "AssetDependencyPath": "13a_sq_01_hakenstadtdoll_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1336_antiquarianspouse_defaultdialogue_next",
+        "TimelineAssetPath": "charactervo/noraroggeveen/npc_1336_antiquarianspouse_defaultdialogue_next.timeline",
+        "AssetDependencyPath": "npc_1336_antiquarianspouse_defaultdialogue_next.timeline"
+    },
+    {
+        "TimelineEntryName": "0233_hunter_defaultdialogue_01",
+        "TimelineAssetPath": "charactervo/holthutchison/0233_hunter_defaultdialogue_01.timeline",
+        "AssetDependencyPath": "0233_hunter_defaultdialogue_01.timeline"
+    },
+    {
+        "TimelineEntryName": "0233_hunter_defaultdialogue_02",
+        "TimelineAssetPath": "charactervo/holthutchison/0233_hunter_defaultdialogue_02.timeline",
+        "AssetDependencyPath": "0233_hunter_defaultdialogue_02.timeline"
+    },
+    {
+        "TimelineEntryName": "igc_95a_s02_falseprofits_callout01",
+        "TimelineAssetPath": "charactervo/malek/igc_95a_s02_falseprofits_callout01.timeline",
+        "AssetDependencyPath": "igc_95a_s02_falseprofits_callout01.timeline"
+    },
+    {
+        "TimelineEntryName": "igc_95a_s02_falseprofits_callout02",
+        "TimelineAssetPath": "charactervo/malek/igc_95a_s02_falseprofits_callout02.timeline",
+        "AssetDependencyPath": "igc_95a_s02_falseprofits_callout02.timeline"
+    },
+    {
+        "TimelineEntryName": "igc_95a_s02_legacyofthesands_realmirage_01",
+        "TimelineAssetPath": "charactervo/malek/igc_95a_s02_legacyofthesands_realmirage_01.timeline",
+        "AssetDependencyPath": "igc_95a_s02_legacyofthesands_realmirage_01.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9931_00_vk_caoimhe_defaultdialog",
+        "TimelineAssetPath": "charactervo/caoimhealsandair/npc_9931_00_vk_caoimhe_defaultdialog.timeline",
+        "AssetDependencyPath": "npc_9931_00_vk_caoimhe_defaultdialog.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9932_0104_relicreclamation_caoimhetalkto_b1",
+        "TimelineAssetPath": "charactervo/caoimhealsandair/npc_9932_0104_relicreclamation_caoimhetalkto_b1.timeline",
+        "AssetDependencyPath": "npc_9932_0104_relicreclamation_caoimhetalkto_b1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9932_0104_relicreclamation_caoimhetalkto_b1_next",
+        "TimelineAssetPath": "charactervo/caoimhealsandair/npc_9932_0104_relicreclamation_caoimhetalkto_b1_next.timeline",
+        "AssetDependencyPath": "npc_9932_0104_relicreclamation_caoimhetalkto_b1_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9932_0104_relicreclamation_caoimhetalkto_b2_next",
+        "TimelineAssetPath": "charactervo/caoimhealsandair/npc_9932_0104_relicreclamation_caoimhetalkto_b2_next.timeline",
+        "AssetDependencyPath": "npc_9932_0104_relicreclamation_caoimhetalkto_b2_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9932_0104_relicreclamation_complete_available_response",
+        "TimelineAssetPath": "charactervo/caoimhealsandair/npc_9932_0104_relicreclamation_complete_available_response.timeline",
+        "AssetDependencyPath": "npc_9932_0104_relicreclamation_complete_available_response.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_default_dialogue_1618_00_caeso",
+        "TimelineAssetPath": "charactervo/gaiuscaeso/npc_default_dialogue_1618_00_caeso.timeline",
+        "AssetDependencyPath": "npc_default_dialogue_1618_00_caeso.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_0428_00_jones",
+        "TimelineAssetPath": "charactervo/gregoryjones/npc_defaultdialogue_0428_00_jones.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_0428_00_jones.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_0428_01_jones",
+        "TimelineAssetPath": "charactervo/gregoryjones/npc_defaultdialogue_0428_01_jones.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_0428_01_jones.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_bloodofthesand_obj_complete",
+        "TimelineAssetPath": "charactervo/malek/npc_95a_s02_bloodofthesand_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_bloodofthesand_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_bloodofthesand_obj_complete_next",
+        "TimelineAssetPath": "charactervo/malek/npc_95a_s02_bloodofthesand_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_bloodofthesand_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_glimpseofthepast_obj_incomplete",
+        "TimelineAssetPath": "charactervo/malek/npc_95a_s02_glimpseofthepast_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_glimpseofthepast_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_glimpseofthepast_obj_proposal",
+        "TimelineAssetPath": "charactervo/malek/npc_95a_s02_glimpseofthepast_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_glimpseofthepast_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_glimpseofthepast_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/malek/npc_95a_s02_glimpseofthepast_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_glimpseofthepast_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_glimpseofthepast_obj_proposal_next1",
+        "TimelineAssetPath": "charactervo/malek/npc_95a_s02_glimpseofthepast_obj_proposal_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_glimpseofthepast_obj_proposal_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_00_malek",
+        "TimelineAssetPath": "charactervo/malek/npc_defaultdialogue_00_malek.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_00_malek.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01_malek",
+        "TimelineAssetPath": "charactervo/malek/npc_defaultdialogue_01_malek.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01_malek.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_default_dialogue_1615_00_nicabar",
+        "TimelineAssetPath": "charactervo/philogusnicabar/npc_default_dialogue_1615_00_nicabar.timeline",
+        "AssetDependencyPath": "npc_default_dialogue_1615_00_nicabar.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_default_dialogue_1617_00_publius",
+        "TimelineAssetPath": "charactervo/publius/npc_default_dialogue_1617_00_publius.timeline",
+        "AssetDependencyPath": "npc_default_dialogue_1617_00_publius.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1038_0101_cleansingtreasure_complete_available_response",
+        "TimelineAssetPath": "charactervo/quiggleyquorus/npc_1038_0101_cleansingtreasure_complete_available_response.timeline",
+        "AssetDependencyPath": "npc_1038_0101_cleansingtreasure_complete_available_response.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1038_0101_cleansingtreasure_incomplete",
+        "TimelineAssetPath": "charactervo/quiggleyquorus/npc_1038_0101_cleansingtreasure_incomplete.timeline",
+        "AssetDependencyPath": "npc_1038_0101_cleansingtreasure_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1038_0101_cleansingtreasure_proposal",
+        "TimelineAssetPath": "charactervo/quiggleyquorus/npc_1038_0101_cleansingtreasure_proposal.timeline",
+        "AssetDependencyPath": "npc_1038_0101_cleansingtreasure_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1038_0101_cleansingtreasure_proposal_next",
+        "TimelineAssetPath": "charactervo/quiggleyquorus/npc_1038_0101_cleansingtreasure_proposal_next.timeline",
+        "AssetDependencyPath": "npc_1038_0101_cleansingtreasure_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1038_quiggleyquorus_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/quiggleyquorus/npc_1038_quiggleyquorus_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1038_quiggleyquorus_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9926_0103_lostscarecrow_romactalkto2",
+        "TimelineAssetPath": "charactervo/romacbarbo/npc_9926_0103_lostscarecrow_romactalkto2.timeline",
+        "AssetDependencyPath": "npc_9926_0103_lostscarecrow_romactalkto2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9926_0103_lostscarecrow_romactalkto2_next",
+        "TimelineAssetPath": "charactervo/romacbarbo/npc_9926_0103_lostscarecrow_romactalkto2_next.timeline",
+        "AssetDependencyPath": "npc_9926_0103_lostscarecrow_romactalkto2_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9926_0103_lostscarecrow_romactalkto_b1",
+        "TimelineAssetPath": "charactervo/romacbarbo/npc_9926_0103_lostscarecrow_romactalkto_b1.timeline",
+        "AssetDependencyPath": "npc_9926_0103_lostscarecrow_romactalkto_b1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9926_0103_lostscarecrow_romactalkto_b1_next",
+        "TimelineAssetPath": "charactervo/romacbarbo/npc_9926_0103_lostscarecrow_romactalkto_b1_next.timeline",
+        "AssetDependencyPath": "npc_9926_0103_lostscarecrow_romactalkto_b1_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9926_0103_lostscarecrow_romactalkto_b1_next2",
+        "TimelineAssetPath": "charactervo/romacbarbo/npc_9926_0103_lostscarecrow_romactalkto_b1_next2.timeline",
+        "AssetDependencyPath": "npc_9926_0103_lostscarecrow_romactalkto_b1_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9926_0103_lostscarecrow_romactalkto_b1_next3",
+        "TimelineAssetPath": "charactervo/romacbarbo/npc_9926_0103_lostscarecrow_romactalkto_b1_next3.timeline",
+        "AssetDependencyPath": "npc_9926_0103_lostscarecrow_romactalkto_b1_next3.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9926_0103_lostscarecrow_romactalkto_b2_next2",
+        "TimelineAssetPath": "charactervo/romacbarbo/npc_9926_0103_lostscarecrow_romactalkto_b2_next2.timeline",
+        "AssetDependencyPath": "npc_9926_0103_lostscarecrow_romactalkto_b2_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9926_0103_lostscarecrow_romactalkto_b2_next3",
+        "TimelineAssetPath": "charactervo/romacbarbo/npc_9926_0103_lostscarecrow_romactalkto_b2_next3.timeline",
+        "AssetDependencyPath": "npc_9926_0103_lostscarecrow_romactalkto_b2_next3.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9930_00_vk_romacbarbob_defaultdialog",
+        "TimelineAssetPath": "charactervo/romacbarbo/npc_9930_00_vk_romacbarbob_defaultdialog.timeline",
+        "AssetDependencyPath": "npc_9930_00_vk_romacbarbob_defaultdialog.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1037_0101_mysteriesofdeep_complete_available_response",
+        "TimelineAssetPath": "charactervo/rowanpennbrook/npc_1037_0101_mysteriesofdeep_complete_available_response.timeline",
+        "AssetDependencyPath": "npc_1037_0101_mysteriesofdeep_complete_available_response.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1037_0101_mysteriesofdeep_incomplete",
+        "TimelineAssetPath": "charactervo/rowanpennbrook/npc_1037_0101_mysteriesofdeep_incomplete.timeline",
+        "AssetDependencyPath": "npc_1037_0101_mysteriesofdeep_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1037_0101_mysteriesofdeep_proposal",
+        "TimelineAssetPath": "charactervo/rowanpennbrook/npc_1037_0101_mysteriesofdeep_proposal.timeline",
+        "AssetDependencyPath": "npc_1037_0101_mysteriesofdeep_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1037_0101_mysteriesofdeep_proposal_next",
+        "TimelineAssetPath": "charactervo/rowanpennbrook/npc_1037_0101_mysteriesofdeep_proposal_next.timeline",
+        "AssetDependencyPath": "npc_1037_0101_mysteriesofdeep_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1037_rowanpennbrook_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/rowanpennbrook/npc_1037_rowanpennbrook_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1037_rowanpennbrook_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1037_rowanpennbrook_defaultdialogue_02",
+        "TimelineAssetPath": "charactervo/rowanpennbrook/npc_1037_rowanpennbrook_defaultdialogue_02.timeline",
+        "AssetDependencyPath": "npc_1037_rowanpennbrook_defaultdialogue_02.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_glimpseofthepast_obj_complete",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_95a_s02_glimpseofthepast_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_glimpseofthepast_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_glimpseofthepast_talksage",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_95a_s02_glimpseofthepast_talksage.timeline",
+        "AssetDependencyPath": "npc_95a_s02_glimpseofthepast_talksage.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_glimpseofthepast_talksage_next",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_95a_s02_glimpseofthepast_talksage_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_glimpseofthepast_talksage_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_glimpseofthepast_talksage_next1",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_95a_s02_glimpseofthepast_talksage_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_glimpseofthepast_talksage_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_obj_incomplete",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_95a_s02_wordofathief_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_obj_proposal",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_95a_s02_wordofathief_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_95a_s02_wordofathief_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_obj_proposal_next1",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_95a_s02_wordofathief_obj_proposal_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_obj_proposal_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_breaksomeeggs_obj_complete",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_breaksomeeggs_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_breaksomeeggs_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_breaksomeeggs_obj_complete_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_breaksomeeggs_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_breaksomeeggs_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_breaksomeeggs_talksharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_breaksomeeggs_talksharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_breaksomeeggs_talksharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_breaksomeeggs_talksharif_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_breaksomeeggs_talksharif_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_breaksomeeggs_talksharif_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_breaksomeeggs_talksharif_next1",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_breaksomeeggs_talksharif_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_breaksomeeggs_talksharif_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_breaksomeeggs_talksharif_next2",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_breaksomeeggs_talksharif_next2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_breaksomeeggs_talksharif_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_breaksomeeggs_talksharif_next3",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_breaksomeeggs_talksharif_next3.timeline",
+        "AssetDependencyPath": "npc_95a_s02_breaksomeeggs_talksharif_next3.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_emptynest_obj_incomplete",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_emptynest_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_emptynest_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_emptynest_obj_proposal",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_emptynest_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_emptynest_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_emptynest_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_emptynest_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_emptynest_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_emptynest_obj_proposal_next1",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_emptynest_obj_proposal_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_emptynest_obj_proposal_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_emptynest_talksharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_emptynest_talksharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_emptynest_talksharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_emptynest_talksharif_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_emptynest_talksharif_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_emptynest_talksharif_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_hardboiled_obj_incomplete",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_hardboiled_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_hardboiled_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_hardboiled_obj_proposal",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_hardboiled_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_hardboiled_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_hardboiled_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_hardboiled_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_hardboiled_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_hardboiled_obj_proposal_next1",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_hardboiled_obj_proposal_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_hardboiled_obj_proposal_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_hardboiled_obj_proposal_next2",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_hardboiled_obj_proposal_next2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_hardboiled_obj_proposal_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_hardboiled_talksharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_hardboiled_talksharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_hardboiled_talksharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_hardboiled_talksharif_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_hardboiled_talksharif_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_hardboiled_talksharif_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_hardboiled_talksharif_next1",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_hardboiled_talksharif_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_hardboiled_talksharif_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_meetsharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_meetsharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_meetsharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_meetsharif1",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_meetsharif1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_meetsharif1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_meetsharif2",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_meetsharif2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_meetsharif2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_meetsharif3",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_meetsharif3.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_meetsharif3.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_meetsharif4",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_meetsharif4.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_meetsharif4.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_obj_complete",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_obj_complete_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_obj_complete_next1",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_obj_complete_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_obj_complete_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_obj_complete_next2",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_obj_complete_next2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_obj_complete_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_obj_complete_next3",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_obj_complete_next3.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_obj_complete_next3.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_obj_incomplete",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_obj_proposal",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_obj_proposal_next1",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_obj_proposal_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_obj_proposal_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_talksharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_talksharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_talksharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_talksharif1",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_heirofthesands_talksharif1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_talksharif1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_precariousposition_obj_complete",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_precariousposition_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_precariousposition_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_precariousposition_obj_complete_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_precariousposition_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_precariousposition_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_ambushsharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_secondthoughts_ambushsharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_ambushsharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_hidesharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_secondthoughts_hidesharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_hidesharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_talksharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_secondthoughts_talksharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_talksharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_talksharif1",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_secondthoughts_talksharif1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_talksharif1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_talksharif2",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_secondthoughts_talksharif2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_talksharif2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_talksharif3",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_secondthoughts_talksharif3.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_talksharif3.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_talksharif4",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_secondthoughts_talksharif4.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_talksharif4.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_meetsharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_wordofathief_meetsharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_meetsharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_meetsharif_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_wordofathief_meetsharif_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_meetsharif_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_meetsharif_next2",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_wordofathief_meetsharif_next2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_meetsharif_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_obj_complete",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_wordofathief_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_obj_complete_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_wordofathief_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_default_dialogue_1681_00_innkeep",
+        "TimelineAssetPath": "charactervo/signygisladottir/npc_default_dialogue_1681_00_innkeep.timeline",
+        "AssetDependencyPath": "npc_default_dialogue_1681_00_innkeep.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1036_0101_admiralblackpowder_complete_available_response",
+        "TimelineAssetPath": "charactervo/wallywiddershins/npc_1036_0101_admiralblackpowder_complete_available_response.timeline",
+        "AssetDependencyPath": "npc_1036_0101_admiralblackpowder_complete_available_response.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1036_0101_admiralblackpowder_incomplete",
+        "TimelineAssetPath": "charactervo/wallywiddershins/npc_1036_0101_admiralblackpowder_incomplete.timeline",
+        "AssetDependencyPath": "npc_1036_0101_admiralblackpowder_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1036_0101_admiralblackpowder_proposal_next",
+        "TimelineAssetPath": "charactervo/wallywiddershins/npc_1036_0101_admiralblackpowder_proposal_next.timeline",
+        "AssetDependencyPath": "npc_1036_0101_admiralblackpowder_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1036_wallywiddershins_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/wallywiddershins/npc_1036_wallywiddershins_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1036_wallywiddershins_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1036_wallywiddershins_defaultdialogue_01",
+        "TimelineAssetPath": "charactervo/wallywiddershins/npc_1036_wallywiddershins_defaultdialogue_01.timeline",
+        "AssetDependencyPath": "npc_1036_wallywiddershins_defaultdialogue_01.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1036_wallywiddershins_defaultdialogue_02",
+        "TimelineAssetPath": "charactervo/wallywiddershins/npc_1036_wallywiddershins_defaultdialogue_02.timeline",
+        "AssetDependencyPath": "npc_1036_wallywiddershins_defaultdialogue_02.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_meetzander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_egghunt_meetzander.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_meetzander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_meetzander1",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_egghunt_meetzander1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_meetzander1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_obj_complete",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_egghunt_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_obj_complete_next",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_egghunt_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_talkzander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_egghunt_talkzander.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_talkzander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_talkzander1",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_egghunt_talkzander1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_talkzander1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_talkzander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_heirofthesands_talkzander.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_talkzander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_heirofthesands_talkzander1",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_heirofthesands_talkzander1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_heirofthesands_talkzander1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_precariousposition_obj_incomplete",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_precariousposition_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_precariousposition_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_precariousposition_obj_proposal",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_precariousposition_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_precariousposition_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_precariousposition_zanderruins",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_precariousposition_zanderruins.timeline",
+        "AssetDependencyPath": "npc_95a_s02_precariousposition_zanderruins.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_precariousposition_zanderruins_next",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_precariousposition_zanderruins_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_precariousposition_zanderruins_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_precariousposition_zanderruins_next1",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_precariousposition_zanderruins_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_precariousposition_zanderruins_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_00_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_00_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_00_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01a_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_01a_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01a_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_01_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02a_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_02a_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02a_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_02_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_03a_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_03a_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_03a_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_03_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_03_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_03_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_04a_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_04a_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_04a_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_04_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_04_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_04_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_05a_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_05a_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_05a_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_05b_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_05b_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_05b_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_05c_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_05c_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_05c_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_05_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_05_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_05_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "lore_95a_s02_falseprofits_lorenote",
+        "TimelineAssetPath": "charactervo/malek/lore_95a_s02_falseprofits_lorenote.timeline",
+        "AssetDependencyPath": "lore_95a_s02_falseprofits_lorenote.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t01_riseofthebeast_obj_complete",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t01_riseofthebeast_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_t01_riseofthebeast_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t01_riseofthebeast_obj_complete_next",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t01_riseofthebeast_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_t01_riseofthebeast_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t01_riseofthebeast_obj_incomplete",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t01_riseofthebeast_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_t01_riseofthebeast_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t01_riseofthebeast_obj_proposal",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t01_riseofthebeast_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_t01_riseofthebeast_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t01_riseofthebeast_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t01_riseofthebeast_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_t01_riseofthebeast_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t01_riseofthebeast_obj_proposal_next1",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t01_riseofthebeast_obj_proposal_next1.timeline",
+        "AssetDependencyPath": "npc_95a_t01_riseofthebeast_obj_proposal_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t01_riseofthebeast_obj_proposal_next2",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t01_riseofthebeast_obj_proposal_next2.timeline",
+        "AssetDependencyPath": "npc_95a_t01_riseofthebeast_obj_proposal_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t01_riseofthebeast_obj_proposal_next3",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t01_riseofthebeast_obj_proposal_next3.timeline",
+        "AssetDependencyPath": "npc_95a_t01_riseofthebeast_obj_proposal_next3.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t02_riseofthehero_obj_complete",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t02_riseofthehero_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_t02_riseofthehero_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t02_riseofthehero_obj_complete_next",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t02_riseofthehero_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_t02_riseofthehero_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t02_riseofthehero_obj_incomplete",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t02_riseofthehero_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_t02_riseofthehero_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t02_riseofthehero_obj_proposal",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t02_riseofthehero_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_t02_riseofthehero_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t02_riseofthehero_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t02_riseofthehero_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_t02_riseofthehero_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_t02_riseofthehero_obj_proposal_next1",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_95a_t02_riseofthehero_obj_proposal_next1.timeline",
+        "AssetDependencyPath": "npc_95a_t02_riseofthehero_obj_proposal_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_00_phaedra",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_defaultdialogue_00_phaedra.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_00_phaedra.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01_phaedra",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_defaultdialogue_01_phaedra.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01_phaedra.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02_phaedra",
+        "TimelineAssetPath": "charactervo/phaedrakanelos/npc_defaultdialogue_02_phaedra.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02_phaedra.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_breaksomeeggs_obj_incomplete",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_breaksomeeggs_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_breaksomeeggs_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_breaksomeeggs_obj_proposal",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_breaksomeeggs_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_breaksomeeggs_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_talkrima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_egghunt_talkrima.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_talkrima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_talkrima1",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_egghunt_talkrima1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_talkrima1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_talkrima2",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_egghunt_talkrima2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_talkrima2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_talkrima3",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_egghunt_talkrima3.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_talkrima3.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_talkrima4",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_egghunt_talkrima4.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_talkrima4.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_emptynest_obj_complete",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_emptynest_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_emptynest_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_emptynest_obj_complete_next",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_emptynest_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_emptynest_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_emptynest_obj_complete_next1",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_emptynest_obj_complete_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_emptynest_obj_complete_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_talkrima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_remembrance_talkrima.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_talkrima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_talkrima_next",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_remembrance_talkrima_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_talkrima_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_talkrima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_secondthoughts_talkrima.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_talkrima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_talkrima1",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_secondthoughts_talkrima1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_talkrima1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_talkrima2",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_secondthoughts_talkrima2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_talkrima2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_talkrima3",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_secondthoughts_talkrima3.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_talkrima3.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_rimajoin",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_voicesofthedesert_rimajoin.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_rimajoin.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_rimasong",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_voicesofthedesert_rimasong.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_rimasong.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_talkrima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_voicesofthedesert_talkrima.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_talkrima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_talkrima_next",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_voicesofthedesert_talkrima_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_talkrima_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_talkrima_next1",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_voicesofthedesert_talkrima_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_talkrima_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_talkrima_next2",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_voicesofthedesert_talkrima_next2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_talkrima_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_talkrima_next3",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_voicesofthedesert_talkrima_next3.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_talkrima_next3.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_talkrima_next4",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_95a_s02_voicesofthedesert_talkrima_next4.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_talkrima_next4.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_00_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_00_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_00_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_01_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02a_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_02a_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02a_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02b_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_02b_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02b_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02c_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_02c_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02c_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_02_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_03alt_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_03alt_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_03alt_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_03_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_03_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_03_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_04_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_04_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_04_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_05_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_05_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_05_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_06_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_06_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_06_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_07_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_07_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_07_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_08_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_08_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_08_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_09_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_09_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_09_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_10_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_10_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_10_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_11_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_11_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_11_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_12_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_12_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_12_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_13_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_13_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_13_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_s02_camp_rima",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_s02_camp_rima.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_s02_camp_rima.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_s02_camp_rima_end",
+        "TimelineAssetPath": "charactervo/rimabahar/npc_defaultdialogue_s02_camp_rima_end.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_s02_camp_rima_end.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_00_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_00_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_00_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01a_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_01a_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01a_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_01_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_02_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_03_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_03_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_03_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_04_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_04_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_04_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_05_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_05_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_05_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_06_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_06_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_06_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_07_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_07_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_07_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_08_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_08_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_08_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_09_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_09_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_09_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_11_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_11_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_11_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_12_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_12_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_12_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_13_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_13_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_13_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_14a_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_14a_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_14a_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_14_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_14_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_14_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_15_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_15_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_15_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_16_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_16_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_16_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_bloodofthesand_obj_incomplete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_bloodofthesand_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_bloodofthesand_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_bloodofthesand_obj_proposal",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_bloodofthesand_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_bloodofthesand_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_bloodofthesand_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_bloodofthesand_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_bloodofthesand_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_bloodofthesand_obj_proposal_next1",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_bloodofthesand_obj_proposal_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_bloodofthesand_obj_proposal_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_obj_incomplete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_egghunt_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_obj_proposal",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_egghunt_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_egghunt_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_falseprofits_obj_complete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_falseprofits_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_falseprofits_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_falseprofits_obj_complete_next",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_falseprofits_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_falseprofits_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_falseprofits_obj_complete_next2",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_falseprofits_obj_complete_next2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_falseprofits_obj_complete_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_falseprofits_obj_incomplete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_falseprofits_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_falseprofits_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_falseprofits_obj_proposal",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_falseprofits_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_falseprofits_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_falseprofits_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_falseprofits_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_falseprofits_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_falseprofits_obj_proposal_next1",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_falseprofits_obj_proposal_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_falseprofits_obj_proposal_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_hardboiled_obj_complete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_hardboiled_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_hardboiled_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_hardboiled_obj_complete_next",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_hardboiled_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_hardboiled_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_legacyofthesands_obj_complete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_legacyofthesands_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_legacyofthesands_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_legacyofthesands_obj_complete_next",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_legacyofthesands_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_legacyofthesands_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_legacyofthesands_obj_complete_next1",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_legacyofthesands_obj_complete_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_legacyofthesands_obj_complete_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_obj_complete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_remembrance_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_obj_complete_next",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_remembrance_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_obj_complete_next1",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_remembrance_obj_complete_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_obj_complete_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_obj_incomplete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_remembrance_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_obj_proposal",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_remembrance_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_obj_complete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_secondthoughts_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_obj_complete_next",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_secondthoughts_obj_complete_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_obj_complete_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_obj_incomplete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_secondthoughts_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_obj_proposal",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_secondthoughts_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_secondthoughts_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_secondthoughts_obj_proposal_next2",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_secondthoughts_obj_proposal_next2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_secondthoughts_obj_proposal_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_obj_complete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_voicesofthedesert_obj_complete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_obj_complete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_obj_incomplete",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_voicesofthedesert_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_obj_proposal",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_voicesofthedesert_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_voicesofthedesert_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_voicesofthedesert_obj_proposal_next1",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_95a_s02_voicesofthedesert_obj_proposal_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_voicesofthedesert_obj_proposal_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_00_grace",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_00_grace.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_00_grace.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01_grace",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_01_grace.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01_grace.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02a_grace",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_02a_grace.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02a_grace.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02a_grace_alt",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_02a_grace_alt.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02a_grace_alt.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02_grace",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_02_grace.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02_grace.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_03_grace",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_03_grace.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_03_grace.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_04_grace",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_04_grace.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_04_grace.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_05_grace",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_05_grace.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_05_grace.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_06_grace",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_06_grace.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_06_grace.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_07_grace",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_07_grace.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_07_grace.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_s02_camp_grace",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_s02_camp_grace.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_s02_camp_grace.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_s02_camp_grace_end",
+        "TimelineAssetPath": "charactervo/graceomalley/npc_defaultdialogue_s02_camp_grace_end.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_s02_camp_grace_end.timeline"
+    },
+    {
+        "TimelineEntryName": "igc_95a_s02_legacyofthesands_realmirage_02",
+        "TimelineAssetPath": "charactervo/malek/igc_95a_s02_legacyofthesands_realmirage_02.timeline",
+        "AssetDependencyPath": "igc_95a_s02_legacyofthesands_realmirage_02.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_legacyofthesands_obj_incomplete",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_legacyofthesands_obj_incomplete.timeline",
+        "AssetDependencyPath": "npc_95a_s02_legacyofthesands_obj_incomplete.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_legacyofthesands_obj_proposal",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_legacyofthesands_obj_proposal.timeline",
+        "AssetDependencyPath": "npc_95a_s02_legacyofthesands_obj_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_legacyofthesands_obj_proposal_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_legacyofthesands_obj_proposal_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_legacyofthesands_obj_proposal_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_legacyofthesands_talksharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_legacyofthesands_talksharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_legacyofthesands_talksharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_legacyofthesands_talksharif_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_legacyofthesands_talksharif_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_legacyofthesands_talksharif_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_talksharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_remembrance_talksharif.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_talksharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_talksharif_next",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_remembrance_talksharif_next.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_talksharif_next.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_talksharif_next1",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_remembrance_talksharif_next1.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_talksharif_next1.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_remembrance_talksharif_next2",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_remembrance_talksharif_next2.timeline",
+        "AssetDependencyPath": "npc_95a_s02_remembrance_talksharif_next2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_16a_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_16a_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_16a_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_17_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_17_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_17_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_18_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_18_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_18_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_19_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_19_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_19_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_20_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_20_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_20_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "0203_02_survivalist_default",
+        "TimelineAssetPath": "charactervo/embalmerbankole/0203_02_survivalist_default.timeline",
+        "AssetDependencyPath": "0203_02_survivalist_default.timeline"
+    },
+    {
+        "TimelineEntryName": "0203_03_survivalist_default",
+        "TimelineAssetPath": "charactervo/embalmerbankole/0203_03_survivalist_default.timeline",
+        "AssetDependencyPath": "0203_03_survivalist_default.timeline"
+    },
+    {
+        "TimelineEntryName": "0233_hunter_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/holthutchison/0233_hunter_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "0233_hunter_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "0233_hunter_defaultdialogue_03",
+        "TimelineAssetPath": "charactervo/holthutchison/0233_hunter_defaultdialogue_03.timeline",
+        "AssetDependencyPath": "0233_hunter_defaultdialogue_03.timeline"
+    },
+    {
+        "TimelineEntryName": "0450a_townguard_init",
+        "TimelineAssetPath": "charactervo/hannoslembe/0450a_townguard_init.timeline",
+        "AssetDependencyPath": "0450a_townguard_init.timeline"
+    },
+    {
+        "TimelineEntryName": "1110_02_barkeep",
+        "TimelineAssetPath": "charactervo/barkeepbrewell/1110_02_barkeep.timeline",
+        "AssetDependencyPath": "1110_02_barkeep.timeline"
+    },
+    {
+        "TimelineEntryName": "magistrate_0902_0101_hearthandhome_completenext2",
+        "TimelineAssetPath": "charactervo/magistratebond/magistrate_0902_0101_hearthandhome_completenext2.timeline",
+        "AssetDependencyPath": "magistrate_0902_0101_hearthandhome_completenext2.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1339_festivaltender_01_defaultdialogue_00",
+        "TimelineAssetPath": "charactervo/claudiaappius/npc_1339_festivaltender_01_defaultdialogue_00.timeline",
+        "AssetDependencyPath": "npc_1339_festivaltender_01_defaultdialogue_00.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9817_mersha_01",
+        "TimelineAssetPath": "charactervo/ravagermersha/npc_9817_mersha_01.timeline",
+        "AssetDependencyPath": "npc_9817_mersha_01.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9817_mersha_default",
+        "TimelineAssetPath": "charactervo/ravagermersha/npc_9817_mersha_default.timeline",
+        "AssetDependencyPath": "npc_9817_mersha_default.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_9926_0103_lostscarecrow_complete_available_response",
+        "TimelineAssetPath": "charactervo/romacbarbo/npc_9926_0103_lostscarecrow_complete_available_response.timeline",
+        "AssetDependencyPath": "npc_9926_0103_lostscarecrow_complete_available_response.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_00_sadiki",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_defaultdialogue_00_sadiki.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_00_sadiki.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01_sadiki",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_defaultdialogue_01_sadiki.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01_sadiki.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02a_sadiki",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_defaultdialogue_02a_sadiki.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02a_sadiki.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02_sadiki",
+        "TimelineAssetPath": "charactervo/sadikimasufa/npc_defaultdialogue_02_sadiki.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02_sadiki.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_07a_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_07a_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_07a_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_08a_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_08a_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_08a_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_1036_0101_admiralblackpowder_proposal",
+        "TimelineAssetPath": "charactervo/wallywiddershins/npc_1036_0101_admiralblackpowder_proposal.timeline",
+        "AssetDependencyPath": "npc_1036_0101_admiralblackpowder_proposal.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_00a_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_00a_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_00a_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02b_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_02b_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02b_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_s02_camp_zander",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_s02_camp_zander.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_s02_camp_zander.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_s02_camp_zander_end",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_defaultdialogue_s02_camp_zander_end.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_s02_camp_zander_end.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_egghunt_talkzander_01",
+        "TimelineAssetPath": "charactervo/zandertheundying/npc_95a_s02_egghunt_talkzander_01.timeline",
+        "AssetDependencyPath": "npc_95a_s02_egghunt_talkzander_01.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_01b_sharif",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_01b_sharif.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_01b_sharif.timeline"
+    },
+    {
+        "TimelineEntryName": "vox_jackal_laugh_4",
+        "TimelineAssetPath": "charactervo/strangejackal/vox_jackal_laugh_4.timeline",
+        "AssetDependencyPath": "vox_jackal_laugh_4.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_obj_complete_alt",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_wordofathief_obj_complete_alt.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_obj_complete_alt.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_95a_s02_wordofathief_obj_complete_next_alt",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_95a_s02_wordofathief_obj_complete_next_alt.timeline",
+        "AssetDependencyPath": "npc_95a_s02_wordofathief_obj_complete_next_alt.timeline"
+    },
+    {
+        "TimelineEntryName": "npc_defaultdialogue_02_sharif_alt",
+        "TimelineAssetPath": "charactervo/sharifshara/npc_defaultdialogue_02_sharif_alt.timeline",
+        "AssetDependencyPath": "npc_defaultdialogue_02_sharif_alt.timeline"
     }
 ]

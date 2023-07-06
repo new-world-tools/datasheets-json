@@ -1,0 +1,44 @@
+[
+    {
+        "ChapterId": "Season2Chapter1",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 1,
+        "ChapterTaskCount": 4,
+        "ChapterRewardId": "S2_Journey_Ch01_Complete"
+    },
+    {
+        "ChapterId": "Season2Chapter2",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 2,
+        "ChapterTaskCount": 5,
+        "ChapterRewardId": "S2_Journey_Ch02_Complete"
+    },
+    {
+        "ChapterId": "Season2Chapter3",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 3,
+        "ChapterTaskCount": 5,
+        "ChapterRewardId": "S2_Journey_Ch03_Complete"
+    },
+    {
+        "ChapterId": "Season2Chapter4",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 4,
+        "ChapterTaskCount": 6,
+        "ChapterRewardId": "S2_Journey_Ch04_Complete"
+    },
+    {
+        "ChapterId": "Season2Chapter5",
+        "ChapterType": "Chapter",
+        "ChapterIndex": 5,
+        "ChapterTaskCount": 7,
+        "ChapterRewardId": "S2_Journey_Ch05_Complete"
+    },
+    {
+        "ChapterId": "Season2Challenge",
+        "ChapterType": "Challenge",
+        "ChapterIndex": 6,
+        "ChapterTaskCount": 10,
+        "ChapterRewardId": ""
+    }
+]

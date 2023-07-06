@@ -119,5 +119,16 @@
         "Description": "",
         "Subtitle": "@CorpseCrone01",
         "Comment": ""
+    },
+    {
+        "CinematicVideoId": "Seasons_02_Devourer",
+        "VideoPath": "LyShineUI/Videos/LD_final.bk2",
+        "Name": "@cinmatic_video_seasons_02_devourer",
+        "ReqAchievementId": "Unlock_95A_S02_DevourerCinematic",
+        "OnWatchedAchievementId": "Watched_95A_S02_DevourerCinematic",
+        "DurationInSec": 107,
+        "Description": "",
+        "Subtitle": "@DevourerLegacy01",
+        "Comment": ""
     }
 ]

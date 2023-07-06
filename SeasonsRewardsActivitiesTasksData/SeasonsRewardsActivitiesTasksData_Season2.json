@@ -1,0 +1,362 @@
+[
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task1",
+        "Task": "Close1MajorBreach",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Close1MajorBreach"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task2",
+        "Task": "Close1MinorBreaches",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Close1MinorBreaches"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task3",
+        "Task": "Kill10Lost",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10Lost"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task4",
+        "Task": "Kill10AngryEarth",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10AngryEarth"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task5",
+        "Task": "Kill10Ancients",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10Ancients"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task6",
+        "Task": "Kill10Corrupted",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10Corrupted"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task7",
+        "Task": "Kill10Beasts",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10Beasts"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task8",
+        "Task": "Kill10EnemiesOneHanded",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10EnemiesOneHanded"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task9",
+        "Task": "Kill10EnemiesTwoHanded",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10EnemiesTwoHanded"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task10",
+        "Task": "Kill10EnemiesRanged",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10EnemiesRanged"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task11",
+        "Task": "Kill10EnemiesMagic",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Kill10EnemiesMagic"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task12",
+        "Task": "Kill1Players",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_Kill1Player"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task13",
+        "Task": "Capture1FactionControlPoint",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_Capture1FactionControlPoint"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task14",
+        "Task": "ParticipateIn1Duels",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_ParticipateIn3Duels"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task15",
+        "Task": "Gather5T5ResourceNodes",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Gather5T5Nodes"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task16",
+        "Task": "Skin10T5Animals",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Skin10T5Animals"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task17",
+        "Task": "Catch150lbsOfFish",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Catch150lbsFish"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task19",
+        "Task": "Complete2TownProjects",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Complete2TownProjects"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task20",
+        "Task": "Salvage5T5Items",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Salvage5T5Items"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task21",
+        "Task": "Complete2FactionMissions",
+        "Type": "Pve",
+        "Description": "@SeasonsActivities_Complete2FactionMissions"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task22",
+        "Task": "Refine50T5Resources",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Refine50T5Resources"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task23",
+        "Task": "CatchTreasureChest",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Catch1TreasureChest"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task24",
+        "Task": "Catch5RareFish",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Catch5RareFish"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task25",
+        "Task": "Craft5T5WeaponOrApparel",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Craft5T5WeaponOrApparel"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task26",
+        "Task": "Craft10T5Consumables",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Craft10T5Consumables"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task27",
+        "Task": "GetKillingBlowOnEnemyInOutpostRush",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_KillingBlowOPR"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task28",
+        "Task": "Play1OutpostRush",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_ParticipateIn1OPR"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task29",
+        "Task": "ParticipateIn3Arena3x3",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_ParticipateIn3_3v3"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task30",
+        "Task": "DealOrHeal50000InArena3v3",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_DealOrHeal100000In3v3"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task34",
+        "Task": "Complete1Expedition",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_Complete1Expedition"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task37",
+        "Task": "Complete1MutatedExpedition",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_Complete1MutatedExpedition"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task39",
+        "Task": "Earn100PvPXPFromPlayers",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_Earn1000PvpXp"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task40",
+        "Task": "DefeatZygormat",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_DefeatZygormat"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task41",
+        "Task": "DefeatTheSirenQueen",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_DefeatSirenQueen"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task42",
+        "Task": "DefeatAvarice",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_DefeateAvarice"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task43",
+        "Task": "Craft1GypsumOrb",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Craft1GypsumOrb"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task56",
+        "Task": "Earn5000AmountOfAzothSalt",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_Earn5000AzothSalt"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task59",
+        "Task": "Complete2PvPFactionMissions",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_Complete2PvpFactionMissions"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task60",
+        "Task": "EarnVictoryInPvPArena",
+        "Type": "Pvp",
+        "Description": "@SeasonsActivities_FlawlessVictoryInPvpArena"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task61",
+        "Task": "Kill10EnemiesMyrkgard",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillPOIMyrkgard"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task62",
+        "Task": "Kill10EnemiesImperialPalace",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillPOIImperialPalace"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task63",
+        "Task": "Kill10EnemiesMalevolence",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillPOIMalevolence"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task64",
+        "Task": "Kill10EnemiesEternalPool",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillPOIEternalPool"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task65",
+        "Task": "Kill10EnemiesBedsOfTaBitJet",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillPOIBedsOfTaBitJet"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task66",
+        "Task": "Kill2Named",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillNamed"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task67",
+        "Task": "Kill20Elite",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_KillElite"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task68",
+        "Task": "Gather1MaudlinDust",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Gather1MaudlinDust"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task69",
+        "Task": "CompleteSongMaudlinWaltz",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_PlayMaudlinbugSong"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task70",
+        "Task": "Gather3AeternumSturgeon",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Gather3AeternumSturgeon"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task71",
+        "Task": "CompleteSongYAAAHHHH",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_CompleteYahhhh"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task72",
+        "Task": "Complete2Songs",
+        "Type": "Crafting",
+        "Description": "@SeasonsActivities_Complete2Songs"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task73",
+        "Task": "Kill5Scorpions",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Kill5Scorpions"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task74",
+        "Task": "DefeatBrimstoneSandsBoss",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_DefeatBrimstoneSandsBoss"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task75",
+        "Task": "Gather500Resources",
+        "Type": "Gathering",
+        "Description": "@SeasonsActivities_Gather500Resources"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task76",
+        "Task": "Kill10Dunewalkers",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_Kill10Dunewalkers"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task77",
+        "Task": "KillNamedDunewalker",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_KillNamedDunewalker"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task78",
+        "Task": "LootSulfurChest",
+        "Type": "Season",
+        "Description": "@SeasonsActivities_LootSulfurChest"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task79",
+        "Task": "Kill1Player",
+        "Type": "PvP",
+        "Description": "@SeasonsActivities_Kill1Player"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task80",
+        "Task": "Gain100PvPXP",
+        "Type": "PvP",
+        "Description": "@SeasonsActivities_Gain1000PvPXP"
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task81",
+        "Task": "LootEliteChest",
+        "Type": "Expedition",
+        "Description": "@SeasonsActivities_LootEliteChest"
+    }
+]

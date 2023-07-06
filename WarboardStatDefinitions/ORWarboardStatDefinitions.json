@@ -16,7 +16,7 @@
         "EndGameStat": true,
         "AG_TotalDamageDealt": 0,
         "AG_HealingDone": 0,
-        "AG_Score": 10,
+        "AG_Score": 20,
         "AG_AITakedowns": 1,
         "AG_PlayerTakedowns": 0,
         "AG_TotalResourcesDeposited": 0
@@ -104,7 +104,7 @@
         "EndGameStat": true,
         "AG_TotalDamageDealt": 1,
         "AG_HealingDone": 0,
-        "AG_Score": 0.01,
+        "AG_Score": 0.005,
         "AG_AITakedowns": 0,
         "AG_PlayerTakedowns": 0,
         "AG_TotalResourcesDeposited": 0
@@ -269,7 +269,7 @@
         "EndGameStat": true,
         "AG_TotalDamageDealt": 0,
         "AG_HealingDone": 0,
-        "AG_Score": 0.2,
+        "AG_Score": 0.3,
         "AG_AITakedowns": 0,
         "AG_PlayerTakedowns": 0,
         "AG_TotalResourcesDeposited": 0
@@ -281,6 +281,17 @@
         "AG_TotalDamageDealt": 0,
         "AG_HealingDone": 0,
         "AG_Score": 0,
+        "AG_AITakedowns": 0,
+        "AG_PlayerTakedowns": 0,
+        "AG_TotalResourcesDeposited": 0
+    },
+    {
+        "WarboardStatID": "DamageBlocked",
+        "InGameStat": false,
+        "EndGameStat": true,
+        "AG_TotalDamageDealt": 0,
+        "AG_HealingDone": 0,
+        "AG_Score": 0.01,
         "AG_AITakedowns": 0,
         "AG_PlayerTakedowns": 0,
         "AG_TotalResourcesDeposited": 0

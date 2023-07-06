@@ -4314,5 +4314,31 @@
         "GameMode": "Expedition",
         "Scope": "Group",
         "PersonalBest": ""
+    },
+    {
+        "LeaderboardStatId": "MonthBossTrialCompletionSandworm",
+        "Notes": "",
+        "Namespace": "pc",
+        "Rotation": "Month",
+        "StatType": "GameEvent",
+        "Aggregation": "Sum",
+        "ServiceStatId": "boss-trial-completions",
+        "CategoricalProgressionId": "",
+        "GameMode": "SandwormEliteTrial_Reward",
+        "Scope": "Character",
+        "PersonalBest": ""
+    },
+    {
+        "LeaderboardStatId": "SeasonBossTrialCompletionSandworm",
+        "Notes": "",
+        "Namespace": "pc",
+        "Rotation": "Season",
+        "StatType": "GameEvent",
+        "Aggregation": "Sum",
+        "ServiceStatId": "boss-trial-completions",
+        "CategoricalProgressionId": "",
+        "GameMode": "SandwormEliteTrial_Reward",
+        "Scope": "Character",
+        "PersonalBest": ""
     }
 ]

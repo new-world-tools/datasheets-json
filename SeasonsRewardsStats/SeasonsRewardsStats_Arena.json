@@ -16,5 +16,11 @@
         "StatType": "CompleteArena",
         "MustWin": true,
         "GameModeResult": "Victory"
+    },
+    {
+        "TrackedStatID": "WinArena3x3Map2",
+        "StatType": "CompleteArena",
+        "MustWin": true,
+        "GameModeResult": "Victory"
     }
 ]

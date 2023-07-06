@@ -466,5 +466,31 @@
         "GameEvent1": "GypsumGreenEvent",
         "GameEvent2": "GypsumGreenEvent",
         "GameEvent": "GypsumGreenEvent"
+    },
+    {
+        "TradeSkillType": "Riding_PostCap",
+        "TradeSkillRewardXP": 3000,
+        "SubRewardPerc1": 0.33,
+        "SubRewardPerc2": 0.66,
+        "SubRewardPerc3": "",
+        "SubRewardPerc4": "",
+        "SubRewardPerc5": "",
+        "SubRewardPerc6": "",
+        "SubRewardPerc7": "",
+        "SubRewardPerc8": "",
+        "SubRewardPerc9": "",
+        "SubReward1": "RewardPostCapRidingT1",
+        "SubReward2": "RewardPostCapRidingT2",
+        "SubReward3": "",
+        "SubReward4": "",
+        "SubReward5": "",
+        "SubReward6": "",
+        "SubReward7": "",
+        "SubReward8": "",
+        "SubReward9": "",
+        "Reward": "RewardPostCapRidingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     }
 ]

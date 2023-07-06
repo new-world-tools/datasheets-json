@@ -238,5 +238,69 @@
     {
         "EffectName": "cFX_npc_FireNaga.Linear_Tell",
         "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_SandwormBoss.Fog_Lower",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_SandwormBoss.Glimpse",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_SandwormBoss.Shield_Layer",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_SandwormBoss.Melee_AOE_Earthy",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_SandwormBoss.Top_Of_Arena_AOE",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "env_SandwormArena_PressurePlate.ButtonPress_Idle",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "env_SandwormArena_PressurePlate.ButtonPress_Activate",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "env_SandwormArena_PressurePlate.ButtonPress_Fail",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "env_SandwormArena_PressurePlate.Pillar_Gold",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "env_SandwormArena_PressurePlate.Pillar_Blue",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "env_SandwormArena_PressurePlate.Pillar_Red",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "env_SandwormArena_PressurePlate.Pillar_White",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "Env_BrimstoneDungeon.Forge_Active_02",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cfx_npc_scorpion.AOE_Puddle",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_SandwormBoss.Acid_Spew_Seq",
+        "PriorityOverride": "Required"
+    },
+    {
+        "EffectName": "cFX_npc_SandwormBoss.Chomp_AOE",
+        "PriorityOverride": "Required"
     }
 ]

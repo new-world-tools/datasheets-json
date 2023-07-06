@@ -43,5 +43,41 @@
         "RequireGroup": null,
         "SongDifficulty": "",
         "SongRank": "Great"
+    },
+    {
+        "TrackedStatID": "CompleteSongCallOfTheAncientsWithExpertRating",
+        "StatType": "CompleteSong",
+        "TargetID": "Ancient",
+        "Level": "",
+        "RequireGroup": null,
+        "SongDifficulty": "",
+        "SongRank": "Amazing"
+    },
+    {
+        "TrackedStatID": "CompleteSongInGroupWithExpertRating",
+        "StatType": "CompleteSong",
+        "TargetID": "",
+        "Level": "",
+        "RequireGroup": true,
+        "SongDifficulty": "Expert",
+        "SongRank": ""
+    },
+    {
+        "TrackedStatID": "CompleteSongMaudlinWaltz",
+        "StatType": "CompleteSong",
+        "TargetID": "Maudlinbug_Waltz",
+        "Level": "",
+        "RequireGroup": null,
+        "SongDifficulty": "",
+        "SongRank": ""
+    },
+    {
+        "TrackedStatID": "CompleteSongYAAAHHHH",
+        "StatType": "CompleteSong",
+        "TargetID": "YAAAHHHH",
+        "Level": "",
+        "RequireGroup": null,
+        "SongDifficulty": "",
+        "SongRank": ""
     }
 ]

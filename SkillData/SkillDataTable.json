@@ -118,7 +118,7 @@
         "Icon": "2H_Axe_T0",
         "PassiveStatusEffect": "skillLogging",
         "Perks": "Logging_1=8+Logging_2=16+Logging_3=25",
-        "Description": "The Logging skill is increased through using one handed and two handed axes, both through combat and through harvesting lumber. Its benefits are focused on non-combat applications, whereas the Axes skill focuses on using a axe in combat."
+        "Description": "TheLoggingskillisincreasedthroughusingonehandedandtwohandedaxes,boththroughcombatandthroughharvestinglumber.Itsbenefitsarefocusedonnon-combatapplications,whereastheAxesskillfocusesonusingaaxeincombat."
     },
     {
         "SkillID": "Mining",
@@ -129,7 +129,7 @@
         "Icon": "2H_Pickaxe_T0",
         "PassiveStatusEffect": "skillMining",
         "Perks": "Mining_1=8+Mining_2=16+Mining_3=25",
-        "Description": "The Mining skill is increased through using one handed and two handed picks, both through combat and through harvesting stone and ore. Its benefits are focused on non-combat applications, whereas the Picks skill focuses on using a pick in combat."
+        "Description": "TheMiningskillisincreasedthroughusingonehandedandtwohandedpicks,boththroughcombatandthroughharvestingstoneandore.Itsbenefitsarefocusedonnon-combatapplications,whereasthePicksskillfocusesonusingapickincombat."
     },
     {
         "SkillID": "Harvesting",
@@ -140,7 +140,7 @@
         "Icon": "2H_Pickaxe_T0",
         "PassiveStatusEffect": "skillHarvesting",
         "Perks": "Harvesting_1=8+Harvesting_2=16+Harvesting_3=25",
-        "Description": "The Harvesting skill is used for general gathering without using an equipped item, such as gathering herbs, berries, water, etc."
+        "Description": "TheHarvestingskillisusedforgeneralgatheringwithoutusinganequippeditem,suchasgatheringherbs,berries,water,etc."
     },
     {
         "SkillID": "Hunting",
@@ -206,7 +206,7 @@
         "Icon": "2H_Pickaxe_T0",
         "PassiveStatusEffect": "skillBlacksmithing",
         "Perks": "Blacksmithing_1=8+Blacksmithing_2=16+Blacksmithing_3=25",
-        "Description": "This skill is used for making metal tools,  component parts, and miscelaneous goods."
+        "Description": "Thisskillisusedformakingmetaltools,componentparts,andmiscelaneousgoods."
     },
     {
         "SkillID": "Outfitting",
@@ -217,7 +217,7 @@
         "Icon": "2H_Pickaxe_T0",
         "PassiveStatusEffect": "skillOutfitting",
         "Perks": "",
-        "Description": "This skill is specifically focused on crafting armor, clothing, and all cloth or leather items."
+        "Description": "Thisskillisspecificallyfocusedoncraftingarmor,clothing,andallclothorleatheritems."
     },
     {
         "SkillID": "Cooking",
@@ -272,7 +272,7 @@
         "Icon": "2H_Pickaxe_T0",
         "PassiveStatusEffect": "skillWriting",
         "Perks": "Writing_1=8+Writing_2=16+Writing_3=25",
-        "Description": "This skill is used for creating written documents such as Declarations of War, Land Claims, recipe books, spell books, and scrolls."
+        "Description": "ThisskillisusedforcreatingwrittendocumentssuchasDeclarationsofWar,LandClaims,recipebooks,spellbooks,andscrolls."
     },
     {
         "SkillID": "Leatherworking",
@@ -327,6 +327,6 @@
         "Icon": "2H_Pickaxe_T0",
         "PassiveStatusEffect": "skillEngineering",
         "Perks": "Engineering_1=8+Engineering_2=16+Engineering_3=25",
-        "Description": "This skill is used for making guns, explosives, siege engines, and other advanced machinery."
+        "Description": "Thisskillisusedformakingguns,explosives,siegeengines,andotheradvancedmachinery."
     }
 ]

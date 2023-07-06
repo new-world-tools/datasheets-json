@@ -295,5 +295,14 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "06_Gunter_FirstLight",
+        "PlayerPrompt": "@06_Gunter_FirstLight_Prompt",
+        "NPCResponse": "@06_Gunter_FirstLight_Response",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
     }
 ]

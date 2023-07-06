@@ -10,49 +10,10 @@
         "ActiveAtDusk": true,
         "ActiveAtNight": true,
         "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
+        "TimeToNibbleSecondsMultiplier": 0.2
     },
     {
-        "Id": "BaitFreshBreadT1",
-        "FishRarityRollModifier": 0.47,
-        "FishSizeRollModifier": 0,
-        "SummerFishRarityRollModifier": 0,
-        "RequiredWaterTags": "Fresh",
-        "ActiveAtDawn": true,
-        "ActiveAtDaytime": true,
-        "ActiveAtDusk": true,
-        "ActiveAtNight": true,
-        "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
-    },
-    {
-        "Id": "BaitSaltFishT1",
-        "FishRarityRollModifier": 0,
-        "FishSizeRollModifier": 1.5,
-        "SummerFishRarityRollModifier": 0,
-        "RequiredWaterTags": "Salt",
-        "ActiveAtDawn": true,
-        "ActiveAtDaytime": true,
-        "ActiveAtDusk": true,
-        "ActiveAtNight": true,
-        "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
-    },
-    {
-        "Id": "BaitSaltCheeseT1",
-        "FishRarityRollModifier": 0.47,
-        "FishSizeRollModifier": 0,
-        "SummerFishRarityRollModifier": 0,
-        "RequiredWaterTags": "Salt",
-        "ActiveAtDawn": true,
-        "ActiveAtDaytime": true,
-        "ActiveAtDusk": true,
-        "ActiveAtNight": true,
-        "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
-    },
-    {
-        "Id": "BaitFreshClamT2",
+        "Id": "BaitSaltSnailT2",
         "FishRarityRollModifier": 0,
         "FishSizeRollModifier": 3,
         "SummerFishRarityRollModifier": 0,
@@ -62,7 +23,33 @@
         "ActiveAtDusk": true,
         "ActiveAtNight": true,
         "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "BaitSaltElectricEelT3",
+        "FishRarityRollModifier": 0,
+        "FishSizeRollModifier": 5,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Fresh",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "BaitFreshBreadT1",
+        "FishRarityRollModifier": 0.45,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Fresh",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
     },
     {
         "Id": "BaitFreshWoodliceT2",
@@ -75,10 +62,114 @@
         "ActiveAtDusk": true,
         "ActiveAtNight": true,
         "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
+        "TimeToNibbleSecondsMultiplier": 0.2
     },
     {
-        "Id": "BaitSaltSnailT2",
+        "Id": "BaitFreshFireflyT3",
+        "FishRarityRollModifier": 0.9,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Fresh",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitMeatT4",
+        "FishRarityRollModifier": 0,
+        "FishSizeRollModifier": 8,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Fresh",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitSnailT4",
+        "FishRarityRollModifier": 0.7,
+        "FishSizeRollModifier": 5,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Fresh",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": false,
+        "ActiveAtNight": false,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitElectricEelT4",
+        "FishRarityRollModifier": 0.7,
+        "FishSizeRollModifier": 5,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Fresh",
+        "ActiveAtDawn": false,
+        "ActiveAtDaytime": false,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitBreadT4",
+        "FishRarityRollModifier": 1.5,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Fresh",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitWoodliceT4",
+        "FishRarityRollModifier": 0.9,
+        "FishSizeRollModifier": 3,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Fresh",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": false,
+        "ActiveAtNight": false,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitFireflyT4",
+        "FishRarityRollModifier": 0.9,
+        "FishSizeRollModifier": 3,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Fresh",
+        "ActiveAtDawn": false,
+        "ActiveAtDaytime": false,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "BaitSaltFishT1",
+        "FishRarityRollModifier": 0,
+        "FishSizeRollModifier": 1.5,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Salt",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "BaitFreshClamT2",
         "FishRarityRollModifier": 0,
         "FishSizeRollModifier": 3,
         "SummerFishRarityRollModifier": 0,
@@ -88,7 +179,33 @@
         "ActiveAtDusk": true,
         "ActiveAtNight": true,
         "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "BaitFreshOysterT3",
+        "FishRarityRollModifier": 0,
+        "FishSizeRollModifier": 5,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Salt",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "BaitSaltCheeseT1",
+        "FishRarityRollModifier": 0.45,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Salt",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
     },
     {
         "Id": "BaitSaltNightcrawlerT2",
@@ -101,50 +218,11 @@
         "ActiveAtDusk": true,
         "ActiveAtNight": true,
         "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
-    },
-    {
-        "Id": "BaitFreshOysterT3",
-        "FishRarityRollModifier": 0,
-        "FishSizeRollModifier": 5,
-        "SummerFishRarityRollModifier": 0,
-        "RequiredWaterTags": "Fresh",
-        "ActiveAtDawn": true,
-        "ActiveAtDaytime": true,
-        "ActiveAtDusk": true,
-        "ActiveAtNight": true,
-        "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
-    },
-    {
-        "Id": "BaitFreshFireflyT3",
-        "FishRarityRollModifier": 0.85,
-        "FishSizeRollModifier": 0,
-        "SummerFishRarityRollModifier": 0,
-        "RequiredWaterTags": "Fresh",
-        "ActiveAtDawn": true,
-        "ActiveAtDaytime": true,
-        "ActiveAtDusk": true,
-        "ActiveAtNight": true,
-        "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
-    },
-    {
-        "Id": "BaitSaltElectricEelT3",
-        "FishRarityRollModifier": 0,
-        "FishSizeRollModifier": 5,
-        "SummerFishRarityRollModifier": 0,
-        "RequiredWaterTags": "Salt",
-        "ActiveAtDawn": true,
-        "ActiveAtDaytime": true,
-        "ActiveAtDusk": true,
-        "ActiveAtNight": true,
-        "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
+        "TimeToNibbleSecondsMultiplier": 0.2
     },
     {
         "Id": "BaitSaltGlowwormT3",
-        "FishRarityRollModifier": 0.85,
+        "FishRarityRollModifier": 0.9,
         "FishSizeRollModifier": 0,
         "SummerFishRarityRollModifier": 0,
         "RequiredWaterTags": "Salt",
@@ -153,7 +231,85 @@
         "ActiveAtDusk": true,
         "ActiveAtNight": true,
         "LootTableId": "",
-        "TimeToNibbleSecondsMultiplier": 0.5
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitFishT4",
+        "FishRarityRollModifier": 0,
+        "FishSizeRollModifier": 8,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Salt",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitClamT4",
+        "FishRarityRollModifier": 0.7,
+        "FishSizeRollModifier": 5,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Salt",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": false,
+        "ActiveAtNight": false,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitOysterT4",
+        "FishRarityRollModifier": 0.7,
+        "FishSizeRollModifier": 5,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Salt",
+        "ActiveAtDawn": false,
+        "ActiveAtDaytime": false,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitCheeseT4",
+        "FishRarityRollModifier": 1.5,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Salt",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitNightcrawlerT4",
+        "FishRarityRollModifier": 0.9,
+        "FishSizeRollModifier": 3,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Salt",
+        "ActiveAtDawn": true,
+        "ActiveAtDaytime": true,
+        "ActiveAtDusk": false,
+        "ActiveAtNight": false,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
+    },
+    {
+        "Id": "RareBaitGlowwormT4",
+        "FishRarityRollModifier": 0.9,
+        "FishSizeRollModifier": 3,
+        "SummerFishRarityRollModifier": 0,
+        "RequiredWaterTags": "Salt",
+        "ActiveAtDawn": false,
+        "ActiveAtDaytime": false,
+        "ActiveAtDusk": true,
+        "ActiveAtNight": true,
+        "LootTableId": "",
+        "TimeToNibbleSecondsMultiplier": 0.2
     },
     {
         "Id": "BaitLegendaryFishT1",
@@ -166,6 +322,6 @@
         "ActiveAtDusk": true,
         "ActiveAtNight": true,
         "LootTableId": "FishingSalmonSpecial",
-        "TimeToNibbleSecondsMultiplier": 0.5
+        "TimeToNibbleSecondsMultiplier": 0.2
     }
 ]

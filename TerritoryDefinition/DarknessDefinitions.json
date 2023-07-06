@@ -563,9 +563,9 @@
         "TerritoryID": 8036,
         "NameLocalizationKey": "@ui_worldboss_season_02_event",
         "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/furySpriggan.png",
-        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/furySpriggan.png",
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_furyspriggan.png",
+        "MapIcon": "LyShineUI/Images/Icons/WorldMap/worldmap_eggsciting.png",
+        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/event_eggsciting.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/maptooltip_eggciting.png",
         "GroupSize": 0,
         "POITag": "SeasonEncounter",
         "RequiredItemId": "",
@@ -573,6 +573,22 @@
         "PulseColor": "235 52 52",
         "AudioGroup": "POI_State",
         "AudioState": "worldboss",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8037,
+        "NameLocalizationKey": "@ui_worldboss_season_02_event",
+        "IsPOI": true,
+        "MapIcon": "",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+        "GroupSize": 0,
+        "POITag": "EventEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 60,
+        "PulseColor": "235 52 52",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
         "AudioBank": ""
     }
 ]
