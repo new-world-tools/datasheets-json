@@ -47,7 +47,7 @@
     {
         "TrackedStatID": "CompleteSongCallOfTheAncientsWithExpertRating",
         "StatType": "CompleteSong",
-        "TargetID": "Ancient",
+        "TargetID": "AncientEasy,AncientMedium,AncientHard",
         "Level": "",
         "RequireGroup": null,
         "SongDifficulty": "",
