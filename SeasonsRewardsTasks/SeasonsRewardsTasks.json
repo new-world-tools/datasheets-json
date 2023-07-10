@@ -1205,7 +1205,7 @@
     },
     {
         "SeasonsTaskID": "S2_CompleteTrialHatchery",
-        "SeasonsTrackedStatID": "CompleteHatcheryTrial",
+        "SeasonsTrackedStatID": "DefeatHatcheryTrial",
         "TaskMaxValue": 1,
         "Name": "@ui_seasons_task_name_CompleteTrialHatchery",
         "Description": "@ui_seasons_task_description_CompleteTrialHatchery"
@@ -1282,7 +1282,7 @@
     },
     {
         "SeasonsTaskID": "S2_CompleteTrialSandworm",
-        "SeasonsTrackedStatID": "CompleteSandwormTrial",
+        "SeasonsTrackedStatID": "DefeatWurmBoss",
         "TaskMaxValue": 1,
         "Name": "@ui_seasons_task_name_CompleteTrialSandworm",
         "Description": "@ui_seasons_task_description_CompleteTrialSandworm"
@@ -1373,15 +1373,15 @@
     },
     {
         "SeasonsTaskID": "S2_Challenge_CompleteTrialSandwormFlawless",
-        "SeasonsTrackedStatID": "CompleteSandwormTrialFlawlessly",
-        "TaskMaxValue": 1,
+        "SeasonsTrackedStatID": "DefeatWurmBoss",
+        "TaskMaxValue": 3,
         "Name": "@ui_seasons_task_name_Challenge_CompleteTrialSandwormFlawless",
         "Description": "@ui_seasons_task_description_Challenge_CompleteTrialSandwormFlawless"
     },
     {
         "SeasonsTaskID": "S2_Challenge_CompleteTrialHatchery10Minutes",
-        "SeasonsTrackedStatID": "CompleteHatcheryTrialIn10Minutes",
-        "TaskMaxValue": 1,
+        "SeasonsTrackedStatID": "DefeatHatcheryTrial",
+        "TaskMaxValue": 10,
         "Name": "@ui_seasons_task_name_Challenge_CompleteTrialHatchery10Minutes",
         "Description": "@ui_seasons_task_description_Challenge_CompleteTrialHatchery10Minutes"
     },

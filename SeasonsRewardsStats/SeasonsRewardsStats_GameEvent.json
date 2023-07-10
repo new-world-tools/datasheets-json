@@ -82,5 +82,12 @@
         "GameEventTypes": "",
         "CreatureTypes": "",
         "GameEventIDs": "SandwormEliteTrial_Reward"
+    },
+    {
+        "TrackedStatID": "DefeatHatcheryTrial",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "",
+        "GameEventIDs": "Trial_S2_Success"
     }
 ]
