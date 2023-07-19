@@ -1653,7 +1653,7 @@
     },
     {
         "SeasonsTaskID": "Gather3AeternumSturgeon",
-        "SeasonsTrackedStatID": "",
+        "SeasonsTrackedStatID": "Gather3AeternumSturgeon",
         "TaskMaxValue": 3,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"

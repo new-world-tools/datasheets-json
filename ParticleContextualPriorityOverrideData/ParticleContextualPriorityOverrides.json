@@ -96,6 +96,10 @@
         "PriorityOverride": "High"
     },
     {
+        "EffectName": "wfx_rune_ability_detonate.denotation_end",
+        "PriorityOverride": "High"
+    },
+    {
         "EffectName": "wfx_GreatSword.Onslaught.Combo.Default.Impact",
         "PriorityOverride": "High"
     },

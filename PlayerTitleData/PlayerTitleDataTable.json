@@ -5068,6 +5068,20 @@
         "RequiredPlayerLevel": null
     },
     {
+        "TitleID": "PlayerTitle_Summer_GuitarHero",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Musical_Instruments",
+        "TitleMale": "@ui_playertitle_summer_guitarhero",
+        "TitleFemale": "@ui_playertitle_summer_guitarhero_SHE",
+        "TitleNeutral": "@ui_playertitle_summer_guitarhero_THEY",
+        "Description": "@ui_playertitle_summer_guitarhero_description",
+        "MetaAchievementId": "Music_Summer_GuitarHero",
+        "AchievementId": "",
+        "CategoricalProgressionId": "",
+        "RequiredCategoricalProgressionLevel": null,
+        "RequiredPlayerLevel": null
+    },
+    {
         "TitleID": "PlayerTitle_Sandworm_Top1",
         "TitleType": "Account",
         "UIDisplayCategory": "Leaderboard",
