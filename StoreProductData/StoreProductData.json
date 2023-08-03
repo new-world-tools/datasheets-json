@@ -4785,17 +4785,6 @@
         "TypeDescription": "@reward_type_Toolskin_Set"
     },
     {
-        "UniqueTagID": "Emote_Alas",
-        "IsEnabled": 1,
-        "DisplayName": "@ui_emote_Alas_name",
-        "Description": "@ui_emote_Alas_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
-        "TypeDescription": "@reward_type_emote"
-    },
-    {
         "UniqueTagID": "Emote_WarHorn",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_WarHorn_name",
@@ -6010,33 +5999,33 @@
         "IsEnabled": 1,
         "DisplayName": "@Token_Transmog_X1_name",
         "Description": "@Token_Transmog_X1_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens_Pouch.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens_Pouch.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens_Pouch.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens_Pouch.png",
-        "TypeDescription": "@reward_type_token"
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens.png",
+        "TypeDescription": "@reward_type_token_single"
     },
     {
         "UniqueTagID": "Token_Transmog_X5",
         "IsEnabled": 1,
         "DisplayName": "@Token_Transmog_X5_name",
         "Description": "@Token_Transmog_X5_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens_Purse.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens_Purse.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens_Purse.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens_Purse.png",
-        "TypeDescription": "@reward_type_token"
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens.png",
+        "TypeDescription": "@reward_type_TokenPack"
     },
     {
         "UniqueTagID": "Token_Transmog_X10",
         "IsEnabled": 1,
         "DisplayName": "@Token_Transmog_X5_name",
         "Description": "@Token_Transmog_X5_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens_Chest.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens_Chest.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens_Chest.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens_Chest.png",
-        "TypeDescription": "@reward_type_token"
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens.png",
+        "TypeDescription": "@reward_type_TokenPack"
     },
     {
         "UniqueTagID": "Emote_Premium_Firework1",
@@ -6710,6 +6699,17 @@
         "TypeDescription": "@ui_bundle"
     },
     {
+        "UniqueTagID": "Bundle_PR_EmoteTaunts",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_EmoteTaunts_name",
+        "Description": "@Bundle_PR_EmoteTaunts_description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_Emote_Jul2023Promo.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_Emote_Jul2023Promo.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_Emote_Jul2023Promo.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_Emote_Jul2023Promo.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
         "UniqueTagID": "Emote_Premium_Firework1_x10",
         "IsEnabled": 1,
         "DisplayName": "@Emote_Premium_Firework1_x10_name",
@@ -6776,14 +6776,168 @@
         "TypeDescription": "@reward_type_emote_permit"
     },
     {
+        "UniqueTagID": "WeaponSkin_DeepSeaGothic_VoidGauntlet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_DeepSeaGothic_VoidGauntlet_MasterName",
+        "Description": "@Skin_DeepSeaGothic_VoidGauntlet_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_VoidGauntlet.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_VoidGauntlet.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_VoidGauntlet.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_VoidGauntlet.png",
+        "TypeDescription": "@reward_type_Weaponskin_VoidGauntlet"
+    },
+    {
+        "UniqueTagID": "WeaponSkin_DeepSeaGothic_Hatchet",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_DeepSeaGothic_Hatchet_MasterName",
+        "Description": "@Skin_DeepSeaGothic_Hatchet_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_ThrowingAxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_ThrowingAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_ThrowingAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_ThrowingAxe.png",
+        "TypeDescription": "@reward_type_Weaponskin_Hatchet"
+    },
+    {
+        "UniqueTagID": "WeaponSkin_DeepSeaGothic_LifeStaff",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_DeepSeaGothic_LifeStaff_MasterName",
+        "Description": "@Skin_DeepSeaGothic_LifeStaff_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_LifeStaff.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_LifeStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_LifeStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_LifeStaff.png",
+        "TypeDescription": "@reward_type_Weaponskin_LifeStaff"
+    },
+    {
+        "UniqueTagID": "WeaponSkin_DeepSeaGothic_Bow",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_DeepSeaGothic_Bow_MasterName",
+        "Description": "@Skin_DeepSeaGothic_Bow_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_Bow.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_Bow.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_Bow.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_Bow.png",
+        "TypeDescription": "@reward_type_Weaponskin_Bow"
+    },
+    {
+        "UniqueTagID": "WeaponSkin_DeepSeaGothic_Greatsword",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_DeepSeaGothic_Greatsword_MasterName",
+        "Description": "@Skin_DeepSeaGothic_Greatsword_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_Greatsword.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_Greatsword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_Greatsword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_Greatsword.png",
+        "TypeDescription": "@reward_type_Weaponskin_Greatsword"
+    },
+    {
+        "UniqueTagID": "WeaponSkin_DeepSeaGothic_Musket",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_DeepSeaGothic_Musket_MasterName",
+        "Description": "@Skin_DeepSeaGothic_Musket_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_Musket.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_Musket.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_Musket.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_Musket.png",
+        "TypeDescription": "@reward_type_Weaponskin_Musket"
+    },
+    {
+        "UniqueTagID": "Apparel_DeepSea_GothSkeleton",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Jul2023_DSGothSkeleton_MasterName",
+        "Description": "@Skin_Chest_Jul2023_DSGothSkeleton_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Portrait_DeepSeaCreatures_Skeleton.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Rectangle_DeepSeaCreatures_Skeleton.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Square_DeepSeaCreatures_Skeleton.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Thumbnail_DeepSeaCreatures_Skeleton.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_DeepSea_GothCrab",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Jul2023_DSGothCrab_MasterName",
+        "Description": "@Skin_Chest_Jul2023_DSGothCrab_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Portrait_DeepSeaCreatures_Crab.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Rectangle_DeepSeaCreatures_Crab.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Square_DeepSeaCreatures_Crab.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Thumbnail_DeepSeaCreatures_Crab.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_DeepSea_GothConch",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Jul2023_DSGothConch_MasterName",
+        "Description": "@Skin_Chest_Jul2023_DSGothConch_Description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Portrait_DeepSeaCreatures_Conch.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Rectangle_DeepSeaCreatures_Conch.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Square_DeepSeaCreatures_Conch.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Thumbnail_DeepSeaCreatures_Conch.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Emote_Alas",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_Alas_name",
+        "Description": "@ui_emote_Alas_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Alas.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Alas.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Alas.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Alas.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_BlowBubbles",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_Emote_BlowBubbles_name",
+        "Description": "@ui_Emote_BlowBubbles_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_BlowBubbles.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_BlowBubbles.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_BlowBubbles.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_BlowBubbles.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_Viking_Walk",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_Emote_Walk_Viking_name",
+        "Description": "@ui_Emote_Walk_Viking_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_VikingWalk.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_VikingWalk.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_VikingWalk.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_VikingWalk.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_DeepSea_Apparel",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_DeepSeaCreatures_Apparel_name",
+        "Description": "@Bundle_PR_DeepSeaCreatures_Apparel_description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_Armor_DeepSeaCreatures.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_Armor_DeepSeaCreatures.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_Armor_DeepSeaCreatures.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_Armor_DeepSeaCreatures.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_DeepSea_Weapon",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_DeepSeaGothic_Weapon_name",
+        "Description": "@Bundle_PR_DeepSeaGothic_Weapon_description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_Weapon_DeepSeaGothic.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_Weapon_DeepSeaGothic.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_Weapon_DeepSeaGothic.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_DeepSeaGothic.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
         "UniqueTagID": "Token_Transmog_X2",
         "IsEnabled": 1,
         "DisplayName": "@Token_Transmog_X5_name",
         "Description": "@Token_Transmog_X5_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens_Pouch.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens_Pouch.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens_Pouch.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens_Pouch.png",
-        "TypeDescription": "@reward_type_token"
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens.png",
+        "TypeDescription": "@reward_type_TokenPack"
     }
 ]

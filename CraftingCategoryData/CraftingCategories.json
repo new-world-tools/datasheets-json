@@ -12,12 +12,6 @@
         "Description": "@ArtisanCrafting_GroupDesc"
     },
     {
-        "CategoryID": "Specialty",
-        "ImagePath": "Icons/Items/Drawing/placeholder",
-        "DisplayText": "@Specialty_GroupName",
-        "Description": ""
-    },
-    {
         "CategoryID": "Apparel",
         "ImagePath": "Icons/Crafting/icon_crafting_category_apparel",
         "DisplayText": "@CategoryData_Apparel",

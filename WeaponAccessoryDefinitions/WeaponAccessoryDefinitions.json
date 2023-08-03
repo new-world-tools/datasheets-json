@@ -6414,5 +6414,21 @@
         "MaterialOverride4": "",
         "EquipType": "Gauntlet",
         "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
+        "#": 25266,
+        "WeaponID": "2hVoidGauntletDeepSeaGothicT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDeepSeaCreatures/wep_mag_gauntcore_1h_voidgauntletDeepSeaCreatures.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDeepSeaCreatures/wep_mag_gauntcore_1h_voidgauntletDeepSeaCreatures.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletDeepSeaCreatures/wep_mag_gaunt_1h_voidgauntletDeepSeaCreatures_matGroup.mtl",
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
     }
 ]

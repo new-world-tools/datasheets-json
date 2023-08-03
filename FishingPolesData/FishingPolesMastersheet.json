@@ -208,5 +208,15 @@
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
         "LineTensionRecoverPerSecond": 33.5
+    },
+    {
+        "Id": "Artisan_FishingPoleT5",
+        "CastDistanceRange": "5-20",
+        "FishRarityRollModifier": 1.25,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "FishReelTimeSeconds": 8,
+        "LineTensionGainPerSecond": 12.5,
+        "LineTensionRecoverPerSecond": 47
     }
 ]

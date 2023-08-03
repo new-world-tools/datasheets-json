@@ -26359,7 +26359,7 @@
         "EffectOnlyOnDamage": "",
         "SurfaceImpactEffect": "Bullet",
         "DeflectDamageID": "",
-        "CanCrit": true,
+        "CanCrit": false,
         "Unblockable": null,
         "AttackDealsNoDurability": true,
         "NoHeadshot": true,
