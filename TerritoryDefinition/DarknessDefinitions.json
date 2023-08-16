@@ -590,5 +590,21 @@
         "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8045,
+        "NameLocalizationKey": "@fotb_rafflebones_portal",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/map/Icon/POIs/icon_fotb_rafflebones_portal.png",
+        "CompassIcon": "LyShineUI/Images/map/Icon/POIs/icon_fotb_rafflebones_portal.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/maptooltip_territory_default.png",
+        "GroupSize": 0,
+        "POITag": "FortunesOfTheBold",
+        "RequiredItemId": "",
+        "RecommendedLevel": 60,
+        "PulseColor": "215 185 75",
+        "AudioGroup": "",
+        "AudioState": "",
+        "AudioBank": ""
     }
 ]

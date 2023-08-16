@@ -3537,7 +3537,7 @@
         "HitZone": 0.222222,
         "PerfectZone": 0.083333,
         "DanceTimeline": "Performance_Dance",
-        "CompletionGameEvent": "MusicReward_Amazing_Shredly",
+        "CompletionGameEvent": "SongCompletedEasy",
         "TippingDurationMs": null,
         "HighestRankAchievementId": "MP_Perfect_YAAAHHHHEasy"
     },
@@ -3560,7 +3560,7 @@
         "HitZone": 0.222222,
         "PerfectZone": 0.055556,
         "DanceTimeline": "Performance_Dance",
-        "CompletionGameEvent": "MusicReward_Amazing_Shredly",
+        "CompletionGameEvent": "SongCompletedMedium",
         "TippingDurationMs": null,
         "HighestRankAchievementId": "MP_Perfect_YAAAHHHHMedium"
     },
@@ -3583,7 +3583,7 @@
         "HitZone": 0.222222,
         "PerfectZone": 0.041667,
         "DanceTimeline": "Performance_Dance",
-        "CompletionGameEvent": "MusicReward_Amazing_Shredly",
+        "CompletionGameEvent": "SongCompletedHard",
         "TippingDurationMs": null,
         "HighestRankAchievementId": "MP_Perfect_YAAAHHHHHard"
     }

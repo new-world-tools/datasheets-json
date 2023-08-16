@@ -1030,17 +1030,5 @@
         "RequiredLevel": 160,
         "TimeToNibbleSecondsRange": "3-6",
         "TimeToBiteSecondsRange": "1-1.5"
-    },
-    {
-        "Id": "Hotspot_SummerMedley_1",
-        "DisplayName": "@hotspot_summermedley_1",
-        "FishRarityRollModifier": 0,
-        "FishSizeRollModifier": 0,
-        "SummerFishRarityRollModifier": 0,
-        "LootTableId": "FishingSummerMedleyHotspot",
-        "LootTag": "Broad",
-        "RequiredLevel": 0,
-        "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
     }
 ]

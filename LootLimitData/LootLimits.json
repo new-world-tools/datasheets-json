@@ -1675,5 +1675,18 @@
         "LootTagValuePerCount": 0,
         "LootTagValueOverrideAtLimit": 1,
         "LimitNotificationLocTag": ""
+    },
+    {
+        "LootLimitID": "RafflebonesPortal",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "@ui_reached_max_daily_fotb_rafflebones"
     }
 ]
