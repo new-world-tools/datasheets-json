@@ -1586,6 +1586,19 @@
         "LimitNotificationLocTag": ""
     },
     {
+        "LootLimitID": "TransmogTokenPurse",
+        "IsReplicated": true,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 604800,
+        "MaxLimitMult": 604800,
+        "LimitExpireSeconds": 604800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": ""
+    },
+    {
         "LootLimitID": "Trial_Sandworm_DailyBox",
         "IsReplicated": true,
         "MinLimitSeconds": 0,
