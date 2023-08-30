@@ -88413,6 +88413,19 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Season_02_Event_Sulfur_Elemental_Soldier",
+        "DisplayName": "@VC_Season_02_Event_Sulfur_Elemental_Soldier",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Season_02_Event_Sulfur_Elemental_Soldier\"\u003eSeason_02_Event_Sulfur_Elemental_Soldier\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Sulfur_Elemental_Soldier_16BS10",
         "DisplayName": "@VC_Sulfur_Elemental_Soldier_16BS10",
         "Icon": "",
@@ -88426,12 +88439,38 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Season_02_Event_Sulfur_Elemental_Shaman",
+        "DisplayName": "@VC_Season_02_Event_Sulfur_Elemental_Shaman",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Season_02_Event_Sulfur_Elemental_Shaman\"\u003eSeason_02_Event_Sulfur_Elemental_Shaman\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Sulfur_Elemental_Shaman_16BS10",
         "DisplayName": "@VC_Sulfur_Elemental_Shaman_16BS10",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Sulfur_Elemental_Shaman_16BS10\"\u003eSulfur_Elemental_Shaman_16BS10\u003c/string\u003e",
         "GroupVitalsCategoryId": "BASE",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Season_02_Event_Sulfur_Elemental_Heavy",
+        "DisplayName": "@VC_Season_02_Event_Sulfur_Elemental_Heavy",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Season_02_Event_Sulfur_Elemental_Heavy\"\u003eSeason_02_Event_Sulfur_Elemental_Heavy\u003c/string\u003e",
+        "GroupVitalsCategoryId": "",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,

@@ -4884,6 +4884,17 @@
         "TypeDescription": "@reward_type_emote"
     },
     {
+        "UniqueTagID": "Emote_HeelClick",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_emote_HeelClick_name",
+        "Description": "@ui_emote_HeelClick_description",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_HeelClick.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_HeelClick.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_HeelClick.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_HeelClick.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
         "UniqueTagID": "Emote_FootballJuggle",
         "IsEnabled": 1,
         "DisplayName": "@ui_emote_FootballJuggle_name",
@@ -6939,5 +6950,148 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens.png",
         "TypeDescription": "@reward_type_TokenPack"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_Balance_HeraldOfOrder",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_Balance_HeraldOfOrder_name",
+        "Description": "@Bundle_PR_Balance_HeraldOfOrder_description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_HeraldofOrder.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_HeraldofOrder.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_HeraldofOrder.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_HeraldofOrder.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_Balance_KeeperOfEquilibrium",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_Balance_KeeperOfEquilibrium_name",
+        "Description": "@Bundle_PR_Balance_KeeperOfEquilibrium_description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_KeeperofEquilibrium.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_KeeperofEquilibrium.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_KeeperofEquilibrium.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_KeeperofEquilibrium.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_Balance_DefenderOfHarmony",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_Balance_DefenderOfHarmony_name",
+        "Description": "@Bundle_PR_Balance_DefenderOfHarmony_description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_DefenderofHarmony.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_DefenderofHarmony.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_DefenderofHarmony.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_DefenderofHarmony.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Bundle_PR_JesterSmile",
+        "IsEnabled": 1,
+        "DisplayName": "@Bundle_PR_JesterSmile_name",
+        "Description": "@Bundle_PR_JesterSmile_description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_UnvaultPromo.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_UnvaultPromo.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_UnvaultPromo.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_UnvaultPromo.png",
+        "TypeDescription": "@ui_bundle"
+    },
+    {
+        "UniqueTagID": "Apparel_Balance_HeraldOfOrder",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Balance_HeraldOfOrder_name",
+        "Description": "@Skin_Head_Aug2023_BalanceMedium_Description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Portrait_Balance_Medium.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Rectangle_Balance_Medium.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Square_Balance_Medium.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Thumbnail_Balance_Medium.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Balance_KeeperOfEquilibrium",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Balance_KeeperOfEquilibrium_name",
+        "Description": "@Skin_Head_Aug2023_BalanceLight_Description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Portrait_Balance_Light.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Rectangle_Balance_Light.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Square_Balance_Light.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Thumbnail_Balance_Light.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Apparel_Balance_DefenderOfHarmony",
+        "IsEnabled": 1,
+        "DisplayName": "@Apparel_Balance_DefenderOfHarmony_name",
+        "Description": "@Skin_Head_Aug2023_BalanceHeavy_Description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Portrait_Balance_Heavy.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Rectangle_Balance_Heavy.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Square_Balance_Heavy.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Thumbnail_Balance_Heavy.png",
+        "TypeDescription": "@reward_type_Apparelskin"
+    },
+    {
+        "UniqueTagID": "Weapon_Balance_Firestaff",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Aug2023_Balance_FireStaff_MasterName",
+        "Description": "@Skin_Aug2023_Balance_FireStaff_Description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/weapon_Portrait_Balance_FireStaff.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/weapon_Rectangle_Balance_FireStaff.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/weapon_Square_Balance_FireStaff.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/weapon_Thumbnail_Balance_FireStaff.png",
+        "TypeDescription": "@reward_type_Weaponskin_FireStaff"
+    },
+    {
+        "UniqueTagID": "Weapon_Balance_Longsword",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Aug2023_Balance_Longsword_MasterName",
+        "Description": "@Skin_Aug2023_Balance_Longsword_Description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/weapon_Portrait_Balance_LongSword.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/weapon_Rectangle_Balance_LongSword.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/weapon_Square_Balance_LongSword.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/weapon_Thumbnail_Balance_LongSword.png",
+        "TypeDescription": "@reward_type_Weaponskin_Sword"
+    },
+    {
+        "UniqueTagID": "Weapon_Balance_Shield",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Aug2023_Balance_ShieldK_MasterName",
+        "Description": "@Skin_Aug2023_Balance_ShieldK_Description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/weapon_Portrait_Balance_KiteShield.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/weapon_Rectangle_Balance_KiteShield.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/weapon_Square_Balance_KiteShield.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/weapon_Thumbnail_Balance_KiteShield.png",
+        "TypeDescription": "@reward_type_Weaponskin_Shield"
+    },
+    {
+        "UniqueTagID": "Weapon_Balance_Warhammer",
+        "IsEnabled": 1,
+        "DisplayName": "@Skin_Aug2023_Balance_Warhammer_MasterName",
+        "Description": "@Skin_Aug2023_Balance_Warhammer_Description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/weapon_Portrait_Balance_Warhammer.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/weapon_Rectangle_Balance_Warhammer.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/weapon_Square_Balance_Warhammer.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/weapon_Thumbnail_Balance_Warhammer.png",
+        "TypeDescription": "@reward_type_Weaponskin_Warhammer"
+    },
+    {
+        "UniqueTagID": "Emote_MashedPotato",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_Emote_MashedPotatoDance_name",
+        "Description": "@ui_Emote_MashedPotatoDance_description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/emote_Portrait_MashedPotatoDance.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/emote_Rectangle_MashedPotatoDance.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/emote_Square_MashedPotatoDance.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/emote_Thumbnail_MashedPotatoDance.png",
+        "TypeDescription": "@reward_type_emote"
+    },
+    {
+        "UniqueTagID": "Emote_Spyglass",
+        "IsEnabled": 1,
+        "DisplayName": "@ui_Emote_Spyglass_name",
+        "Description": "@ui_Emote_Spyglass_description",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/emote_Portrait_Spyglass.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/emote_Rectangle_Spyglass.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/emote_Square_Spyglass.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/emote_Thumbnail_Spyglass.png",
+        "TypeDescription": "@reward_type_emote"
     }
 ]
